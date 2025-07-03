@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'a'?",
+    "options": [
+      "इ",
+      "ई",
+      "अ",
+      "आ"
+    ],
+    "answer": "अ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'aa'?",
+    "options": [
+      "आ",
+      "इ",
+      "ई",
+      "उ"
+    ],
+    "answer": "आ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'i'?",
+    "options": [
+      "ऊ",
+      "उ",
+      "इ",
+      "ई"
+    ],
+    "answer": "इ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'ee'?",
+    "options": [
+      "उ",
+      "ऊ",
+      "ई",
+      "ए"
+    ],
+    "answer": "ई"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'u'?",
+    "options": [
+      "उ",
+      "ऐ",
+      "ऊ",
+      "ए"
+    ],
+    "answer": "उ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'oo'?",
+    "options": [
+      "ओ",
+      "ऊ",
+      "ए",
+      "ऐ"
+    ],
+    "answer": "ऊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'e'?",
+    "options": [
+      "ए",
+      "ऐ",
+      "ओ",
+      "औ"
+    ],
+    "answer": "ए"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'ai'?",
+    "options": [
+      "औ",
+      "ऐ",
+      "ओ",
+      "अ"
+    ],
+    "answer": "ऐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'o'?",
+    "options": [
+      "ओ",
+      "औ",
+      "आ",
+      "अ"
+    ],
+    "answer": "ओ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Konkani vowel for 'au'?",
+    "options": [
+      "औ",
+      "आ",
+      "अ",
+      "इ"
+    ],
+    "answer": "औ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'ka'?",
+    "options": [
+      "ग",
+      "क",
+      "घ",
+      "ख"
+    ],
+    "answer": "क"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'kha'?",
+    "options": [
+      "च",
+      "घ",
+      "ख",
+      "ग"
+    ],
+    "answer": "ख"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'ga'?",
+    "options": [
+      "ग",
+      "छ",
+      "च",
+      "घ"
+    ],
+    "answer": "ग"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'gha'?",
+    "options": [
+      "छ",
+      "ज",
+      "घ",
+      "च"
+    ],
+    "answer": "घ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'cha'?",
+    "options": [
+      "ज",
+      "छ",
+      "च",
+      "झ"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'chha'?",
+    "options": [
+      "ट",
+      "झ",
+      "ज",
+      "छ"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'ja'?",
+    "options": [
+      "ट",
+      "झ",
+      "ठ",
+      "ज"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'jha'?",
+    "options": [
+      "क",
+      "ट",
+      "झ",
+      "ठ"
+    ],
+    "answer": "झ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'ta'?",
+    "options": [
+      "ठ",
+      "ट",
+      "ख",
+      "क"
+    ],
+    "answer": "ट"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Konkani consonant for 'tha'?",
+    "options": [
+      "ठ",
+      "ख",
+      "ग",
+      "क"
+    ],
+    "answer": "ठ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'क' + 'ा'?",
+    "options": [
+      "का",
+      "पु",
+      "मि",
+      "ते"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'प' + 'ु'?",
+    "options": [
+      "ते",
+      "पु",
+      "सू",
+      "मि"
+    ],
+    "answer": "पु"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'म' + 'ि'?",
+    "options": [
+      "सू",
+      "नो",
+      "मि",
+      "ते"
+    ],
+    "answer": "मि"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'त' + 'े'?",
+    "options": [
+      "नो",
+      "रा",
+      "ते",
+      "सू"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'स' + 'ू'?",
+    "options": [
+      "ले",
+      "रा",
+      "नो",
+      "सू"
+    ],
+    "answer": "सू"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'न' + 'ो'?",
+    "options": [
+      "नो",
+      "दि",
+      "ले",
+      "रा"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'र' + 'ा'?",
+    "options": [
+      "ले",
+      "रा",
+      "दि",
+      "वु"
+    ],
+    "answer": "रा"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ल' + 'े'?",
+    "options": [
+      "वु",
+      "दि",
+      "का",
+      "ले"
+    ],
+    "answer": "ले"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'द' + 'ि'?",
+    "options": [
+      "वु",
+      "दि",
+      "पु",
+      "का"
+    ],
+    "answer": "दि"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'व' + 'ु'?",
+    "options": [
+      "पु",
+      "वु",
+      "का",
+      "मि"
+    ],
+    "answer": "वु"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पुस्तक'? (in Konkani)",
+    "options": [
+      "Pen",
+      "School",
+      "Book",
+      "Hand"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'कलम'? (in Konkani)",
+    "options": [
+      "Hand",
+      "School",
+      "Pen",
+      "Fruit"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'शाळा'? (in Konkani)",
+    "options": [
+      "Flowers",
+      "School",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'हात'? (in Konkani)",
+    "options": [
+      "Hand",
+      "Fruit",
+      "Tree",
+      "Flowers"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फळ'? (in Konkani)",
+    "options": [
+      "Flowers",
+      "Slate",
+      "Tree",
+      "Fruit"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फूल'? (in Konkani)",
+    "options": [
+      "Slate",
+      "Speak",
+      "Flowers",
+      "Tree"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'झाड'? (in Konkani)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Speak",
+      "Speech"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फळी'? (in Konkani)",
+    "options": [
+      "Book",
+      "Speech",
+      "Speak",
+      "Slate"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'उलोवप'? (in Konkani)",
+    "options": [
+      "Book",
+      "Pen",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'भास'? (in Konkani)",
+    "options": [
+      "School",
+      "Speech",
+      "Pen",
+      "Book"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'book'?",
+    "options": [
+      "पुस्तक",
+      "बैग",
+      "शाळा",
+      "कलम"
+    ],
+    "answer": "पुस्तक"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'pen'?",
+    "options": [
+      "कलम",
+      "खुर्ची",
+      "शाळा",
+      "बैग"
+    ],
+    "answer": "कलम"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'school'?",
+    "options": [
+      "बैग",
+      "शाळा",
+      "मेज",
+      "खुर्ची"
+    ],
+    "answer": "शाळा"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'bag'?",
+    "options": [
+      "फळी",
+      "बैग",
+      "मेज",
+      "खुर्ची"
+    ],
+    "answer": "बैग"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'chair'?",
+    "options": [
+      "मेज",
+      "फळी",
+      "खुर्ची",
+      "खिडकी"
+    ],
+    "answer": "खुर्ची"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'table'?",
+    "options": [
+      "मेज",
+      "फळी",
+      "खिडकी",
+      "दार"
+    ],
+    "answer": "मेज"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'slate'?",
+    "options": [
+      "खिडकी",
+      "दार",
+      "फळी",
+      "पंखो"
+    ],
+    "answer": "फळी"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'window'?",
+    "options": [
+      "दार",
+      "पंखो",
+      "पुस्तक",
+      "खिडकी"
+    ],
+    "answer": "खिडकी"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'door'?",
+    "options": [
+      "कलम",
+      "पंखो",
+      "दार",
+      "पुस्तक"
+    ],
+    "answer": "दार"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Konkani word for 'fan'?",
+    "options": [
+      "शाळा",
+      "कलम",
+      "पंखो",
+      "पुस्तक"
+    ],
+    "answer": "पंखो"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'rice'?",
+    "options": [
+      "भाजी",
+      "दूद",
+      "भात",
+      "फळ"
+    ],
+    "answer": "भात"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'milk'?",
+    "options": [
+      "फळ",
+      "भाजी",
+      "उदक",
+      "दूद"
+    ],
+    "answer": "दूद"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'fruit'?",
+    "options": [
+      "फळ",
+      "दही",
+      "भाजी",
+      "उदक"
+    ],
+    "answer": "फळ"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'vegetable'?",
+    "options": [
+      "उदक",
+      "दही",
+      "भाजी",
+      "पाव"
+    ],
+    "answer": "भाजी"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'water'?",
+    "options": [
+      "उदक",
+      "अंडे",
+      "पाव",
+      "दही"
+    ],
+    "answer": "उदक"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'curd'?",
+    "options": [
+      "मासो",
+      "पाव",
+      "अंडे",
+      "दही"
+    ],
+    "answer": "दही"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'bread'?",
+    "options": [
+      "पाव",
+      "गोड",
+      "मासो",
+      "अंडे"
+    ],
+    "answer": "पाव"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'egg'?",
+    "options": [
+      "गोड",
+      "अंडे",
+      "भात",
+      "मासो"
+    ],
+    "answer": "अंडे"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'fish'?",
+    "options": [
+      "मासो",
+      "भात",
+      "दूद",
+      "गोड"
+    ],
+    "answer": "मासो"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'sweet'?",
+    "options": [
+      "फळ",
+      "भात",
+      "दूद",
+      "गोड"
+    ],
+    "answer": "गोड"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'mother'?",
+    "options": [
+      "भयण",
+      "भाव",
+      "आवय",
+      "बापू"
+    ],
+    "answer": "आवय"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'father'?",
+    "options": [
+      "बापू",
+      "भाव",
+      "आजी",
+      "भयण"
+    ],
+    "answer": "बापू"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'sister'?",
+    "options": [
+      "आजो",
+      "भाव",
+      "भयण",
+      "आजी"
+    ],
+    "answer": "भयण"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'brother'?",
+    "options": [
+      "आजो",
+      "आजी",
+      "भाव",
+      "काका"
+    ],
+    "answer": "भाव"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'grandmother'?",
+    "options": [
+      "काका",
+      "आजो",
+      "आजी",
+      "काकी"
+    ],
+    "answer": "आजी"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'grandfather'?",
+    "options": [
+      "काका",
+      "पूत",
+      "काकी",
+      "आजो"
+    ],
+    "answer": "आजो"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'uncle'?",
+    "options": [
+      "धूव",
+      "पूत",
+      "काका",
+      "काकी"
+    ],
+    "answer": "काका"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'aunt'?",
+    "options": [
+      "आवय",
+      "पूत",
+      "काकी",
+      "धूव"
+    ],
+    "answer": "काकी"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'son'?",
+    "options": [
+      "पूत",
+      "धूव",
+      "बापू",
+      "आवय"
+    ],
+    "answer": "पूत"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Konkani word for 'daughter'?",
+    "options": [
+      "बापू",
+      "आवय",
+      "भयण",
+      "धूव"
+    ],
+    "answer": "धूव"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'tree'?",
+    "options": [
+      "फूल",
+      "नदी",
+      "डोंगर",
+      "झाड"
+    ],
+    "answer": "झाड"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'flower'?",
+    "options": [
+      "नदी",
+      "पान",
+      "फूल",
+      "डोंगर"
+    ],
+    "answer": "फूल"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'river'?",
+    "options": [
+      "पान",
+      "डोंगर",
+      "नदी",
+      "आकाश"
+    ],
+    "answer": "नदी"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'mountain'?",
+    "options": [
+      "पावस",
+      "आकाश",
+      "पान",
+      "डोंगर"
+    ],
+    "answer": "डोंगर"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'leaf'?",
+    "options": [
+      "पावस",
+      "पान",
+      "आकाश",
+      "सूर्य"
+    ],
+    "answer": "पान"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'sky'?",
+    "options": [
+      "पावस",
+      "सूर्य",
+      "आकाश",
+      "चांद"
+    ],
+    "answer": "आकाश"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'rain'?",
+    "options": [
+      "पावस",
+      "सूर्य",
+      "चांद",
+      "तारो"
+    ],
+    "answer": "पावस"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'sun'?",
+    "options": [
+      "तारो",
+      "चांद",
+      "सूर्य",
+      "झाड"
+    ],
+    "answer": "सूर्य"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'moon'?",
+    "options": [
+      "चांद",
+      "झाड",
+      "फूल",
+      "तारो"
+    ],
+    "answer": "चांद"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Konkani word for 'star'?",
+    "options": [
+      "फूल",
+      "तारो",
+      "झाड",
+      "नदी"
+    ],
+    "answer": "तारो"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Konkani?",
+    "options": [
+      "नमस्कार",
+      "सकाळची नमस्कार",
+      "रातची नमस्कार",
+      "येवकार"
+    ],
+    "answer": "नमस्कार"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Konkani?",
+    "options": [
+      "तुमी कसो आसात?",
+      "सकाळची नमस्कार",
+      "रातची नमस्कार",
+      "येवकार"
+    ],
+    "answer": "सकाळची नमस्कार"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Konkani?",
+    "options": [
+      "येवकार",
+      "तुमी कसो आसात?",
+      "रातची नमस्कार",
+      "बरो आसा"
+    ],
+    "answer": "रातची नमस्कार"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Konkani?",
+    "options": [
+      "मागीर भेटूंया",
+      "तुमी कसो आसात?",
+      "येवकार",
+      "बरो आसा"
+    ],
+    "answer": "येवकार"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Konkani?",
+    "options": [
+      "बरो आसा",
+      "निमाण",
+      "तुमी कसो आसात?",
+      "मागीर भेटूंया"
+    ],
+    "answer": "तुमी कसो आसात?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Konkani?",
+    "options": [
+      "बरो आसा",
+      "मागीर भेटूंया",
+      "जतन घेयात",
+      "निमाण"
+    ],
+    "answer": "बरो आसा"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Konkani?",
+    "options": [
+      "निमाण",
+      "मागीर भेटूंया",
+      "जतन घेयात",
+      "देव बरें करूं"
+    ],
+    "answer": "मागीर भेटूंया"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Konkani?",
+    "options": [
+      "देव बरें करूं",
+      "नमस्कार",
+      "जतन घेयात",
+      "निमाण"
+    ],
+    "answer": "निमाण"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Konkani?",
+    "options": [
+      "सकाळची नमस्कार",
+      "जतन घेयात",
+      "देव बरें करूं",
+      "नमस्कार"
+    ],
+    "answer": "जतन घेयात"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Konkani?",
+    "options": [
+      "नमस्कार",
+      "सकाळची नमस्कार",
+      "देव बरें करूं",
+      "रातची नमस्कार"
+    ],
+    "answer": "देव बरें करूं"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Konkani?",
+    "options": [
+      "हांव ... थावन आसा",
+      "म्हजें नांव ...",
+      "हांव एक शिक्षक",
+      "हांव एक विद्यार्थी"
+    ],
+    "answer": "म्हजें नांव ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Konkani?",
+    "options": [
+      "हांव एक शिक्षक",
+      "हांव एक विद्यार्थी",
+      "तुमकां भेटून बरें दिसलें",
+      "हांव ... थावन आसा"
+    ],
+    "answer": "हांव ... थावन आसा"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Konkani?",
+    "options": [
+      "हांव एक शिक्षक",
+      "हांव एक विद्यार्थी",
+      "हांव ... त राबता",
+      "तुमकां भेटून बरें दिसलें"
+    ],
+    "answer": "हांव एक विद्यार्थी"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Konkani?",
+    "options": [
+      "तुमकां भेटून बरें दिसलें",
+      "हांव कोंकणी शिकता",
+      "हांव ... त राबता",
+      "हांव एक शिक्षक"
+    ],
+    "answer": "हांव एक शिक्षक"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Konkani?",
+    "options": [
+      "हांव ... त राबता",
+      "हांव कोंकणी शिकता",
+      "तुमकां भेटून बरें दिसलें",
+      "तुमचें नांव कितें?"
+    ],
+    "answer": "तुमकां भेटून बरें दिसलें"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Konkani?",
+    "options": [
+      "तुमी कठल्यान आसात?",
+      "तुमचें नांव कितें?",
+      "हांव ... त राबता",
+      "हांव कोंकणी शिकता"
+    ],
+    "answer": "हांव ... त राबता"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Konkani' in Konkani?",
+    "options": [
+      "तुमचें वर्स कितें?",
+      "तुमी कठल्यान आसात?",
+      "हांव कोंकणी शिकता",
+      "तुमचें नांव कितें?"
+    ],
+    "answer": "हांव कोंकणी शिकता"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Konkani?",
+    "options": [
+      "म्हजें नांव ...",
+      "तुमी कठल्यान आसात?",
+      "तुमचें वर्स कितें?",
+      "तुमचें नांव कितें?"
+    ],
+    "answer": "तुमचें नांव कितें?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Konkani?",
+    "options": [
+      "तुमी कठल्यान आसात?",
+      "म्हजें नांव ...",
+      "तुमचें वर्स कितें?",
+      "हांव ... थावन आसा"
+    ],
+    "answer": "तुमी कठल्यान आसात?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Konkani?",
+    "options": [
+      "हांव ... थावन आसा",
+      "म्हजें नांव ...",
+      "तुमचें वर्स कितें?",
+      "हांव एक विद्यार्थी"
+    ],
+    "answer": "तुमचें वर्स कितें?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Konkani?",
+    "options": [
+      "हय",
+      "ना",
+      "नक्की",
+      "जावंक शकता"
+    ],
+    "answer": "हय"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Konkani?",
+    "options": [
+      "ना",
+      "नक्की",
+      "कदीच ना",
+      "जावंक शकता"
+    ],
+    "answer": "ना"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Konkani?",
+    "options": [
+      "कदीच ना",
+      "नक्की",
+      "जावंक शकता",
+      "कदी कदी"
+    ],
+    "answer": "जावंक शकता"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Konkani?",
+    "options": [
+      "नक्की",
+      "कदी कदी",
+      "कदीच ना",
+      "सदांच"
+    ],
+    "answer": "नक्की"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Konkani?",
+    "options": [
+      "एकदम ना",
+      "सदांच",
+      "कदी कदी",
+      "कदीच ना"
+    ],
+    "answer": "कदीच ना"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Konkani?",
+    "options": [
+      "एकदम ना",
+      "कदी कदी",
+      "खात्री",
+      "सदांच"
+    ],
+    "answer": "कदी कदी"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Konkani?",
+    "options": [
+      "म्हाका खबर ना",
+      "खात्री",
+      "सदांच",
+      "एकदम ना"
+    ],
+    "answer": "सदांच"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Konkani?",
+    "options": [
+      "खात्री",
+      "हय",
+      "एकदम ना",
+      "म्हाका खबर ना"
+    ],
+    "answer": "एकदम ना"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Konkani?",
+    "options": [
+      "हय",
+      "म्हाका खबर ना",
+      "खात्री",
+      "ना"
+    ],
+    "answer": "खात्री"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Konkani?",
+    "options": [
+      "म्हाका खबर ना",
+      "हय",
+      "जावंक शकता",
+      "ना"
+    ],
+    "answer": "म्हाका खबर ना"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Konkani?",
+    "options": [
+      "माफ करात",
+      "देव बरें करूं",
+      "माफ करात",
+      "उपकार करून"
+    ],
+    "answer": "देव बरें करूं"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Konkani?",
+    "options": [
+      "माफ करात",
+      "माफ करात",
+      "येवकार",
+      "उपकार करून"
+    ],
+    "answer": "माफ करात"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Konkani?",
+    "options": [
+      "कसलोच त्रास ना",
+      "उपकार करून",
+      "माफ करात",
+      "येवकार"
+    ],
+    "answer": "उपकार करून"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Konkani?",
+    "options": [
+      "माफ करात",
+      "अभिनंदन",
+      "कसलोच त्रास ना",
+      "येवकार"
+    ],
+    "answer": "माफ करात"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Konkani?",
+    "options": [
+      "येवकार",
+      "देवान आशीर्वाद दियात",
+      "अभिनंदन",
+      "कसलोच त्रास ना"
+    ],
+    "answer": "येवकार"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Konkani?",
+    "options": [
+      "कसलोच त्रास ना",
+      "शुभेच्छा",
+      "अभिनंदन",
+      "देवान आशीर्वाद दियात"
+    ],
+    "answer": "कसलोच त्रास ना"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Konkani?",
+    "options": [
+      "देवान आशीर्वाद दियात",
+      "जल्मदिसाच्यो शुभेच्छा",
+      "अभिनंदन",
+      "शुभेच्छा"
+    ],
+    "answer": "अभिनंदन"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Konkani?",
+    "options": [
+      "शुभेच्छा",
+      "जल्मदिसाच्यो शुभेच्छा",
+      "देवान आशीर्वाद दियात",
+      "देव बरें करूं"
+    ],
+    "answer": "देवान आशीर्वाद दियात"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Konkani?",
+    "options": [
+      "माफ करात",
+      "शुभेच्छा",
+      "देव बरें करूं",
+      "जल्मदिसाच्यो शुभेच्छा"
+    ],
+    "answer": "शुभेच्छा"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Konkani",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Konkani?",
+    "options": [
+      "उपकार करून",
+      "देव बरें करूं",
+      "जल्मदिसाच्यो शुभेच्छा",
+      "माफ करात"
+    ],
+    "answer": "जल्मदिसाच्यो शुभेच्छा"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'ki'?",
+    "options": [
+      "को",
+      "कु",
+      "के",
+      "कि"
+    ],
+    "answer": "कि"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'ku'?",
+    "options": [
+      "कु",
+      "के",
+      "गि",
+      "को"
+    ],
+    "answer": "कु"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'ke'?",
+    "options": [
+      "के",
+      "को",
+      "गि",
+      "गु"
+    ],
+    "answer": "के"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'ko'?",
+    "options": [
+      "गु",
+      "को",
+      "गि",
+      "गे"
+    ],
+    "answer": "को"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'gi'?",
+    "options": [
+      "गु",
+      "गो",
+      "गि",
+      "गे"
+    ],
+    "answer": "गि"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'gu'?",
+    "options": [
+      "गे",
+      "गो",
+      "गु",
+      "चि"
+    ],
+    "answer": "गु"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'ge'?",
+    "options": [
+      "गे",
+      "चि",
+      "चु",
+      "गो"
+    ],
+    "answer": "गे"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'go'?",
+    "options": [
+      "गो",
+      "कि",
+      "चु",
+      "चि"
+    ],
+    "answer": "गो"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'chi'?",
+    "options": [
+      "चु",
+      "कि",
+      "कु",
+      "चि"
+    ],
+    "answer": "चि"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Konkani syllable for 'chu'?",
+    "options": [
+      "कु",
+      "कि",
+      "के",
+      "चु"
+    ],
+    "answer": "चु"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'ksha'?",
+    "options": [
+      "त्र",
+      "क्ष",
+      "ज्ञ",
+      "श्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'tra'?",
+    "options": [
+      "श्र",
+      "क्र",
+      "त्र",
+      "ज्ञ"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'jna'?",
+    "options": [
+      "प्र",
+      "ज्ञ",
+      "श्र",
+      "क्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'shra'?",
+    "options": [
+      "क्र",
+      "प्र",
+      "श्र",
+      "स्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'kra'?",
+    "options": [
+      "प्र",
+      "ग्र",
+      "क्र",
+      "स्र"
+    ],
+    "answer": "क्र"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'pra'?",
+    "options": [
+      "स्र",
+      "प्र",
+      "ग्र",
+      "द्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'sra'?",
+    "options": [
+      "स्र",
+      "न्त",
+      "ग्र",
+      "द्र"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'gra'?",
+    "options": [
+      "क्ष",
+      "द्र",
+      "ग्र",
+      "न्त"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'dra'?",
+    "options": [
+      "क्ष",
+      "त्र",
+      "द्र",
+      "न्त"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Konkani ligature for 'nta'?",
+    "options": [
+      "त्र",
+      "क्ष",
+      "न्त",
+      "ज्ञ"
+    ],
+    "answer": "न्त"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'sha'?",
+    "options": [
+      "स",
+      "ह",
+      "श",
+      "ल"
+    ],
+    "answer": "श"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'sa'?",
+    "options": [
+      "ह",
+      "र",
+      "ल",
+      "स"
+    ],
+    "answer": "स"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'ha'?",
+    "options": [
+      "र",
+      "ल",
+      "व",
+      "ह"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'la'?",
+    "options": [
+      "व",
+      "र",
+      "ल",
+      "य"
+    ],
+    "answer": "ल"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'ra'?",
+    "options": [
+      "र",
+      "फ",
+      "व",
+      "य"
+    ],
+    "answer": "र"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'va'?",
+    "options": [
+      "य",
+      "व",
+      "फ",
+      "ज"
+    ],
+    "answer": "व"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'ya'?",
+    "options": [
+      "फ",
+      "य",
+      "क्व",
+      "ज"
+    ],
+    "answer": "य"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'fa'?",
+    "options": [
+      "फ",
+      "क्व",
+      "श",
+      "ज"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'za'?",
+    "options": [
+      "स",
+      "क्व",
+      "ज",
+      "श"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Konkani letter for 'qwa'?",
+    "options": [
+      "स",
+      "श",
+      "ह",
+      "क्व"
+    ],
+    "answer": "क्व"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'क्षीर'?",
+    "options": [
+      "ज्ञ",
+      "त्र",
+      "क्ष",
+      "श्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'ज्ञान'?",
+    "options": [
+      "श्र",
+      "ग्र",
+      "ज्ञ",
+      "त्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'त्रिकोण'?",
+    "options": [
+      "श्र",
+      "ग्र",
+      "प्र",
+      "त्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'श्रद्धा'?",
+    "options": [
+      "श्र",
+      "ग्र",
+      "प्र",
+      "स्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'ग्रन्थ'?",
+    "options": [
+      "प्र",
+      "द्र",
+      "स्र",
+      "ग्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'प्रयत्न'?",
+    "options": [
+      "स्र",
+      "द्र",
+      "प्र",
+      "फ"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'स्रोत'?",
+    "options": [
+      "ह",
+      "द्र",
+      "फ",
+      "स्र"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'द्रव्य'?",
+    "options": [
+      "फ",
+      "द्र",
+      "ह",
+      "क्ष"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'फळ'?",
+    "options": [
+      "फ",
+      "क्ष",
+      "ह",
+      "ज्ञ"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Konkani letter is used in the word 'हरिद्वार'?",
+    "options": [
+      "क्ष",
+      "त्र",
+      "ज्ञ",
+      "ह"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Sunday'?",
+    "options": [
+      "आयतार",
+      "सोमार",
+      "मंगळार",
+      "बुधवार"
+    ],
+    "answer": "आयतार"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Monday'?",
+    "options": [
+      "गुरुवार",
+      "सोमार",
+      "मंगळार",
+      "बुधवार"
+    ],
+    "answer": "सोमार"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Tuesday'?",
+    "options": [
+      "शुक्रार",
+      "बुधवार",
+      "मंगळार",
+      "गुरुवार"
+    ],
+    "answer": "मंगळार"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Wednesday'?",
+    "options": [
+      "गुरुवार",
+      "शुक्रार",
+      "शेनवार",
+      "बुधवार"
+    ],
+    "answer": "बुधवार"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Thursday'?",
+    "options": [
+      "शुक्रार",
+      "आयज",
+      "गुरुवार",
+      "शेनवार"
+    ],
+    "answer": "गुरुवार"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Friday'?",
+    "options": [
+      "आयज",
+      "शुक्रार",
+      "फाल्यां",
+      "शेनवार"
+    ],
+    "answer": "शुक्रार"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Saturday'?",
+    "options": [
+      "आयज",
+      "शेनवार",
+      "काल",
+      "फाल्यां"
+    ],
+    "answer": "शेनवार"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Today'?",
+    "options": [
+      "फाल्यां",
+      "आयतार",
+      "आयज",
+      "काल"
+    ],
+    "answer": "आयज"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Tomorrow'?",
+    "options": [
+      "सोमार",
+      "आयतार",
+      "फाल्यां",
+      "काल"
+    ],
+    "answer": "फाल्यां"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Konkani word for 'Yesterday'?",
+    "options": [
+      "आयतार",
+      "काल",
+      "मंगळार",
+      "सोमार"
+    ],
+    "answer": "काल"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'red'?",
+    "options": [
+      "तांबडो",
+      "हळद",
+      "निळो",
+      "पाचवो"
+    ],
+    "answer": "तांबडो"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'blue'?",
+    "options": [
+      "पाचवो",
+      "हळद",
+      "निळो",
+      "काळो"
+    ],
+    "answer": "निळो"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'green'?",
+    "options": [
+      "पाचवो",
+      "हळद",
+      "धवो",
+      "काळो"
+    ],
+    "answer": "पाचवो"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'yellow'?",
+    "options": [
+      "काळो",
+      "हळद",
+      "नारंगी",
+      "धवो"
+    ],
+    "answer": "हळद"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'black'?",
+    "options": [
+      "नारंगी",
+      "गुलाबी",
+      "धवो",
+      "काळो"
+    ],
+    "answer": "काळो"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'white'?",
+    "options": [
+      "नारंगी",
+      "जांबळो",
+      "धवो",
+      "गुलाबी"
+    ],
+    "answer": "धवो"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'orange'?",
+    "options": [
+      "जांबळो",
+      "नारंगी",
+      "तपकिरी",
+      "गुलाबी"
+    ],
+    "answer": "नारंगी"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'pink'?",
+    "options": [
+      "तपकिरी",
+      "तांबडो",
+      "जांबळो",
+      "गुलाबी"
+    ],
+    "answer": "गुलाबी"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'purple'?",
+    "options": [
+      "जांबळो",
+      "तांबडो",
+      "निळो",
+      "तपकिरी"
+    ],
+    "answer": "जांबळो"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Konkani word for 'brown'?",
+    "options": [
+      "तांबडो",
+      "निळो",
+      "पाचवो",
+      "तपकिरी"
+    ],
+    "answer": "तपकिरी"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'one'?",
+    "options": [
+      "चार",
+      "दोन",
+      "तीन",
+      "एक"
+    ],
+    "answer": "एक"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'two'?",
+    "options": [
+      "दोन",
+      "पांच",
+      "तीन",
+      "चार"
+    ],
+    "answer": "दोन"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'three'?",
+    "options": [
+      "पांच",
+      "सहा",
+      "चार",
+      "तीन"
+    ],
+    "answer": "तीन"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'four'?",
+    "options": [
+      "सात",
+      "सहा",
+      "चार",
+      "पांच"
+    ],
+    "answer": "चार"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'five'?",
+    "options": [
+      "पांच",
+      "आठ",
+      "सहा",
+      "सात"
+    ],
+    "answer": "पांच"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'six'?",
+    "options": [
+      "सहा",
+      "आठ",
+      "नऊ",
+      "सात"
+    ],
+    "answer": "सहा"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'seven'?",
+    "options": [
+      "नऊ",
+      "सात",
+      "दहा",
+      "आठ"
+    ],
+    "answer": "सात"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'eight'?",
+    "options": [
+      "दहा",
+      "आठ",
+      "एक",
+      "नऊ"
+    ],
+    "answer": "आठ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'nine'?",
+    "options": [
+      "दोन",
+      "दहा",
+      "नऊ",
+      "एक"
+    ],
+    "answer": "नऊ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Konkani word for 'ten'?",
+    "options": [
+      "तीन",
+      "दहा",
+      "दोन",
+      "एक"
+    ],
+    "answer": "दहा"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'breakfast'?",
+    "options": [
+      "सकाळचें जेवण",
+      "दुपारचें जेवण",
+      "नाश्तो",
+      "रातचें जेवण"
+    ],
+    "answer": "सकाळचें जेवण"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'lunch'?",
+    "options": [
+      "नाश्तो",
+      "दुपारचें जेवण",
+      "रातचें जेवण",
+      "मिठाय"
+    ],
+    "answer": "दुपारचें जेवण"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'dinner'?",
+    "options": [
+      "रातचें जेवण",
+      "मिठाय",
+      "तिखट",
+      "नाश्तो"
+    ],
+    "answer": "रातचें जेवण"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'snacks'?",
+    "options": [
+      "शाकाहारी",
+      "नाश्तो",
+      "तिखट",
+      "मिठाय"
+    ],
+    "answer": "नाश्तो"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'sweets'?",
+    "options": [
+      "शाकाहारी",
+      "तिखट",
+      "मिठाय",
+      "मांसाहारी"
+    ],
+    "answer": "मिठाय"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'spicy'?",
+    "options": [
+      "शाकाहारी",
+      "मांसाहारी",
+      "तिखट",
+      "रस"
+    ],
+    "answer": "तिखट"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'vegetarian'?",
+    "options": [
+      "कॉफी",
+      "रस",
+      "शाकाहारी",
+      "मांसाहारी"
+    ],
+    "answer": "शाकाहारी"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'non-vegetarian'?",
+    "options": [
+      "मांसाहारी",
+      "रस",
+      "कॉफी",
+      "सकाळचें जेवण"
+    ],
+    "answer": "मांसाहारी"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'juice'?",
+    "options": [
+      "कॉफी",
+      "रस",
+      "सकाळचें जेवण",
+      "दुपारचें जेवण"
+    ],
+    "answer": "रस"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Konkani word for 'coffee'?",
+    "options": [
+      "कॉफी",
+      "रातचें जेवण",
+      "सकाळचें जेवण",
+      "दुपारचें जेवण"
+    ],
+    "answer": "कॉफी"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Konkani?",
+    "options": [
+      "तुमी कठल्यान आसात?",
+      "तुमचें नांव कितें?",
+      "तुमी कसो आसात?",
+      "तुमचें वर्स कितें?"
+    ],
+    "answer": "तुमी कसो आसात?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Konkani?",
+    "options": [
+      "तुमी कठल्यान आसात?",
+      "तुमचें वर्स कितें?",
+      "तुमचें नांव कितें?",
+      "तुमी कोंकणी उलयतात का?"
+    ],
+    "answer": "तुमचें नांव कितें?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Konkani?",
+    "options": [
+      "तुमचें वर्स कितें?",
+      "हांव तुमकां आदार करूं का?",
+      "तुमी कठल्यान आसात?",
+      "तुमी कोंकणी उलयतात का?"
+    ],
+    "answer": "तुमी कठल्यान आसात?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Konkani?",
+    "options": [
+      "तुमी कोंकणी उलयतात का?",
+      "तुमचें वर्स कितें?",
+      "हांव तुमकां आदार करूं का?",
+      "स्नानगृह कठें आसा?"
+    ],
+    "answer": "तुमचें वर्स कितें?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Konkani?' in Konkani?",
+    "options": [
+      "हें कितलें?",
+      "हांव तुमकां आदार करूं का?",
+      "तुमी कोंकणी उलयतात का?",
+      "स्नानगृह कठें आसा?"
+    ],
+    "answer": "तुमी कोंकणी उलयतात का?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Konkani?",
+    "options": [
+      "कितलो वेळ जालो?",
+      "हांव तुमकां आदार करूं का?",
+      "हें कितलें?",
+      "स्नानगृह कठें आसा?"
+    ],
+    "answer": "हांव तुमकां आदार करूं का?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Konkani?",
+    "options": [
+      "हें कितलें?",
+      "स्नानगृह कठें आसा?",
+      "कितलो वेळ जालो?",
+      "तुमी कठें राबतात?"
+    ],
+    "answer": "स्नानगृह कठें आसा?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Konkani?",
+    "options": [
+      "तुमी कसो आसात?",
+      "हें कितलें?",
+      "कितलो वेळ जालो?",
+      "तुमी कठें राबतात?"
+    ],
+    "answer": "हें कितलें?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Konkani?",
+    "options": [
+      "तुमचें नांव कितें?",
+      "तुमी कसो आसात?",
+      "तुमी कठें राबतात?",
+      "कितलो वेळ जालो?"
+    ],
+    "answer": "कितलो वेळ जालो?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Konkani?",
+    "options": [
+      "तुमी कठल्यान आसात?",
+      "तुमी कसो आसात?",
+      "तुमचें नांव कितें?",
+      "तुमी कठें राबतात?"
+    ],
+    "answer": "तुमी कठें राबतात?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Konkani?",
+    "options": [
+      "उपकार करून हांगा येयात",
+      "उपकार करून बसात",
+      "उपकार करून म्हाका आदार करात",
+      "उपकार करून वाट पळयात"
+    ],
+    "answer": "उपकार करून म्हाका आदार करात"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Konkani?",
+    "options": [
+      "उपकार करून हळू उलयात",
+      "उपकार करून हांगा येयात",
+      "उपकार करून बसात",
+      "उपकार करून वाट पळयात"
+    ],
+    "answer": "उपकार करून वाट पळयात"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Konkani?",
+    "options": [
+      "उपकार करून हांगा येयात",
+      "उपकार करून बरयात",
+      "उपकार करून हळू उलयात",
+      "उपकार करून बसात"
+    ],
+    "answer": "उपकार करून हांगा येयात"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Konkani?",
+    "options": [
+      "उपकार करून हळू उलयात",
+      "उपकार करून परत सांगात",
+      "उपकार करून बरयात",
+      "उपकार करून बसात"
+    ],
+    "answer": "उपकार करून बसात"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Konkani?",
+    "options": [
+      "उपकार करून परत सांगात",
+      "उपकार करून म्हाका दाखयात",
+      "उपकार करून बरयात",
+      "उपकार करून हळू उलयात"
+    ],
+    "answer": "उपकार करून हळू उलयात"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Konkani?",
+    "options": [
+      "उपकार करून परत सांगात",
+      "उपकार करून बरयात",
+      "उपकार करून दार उगडात",
+      "उपकार करून म्हाका दाखयात"
+    ],
+    "answer": "उपकार करून बरयात"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Konkani?",
+    "options": [
+      "उपकार करून परत सांगात",
+      "उपकार करून म्हाका दाखयात",
+      "उपकार करून खिडकी बंद करात",
+      "उपकार करून दार उगडात"
+    ],
+    "answer": "उपकार करून परत सांगात"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Konkani?",
+    "options": [
+      "उपकार करून म्हाका दाखयात",
+      "उपकार करून दार उगडात",
+      "उपकार करून म्हाका आदार करात",
+      "उपकार करून खिडकी बंद करात"
+    ],
+    "answer": "उपकार करून म्हाका दाखयात"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Konkani?",
+    "options": [
+      "उपकार करून दार उगडात",
+      "उपकार करून खिडकी बंद करात",
+      "उपकार करून वाट पळयात",
+      "उपकार करून म्हाका आदार करात"
+    ],
+    "answer": "उपकार करून दार उगडात"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Konkani?",
+    "options": [
+      "उपकार करून खिडकी बंद करात",
+      "उपकार करून म्हाका आदार करात",
+      "उपकार करून वाट पळयात",
+      "उपकार करून हांगा येयात"
+    ],
+    "answer": "उपकार करून खिडकी बंद करात"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Konkani?",
+    "options": [
+      "म्हाका हें विकत घेवंचें आसा",
+      "सवलत आसा का?",
+      "हांव हें करून पळयूं का?",
+      "हें कितलें?"
+    ],
+    "answer": "हें कितलें?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Konkani?",
+    "options": [
+      "सवलत आसा का?",
+      "तुमी कार्ड घेतात का?",
+      "हांव हें करून पळयूं का?",
+      "म्हाका हें विकत घेवंचें आसा"
+    ],
+    "answer": "सवलत आसा का?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Konkani?",
+    "options": [
+      "काउंटर कठें आसा?",
+      "हांव हें करून पळयूं का?",
+      "तुमी कार्ड घेतात का?",
+      "म्हाका हें विकत घेवंचें आसा"
+    ],
+    "answer": "म्हाका हें विकत घेवंचें आसा"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Konkani?",
+    "options": [
+      "हांव हें करून पळयूं का?",
+      "काउंटर कठें आसा?",
+      "तुमी कार्ड घेतात का?",
+      "हें मेळटा का?"
+    ],
+    "answer": "हांव हें करून पळयूं का?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Konkani?",
+    "options": [
+      "तुमी कार्ड घेतात का?",
+      "हें मेळटा का?",
+      "काउंटर कठें आसा?",
+      "उपकार करून हें पॅक करात"
+    ],
+    "answer": "तुमी कार्ड घेतात का?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Konkani?",
+    "options": [
+      "हें मेळटा का?",
+      "उपकार करून हें पॅक करात",
+      "म्हाका बैग जाय",
+      "काउंटर कठें आसा?"
+    ],
+    "answer": "काउंटर कठें आसा?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Konkani?",
+    "options": [
+      "हें मेळटा का?",
+      "वेळ कितली?",
+      "म्हाका बैग जाय",
+      "उपकार करून हें पॅक करात"
+    ],
+    "answer": "हें मेळटा का?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Konkani?",
+    "options": [
+      "हें कितलें?",
+      "वेळ कितली?",
+      "म्हाका बैग जाय",
+      "उपकार करून हें पॅक करात"
+    ],
+    "answer": "उपकार करून हें पॅक करात"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Konkani?",
+    "options": [
+      "म्हाका बैग जाय",
+      "वेळ कितली?",
+      "हें कितलें?",
+      "सवलत आसा का?"
+    ],
+    "answer": "म्हाका बैग जाय"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Konkani?",
+    "options": [
+      "वेळ कितली?",
+      "म्हाका हें विकत घेवंचें आसा",
+      "सवलत आसा का?",
+      "हें कितलें?"
+    ],
+    "answer": "वेळ कितली?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Konkani?",
+    "options": [
+      "हांगासावन लांब आसा का?",
+      "रेल्वे स्टेशनाक कसो वचूं?",
+      "बाजाराक कोणतो रस्तो?",
+      "बस स्टॉप कठें आसा?"
+    ],
+    "answer": "बस स्टॉप कठें आसा?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Konkani?",
+    "options": [
+      "रेल्वे स्टेशनाक कसो वचूं?",
+      "बाजाराक कोणतो रस्तो?",
+      "दावीक वळात",
+      "हांगासावन लांब आसा का?"
+    ],
+    "answer": "रेल्वे स्टेशनाक कसो वचूं?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Konkani?",
+    "options": [
+      "दावीक वळात",
+      "हांगासावन लांब आसा का?",
+      "बाजाराक कोणतो रस्तो?",
+      "उजवीक वळात"
+    ],
+    "answer": "बाजाराक कोणतो रस्तो?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Konkani?",
+    "options": [
+      "दावीक वळात",
+      "सरळ वचात",
+      "हांगासावन लांब आसा का?",
+      "उजवीक वळात"
+    ],
+    "answer": "हांगासावन लांब आसा का?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Konkani?",
+    "options": [
+      "दावीक वळात",
+      "सरळ वचात",
+      "उजवीक वळात",
+      "हांगाच थांबात"
+    ],
+    "answer": "दावीक वळात"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Konkani?",
+    "options": [
+      "कितलो वेळ लागतलो?",
+      "सरळ वचात",
+      "हांगाच थांबात",
+      "उजवीक वळात"
+    ],
+    "answer": "उजवीक वळात"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Konkani?",
+    "options": [
+      "नकाशार दाखयूं शकतात का?",
+      "हांगाच थांबात",
+      "कितलो वेळ लागतलो?",
+      "सरळ वचात"
+    ],
+    "answer": "सरळ वचात"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Konkani?",
+    "options": [
+      "नकाशार दाखयूं शकतात का?",
+      "हांगाच थांबात",
+      "बस स्टॉप कठें आसा?",
+      "कितलो वेळ लागतलो?"
+    ],
+    "answer": "हांगाच थांबात"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Konkani?",
+    "options": [
+      "बस स्टॉप कठें आसा?",
+      "नकाशार दाखयूं शकतात का?",
+      "कितलो वेळ लागतलो?",
+      "रेल्वे स्टेशनाक कसो वचूं?"
+    ],
+    "answer": "कितलो वेळ लागतलो?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Konkani",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Konkani?",
+    "options": [
+      "बस स्टॉप कठें आसा?",
+      "रेल्वे स्टेशनाक कसो वचूं?",
+      "नकाशार दाखयूं शकतात का?",
+      "बाजाराक कोणतो रस्तो?"
+    ],
+    "answer": "नकाशार दाखयूं शकतात का?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'go'?",
+    "options": [
+      "खाल्लो",
+      "गेलो",
+      "पळयलो",
+      "वाचलो"
+    ],
+    "answer": "गेलो"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'eat'?",
+    "options": [
+      "बरयलो",
+      "खाल्लो",
+      "वाचलो",
+      "पळयलो"
+    ],
+    "answer": "खाल्लो"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'see'?",
+    "options": [
+      "आयलो",
+      "वाचलो",
+      "बरयलो",
+      "पळयलो"
+    ],
+    "answer": "पळयलो"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'read'?",
+    "options": [
+      "आयलो",
+      "बरयलो",
+      "दिलो",
+      "वाचलो"
+    ],
+    "answer": "वाचलो"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'write'?",
+    "options": [
+      "बरयलो",
+      "दिलो",
+      "घेतलो",
+      "आयलो"
+    ],
+    "answer": "बरयलो"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'come'?",
+    "options": [
+      "खेळलो",
+      "घेतलो",
+      "आयलो",
+      "दिलो"
+    ],
+    "answer": "आयलो"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'give'?",
+    "options": [
+      "न्हिदलो",
+      "खेळलो",
+      "दिलो",
+      "घेतलो"
+    ],
+    "answer": "दिलो"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'take'?",
+    "options": [
+      "न्हिदलो",
+      "खेळलो",
+      "गेलो",
+      "घेतलो"
+    ],
+    "answer": "घेतलो"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'play'?",
+    "options": [
+      "न्हिदलो",
+      "गेलो",
+      "खाल्लो",
+      "खेळलो"
+    ],
+    "answer": "खेळलो"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Konkani past tense of 'sleep'?",
+    "options": [
+      "न्हिदलो",
+      "खाल्लो",
+      "पळयलो",
+      "गेलो"
+    ],
+    "answer": "न्हिदलो"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'book'?",
+    "options": [
+      "चल्यां",
+      "पुस्तकां",
+      "चेड्यां",
+      "कलमां"
+    ],
+    "answer": "पुस्तकां"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'pen'?",
+    "options": [
+      "कलमां",
+      "फुलां",
+      "चल्यां",
+      "चेड्यां"
+    ],
+    "answer": "कलमां"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'boy'?",
+    "options": [
+      "चल्यां",
+      "चेड्यां",
+      "पानां",
+      "फुलां"
+    ],
+    "answer": "चल्यां"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'girl'?",
+    "options": [
+      "फुलां",
+      "पानां",
+      "चेड्यां",
+      "तार्यां"
+    ],
+    "answer": "चेड्यां"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'flower'?",
+    "options": [
+      "पानां",
+      "तार्यां",
+      "झाडां",
+      "फुलां"
+    ],
+    "answer": "फुलां"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'leaf'?",
+    "options": [
+      "पानां",
+      "झाडां",
+      "तार्यां",
+      "नद्यां"
+    ],
+    "answer": "पानां"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'star'?",
+    "options": [
+      "तार्यां",
+      "खुर्च्यां",
+      "झाडां",
+      "नद्यां"
+    ],
+    "answer": "तार्यां"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'tree'?",
+    "options": [
+      "झाडां",
+      "नद्यां",
+      "खुर्च्यां",
+      "पुस्तकां"
+    ],
+    "answer": "झाडां"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'river'?",
+    "options": [
+      "नद्यां",
+      "खुर्च्यां",
+      "पुस्तकां",
+      "कलमां"
+    ],
+    "answer": "नद्यां"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Konkani plural of 'chair'?",
+    "options": [
+      "कलमां",
+      "खुर्च्यां",
+      "पुस्तकां",
+      "चल्यां"
+    ],
+    "answer": "खुर्च्यां"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'and'?",
+    "options": [
+      "कारण",
+      "आनी",
+      "पूण",
+      "वा"
+    ],
+    "answer": "आनी"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'but'?",
+    "options": [
+      "वा",
+      "पूण",
+      "जर",
+      "कारण"
+    ],
+    "answer": "पूण"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'or'?",
+    "options": [
+      "जर",
+      "वा",
+      "कारण",
+      "जेन्ना"
+    ],
+    "answer": "वा"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'because'?",
+    "options": [
+      "कठें",
+      "जेन्ना",
+      "कारण",
+      "जर"
+    ],
+    "answer": "कारण"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'if'?",
+    "options": [
+      "जर",
+      "जेन्ना",
+      "कसो",
+      "कठें"
+    ],
+    "answer": "जर"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'when'?",
+    "options": [
+      "कठें",
+      "कसो",
+      "जेन्ना",
+      "कित्याक"
+    ],
+    "answer": "जेन्ना"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'where'?",
+    "options": [
+      "कठें",
+      "बरोबर",
+      "कसो",
+      "कित्याक"
+    ],
+    "answer": "कठें"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'how'?",
+    "options": [
+      "आनी",
+      "बरोबर",
+      "कसो",
+      "कित्याक"
+    ],
+    "answer": "कसो"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'why'?",
+    "options": [
+      "पूण",
+      "कित्याक",
+      "बरोबर",
+      "आनी"
+    ],
+    "answer": "कित्याक"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Konkani particle for 'with'?",
+    "options": [
+      "आनी",
+      "वा",
+      "पूण",
+      "बरोबर"
+    ],
+    "answer": "बरोबर"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Konkani?",
+    "options": [
+      "येना",
+      "खाना",
+      "वचना",
+      "वाचना"
+    ],
+    "answer": "वचना"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Konkani?",
+    "options": [
+      "वाचना",
+      "खाना",
+      "बरयना",
+      "येना"
+    ],
+    "answer": "येना"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Konkani?",
+    "options": [
+      "वाचना",
+      "बरयना",
+      "खाना",
+      "खेळना"
+    ],
+    "answer": "खाना"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Konkani?",
+    "options": [
+      "न्हिदना",
+      "बरयना",
+      "वाचना",
+      "खेळना"
+    ],
+    "answer": "वाचना"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Konkani?",
+    "options": [
+      "पळयना",
+      "खेळना",
+      "न्हिदना",
+      "बरयना"
+    ],
+    "answer": "बरयना"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Konkani?",
+    "options": [
+      "खेळना",
+      "न्हिदना",
+      "दिना",
+      "पळयना"
+    ],
+    "answer": "खेळना"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Konkani?",
+    "options": [
+      "दिना",
+      "घेना",
+      "न्हिदना",
+      "पळयना"
+    ],
+    "answer": "न्हिदना"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Konkani?",
+    "options": [
+      "पळयना",
+      "वचना",
+      "दिना",
+      "घेना"
+    ],
+    "answer": "पळयना"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Konkani?",
+    "options": [
+      "येना",
+      "दिना",
+      "वचना",
+      "घेना"
+    ],
+    "answer": "दिना"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Konkani?",
+    "options": [
+      "घेना",
+      "वचना",
+      "येना",
+      "खाना"
+    ],
+    "answer": "घेना"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'apple'",
+    "options": [
+      "मांजर",
+      "कुत्रो",
+      "सफरचंद",
+      "केळ"
+    ],
+    "answer": "सफरचंद"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'banana'",
+    "options": [
+      "मांजर",
+      "गाडी",
+      "केळ",
+      "कुत्रो"
+    ],
+    "answer": "केळ"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'cat'",
+    "options": [
+      "मांजर",
+      "बस",
+      "कुत्रो",
+      "गाडी"
+    ],
+    "answer": "मांजर"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'dog'",
+    "options": [
+      "रेल",
+      "बस",
+      "गाडी",
+      "कुत्रो"
+    ],
+    "answer": "कुत्रो"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'car'",
+    "options": [
+      "बस",
+      "घर",
+      "रेल",
+      "गाडी"
+    ],
+    "answer": "गाडी"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'bus'",
+    "options": [
+      "शार",
+      "रेल",
+      "घर",
+      "बस"
+    ],
+    "answer": "बस"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'train'",
+    "options": [
+      "घर",
+      "गांव",
+      "शार",
+      "रेल"
+    ],
+    "answer": "रेल"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'house'",
+    "options": [
+      "शार",
+      "घर",
+      "गांव",
+      "सफरचंद"
+    ],
+    "answer": "घर"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'city'",
+    "options": [
+      "गांव",
+      "सफरचंद",
+      "शार",
+      "केळ"
+    ],
+    "answer": "शार"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Konkani word for 'village'",
+    "options": [
+      "सफरचंद",
+      "मांजर",
+      "केळ",
+      "गांव"
+    ],
+    "answer": "गांव"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Good morning'",
+    "options": [
+      "देव बरें करूं",
+      "सकाळची नमस्कार",
+      "तुमी कसो आसात?",
+      "माफ करात"
+    ],
+    "answer": "सकाळची नमस्कार"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'How are you?'",
+    "options": [
+      "तुमी कसो आसात?",
+      "माफ करात",
+      "देव बरें करूं",
+      "उपकार करून भितर येयात"
+    ],
+    "answer": "तुमी कसो आसात?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Thank you'",
+    "options": [
+      "माफ करात",
+      "बसात",
+      "देव बरें करूं",
+      "उपकार करून भितर येयात"
+    ],
+    "answer": "देव बरें करूं"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Sorry'",
+    "options": [
+      "बसात",
+      "उबो राबात",
+      "माफ करात",
+      "उपकार करून भितर येयात"
+    ],
+    "answer": "माफ करात"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Please come in'",
+    "options": [
+      "बसात",
+      "उपकार करून भितर येयात",
+      "मुकार वचात",
+      "उबो राबात"
+    ],
+    "answer": "उपकार करून भितर येयात"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Sit down'",
+    "options": [
+      "उबो राबात",
+      "बरें केलें",
+      "मुकार वचात",
+      "बसात"
+    ],
+    "answer": "बसात"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Stand up'",
+    "options": [
+      "बरें केलें",
+      "उबो राबात",
+      "मुकार वचात",
+      "अभिनंदन"
+    ],
+    "answer": "उबो राबात"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Go ahead'",
+    "options": [
+      "मुकार वचात",
+      "सकाळची नमस्कार",
+      "अभिनंदन",
+      "बरें केलें"
+    ],
+    "answer": "मुकार वचात"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Well done'",
+    "options": [
+      "अभिनंदन",
+      "सकाळची नमस्कार",
+      "तुमी कसो आसात?",
+      "बरें केलें"
+    ],
+    "answer": "बरें केलें"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Konkani phrase for 'Congratulations'",
+    "options": [
+      "देव बरें करूं",
+      "तुमी कसो आसात?",
+      "अभिनंदन",
+      "सकाळची नमस्कार"
+    ],
+    "answer": "अभिनंदन"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'I am going to school'",
+    "options": [
+      "ती भात खाता",
+      "ते पुस्तकां वाचतात",
+      "आमी क्रिकेट खेळतां",
+      "हांव शाळेक वतां"
+    ],
+    "answer": "हांव शाळेक वतां"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'She is eating rice'",
+    "options": [
+      "तो चिठी बरयता",
+      "ती भात खाता",
+      "ते पुस्तकां वाचतात",
+      "आमी क्रिकेट खेळतां"
+    ],
+    "answer": "ती भात खाता"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'We are playing cricket'",
+    "options": [
+      "आमी क्रिकेट खेळतां",
+      "तुमी म्हजो इश्ट",
+      "तो चिठी बरयता",
+      "ते पुस्तकां वाचतात"
+    ],
+    "answer": "आमी क्रिकेट खेळतां"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'They are reading books'",
+    "options": [
+      "तो चिठी बरयता",
+      "ते पुस्तकां वाचतात",
+      "आता पावस पडटा",
+      "तुमी म्हजो इश्ट"
+    ],
+    "answer": "ते पुस्तकां वाचतात"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'He is writing a letter'",
+    "options": [
+      "म्हाका कोंकणी आवडटा",
+      "तो चिठी बरयता",
+      "तुमी म्हजो इश्ट",
+      "आता पावस पडटा"
+    ],
+    "answer": "तो चिठी बरयता"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'You are my friend'",
+    "options": [
+      "आमी गोंयांत राबतां",
+      "म्हाका कोंकणी आवडटा",
+      "आता पावस पडटा",
+      "तुमी म्हजो इश्ट"
+    ],
+    "answer": "तुमी म्हजो इश्ट"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'It is raining now'",
+    "options": [
+      "ती गीत गायता",
+      "आमी गोंयांत राबतां",
+      "आता पावस पडटा",
+      "म्हाका कोंकणी आवडटा"
+    ],
+    "answer": "आता पावस पडटा"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'I like Konkani'",
+    "options": [
+      "हांव शाळेक वतां",
+      "आमी गोंयांत राबतां",
+      "ती गीत गायता",
+      "म्हाका कोंकणी आवडटा"
+    ],
+    "answer": "म्हाका कोंकणी आवडटा"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'We live in Goa'",
+    "options": [
+      "आमी गोंयांत राबतां",
+      "ती गीत गायता",
+      "हांव शाळेक वतां",
+      "ती भात खाता"
+    ],
+    "answer": "आमी गोंयांत राबतां"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Konkani sentence for 'She is singing a song'",
+    "options": [
+      "आमी क्रिकेट खेळतां",
+      "हांव शाळेक वतां",
+      "ती गीत गायता",
+      "ती भात खाता"
+    ],
+    "answer": "ती गीत गायता"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "तुमी इंग्लिश उलयतात का? - हय, थोडें",
+      "तुमी कसो आसात? - हांव बरो आसा",
+      "तुमचें नांव कितें? - म्हजें नांव रवी",
+      "तुमी कठें वतात? - बाजाराक"
+    ],
+    "answer": "तुमी कसो आसात? - हांव बरो आसा"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "तुमी कठें वतात? - बाजाराक",
+      "तुमी म्हाका आदार करूं शकतात का? - खात्री",
+      "तुमचें नांव कितें? - म्हजें नांव रवी",
+      "तुमी इंग्लिश उलयतात का? - हय, थोडें"
+    ],
+    "answer": "तुमचें नांव कितें? - म्हजें नांव रवी"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "तुमी कठें वतात? - बाजाराक",
+      "कितलो वेळ जालो? - पांच वाजले",
+      "तुमी म्हाका आदार करूं शकतात का? - खात्री",
+      "तुमी इंग्लिश उलयतात का? - हय, थोडें"
+    ],
+    "answer": "तुमी कठें वतात? - बाजाराक"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "तुमी म्हाका आदार करूं शकतात का? - खात्री",
+      "बस स्टॉप कठें आसा? - थंय",
+      "कितलो वेळ जालो? - पांच वाजले",
+      "तुमी इंग्लिश उलयतात का? - हय, थोडें"
+    ],
+    "answer": "तुमी इंग्लिश उलयतात का? - हय, थोडें"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "बस स्टॉप कठें आसा? - थंय",
+      "हें कितलें? - पन्नास रुपया",
+      "कितलो वेळ जालो? - पांच वाजले",
+      "तुमी म्हाका आदार करूं शकतात का? - खात्री"
+    ],
+    "answer": "तुमी म्हाका आदार करूं शकतात का? - खात्री"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "उपकार करून भितर येयात। - देव बरें करूं",
+      "बस स्टॉप कठें आसा? - थंय",
+      "कितलो वेळ जालो? - पांच वाजले",
+      "हें कितलें? - पन्नास रुपया"
+    ],
+    "answer": "कितलो वेळ जालो? - पांच वाजले"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "निमाण। - मागीर भेटूंया",
+      "बस स्टॉप कठें आसा? - थंय",
+      "हें कितलें? - पन्नास रुपया",
+      "उपकार करून भितर येयात। - देव बरें करूं"
+    ],
+    "answer": "बस स्टॉप कठें आसा? - थंय"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "निमाण। - मागीर भेटूंया",
+      "तुमी कसो आसात? - हांव बरो आसा",
+      "हें कितलें? - पन्नास रुपया",
+      "उपकार करून भितर येयात। - देव बरें करूं"
+    ],
+    "answer": "हें कितलें? - पन्नास रुपया"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "तुमी कसो आसात? - हांव बरो आसा",
+      "उपकार करून भितर येयात। - देव बरें करूं",
+      "निमाण। - मागीर भेटूंया",
+      "तुमचें नांव कितें? - म्हजें नांव रवी"
+    ],
+    "answer": "उपकार करून भितर येयात। - देव बरें करूं"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Konkani dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "निमाण। - मागीर भेटूंया",
+      "तुमचें नांव कितें? - म्हजें नांव रवी",
+      "तुमी कठें वतात? - बाजाराक",
+      "तुमी कसो आसात? - हांव बरो आसा"
+    ],
+    "answer": "निमाण। - मागीर भेटूंया"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Konkani?",
+    "options": [
+      "हें कितलें?",
+      "सवलत आसा का?",
+      "म्हाका हें विकत घेवंचें आसा",
+      "काउंटर कठें आसा?"
+    ],
+    "answer": "म्हाका हें विकत घेवंचें आसा"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Konkani?",
+    "options": [
+      "सवलत आसा का?",
+      "हें कितलें?",
+      "काउंटर कठें आसा?",
+      "तुमी कार्ड घेतात का?"
+    ],
+    "answer": "हें कितलें?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Konkani?",
+    "options": [
+      "उपकार करून हें पॅक करात",
+      "सवलत आसा का?",
+      "काउंटर कठें आसा?",
+      "तुमी कार्ड घेतात का?"
+    ],
+    "answer": "सवलत आसा का?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Konkani?",
+    "options": [
+      "तुमी कार्ड घेतात का?",
+      "काउंटर कठें आसा?",
+      "म्हाका बैग जाय",
+      "उपकार करून हें पॅक करात"
+    ],
+    "answer": "काउंटर कठें आसा?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Konkani?",
+    "options": [
+      "म्हाका बैग जाय",
+      "उपकार करून हें पॅक करात",
+      "हें मेळटा का?",
+      "तुमी कार्ड घेतात का?"
+    ],
+    "answer": "तुमी कार्ड घेतात का?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Konkani?",
+    "options": [
+      "उपकार करून हें पॅक करात",
+      "म्हाका बैग जाय",
+      "हें मेळटा का?",
+      "वेळ कितली?"
+    ],
+    "answer": "उपकार करून हें पॅक करात"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Konkani?",
+    "options": [
+      "वेळ कितली?",
+      "हांव हें करून पळयूं का?",
+      "हें मेळटा का?",
+      "म्हाका बैग जाय"
+    ],
+    "answer": "म्हाका बैग जाय"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Konkani?",
+    "options": [
+      "हें मेळटा का?",
+      "हांव हें करून पळयूं का?",
+      "वेळ कितली?",
+      "म्हाका हें विकत घेवंचें आसा"
+    ],
+    "answer": "हें मेळटा का?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Konkani?",
+    "options": [
+      "वेळ कितली?",
+      "म्हाका हें विकत घेवंचें आसा",
+      "हें कितलें?",
+      "हांव हें करून पळयूं का?"
+    ],
+    "answer": "वेळ कितली?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Konkani?",
+    "options": [
+      "हें कितलें?",
+      "सवलत आसा का?",
+      "म्हाका हें विकत घेवंचें आसा",
+      "हांव हें करून पळयूं का?"
+    ],
+    "answer": "हांव हें करून पळयूं का?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Konkani?",
+    "options": [
+      "एअरपोर्टाक कसो वचूं?",
+      "शाराक कोणती बस वता?",
+      "रेल्वे स्टेशन कठें आसा?",
+      "कितलो वेळ लागतलो?"
+    ],
+    "answer": "रेल्वे स्टेशन कठें आसा?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Konkani?",
+    "options": [
+      "शाराक कोणती बस वता?",
+      "हांगासावन लांब आसा का?",
+      "कितलो वेळ लागतलो?",
+      "एअरपोर्टाक कसो वचूं?"
+    ],
+    "answer": "एअरपोर्टाक कसो वचूं?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Konkani?",
+    "options": [
+      "टॅक्सी कठें मेळटली?",
+      "कितलो वेळ लागतलो?",
+      "शाराक कोणती बस वता?",
+      "हांगासावन लांब आसा का?"
+    ],
+    "answer": "शाराक कोणती बस वता?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Konkani?",
+    "options": [
+      "हॉटेल कठें आसा?",
+      "हांगासावन लांब आसा का?",
+      "कितलो वेळ लागतलो?",
+      "टॅक्सी कठें मेळटली?"
+    ],
+    "answer": "कितलो वेळ लागतलो?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Konkani?",
+    "options": [
+      "नकाशार दाखयूं शकतात का?",
+      "हॉटेल कठें आसा?",
+      "टॅक्सी कठें मेळटली?",
+      "हांगासावन लांब आसा का?"
+    ],
+    "answer": "हांगासावन लांब आसा का?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Konkani?",
+    "options": [
+      "टॅक्सी कठें मेळटली?",
+      "स्नानगृह कठें आसा?",
+      "हॉटेल कठें आसा?",
+      "नकाशार दाखयूं शकतात का?"
+    ],
+    "answer": "टॅक्सी कठें मेळटली?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Konkani?",
+    "options": [
+      "हांव रस्तो चुकलो",
+      "हॉटेल कठें आसा?",
+      "नकाशार दाखयूं शकतात का?",
+      "स्नानगृह कठें आसा?"
+    ],
+    "answer": "हॉटेल कठें आसा?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Konkani?",
+    "options": [
+      "हांव रस्तो चुकलो",
+      "स्नानगृह कठें आसा?",
+      "नकाशार दाखयूं शकतात का?",
+      "रेल्वे स्टेशन कठें आसा?"
+    ],
+    "answer": "नकाशार दाखयूं शकतात का?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Konkani?",
+    "options": [
+      "एअरपोर्टाक कसो वचूं?",
+      "हांव रस्तो चुकलो",
+      "रेल्वे स्टेशन कठें आसा?",
+      "स्नानगृह कठें आसा?"
+    ],
+    "answer": "स्नानगृह कठें आसा?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Konkani?",
+    "options": [
+      "शाराक कोणती बस वता?",
+      "रेल्वे स्टेशन कठें आसा?",
+      "एअरपोर्टाक कसो वचूं?",
+      "हांव रस्तो चुकलो"
+    ],
+    "answer": "हांव रस्तो चुकलो"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Konkani?",
+    "options": [
+      "रुग्णालय कठें आसा?",
+      "पोलिसांक फोन करात",
+      "हांव आजारी आसा",
+      "म्हाका डॉक्टर जाय"
+    ],
+    "answer": "पोलिसांक फोन करात"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Konkani?",
+    "options": [
+      "म्हाका डॉक्टर जाय",
+      "आदार!",
+      "हांव आजारी आसा",
+      "रुग्णालय कठें आसा?"
+    ],
+    "answer": "म्हाका डॉक्टर जाय"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Konkani?",
+    "options": [
+      "म्हजो पर्स हरवलो",
+      "रुग्णालय कठें आसा?",
+      "हांव आजारी आसा",
+      "आदार!"
+    ],
+    "answer": "रुग्णालय कठें आसा?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Konkani?",
+    "options": [
+      "आदार!",
+      "म्हजो पर्स हरवलो",
+      "उजो लागला",
+      "हांव आजारी आसा"
+    ],
+    "answer": "हांव आजारी आसा"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Konkani?",
+    "options": [
+      "म्हजो पर्स हरवलो",
+      "आदार!",
+      "म्हाका अपघात जालो",
+      "उजो लागला"
+    ],
+    "answer": "आदार!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Konkani?",
+    "options": [
+      "म्हजो पर्स हरवलो",
+      "म्हाका अपघात जालो",
+      "उजो लागला",
+      "म्हाका दुखापत जाली"
+    ],
+    "answer": "म्हजो पर्स हरवलो"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Konkani?",
+    "options": [
+      "म्हाका अपघात जालो",
+      "उपकार करून म्हाका आदार करात",
+      "म्हाका दुखापत जाली",
+      "उजो लागला"
+    ],
+    "answer": "उजो लागला"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Konkani?",
+    "options": [
+      "म्हाका दुखापत जाली",
+      "म्हाका अपघात जालो",
+      "पोलिसांक फोन करात",
+      "उपकार करून म्हाका आदार करात"
+    ],
+    "answer": "म्हाका अपघात जालो"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Konkani?",
+    "options": [
+      "पोलिसांक फोन करात",
+      "उपकार करून म्हाका आदार करात",
+      "म्हाका दुखापत जाली",
+      "म्हाका डॉक्टर जाय"
+    ],
+    "answer": "म्हाका दुखापत जाली"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Konkani?",
+    "options": [
+      "रुग्णालय कठें आसा?",
+      "पोलिसांक फोन करात",
+      "म्हाका डॉक्टर जाय",
+      "उपकार करून म्हाका आदार करात"
+    ],
+    "answer": "उपकार करून म्हाका आदार करात"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Konkani?",
+    "options": [
+      "फाल्यां भेटूंया",
+      "सिनेमाक वचूंया",
+      "तुमच्यो योजना कित्यो?",
+      "आयज सांजे तुमी फावो आसात का?"
+    ],
+    "answer": "तुमच्यो योजना कित्यो?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Konkani?",
+    "options": [
+      "आमी एकठाईं दुपारचें जेवण करूंया का?",
+      "सिनेमाक वचूंया",
+      "आयज सांजे तुमी फावो आसात का?",
+      "फाल्यां भेटूंया"
+    ],
+    "answer": "फाल्यां भेटूंया"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Konkani?",
+    "options": [
+      "तुमी आमच्या बरोबर येवूं शकतात का?",
+      "सिनेमाक वचूंया",
+      "आयज सांजे तुमी फावो आसात का?",
+      "आमी एकठाईं दुपारचें जेवण करूंया का?"
+    ],
+    "answer": "आयज सांजे तुमी फावो आसात का?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Konkani?",
+    "options": [
+      "सिनेमाक वचूंया",
+      "तुमी आमच्या बरोबर येवूं शकतात का?",
+      "हांव आयज व्यस्त आसा",
+      "आमी एकठाईं दुपारचें जेवण करूंया का?"
+    ],
+    "answer": "सिनेमाक वचूंया"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Konkani?",
+    "options": [
+      "आमी एकठाईं दुपारचें जेवण करूंया का?",
+      "हांव आयज व्यस्त आसा",
+      "तुमी आमच्या बरोबर येवूं शकतात का?",
+      "मागीर भेटूंया"
+    ],
+    "answer": "आमी एकठाईं दुपारचें जेवण करूंया का?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Konkani?",
+    "options": [
+      "हांव आयज व्यस्त आसा",
+      "मागीर भेटूंया",
+      "हांव तुमकां फोन करतलो",
+      "तुमी आमच्या बरोबर येवूं शकतात का?"
+    ],
+    "answer": "तुमी आमच्या बरोबर येवूं शकतात का?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Konkani?",
+    "options": [
+      "उत्सव मनायूंया",
+      "हांव तुमकां फोन करतलो",
+      "हांव आयज व्यस्त आसा",
+      "मागीर भेटूंया"
+    ],
+    "answer": "हांव आयज व्यस्त आसा"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Konkani?",
+    "options": [
+      "उत्सव मनायूंया",
+      "तुमच्यो योजना कित्यो?",
+      "मागीर भेटूंया",
+      "हांव तुमकां फोन करतलो"
+    ],
+    "answer": "मागीर भेटूंया"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Konkani?",
+    "options": [
+      "उत्सव मनायूंया",
+      "फाल्यां भेटूंया",
+      "हांव तुमकां फोन करतलो",
+      "तुमच्यो योजना कित्यो?"
+    ],
+    "answer": "हांव तुमकां फोन करतलो"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Konkani",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Konkani?",
+    "options": [
+      "फाल्यां भेटूंया",
+      "उत्सव मनायूंया",
+      "आयज सांजे तुमी फावो आसात का?",
+      "तुमच्यो योजना कित्यो?"
+    ],
+    "answer": "उत्सव मनायूंया"
+  }
+]

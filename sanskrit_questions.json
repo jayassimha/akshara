@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'a'?",
+    "options": [
+      "इ",
+      "अ",
+      "आ",
+      "ई"
+    ],
+    "answer": "अ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'aa'?",
+    "options": [
+      "आ",
+      "ई",
+      "उ",
+      "इ"
+    ],
+    "answer": "आ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'i'?",
+    "options": [
+      "उ",
+      "ऊ",
+      "ई",
+      "इ"
+    ],
+    "answer": "इ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'ee'?",
+    "options": [
+      "ए",
+      "ई",
+      "उ",
+      "ऊ"
+    ],
+    "answer": "ई"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'u'?",
+    "options": [
+      "उ",
+      "ऊ",
+      "ए",
+      "ऐ"
+    ],
+    "answer": "उ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'oo'?",
+    "options": [
+      "ऐ",
+      "ए",
+      "ओ",
+      "ऊ"
+    ],
+    "answer": "ऊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'e'?",
+    "options": [
+      "औ",
+      "ए",
+      "ओ",
+      "ऐ"
+    ],
+    "answer": "ए"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'ai'?",
+    "options": [
+      "ऐ",
+      "औ",
+      "ओ",
+      "अ"
+    ],
+    "answer": "ऐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'o'?",
+    "options": [
+      "ओ",
+      "औ",
+      "अ",
+      "आ"
+    ],
+    "answer": "ओ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sanskrit vowel for 'au'?",
+    "options": [
+      "आ",
+      "औ",
+      "इ",
+      "अ"
+    ],
+    "answer": "औ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'ka'?",
+    "options": [
+      "ग",
+      "घ",
+      "क",
+      "ख"
+    ],
+    "answer": "क"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'kha'?",
+    "options": [
+      "ग",
+      "घ",
+      "च",
+      "ख"
+    ],
+    "answer": "ख"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'ga'?",
+    "options": [
+      "घ",
+      "छ",
+      "च",
+      "ग"
+    ],
+    "answer": "ग"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'gha'?",
+    "options": [
+      "घ",
+      "छ",
+      "च",
+      "ज"
+    ],
+    "answer": "घ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'cha'?",
+    "options": [
+      "छ",
+      "झ",
+      "च",
+      "ज"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'chha'?",
+    "options": [
+      "झ",
+      "ज",
+      "त",
+      "छ"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'ja'?",
+    "options": [
+      "झ",
+      "त",
+      "ज",
+      "थ"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'jha'?",
+    "options": [
+      "झ",
+      "थ",
+      "क",
+      "त"
+    ],
+    "answer": "झ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'ta'?",
+    "options": [
+      "थ",
+      "ख",
+      "क",
+      "त"
+    ],
+    "answer": "त"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sanskrit consonant for 'tha'?",
+    "options": [
+      "ख",
+      "थ",
+      "क",
+      "ग"
+    ],
+    "answer": "थ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'क' + 'ा'?",
+    "options": [
+      "पु",
+      "ते",
+      "मि",
+      "का"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'प' + 'ु'?",
+    "options": [
+      "सू",
+      "पु",
+      "ते",
+      "मि"
+    ],
+    "answer": "पु"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'म' + 'ि'?",
+    "options": [
+      "ते",
+      "सू",
+      "मि",
+      "नो"
+    ],
+    "answer": "मि"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'त' + 'े'?",
+    "options": [
+      "रा",
+      "ते",
+      "नो",
+      "सू"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'स' + 'ू'?",
+    "options": [
+      "सू",
+      "रा",
+      "नो",
+      "ले"
+    ],
+    "answer": "सू"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'न' + 'ो'?",
+    "options": [
+      "नो",
+      "ले",
+      "रा",
+      "दि"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'र' + 'ा'?",
+    "options": [
+      "रा",
+      "दि",
+      "ले",
+      "वु"
+    ],
+    "answer": "रा"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ल' + 'े'?",
+    "options": [
+      "ले",
+      "दि",
+      "का",
+      "वु"
+    ],
+    "answer": "ले"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'द' + 'ि'?",
+    "options": [
+      "पु",
+      "दि",
+      "का",
+      "वु"
+    ],
+    "answer": "दि"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'व' + 'ु'?",
+    "options": [
+      "पु",
+      "का",
+      "वु",
+      "मि"
+    ],
+    "answer": "वु"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पुस्तकम्'? (in Sanskrit)",
+    "options": [
+      "Hand",
+      "Pen",
+      "Book",
+      "School"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'लेखनी'? (in Sanskrit)",
+    "options": [
+      "Hand",
+      "School",
+      "Pen",
+      "Fruit"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'विद्यालयः'? (in Sanskrit)",
+    "options": [
+      "Fruit",
+      "School",
+      "Hand",
+      "Flowers"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'हस्तः'? (in Sanskrit)",
+    "options": [
+      "Tree",
+      "Hand",
+      "Fruit",
+      "Flowers"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फलम्'? (in Sanskrit)",
+    "options": [
+      "Flowers",
+      "Slate",
+      "Tree",
+      "Fruit"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पुष्पम्'? (in Sanskrit)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Flowers",
+      "Speak"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'वृक्षः'? (in Sanskrit)",
+    "options": [
+      "Tree",
+      "Slate",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फलकम्'? (in Sanskrit)",
+    "options": [
+      "Speak",
+      "Slate",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'भाषणम्'? (in Sanskrit)",
+    "options": [
+      "Book",
+      "Pen",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'भाषा'? (in Sanskrit)",
+    "options": [
+      "School",
+      "Speech",
+      "Pen",
+      "Book"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'book'?",
+    "options": [
+      "विद्यालयः",
+      "पुस्तकम्",
+      "लेखनी",
+      "थैली"
+    ],
+    "answer": "पुस्तकम्"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'pen'?",
+    "options": [
+      "आसनम्",
+      "थैली",
+      "विद्यालयः",
+      "लेखनी"
+    ],
+    "answer": "लेखनी"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'school'?",
+    "options": [
+      "मेषः",
+      "विद्यालयः",
+      "थैली",
+      "आसनम्"
+    ],
+    "answer": "विद्यालयः"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'bag'?",
+    "options": [
+      "फलकम्",
+      "मेषः",
+      "आसनम्",
+      "थैली"
+    ],
+    "answer": "थैली"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'chair'?",
+    "options": [
+      "फलकम्",
+      "मेषः",
+      "गवाक्षम्",
+      "आसनम्"
+    ],
+    "answer": "आसनम्"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'table'?",
+    "options": [
+      "मेषः",
+      "फलकम्",
+      "गवाक्षम्",
+      "द्वारम्"
+    ],
+    "answer": "मेषः"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'slate'?",
+    "options": [
+      "द्वारम्",
+      "गवाक्षम्",
+      "व्यजनम्",
+      "फलकम्"
+    ],
+    "answer": "फलकम्"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'window'?",
+    "options": [
+      "द्वारम्",
+      "व्यजनम्",
+      "पुस्तकम्",
+      "गवाक्षम्"
+    ],
+    "answer": "गवाक्षम्"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'door'?",
+    "options": [
+      "लेखनी",
+      "द्वारम्",
+      "व्यजनम्",
+      "पुस्तकम्"
+    ],
+    "answer": "द्वारम्"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sanskrit word for 'fan'?",
+    "options": [
+      "व्यजनम्",
+      "विद्यालयः",
+      "पुस्तकम्",
+      "लेखनी"
+    ],
+    "answer": "व्यजनम्"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'rice'?",
+    "options": [
+      "दुग्धम्",
+      "शाकम्",
+      "अन्नम्",
+      "फलम्"
+    ],
+    "answer": "अन्नम्"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'milk'?",
+    "options": [
+      "जलम्",
+      "शाकम्",
+      "फलम्",
+      "दुग्धम्"
+    ],
+    "answer": "दुग्धम्"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'fruit'?",
+    "options": [
+      "शाकम्",
+      "फलम्",
+      "जलम्",
+      "दधि"
+    ],
+    "answer": "फलम्"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'vegetable'?",
+    "options": [
+      "पिष्टम्",
+      "दधि",
+      "जलम्",
+      "शाकम्"
+    ],
+    "answer": "शाकम्"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'water'?",
+    "options": [
+      "अण्डम्",
+      "पिष्टम्",
+      "दधि",
+      "जलम्"
+    ],
+    "answer": "जलम्"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'curd'?",
+    "options": [
+      "मत्स्यः",
+      "दधि",
+      "अण्डम्",
+      "पिष्टम्"
+    ],
+    "answer": "दधि"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'bread'?",
+    "options": [
+      "अण्डम्",
+      "मत्स्यः",
+      "पिष्टम्",
+      "मधुरम्"
+    ],
+    "answer": "पिष्टम्"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'egg'?",
+    "options": [
+      "मधुरम्",
+      "अण्डम्",
+      "मत्स्यः",
+      "अन्नम्"
+    ],
+    "answer": "अण्डम्"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'fish'?",
+    "options": [
+      "दुग्धम्",
+      "अन्नम्",
+      "मधुरम्",
+      "मत्स्यः"
+    ],
+    "answer": "मत्स्यः"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'sweet'?",
+    "options": [
+      "मधुरम्",
+      "दुग्धम्",
+      "फलम्",
+      "अन्नम्"
+    ],
+    "answer": "मधुरम्"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'mother'?",
+    "options": [
+      "भ्राता",
+      "भगिनी",
+      "माता",
+      "पिता"
+    ],
+    "answer": "माता"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'father'?",
+    "options": [
+      "भ्राता",
+      "पितामही",
+      "पिता",
+      "भगिनी"
+    ],
+    "answer": "पिता"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'sister'?",
+    "options": [
+      "पितामहः",
+      "पितामही",
+      "भ्राता",
+      "भगिनी"
+    ],
+    "answer": "भगिनी"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'brother'?",
+    "options": [
+      "पितृव्यः",
+      "पितामहः",
+      "भ्राता",
+      "पितामही"
+    ],
+    "answer": "भ्राता"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'grandmother'?",
+    "options": [
+      "पितामही",
+      "मातुला",
+      "पितामहः",
+      "पितृव्यः"
+    ],
+    "answer": "पितामही"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'grandfather'?",
+    "options": [
+      "मातुला",
+      "पितृव्यः",
+      "पितामहः",
+      "पुत्रः"
+    ],
+    "answer": "पितामहः"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'uncle'?",
+    "options": [
+      "पितृव्यः",
+      "दुहिता",
+      "पुत्रः",
+      "मातुला"
+    ],
+    "answer": "पितृव्यः"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'aunt'?",
+    "options": [
+      "दुहिता",
+      "मातुला",
+      "माता",
+      "पुत्रः"
+    ],
+    "answer": "मातुला"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'son'?",
+    "options": [
+      "दुहिता",
+      "पिता",
+      "माता",
+      "पुत्रः"
+    ],
+    "answer": "पुत्रः"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sanskrit word for 'daughter'?",
+    "options": [
+      "दुहिता",
+      "भगिनी",
+      "माता",
+      "पिता"
+    ],
+    "answer": "दुहिता"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'tree'?",
+    "options": [
+      "वृक्षः",
+      "पुष्पम्",
+      "पर्वतः",
+      "नदी"
+    ],
+    "answer": "वृक्षः"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'flower'?",
+    "options": [
+      "पत्रम्",
+      "नदी",
+      "पर्वतः",
+      "पुष्पम्"
+    ],
+    "answer": "पुष्पम्"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'river'?",
+    "options": [
+      "नदी",
+      "पर्वतः",
+      "पत्रम्",
+      "आकाशः"
+    ],
+    "answer": "नदी"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'mountain'?",
+    "options": [
+      "पत्रम्",
+      "पर्वतः",
+      "वृष्टिः",
+      "आकाशः"
+    ],
+    "answer": "पर्वतः"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'leaf'?",
+    "options": [
+      "वृष्टिः",
+      "आकाशः",
+      "पत्रम्",
+      "सूर्यः"
+    ],
+    "answer": "पत्रम्"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'sky'?",
+    "options": [
+      "चन्द्रः",
+      "सूर्यः",
+      "आकाशः",
+      "वृष्टिः"
+    ],
+    "answer": "आकाशः"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'rain'?",
+    "options": [
+      "वृष्टिः",
+      "तारा",
+      "सूर्यः",
+      "चन्द्रः"
+    ],
+    "answer": "वृष्टिः"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'sun'?",
+    "options": [
+      "तारा",
+      "वृक्षः",
+      "चन्द्रः",
+      "सूर्यः"
+    ],
+    "answer": "सूर्यः"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'moon'?",
+    "options": [
+      "तारा",
+      "वृक्षः",
+      "चन्द्रः",
+      "पुष्पम्"
+    ],
+    "answer": "चन्द्रः"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sanskrit word for 'star'?",
+    "options": [
+      "नदी",
+      "पुष्पम्",
+      "वृक्षः",
+      "तारा"
+    ],
+    "answer": "तारा"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Sanskrit?",
+    "options": [
+      "रात्रौ शुभम्",
+      "नमस्ते",
+      "स्वागतम्",
+      "प्रभाते शुभम्"
+    ],
+    "answer": "नमस्ते"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Sanskrit?",
+    "options": [
+      "रात्रौ शुभम्",
+      "प्रभाते शुभम्",
+      "कथम् अस्ति?",
+      "स्वागतम्"
+    ],
+    "answer": "प्रभाते शुभम्"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Sanskrit?",
+    "options": [
+      "कुशलम्",
+      "रात्रौ शुभम्",
+      "कथम् अस्ति?",
+      "स्वागतम्"
+    ],
+    "answer": "रात्रौ शुभम्"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Sanskrit?",
+    "options": [
+      "स्वागतम्",
+      "पुनः मिलामः",
+      "कुशलम्",
+      "कथम् अस्ति?"
+    ],
+    "answer": "स्वागतम्"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Sanskrit?",
+    "options": [
+      "कथम् अस्ति?",
+      "पुनः मिलामः",
+      "गच्छतु",
+      "कुशलम्"
+    ],
+    "answer": "कथम् अस्ति?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Sanskrit?",
+    "options": [
+      "पुनः मिलामः",
+      "कुशलम्",
+      "सावधानम्",
+      "गच्छतु"
+    ],
+    "answer": "कुशलम्"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Sanskrit?",
+    "options": [
+      "गच्छतु",
+      "पुनः मिलामः",
+      "सावधानम्",
+      "धन्यवादः"
+    ],
+    "answer": "पुनः मिलामः"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Sanskrit?",
+    "options": [
+      "सावधानम्",
+      "धन्यवादः",
+      "नमस्ते",
+      "गच्छतु"
+    ],
+    "answer": "गच्छतु"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Sanskrit?",
+    "options": [
+      "सावधानम्",
+      "धन्यवादः",
+      "प्रभाते शुभम्",
+      "नमस्ते"
+    ],
+    "answer": "सावधानम्"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Sanskrit?",
+    "options": [
+      "धन्यवादः",
+      "रात्रौ शुभम्",
+      "प्रभाते शुभम्",
+      "नमस्ते"
+    ],
+    "answer": "धन्यवादः"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Sanskrit?",
+    "options": [
+      "अहम् छात्रः अस्मि",
+      "मम नाम ... अस्ति",
+      "अहम् आचार्यः अस्मि",
+      "अहम् ... तः आगतः"
+    ],
+    "answer": "मम नाम ... अस्ति"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Sanskrit?",
+    "options": [
+      "अहम् छात्रः अस्मि",
+      "अहम् ... तः आगतः",
+      "अहम् आचार्यः अस्मि",
+      "त्वाम् मिलित्वा आनन्दः"
+    ],
+    "answer": "अहम् ... तः आगतः"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Sanskrit?",
+    "options": [
+      "त्वाम् मिलित्वा आनन्दः",
+      "अहम् ... निवसामि",
+      "अहम् छात्रः अस्मि",
+      "अहम् आचार्यः अस्मि"
+    ],
+    "answer": "अहम् छात्रः अस्मि"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Sanskrit?",
+    "options": [
+      "अहम् ... निवसामि",
+      "त्वाम् मिलित्वा आनन्दः",
+      "अहम् आचार्यः अस्मि",
+      "अहम् संस्कृतम् पठामि"
+    ],
+    "answer": "अहम् आचार्यः अस्मि"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Sanskrit?",
+    "options": [
+      "त्वाम् मिलित्वा आनन्दः",
+      "अहम् संस्कृतम् पठामि",
+      "अहम् ... निवसामि",
+      "तव नाम किम्?"
+    ],
+    "answer": "त्वाम् मिलित्वा आनन्दः"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Sanskrit?",
+    "options": [
+      "अहम् ... निवसामि",
+      "त्वम् कुतः आगतः?",
+      "अहम् संस्कृतम् पठामि",
+      "तव नाम किम्?"
+    ],
+    "answer": "अहम् ... निवसामि"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Sanskrit' in Sanskrit?",
+    "options": [
+      "त्वम् कुतः आगतः?",
+      "अहम् संस्कृतम् पठामि",
+      "तव वयः किमति?",
+      "तव नाम किम्?"
+    ],
+    "answer": "अहम् संस्कृतम् पठामि"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Sanskrit?",
+    "options": [
+      "तव नाम किम्?",
+      "तव वयः किमति?",
+      "त्वम् कुतः आगतः?",
+      "मम नाम ... अस्ति"
+    ],
+    "answer": "तव नाम किम्?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Sanskrit?",
+    "options": [
+      "मम नाम ... अस्ति",
+      "अहम् ... तः आगतः",
+      "तव वयः किमति?",
+      "त्वम् कुतः आगतः?"
+    ],
+    "answer": "त्वम् कुतः आगतः?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Sanskrit?",
+    "options": [
+      "तव वयः किमति?",
+      "मम नाम ... अस्ति",
+      "अहम् ... तः आगतः",
+      "अहम् छात्रः अस्मि"
+    ],
+    "answer": "तव वयः किमति?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Sanskrit?",
+    "options": [
+      "स्यात्",
+      "निश्चयेन",
+      "न",
+      "आम्"
+    ],
+    "answer": "आम्"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Sanskrit?",
+    "options": [
+      "कदापि न",
+      "निश्चयेन",
+      "न",
+      "स्यात्"
+    ],
+    "answer": "न"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Sanskrit?",
+    "options": [
+      "स्यात्",
+      "निश्चयेन",
+      "कदापि न",
+      "कदाचित्"
+    ],
+    "answer": "स्यात्"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Sanskrit?",
+    "options": [
+      "कदाचित्",
+      "सर्वदा",
+      "कदापि न",
+      "निश्चयेन"
+    ],
+    "answer": "निश्चयेन"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Sanskrit?",
+    "options": [
+      "कदापि न",
+      "न किञ्चित्",
+      "सर्वदा",
+      "कदाचित्"
+    ],
+    "answer": "कदापि न"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Sanskrit?",
+    "options": [
+      "सर्वदा",
+      "कदाचित्",
+      "निश्चितम्",
+      "न किञ्चित्"
+    ],
+    "answer": "कदाचित्"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Sanskrit?",
+    "options": [
+      "न किञ्चित्",
+      "न जानामि",
+      "सर्वदा",
+      "निश्चितम्"
+    ],
+    "answer": "सर्वदा"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Sanskrit?",
+    "options": [
+      "आम्",
+      "न किञ्चित्",
+      "निश्चितम्",
+      "न जानामि"
+    ],
+    "answer": "न किञ्चित्"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Sanskrit?",
+    "options": [
+      "न",
+      "आम्",
+      "निश्चितम्",
+      "न जानामि"
+    ],
+    "answer": "निश्चितम्"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Sanskrit?",
+    "options": [
+      "स्यात्",
+      "न",
+      "आम्",
+      "न जानामि"
+    ],
+    "answer": "न जानामि"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Sanskrit?",
+    "options": [
+      "क्षमा",
+      "क्षमा",
+      "कृपया",
+      "धन्यवादः"
+    ],
+    "answer": "धन्यवादः"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Sanskrit?",
+    "options": [
+      "स्वागतम्",
+      "कृपया",
+      "क्षमा",
+      "क्षमा"
+    ],
+    "answer": "क्षमा"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Sanskrit?",
+    "options": [
+      "न कश्चित् दोषः",
+      "कृपया",
+      "स्वागतम्",
+      "क्षमा"
+    ],
+    "answer": "कृपया"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Sanskrit?",
+    "options": [
+      "क्षमा",
+      "न कश्चित् दोषः",
+      "अभिनन्दनम्",
+      "स्वागतम्"
+    ],
+    "answer": "क्षमा"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Sanskrit?",
+    "options": [
+      "अभिनन्दनम्",
+      "स्वागतम्",
+      "आशीर्वादः",
+      "न कश्चित् दोषः"
+    ],
+    "answer": "स्वागतम्"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Sanskrit?",
+    "options": [
+      "शुभम्",
+      "आशीर्वादः",
+      "अभिनन्दनम्",
+      "न कश्चित् दोषः"
+    ],
+    "answer": "न कश्चित् दोषः"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Sanskrit?",
+    "options": [
+      "आशीर्वादः",
+      "शुभम्",
+      "जन्मदिने शुभम्",
+      "अभिनन्दनम्"
+    ],
+    "answer": "अभिनन्दनम्"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Sanskrit?",
+    "options": [
+      "शुभम्",
+      "आशीर्वादः",
+      "जन्मदिने शुभम्",
+      "धन्यवादः"
+    ],
+    "answer": "आशीर्वादः"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Sanskrit?",
+    "options": [
+      "क्षमा",
+      "धन्यवादः",
+      "शुभम्",
+      "जन्मदिने शुभम्"
+    ],
+    "answer": "शुभम्"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Sanskrit",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Sanskrit?",
+    "options": [
+      "क्षमा",
+      "जन्मदिने शुभम्",
+      "धन्यवादः",
+      "कृपया"
+    ],
+    "answer": "जन्मदिने शुभम्"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'ki'?",
+    "options": [
+      "को",
+      "कु",
+      "कि",
+      "के"
+    ],
+    "answer": "कि"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'ku'?",
+    "options": [
+      "कु",
+      "को",
+      "के",
+      "गि"
+    ],
+    "answer": "कु"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'ke'?",
+    "options": [
+      "के",
+      "गु",
+      "को",
+      "गि"
+    ],
+    "answer": "के"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'ko'?",
+    "options": [
+      "गु",
+      "गे",
+      "गि",
+      "को"
+    ],
+    "answer": "को"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'gi'?",
+    "options": [
+      "गो",
+      "गे",
+      "गि",
+      "गु"
+    ],
+    "answer": "गि"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'gu'?",
+    "options": [
+      "गो",
+      "गे",
+      "चि",
+      "गु"
+    ],
+    "answer": "गु"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'ge'?",
+    "options": [
+      "चु",
+      "गे",
+      "गो",
+      "चि"
+    ],
+    "answer": "गे"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'go'?",
+    "options": [
+      "चि",
+      "गो",
+      "कि",
+      "चु"
+    ],
+    "answer": "गो"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'chi'?",
+    "options": [
+      "कु",
+      "कि",
+      "चि",
+      "चु"
+    ],
+    "answer": "चि"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sanskrit syllable for 'chu'?",
+    "options": [
+      "चु",
+      "कि",
+      "के",
+      "कु"
+    ],
+    "answer": "चु"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'ksha'?",
+    "options": [
+      "क्ष",
+      "त्र",
+      "श्र",
+      "ज्ञ"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'tra'?",
+    "options": [
+      "ज्ञ",
+      "क्र",
+      "श्र",
+      "त्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'jna'?",
+    "options": [
+      "प्र",
+      "क्र",
+      "ज्ञ",
+      "श्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'shra'?",
+    "options": [
+      "स्र",
+      "क्र",
+      "प्र",
+      "श्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'kra'?",
+    "options": [
+      "स्र",
+      "प्र",
+      "ग्र",
+      "क्र"
+    ],
+    "answer": "क्र"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'pra'?",
+    "options": [
+      "द्र",
+      "ग्र",
+      "स्र",
+      "प्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'sra'?",
+    "options": [
+      "ग्र",
+      "द्र",
+      "स्र",
+      "न्त"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'gra'?",
+    "options": [
+      "ग्र",
+      "क्ष",
+      "न्त",
+      "द्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'dra'?",
+    "options": [
+      "क्ष",
+      "न्त",
+      "त्र",
+      "द्र"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sanskrit ligature for 'nta'?",
+    "options": [
+      "ज्ञ",
+      "त्र",
+      "न्त",
+      "क्ष"
+    ],
+    "answer": "न्त"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'sha'?",
+    "options": [
+      "श",
+      "ह",
+      "स",
+      "ल"
+    ],
+    "answer": "श"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'sa'?",
+    "options": [
+      "ह",
+      "स",
+      "ल",
+      "र"
+    ],
+    "answer": "स"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'ha'?",
+    "options": [
+      "र",
+      "व",
+      "ह",
+      "ल"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'la'?",
+    "options": [
+      "व",
+      "य",
+      "र",
+      "ल"
+    ],
+    "answer": "ल"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'ra'?",
+    "options": [
+      "फ",
+      "य",
+      "र",
+      "व"
+    ],
+    "answer": "र"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'va'?",
+    "options": [
+      "य",
+      "व",
+      "फ",
+      "ज"
+    ],
+    "answer": "व"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'ya'?",
+    "options": [
+      "ज",
+      "फ",
+      "य",
+      "क्व"
+    ],
+    "answer": "य"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'fa'?",
+    "options": [
+      "फ",
+      "क्व",
+      "श",
+      "ज"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'za'?",
+    "options": [
+      "श",
+      "क्व",
+      "ज",
+      "स"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sanskrit letter for 'qwa'?",
+    "options": [
+      "श",
+      "स",
+      "ह",
+      "क्व"
+    ],
+    "answer": "क्व"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'क्षीरम्'?",
+    "options": [
+      "ज्ञ",
+      "त्र",
+      "क्ष",
+      "श्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'ज्ञानम्'?",
+    "options": [
+      "ग्र",
+      "श्र",
+      "ज्ञ",
+      "त्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'त्रिकोणम्'?",
+    "options": [
+      "प्र",
+      "ग्र",
+      "त्र",
+      "श्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'श्रद्धा'?",
+    "options": [
+      "प्र",
+      "स्र",
+      "श्र",
+      "ग्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'ग्रन्थः'?",
+    "options": [
+      "द्र",
+      "ग्र",
+      "स्र",
+      "प्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'प्रयत्नः'?",
+    "options": [
+      "फ",
+      "द्र",
+      "प्र",
+      "स्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'स्रोतः'?",
+    "options": [
+      "फ",
+      "स्र",
+      "द्र",
+      "ह"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'द्रव्यम्'?",
+    "options": [
+      "ह",
+      "फ",
+      "क्ष",
+      "द्र"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'फलम्'?",
+    "options": [
+      "ह",
+      "क्ष",
+      "फ",
+      "ज्ञ"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sanskrit letter is used in the word 'हरिद्वारम्'?",
+    "options": [
+      "क्ष",
+      "ज्ञ",
+      "त्र",
+      "ह"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Sunday'?",
+    "options": [
+      "रविवासरः",
+      "बुधवासरः",
+      "मङ्गलवासरः",
+      "सोमवासरः"
+    ],
+    "answer": "रविवासरः"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Monday'?",
+    "options": [
+      "मङ्गलवासरः",
+      "सोमवासरः",
+      "बुधवासरः",
+      "गुरुवासरः"
+    ],
+    "answer": "सोमवासरः"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Tuesday'?",
+    "options": [
+      "बुधवासरः",
+      "गुरुवासरः",
+      "मङ्गलवासरः",
+      "शुक्रवासरः"
+    ],
+    "answer": "मङ्गलवासरः"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Wednesday'?",
+    "options": [
+      "बुधवासरः",
+      "शुक्रवासरः",
+      "गुरुवासरः",
+      "शनिवासरः"
+    ],
+    "answer": "बुधवासरः"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Thursday'?",
+    "options": [
+      "शुक्रवासरः",
+      "गुरुवासरः",
+      "अद्य",
+      "शनिवासरः"
+    ],
+    "answer": "गुरुवासरः"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Friday'?",
+    "options": [
+      "शनिवासरः",
+      "शुक्रवासरः",
+      "श्वः",
+      "अद्य"
+    ],
+    "answer": "शुक्रवासरः"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Saturday'?",
+    "options": [
+      "श्वः",
+      "ह्यः",
+      "अद्य",
+      "शनिवासरः"
+    ],
+    "answer": "शनिवासरः"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Today'?",
+    "options": [
+      "अद्य",
+      "ह्यः",
+      "रविवासरः",
+      "श्वः"
+    ],
+    "answer": "अद्य"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Tomorrow'?",
+    "options": [
+      "ह्यः",
+      "रविवासरः",
+      "सोमवासरः",
+      "श्वः"
+    ],
+    "answer": "श्वः"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sanskrit word for 'Yesterday'?",
+    "options": [
+      "ह्यः",
+      "रविवासरः",
+      "मङ्गलवासरः",
+      "सोमवासरः"
+    ],
+    "answer": "ह्यः"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'red'?",
+    "options": [
+      "नीलम्",
+      "रक्तम्",
+      "पीतम्",
+      "हरितम्"
+    ],
+    "answer": "रक्तम्"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'blue'?",
+    "options": [
+      "पीतम्",
+      "नीलम्",
+      "हरितम्",
+      "कृष्णम्"
+    ],
+    "answer": "नीलम्"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'green'?",
+    "options": [
+      "श्वेतम्",
+      "पीतम्",
+      "कृष्णम्",
+      "हरितम्"
+    ],
+    "answer": "हरितम्"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'yellow'?",
+    "options": [
+      "पीतम्",
+      "कृष्णम्",
+      "नारङ्गम्",
+      "श्वेतम्"
+    ],
+    "answer": "पीतम्"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'black'?",
+    "options": [
+      "कृष्णम्",
+      "गुलाबी",
+      "नारङ्गम्",
+      "श्वेतम्"
+    ],
+    "answer": "कृष्णम्"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'white'?",
+    "options": [
+      "बैगनी",
+      "गुलाबी",
+      "श्वेतम्",
+      "नारङ्गम्"
+    ],
+    "answer": "श्वेतम्"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'orange'?",
+    "options": [
+      "नारङ्गम्",
+      "बैगनी",
+      "गुलाबी",
+      "धूम्रम्"
+    ],
+    "answer": "नारङ्गम्"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'pink'?",
+    "options": [
+      "रक्तम्",
+      "धूम्रम्",
+      "गुलाबी",
+      "बैगनी"
+    ],
+    "answer": "गुलाबी"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'purple'?",
+    "options": [
+      "रक्तम्",
+      "नीलम्",
+      "धूम्रम्",
+      "बैगनी"
+    ],
+    "answer": "बैगनी"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sanskrit word for 'brown'?",
+    "options": [
+      "हरितम्",
+      "धूम्रम्",
+      "रक्तम्",
+      "नीलम्"
+    ],
+    "answer": "धूम्रम्"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'one'?",
+    "options": [
+      "चत्वारि",
+      "त्रीणि",
+      "द्वे",
+      "एकम्"
+    ],
+    "answer": "एकम्"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'two'?",
+    "options": [
+      "पञ्च",
+      "त्रीणि",
+      "द्वे",
+      "चत्वारि"
+    ],
+    "answer": "द्वे"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'three'?",
+    "options": [
+      "त्रीणि",
+      "पञ्च",
+      "षट्",
+      "चत्वारि"
+    ],
+    "answer": "त्रीणि"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'four'?",
+    "options": [
+      "पञ्च",
+      "चत्वारि",
+      "षट्",
+      "सप्त"
+    ],
+    "answer": "चत्वारि"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'five'?",
+    "options": [
+      "अष्ट",
+      "सप्त",
+      "पञ्च",
+      "षट्"
+    ],
+    "answer": "पञ्च"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'six'?",
+    "options": [
+      "षट्",
+      "अष्ट",
+      "सप्त",
+      "नव"
+    ],
+    "answer": "षट्"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'seven'?",
+    "options": [
+      "अष्ट",
+      "सप्त",
+      "नव",
+      "दश"
+    ],
+    "answer": "सप्त"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'eight'?",
+    "options": [
+      "दश",
+      "अष्ट",
+      "एकम्",
+      "नव"
+    ],
+    "answer": "अष्ट"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'nine'?",
+    "options": [
+      "द्वे",
+      "एकम्",
+      "दश",
+      "नव"
+    ],
+    "answer": "नव"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sanskrit word for 'ten'?",
+    "options": [
+      "एकम्",
+      "द्वे",
+      "त्रीणि",
+      "दश"
+    ],
+    "answer": "दश"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'breakfast'?",
+    "options": [
+      "प्रातराशः",
+      "मध्याह्नभोजनम्",
+      "अल्पाहारः",
+      "रात्रिभोजनम्"
+    ],
+    "answer": "प्रातराशः"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'lunch'?",
+    "options": [
+      "अल्पाहारः",
+      "मिष्टान्नम्",
+      "रात्रिभोजनम्",
+      "मध्याह्नभोजनम्"
+    ],
+    "answer": "मध्याह्नभोजनम्"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'dinner'?",
+    "options": [
+      "तीक्ष्णम्",
+      "रात्रिभोजनम्",
+      "अल्पाहारः",
+      "मिष्टान्नम्"
+    ],
+    "answer": "रात्रिभोजनम्"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'snacks'?",
+    "options": [
+      "शाकाहारी",
+      "अल्पाहारः",
+      "मिष्टान्नम्",
+      "तीक्ष्णम्"
+    ],
+    "answer": "अल्पाहारः"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'sweets'?",
+    "options": [
+      "मांसाहारी",
+      "तीक्ष्णम्",
+      "मिष्टान्नम्",
+      "शाकाहारी"
+    ],
+    "answer": "मिष्टान्नम्"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'spicy'?",
+    "options": [
+      "तीक्ष्णम्",
+      "मांसाहारी",
+      "रसः",
+      "शाकाहारी"
+    ],
+    "answer": "तीक्ष्णम्"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'vegetarian'?",
+    "options": [
+      "रसः",
+      "शाकाहारी",
+      "कॉफी",
+      "मांसाहारी"
+    ],
+    "answer": "शाकाहारी"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'non-vegetarian'?",
+    "options": [
+      "प्रातराशः",
+      "मांसाहारी",
+      "रसः",
+      "कॉफी"
+    ],
+    "answer": "मांसाहारी"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'juice'?",
+    "options": [
+      "मध्याह्नभोजनम्",
+      "कॉफी",
+      "प्रातराशः",
+      "रसः"
+    ],
+    "answer": "रसः"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sanskrit word for 'coffee'?",
+    "options": [
+      "रात्रिभोजनम्",
+      "कॉफी",
+      "प्रातराशः",
+      "मध्याह्नभोजनम्"
+    ],
+    "answer": "कॉफी"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Sanskrit?",
+    "options": [
+      "तव नाम किम्?",
+      "तव वयः किमति?",
+      "कथम् अस्ति?",
+      "त्वम् कुतः आगतः?"
+    ],
+    "answer": "कथम् अस्ति?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Sanskrit?",
+    "options": [
+      "त्वम् संस्कृतम् वदसि?",
+      "त्वम् कुतः आगतः?",
+      "तव वयः किमति?",
+      "तव नाम किम्?"
+    ],
+    "answer": "तव नाम किम्?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Sanskrit?",
+    "options": [
+      "त्वम् कुतः आगतः?",
+      "त्वम् संस्कृतम् वदसि?",
+      "तव वयः किमति?",
+      "अहम् त्वाम् साहाय्यम् करोमि?"
+    ],
+    "answer": "त्वम् कुतः आगतः?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Sanskrit?",
+    "options": [
+      "अहम् त्वाम् साहाय्यम् करोमि?",
+      "स्नानगृहम् कुत्र?",
+      "त्वम् संस्कृतम् वदसि?",
+      "तव वयः किमति?"
+    ],
+    "answer": "तव वयः किमति?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Sanskrit?' in Sanskrit?",
+    "options": [
+      "एतत् किमति?",
+      "त्वम् संस्कृतम् वदसि?",
+      "अहम् त्वाम् साहाय्यम् करोमि?",
+      "स्नानगृहम् कुत्र?"
+    ],
+    "answer": "त्वम् संस्कृतम् वदसि?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Sanskrit?",
+    "options": [
+      "अहम् त्वाम् साहाय्यम् करोमि?",
+      "एतत् किमति?",
+      "स्नानगृहम् कुत्र?",
+      "किमति समयः?"
+    ],
+    "answer": "अहम् त्वाम् साहाय्यम् करोमि?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Sanskrit?",
+    "options": [
+      "त्वम् कुत्र निवससि?",
+      "किमति समयः?",
+      "एतत् किमति?",
+      "स्नानगृहम् कुत्र?"
+    ],
+    "answer": "स्नानगृहम् कुत्र?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Sanskrit?",
+    "options": [
+      "त्वम् कुत्र निवससि?",
+      "एतत् किमति?",
+      "कथम् अस्ति?",
+      "किमति समयः?"
+    ],
+    "answer": "एतत् किमति?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Sanskrit?",
+    "options": [
+      "किमति समयः?",
+      "त्वम् कुत्र निवससि?",
+      "तव नाम किम्?",
+      "कथम् अस्ति?"
+    ],
+    "answer": "किमति समयः?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Sanskrit?",
+    "options": [
+      "तव नाम किम्?",
+      "कथम् अस्ति?",
+      "त्वम् कुतः आगतः?",
+      "त्वम् कुत्र निवससि?"
+    ],
+    "answer": "त्वम् कुत्र निवससि?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Sanskrit?",
+    "options": [
+      "कृपया उपविशतु",
+      "कृपया मम साहाय्यम् करोतु",
+      "कृपया प्रतीक्षताम्",
+      "कृपया अत्र आगच्छतु"
+    ],
+    "answer": "कृपया मम साहाय्यम् करोतु"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Sanskrit?",
+    "options": [
+      "कृपया अत्र आगच्छतु",
+      "कृपया उपविशतु",
+      "कृपया मन्दम् वदतु",
+      "कृपया प्रतीक्षताम्"
+    ],
+    "answer": "कृपया प्रतीक्षताम्"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Sanskrit?",
+    "options": [
+      "कृपया अत्र आगच्छतु",
+      "कृपया मन्दम् वदतु",
+      "कृपया उपविशतु",
+      "कृपया लिखतु"
+    ],
+    "answer": "कृपया अत्र आगच्छतु"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Sanskrit?",
+    "options": [
+      "कृपया पुनः वदतु",
+      "कृपया मन्दम् वदतु",
+      "कृपया उपविशतु",
+      "कृपया लिखतु"
+    ],
+    "answer": "कृपया उपविशतु"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Sanskrit?",
+    "options": [
+      "कृपया मन्दम् वदतु",
+      "कृपया पुनः वदतु",
+      "कृपया मह्यम् दर्शयतु",
+      "कृपया लिखतु"
+    ],
+    "answer": "कृपया मन्दम् वदतु"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Sanskrit?",
+    "options": [
+      "कृपया पुनः वदतु",
+      "कृपया द्वारम् उद्घाटयतु",
+      "कृपया लिखतु",
+      "कृपया मह्यम् दर्शयतु"
+    ],
+    "answer": "कृपया लिखतु"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Sanskrit?",
+    "options": [
+      "कृपया गवाक्षम् पिधातु",
+      "कृपया द्वारम् उद्घाटयतु",
+      "कृपया मह्यम् दर्शयतु",
+      "कृपया पुनः वदतु"
+    ],
+    "answer": "कृपया पुनः वदतु"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Sanskrit?",
+    "options": [
+      "कृपया गवाक्षम् पिधातु",
+      "कृपया द्वारम् उद्घाटयतु",
+      "कृपया मम साहाय्यम् करोतु",
+      "कृपया मह्यम् दर्शयतु"
+    ],
+    "answer": "कृपया मह्यम् दर्शयतु"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Sanskrit?",
+    "options": [
+      "कृपया द्वारम् उद्घाटयतु",
+      "कृपया मम साहाय्यम् करोतु",
+      "कृपया प्रतीक्षताम्",
+      "कृपया गवाक्षम् पिधातु"
+    ],
+    "answer": "कृपया द्वारम् उद्घाटयतु"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Sanskrit?",
+    "options": [
+      "कृपया गवाक्षम् पिधातु",
+      "कृपया मम साहाय्यम् करोतु",
+      "कृपया अत्र आगच्छतु",
+      "कृपया प्रतीक्षताम्"
+    ],
+    "answer": "कृपया गवाक्षम् पिधातु"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Sanskrit?",
+    "options": [
+      "अहम् एतत् क्रेतुम् इच्छामि",
+      "अहम् एतत् परीक्षितुम् शक्नोमि?",
+      "छूटः अस्ति?",
+      "एतत् किमति?"
+    ],
+    "answer": "एतत् किमति?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Sanskrit?",
+    "options": [
+      "छूटः अस्ति?",
+      "अहम् एतत् परीक्षितुम् शक्नोमि?",
+      "अहम् एतत् क्रेतुम् इच्छामि",
+      "भवान् कार्डम् स्वीकरोति?"
+    ],
+    "answer": "छूटः अस्ति?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Sanskrit?",
+    "options": [
+      "भवान् कार्डम् स्वीकरोति?",
+      "अहम् एतत् परीक्षितुम् शक्नोमि?",
+      "गणकः कुत्र?",
+      "अहम् एतत् क्रेतुम् इच्छामि"
+    ],
+    "answer": "अहम् एतत् क्रेतुम् इच्छामि"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Sanskrit?",
+    "options": [
+      "अहम् एतत् परीक्षितुम् शक्नोमि?",
+      "एतत् उपलब्धम्?",
+      "गणकः कुत्र?",
+      "भवान् कार्डम् स्वीकरोति?"
+    ],
+    "answer": "अहम् एतत् परीक्षितुम् शक्नोमि?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Sanskrit?",
+    "options": [
+      "एतत् उपलब्धम्?",
+      "भवान् कार्डम् स्वीकरोति?",
+      "गणकः कुत्र?",
+      "कृपया एतत् संयोजयतु"
+    ],
+    "answer": "भवान् कार्डम् स्वीकरोति?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Sanskrit?",
+    "options": [
+      "मह्यम् थैली आवश्यकी",
+      "कृपया एतत् संयोजयतु",
+      "एतत् उपलब्धम्?",
+      "गणकः कुत्र?"
+    ],
+    "answer": "गणकः कुत्र?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Sanskrit?",
+    "options": [
+      "मह्यम् थैली आवश्यकी",
+      "कृपया एतत् संयोजयतु",
+      "एतत् उपलब्धम्?",
+      "समयः कः?"
+    ],
+    "answer": "एतत् उपलब्धम्?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Sanskrit?",
+    "options": [
+      "कृपया एतत् संयोजयतु",
+      "एतत् किमति?",
+      "मह्यम् थैली आवश्यकी",
+      "समयः कः?"
+    ],
+    "answer": "कृपया एतत् संयोजयतु"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Sanskrit?",
+    "options": [
+      "समयः कः?",
+      "मह्यम् थैली आवश्यकी",
+      "छूटः अस्ति?",
+      "एतत् किमति?"
+    ],
+    "answer": "मह्यम् थैली आवश्यकी"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Sanskrit?",
+    "options": [
+      "एतत् किमति?",
+      "समयः कः?",
+      "अहम् एतत् क्रेतुम् इच्छामि",
+      "छूटः अस्ति?"
+    ],
+    "answer": "समयः कः?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Sanskrit?",
+    "options": [
+      "बस स्थानकम् कुत्र?",
+      "रेल स्थानकम् कथम् गच्छामि?",
+      "एतत् अत्र दूरम्?",
+      "आपणम् कः मार्गः?"
+    ],
+    "answer": "बस स्थानकम् कुत्र?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Sanskrit?",
+    "options": [
+      "रेल स्थानकम् कथम् गच्छामि?",
+      "आपणम् कः मार्गः?",
+      "एतत् अत्र दूरम्?",
+      "वामतः गच्छतु"
+    ],
+    "answer": "रेल स्थानकम् कथम् गच्छामि?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Sanskrit?",
+    "options": [
+      "दक्षिणतः गच्छतु",
+      "एतत् अत्र दूरम्?",
+      "आपणम् कः मार्गः?",
+      "वामतः गच्छतु"
+    ],
+    "answer": "आपणम् कः मार्गः?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Sanskrit?",
+    "options": [
+      "वामतः गच्छतु",
+      "एतत् अत्र दूरम्?",
+      "ऋजुम् गच्छतु",
+      "दक्षिणतः गच्छतु"
+    ],
+    "answer": "एतत् अत्र दूरम्?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Sanskrit?",
+    "options": [
+      "दक्षिणतः गच्छतु",
+      "वामतः गच्छतु",
+      "ऋजुम् गच्छतु",
+      "अत्र तिष्ठतु"
+    ],
+    "answer": "वामतः गच्छतु"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Sanskrit?",
+    "options": [
+      "दक्षिणतः गच्छतु",
+      "अत्र तिष्ठतु",
+      "कियत् कालम् लागिष्यति?",
+      "ऋजुम् गच्छतु"
+    ],
+    "answer": "दक्षिणतः गच्छतु"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Sanskrit?",
+    "options": [
+      "ऋजुम् गच्छतु",
+      "अत्र तिष्ठतु",
+      "कियत् कालम् लागिष्यति?",
+      "नक्शे दर्शयितुम् शक्नोति?"
+    ],
+    "answer": "ऋजुम् गच्छतु"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Sanskrit?",
+    "options": [
+      "कियत् कालम् लागिष्यति?",
+      "अत्र तिष्ठतु",
+      "नक्शे दर्शयितुम् शक्नोति?",
+      "बस स्थानकम् कुत्र?"
+    ],
+    "answer": "अत्र तिष्ठतु"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Sanskrit?",
+    "options": [
+      "बस स्थानकम् कुत्र?",
+      "रेल स्थानकम् कथम् गच्छामि?",
+      "कियत् कालम् लागिष्यति?",
+      "नक्शे दर्शयितुम् शक्नोति?"
+    ],
+    "answer": "कियत् कालम् लागिष्यति?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Sanskrit",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Sanskrit?",
+    "options": [
+      "आपणम् कः मार्गः?",
+      "रेल स्थानकम् कथम् गच्छामि?",
+      "बस स्थानकम् कुत्र?",
+      "नक्शे दर्शयितुम् शक्नोति?"
+    ],
+    "answer": "नक्शे दर्शयितुम् शक्नोति?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'go'?",
+    "options": [
+      "अपठत्",
+      "अपश्यत्",
+      "अगच्छत्",
+      "अखादत्"
+    ],
+    "answer": "अगच्छत्"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'eat'?",
+    "options": [
+      "अलिखत्",
+      "अखादत्",
+      "अपश्यत्",
+      "अपठत्"
+    ],
+    "answer": "अखादत्"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'see'?",
+    "options": [
+      "अपठत्",
+      "अलिखत्",
+      "अपश्यत्",
+      "आगच्छत्"
+    ],
+    "answer": "अपश्यत्"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'read'?",
+    "options": [
+      "आगच्छत्",
+      "अलिखत्",
+      "अददात्",
+      "अपठत्"
+    ],
+    "answer": "अपठत्"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'write'?",
+    "options": [
+      "अलिखत्",
+      "अगृह्णात्",
+      "आगच्छत्",
+      "अददात्"
+    ],
+    "answer": "अलिखत्"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'come'?",
+    "options": [
+      "अददात्",
+      "अक्रीडत्",
+      "अगृह्णात्",
+      "आगच्छत्"
+    ],
+    "answer": "आगच्छत्"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'give'?",
+    "options": [
+      "अददात्",
+      "अक्रीडत्",
+      "अस्वप्सीत्",
+      "अगृह्णात्"
+    ],
+    "answer": "अददात्"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'take'?",
+    "options": [
+      "अस्वप्सीत्",
+      "अगृह्णात्",
+      "अगच्छत्",
+      "अक्रीडत्"
+    ],
+    "answer": "अगृह्णात्"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'play'?",
+    "options": [
+      "अगच्छत्",
+      "अस्वप्सीत्",
+      "अखादत्",
+      "अक्रीडत्"
+    ],
+    "answer": "अक्रीडत्"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sanskrit past tense of 'sleep'?",
+    "options": [
+      "अखादत्",
+      "अगच्छत्",
+      "अपश्यत्",
+      "अस्वप्सीत्"
+    ],
+    "answer": "अस्वप्सीत्"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'book'?",
+    "options": [
+      "बालिकाः",
+      "बालकाः",
+      "पुस्तकानि",
+      "लेखन्यः"
+    ],
+    "answer": "पुस्तकानि"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'pen'?",
+    "options": [
+      "लेखन्यः",
+      "बालकाः",
+      "पुष्पाणि",
+      "बालिकाः"
+    ],
+    "answer": "लेखन्यः"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'boy'?",
+    "options": [
+      "पुष्पाणि",
+      "बालिकाः",
+      "पत्राणि",
+      "बालकाः"
+    ],
+    "answer": "बालकाः"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'girl'?",
+    "options": [
+      "बालिकाः",
+      "पत्राणि",
+      "पुष्पाणि",
+      "ताराः"
+    ],
+    "answer": "बालिकाः"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'flower'?",
+    "options": [
+      "पुष्पाणि",
+      "ताराः",
+      "वृक्षाः",
+      "पत्राणि"
+    ],
+    "answer": "पुष्पाणि"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'leaf'?",
+    "options": [
+      "नद्यः",
+      "वृक्षाः",
+      "पत्राणि",
+      "ताराः"
+    ],
+    "answer": "पत्राणि"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'star'?",
+    "options": [
+      "आसनानि",
+      "वृक्षाः",
+      "नद्यः",
+      "ताराः"
+    ],
+    "answer": "ताराः"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'tree'?",
+    "options": [
+      "नद्यः",
+      "आसनानि",
+      "वृक्षाः",
+      "पुस्तकानि"
+    ],
+    "answer": "वृक्षाः"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'river'?",
+    "options": [
+      "आसनानि",
+      "नद्यः",
+      "पुस्तकानि",
+      "लेखन्यः"
+    ],
+    "answer": "नद्यः"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sanskrit plural of 'chair'?",
+    "options": [
+      "पुस्तकानि",
+      "लेखन्यः",
+      "बालकाः",
+      "आसनानि"
+    ],
+    "answer": "आसनानि"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'and'?",
+    "options": [
+      "किन्तु",
+      "यतः",
+      "वा",
+      "च"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'but'?",
+    "options": [
+      "वा",
+      "यदि",
+      "किन्तु",
+      "यतः"
+    ],
+    "answer": "किन्तु"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'or'?",
+    "options": [
+      "यदा",
+      "वा",
+      "यदि",
+      "यतः"
+    ],
+    "answer": "वा"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'because'?",
+    "options": [
+      "यदा",
+      "यतः",
+      "यदि",
+      "यत्र"
+    ],
+    "answer": "यतः"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'if'?",
+    "options": [
+      "यत्र",
+      "यदा",
+      "कथम्",
+      "यदि"
+    ],
+    "answer": "यदि"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'when'?",
+    "options": [
+      "कस्मात्",
+      "कथम्",
+      "यदा",
+      "यत्र"
+    ],
+    "answer": "यदा"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'where'?",
+    "options": [
+      "यत्र",
+      "सह",
+      "कथम्",
+      "कस्मात्"
+    ],
+    "answer": "यत्र"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'how'?",
+    "options": [
+      "कथम्",
+      "कस्मात्",
+      "सह",
+      "च"
+    ],
+    "answer": "कथम्"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'why'?",
+    "options": [
+      "सह",
+      "कस्मात्",
+      "किन्तु",
+      "च"
+    ],
+    "answer": "कस्मात्"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sanskrit particle for 'with'?",
+    "options": [
+      "वा",
+      "च",
+      "सह",
+      "किन्तु"
+    ],
+    "answer": "सह"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Sanskrit?",
+    "options": [
+      "न खादति",
+      "न आगच्छति",
+      "न पठति",
+      "न गच्छति"
+    ],
+    "answer": "न गच्छति"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Sanskrit?",
+    "options": [
+      "न पठति",
+      "न आगच्छति",
+      "न लिखति",
+      "न खादति"
+    ],
+    "answer": "न आगच्छति"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Sanskrit?",
+    "options": [
+      "न क्रीडति",
+      "न लिखति",
+      "न पठति",
+      "न खादति"
+    ],
+    "answer": "न खादति"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Sanskrit?",
+    "options": [
+      "न पठति",
+      "न क्रीडति",
+      "न लिखति",
+      "न स्वपिति"
+    ],
+    "answer": "न पठति"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Sanskrit?",
+    "options": [
+      "न स्वपिति",
+      "न क्रीडति",
+      "न पश्यति",
+      "न लिखति"
+    ],
+    "answer": "न लिखति"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Sanskrit?",
+    "options": [
+      "न क्रीडति",
+      "न ददाति",
+      "न पश्यति",
+      "न स्वपिति"
+    ],
+    "answer": "न क्रीडति"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Sanskrit?",
+    "options": [
+      "न गृह्णाति",
+      "न पश्यति",
+      "न स्वपिति",
+      "न ददाति"
+    ],
+    "answer": "न स्वपिति"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Sanskrit?",
+    "options": [
+      "न पश्यति",
+      "न गच्छति",
+      "न गृह्णाति",
+      "न ददाति"
+    ],
+    "answer": "न पश्यति"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Sanskrit?",
+    "options": [
+      "न गृह्णाति",
+      "न गच्छति",
+      "न आगच्छति",
+      "न ददाति"
+    ],
+    "answer": "न ददाति"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Sanskrit?",
+    "options": [
+      "न गृह्णाति",
+      "न आगच्छति",
+      "न खादति",
+      "न गच्छति"
+    ],
+    "answer": "न गृह्णाति"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'apple'",
+    "options": [
+      "कदलीफलम्",
+      "सेवम्",
+      "श्वानः",
+      "मार्जारः"
+    ],
+    "answer": "सेवम्"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'banana'",
+    "options": [
+      "कदलीफलम्",
+      "मार्जारः",
+      "यानम्",
+      "श्वानः"
+    ],
+    "answer": "कदलीफलम्"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'cat'",
+    "options": [
+      "मार्जारः",
+      "यानम्",
+      "श्वानः",
+      "बसयानम्"
+    ],
+    "answer": "मार्जारः"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'dog'",
+    "options": [
+      "बसयानम्",
+      "रेलयानम्",
+      "श्वानः",
+      "यानम्"
+    ],
+    "answer": "श्वानः"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'car'",
+    "options": [
+      "यानम्",
+      "बसयानम्",
+      "गृहम्",
+      "रेलयानम्"
+    ],
+    "answer": "यानम्"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'bus'",
+    "options": [
+      "नगरम्",
+      "गृहम्",
+      "रेलयानम्",
+      "बसयानम्"
+    ],
+    "answer": "बसयानम्"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'train'",
+    "options": [
+      "गृहम्",
+      "ग्रामः",
+      "रेलयानम्",
+      "नगरम्"
+    ],
+    "answer": "रेलयानम्"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'house'",
+    "options": [
+      "ग्रामः",
+      "नगरम्",
+      "सेवम्",
+      "गृहम्"
+    ],
+    "answer": "गृहम्"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'city'",
+    "options": [
+      "ग्रामः",
+      "नगरम्",
+      "कदलीफलम्",
+      "सेवम्"
+    ],
+    "answer": "नगरम्"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sanskrit word for 'village'",
+    "options": [
+      "सेवम्",
+      "कदलीफलम्",
+      "ग्रामः",
+      "मार्जारः"
+    ],
+    "answer": "ग्रामः"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Good morning'",
+    "options": [
+      "कथम् अस्ति?",
+      "प्रभाते शुभम्",
+      "क्षमा",
+      "धन्यवादः"
+    ],
+    "answer": "प्रभाते शुभम्"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'How are you?'",
+    "options": [
+      "धन्यवादः",
+      "कथम् अस्ति?",
+      "कृपया प्रविशतु",
+      "क्षमा"
+    ],
+    "answer": "कथम् अस्ति?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Thank you'",
+    "options": [
+      "धन्यवादः",
+      "क्षमा",
+      "कृपया प्रविशतु",
+      "उपविशतु"
+    ],
+    "answer": "धन्यवादः"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Sorry'",
+    "options": [
+      "उत्तिष्ठतु",
+      "कृपया प्रविशतु",
+      "उपविशतु",
+      "क्षमा"
+    ],
+    "answer": "क्षमा"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Please come in'",
+    "options": [
+      "उपविशतु",
+      "उत्तिष्ठतु",
+      "कृपया प्रविशतु",
+      "अग्रे गच्छतु"
+    ],
+    "answer": "कृपया प्रविशतु"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Sit down'",
+    "options": [
+      "उपविशतु",
+      "अग्रे गच्छतु",
+      "उत्तिष्ठतु",
+      "साधु"
+    ],
+    "answer": "उपविशतु"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Stand up'",
+    "options": [
+      "अग्रे गच्छतु",
+      "साधु",
+      "अभिनन्दनम्",
+      "उत्तिष्ठतु"
+    ],
+    "answer": "उत्तिष्ठतु"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Go ahead'",
+    "options": [
+      "अग्रे गच्छतु",
+      "साधु",
+      "अभिनन्दनम्",
+      "प्रभाते शुभम्"
+    ],
+    "answer": "अग्रे गच्छतु"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Well done'",
+    "options": [
+      "कथम् अस्ति?",
+      "साधु",
+      "अभिनन्दनम्",
+      "प्रभाते शुभम्"
+    ],
+    "answer": "साधु"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sanskrit phrase for 'Congratulations'",
+    "options": [
+      "धन्यवादः",
+      "प्रभाते शुभम्",
+      "अभिनन्दनम्",
+      "कथम् अस्ति?"
+    ],
+    "answer": "अभिनन्दनम्"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'I am going to school'",
+    "options": [
+      "ते पुस्तकानि पठन्ति",
+      "सा अन्नम् खादति",
+      "वयम् क्रिकेट् क्रीडामः",
+      "अहम् विद्यालयम् गच्छामि"
+    ],
+    "answer": "अहम् विद्यालयम् गच्छामि"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'She is eating rice'",
+    "options": [
+      "ते पुस्तकानि पठन्ति",
+      "वयम् क्रिकेट् क्रीडामः",
+      "सा अन्नम् खादति",
+      "सः पत्रम् लिखति"
+    ],
+    "answer": "सा अन्नम् खादति"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'We are playing cricket'",
+    "options": [
+      "सः पत्रम् लिखति",
+      "ते पुस्तकानि पठन्ति",
+      "वयम् क्रिकेट् क्रीडामः",
+      "त्वम् मम मित्रम्"
+    ],
+    "answer": "वयम् क्रिकेट् क्रीडामः"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'They are reading books'",
+    "options": [
+      "ते पुस्तकानि पठन्ति",
+      "त्वम् मम मित्रम्",
+      "सः पत्रम् लिखति",
+      "इदानीम् वृष्टिः भवति"
+    ],
+    "answer": "ते पुस्तकानि पठन्ति"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'He is writing a letter'",
+    "options": [
+      "इदानीम् वृष्टिः भवति",
+      "मह्यम् संस्कृतम् रोचते",
+      "सः पत्रम् लिखति",
+      "त्वम् मम मित्रम्"
+    ],
+    "answer": "सः पत्रम् लिखति"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'You are my friend'",
+    "options": [
+      "वयम् भारते निवसामः",
+      "मह्यम् संस्कृतम् रोचते",
+      "त्वम् मम मित्रम्",
+      "इदानीम् वृष्टिः भवति"
+    ],
+    "answer": "त्वम् मम मित्रम्"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'It is raining now'",
+    "options": [
+      "सा गीतम् गायति",
+      "वयम् भारते निवसामः",
+      "इदानीम् वृष्टिः भवति",
+      "मह्यम् संस्कृतम् रोचते"
+    ],
+    "answer": "इदानीम् वृष्टिः भवति"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'I like Sanskrit'",
+    "options": [
+      "वयम् भारते निवसामः",
+      "मह्यम् संस्कृतम् रोचते",
+      "अहम् विद्यालयम् गच्छामि",
+      "सा गीतम् गायति"
+    ],
+    "answer": "मह्यम् संस्कृतम् रोचते"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'We live in India'",
+    "options": [
+      "अहम् विद्यालयम् गच्छामि",
+      "सा गीतम् गायति",
+      "सा अन्नम् खादति",
+      "वयम् भारते निवसामः"
+    ],
+    "answer": "वयम् भारते निवसामः"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sanskrit sentence for 'She is singing a song'",
+    "options": [
+      "सा गीतम् गायति",
+      "वयम् क्रिकेट् क्रीडामः",
+      "अहम् विद्यालयम् गच्छामि",
+      "सा अन्नम् खादति"
+    ],
+    "answer": "सा गीतम् गायति"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "कथम् अस्ति? - कुशलम्",
+      "त्वम् कुत्र गच्छसि? - आपणम्",
+      "त्वम् आङ्ग्लभाषाम् वदसि? - आम्, किञ्चित्",
+      "तव नाम किम्? - मम नाम रविः"
+    ],
+    "answer": "कथम् अस्ति? - कुशलम्"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "तव नाम किम्? - मम नाम रविः",
+      "त्वम् कुत्र गच्छसि? - आपणम्",
+      "त्वम् आङ्ग्लभाषाम् वदसि? - आम्, किञ्चित्",
+      "त्वम् मम साहाय्यम् करोषि? - निश्चितम्"
+    ],
+    "answer": "तव नाम किम्? - मम नाम रविः"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "किमति समयः? - पञ्च वादनम्",
+      "त्वम् मम साहाय्यम् करोषि? - निश्चितम्",
+      "त्वम् कुत्र गच्छसि? - आपणम्",
+      "त्वम् आङ्ग्लभाषाम् वदसि? - आम्, किञ्चित्"
+    ],
+    "answer": "त्वम् कुत्र गच्छसि? - आपणम्"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "त्वम् मम साहाय्यम् करोषि? - निश्चितम्",
+      "त्वम् आङ्ग्लभाषाम् वदसि? - आम्, किञ्चित्",
+      "किमति समयः? - पञ्च वादनम्",
+      "बस स्थानकम् कुत्र? - तत्र"
+    ],
+    "answer": "त्वम् आङ्ग्लभाषाम् वदसि? - आम्, किञ्चित्"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "त्वम् मम साहाय्यम् करोषि? - निश्चितम्",
+      "किमति समयः? - पञ्च वादनम्",
+      "बस स्थानकम् कुत्र? - तत्र",
+      "एतत् किमति? - पञ्चाशत् रुप्यकाणि"
+    ],
+    "answer": "त्वम् मम साहाय्यम् करोषि? - निश्चितम्"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "बस स्थानकम् कुत्र? - तत्र",
+      "कृपया प्रविशतु। - धन्यवादः",
+      "एतत् किमति? - पञ्चाशत् रुप्यकाणि",
+      "किमति समयः? - पञ्च वादनम्"
+    ],
+    "answer": "किमति समयः? - पञ्च वादनम्"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "बस स्थानकम् कुत्र? - तत्र",
+      "गच्छतु। - पुनः मिलामः",
+      "एतत् किमति? - पञ्चाशत् रुप्यकाणि",
+      "कृपया प्रविशतु। - धन्यवादः"
+    ],
+    "answer": "बस स्थानकम् कुत्र? - तत्र"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "गच्छतु। - पुनः मिलामः",
+      "कथम् अस्ति? - कुशलम्",
+      "एतत् किमति? - पञ्चाशत् रुप्यकाणि",
+      "कृपया प्रविशतु। - धन्यवादः"
+    ],
+    "answer": "एतत् किमति? - पञ्चाशत् रुप्यकाणि"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "गच्छतु। - पुनः मिलामः",
+      "कृपया प्रविशतु। - धन्यवादः",
+      "तव नाम किम्? - मम नाम रविः",
+      "कथम् अस्ति? - कुशलम्"
+    ],
+    "answer": "कृपया प्रविशतु। - धन्यवादः"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sanskrit dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "गच्छतु। - पुनः मिलामः",
+      "त्वम् कुत्र गच्छसि? - आपणम्",
+      "तव नाम किम्? - मम नाम रविः",
+      "कथम् अस्ति? - कुशलम्"
+    ],
+    "answer": "गच्छतु। - पुनः मिलामः"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Sanskrit?",
+    "options": [
+      "अहम् एतत् क्रेतुम् इच्छामि",
+      "एतत् किमति?",
+      "गणकः कुत्र?",
+      "छूटः अस्ति?"
+    ],
+    "answer": "अहम् एतत् क्रेतुम् इच्छामि"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Sanskrit?",
+    "options": [
+      "छूटः अस्ति?",
+      "एतत् किमति?",
+      "भवान् कार्डम् स्वीकरोति?",
+      "गणकः कुत्र?"
+    ],
+    "answer": "एतत् किमति?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Sanskrit?",
+    "options": [
+      "गणकः कुत्र?",
+      "कृपया एतत् संयोजयतु",
+      "छूटः अस्ति?",
+      "भवान् कार्डम् स्वीकरोति?"
+    ],
+    "answer": "छूटः अस्ति?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Sanskrit?",
+    "options": [
+      "भवान् कार्डम् स्वीकरोति?",
+      "कृपया एतत् संयोजयतु",
+      "मह्यम् थैली आवश्यकी",
+      "गणकः कुत्र?"
+    ],
+    "answer": "गणकः कुत्र?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Sanskrit?",
+    "options": [
+      "कृपया एतत् संयोजयतु",
+      "भवान् कार्डम् स्वीकरोति?",
+      "मह्यम् थैली आवश्यकी",
+      "एतत् उपलब्धम्?"
+    ],
+    "answer": "भवान् कार्डम् स्वीकरोति?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Sanskrit?",
+    "options": [
+      "मह्यम् थैली आवश्यकी",
+      "एतत् उपलब्धम्?",
+      "कृपया एतत् संयोजयतु",
+      "समयः कः?"
+    ],
+    "answer": "कृपया एतत् संयोजयतु"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Sanskrit?",
+    "options": [
+      "एतत् उपलब्धम्?",
+      "मह्यम् थैली आवश्यकी",
+      "अहम् एतत् परीक्षितुम् शक्नोमि?",
+      "समयः कः?"
+    ],
+    "answer": "मह्यम् थैली आवश्यकी"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Sanskrit?",
+    "options": [
+      "अहम् एतत् क्रेतुम् इच्छामि",
+      "अहम् एतत् परीक्षितुम् शक्नोमि?",
+      "समयः कः?",
+      "एतत् उपलब्धम्?"
+    ],
+    "answer": "एतत् उपलब्धम्?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Sanskrit?",
+    "options": [
+      "एतत् किमति?",
+      "समयः कः?",
+      "अहम् एतत् क्रेतुम् इच्छामि",
+      "अहम् एतत् परीक्षितुम् शक्नोमि?"
+    ],
+    "answer": "समयः कः?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Sanskrit?",
+    "options": [
+      "एतत् किमति?",
+      "अहम् एतत् क्रेतुम् इच्छामि",
+      "अहम् एतत् परीक्षितुम् शक्नोमि?",
+      "छूटः अस्ति?"
+    ],
+    "answer": "अहम् एतत् परीक्षितुम् शक्नोमि?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Sanskrit?",
+    "options": [
+      "रेल स्थानकम् कुत्र?",
+      "नगरम् कः बसः गच्छति?",
+      "कियत् कालम् लागिष्यति?",
+      "विमानस्थानकम् कथम् गच्छामि?"
+    ],
+    "answer": "रेल स्थानकम् कुत्र?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Sanskrit?",
+    "options": [
+      "कियत् कालम् लागिष्यति?",
+      "विमानस्थानकम् कथम् गच्छामि?",
+      "एतत् अत्र दूरम्?",
+      "नगरम् कः बसः गच्छति?"
+    ],
+    "answer": "विमानस्थानकम् कथम् गच्छामि?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Sanskrit?",
+    "options": [
+      "कियत् कालम् लागिष्यति?",
+      "नगरम् कः बसः गच्छति?",
+      "एतत् अत्र दूरम्?",
+      "टैक्सी कुत्र मिलति?"
+    ],
+    "answer": "नगरम् कः बसः गच्छति?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Sanskrit?",
+    "options": [
+      "होटलम् कुत्र?",
+      "कियत् कालम् लागिष्यति?",
+      "एतत् अत्र दूरम्?",
+      "टैक्सी कुत्र मिलति?"
+    ],
+    "answer": "कियत् कालम् लागिष्यति?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Sanskrit?",
+    "options": [
+      "टैक्सी कुत्र मिलति?",
+      "एतत् अत्र दूरम्?",
+      "नक्शे दर्शयितुम् शक्नोति?",
+      "होटलम् कुत्र?"
+    ],
+    "answer": "एतत् अत्र दूरम्?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Sanskrit?",
+    "options": [
+      "टैक्सी कुत्र मिलति?",
+      "होटलम् कुत्र?",
+      "स्नानगृहम् कुत्र?",
+      "नक्शे दर्शयितुम् शक्नोति?"
+    ],
+    "answer": "टैक्सी कुत्र मिलति?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Sanskrit?",
+    "options": [
+      "स्नानगृहम् कुत्र?",
+      "होटलम् कुत्र?",
+      "नक्शे दर्शयितुम् शक्नोति?",
+      "अहम् मार्गम् हतवान्"
+    ],
+    "answer": "होटलम् कुत्र?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Sanskrit?",
+    "options": [
+      "अहम् मार्गम् हतवान्",
+      "स्नानगृहम् कुत्र?",
+      "नक्शे दर्शयितुम् शक्नोति?",
+      "रेल स्थानकम् कुत्र?"
+    ],
+    "answer": "नक्शे दर्शयितुम् शक्नोति?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Sanskrit?",
+    "options": [
+      "स्नानगृहम् कुत्र?",
+      "विमानस्थानकम् कथम् गच्छामि?",
+      "रेल स्थानकम् कुत्र?",
+      "अहम् मार्गम् हतवान्"
+    ],
+    "answer": "स्नानगृहम् कुत्र?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Sanskrit?",
+    "options": [
+      "अहम् मार्गम् हतवान्",
+      "नगरम् कः बसः गच्छति?",
+      "रेल स्थानकम् कुत्र?",
+      "विमानस्थानकम् कथम् गच्छामि?"
+    ],
+    "answer": "अहम् मार्गम् हतवान्"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Sanskrit?",
+    "options": [
+      "पुलिसम् आह्वयतु",
+      "चिकित्सालयः कुत्र?",
+      "मह्यम् वैद्यः आवश्यकः",
+      "अहम् रोगी"
+    ],
+    "answer": "पुलिसम् आह्वयतु"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Sanskrit?",
+    "options": [
+      "मह्यम् वैद्यः आवश्यकः",
+      "अहम् रोगी",
+      "चिकित्सालयः कुत्र?",
+      "साहाय्यम्!"
+    ],
+    "answer": "मह्यम् वैद्यः आवश्यकः"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Sanskrit?",
+    "options": [
+      "चिकित्सालयः कुत्र?",
+      "अहम् रोगी",
+      "मम मुद्राकोशः नष्टः",
+      "साहाय्यम्!"
+    ],
+    "answer": "चिकित्सालयः कुत्र?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Sanskrit?",
+    "options": [
+      "मम मुद्राकोशः नष्टः",
+      "अग्निः अस्ति",
+      "साहाय्यम्!",
+      "अहम् रोगी"
+    ],
+    "answer": "अहम् रोगी"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Sanskrit?",
+    "options": [
+      "अग्निः अस्ति",
+      "मम मुद्राकोशः नष्टः",
+      "साहाय्यम्!",
+      "मम दुर्घटना अभवत्"
+    ],
+    "answer": "साहाय्यम्!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Sanskrit?",
+    "options": [
+      "अहम् आहतः",
+      "अग्निः अस्ति",
+      "मम मुद्राकोशः नष्टः",
+      "मम दुर्घटना अभवत्"
+    ],
+    "answer": "मम मुद्राकोशः नष्टः"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Sanskrit?",
+    "options": [
+      "अहम् आहतः",
+      "अग्निः अस्ति",
+      "कृपया मम साहाय्यम् करोतु",
+      "मम दुर्घटना अभवत्"
+    ],
+    "answer": "अग्निः अस्ति"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Sanskrit?",
+    "options": [
+      "पुलिसम् आह्वयतु",
+      "कृपया मम साहाय्यम् करोतु",
+      "अहम् आहतः",
+      "मम दुर्घटना अभवत्"
+    ],
+    "answer": "मम दुर्घटना अभवत्"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Sanskrit?",
+    "options": [
+      "कृपया मम साहाय्यम् करोतु",
+      "मह्यम् वैद्यः आवश्यकः",
+      "पुलिसम् आह्वयतु",
+      "अहम् आहतः"
+    ],
+    "answer": "अहम् आहतः"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Sanskrit?",
+    "options": [
+      "कृपया मम साहाय्यम् करोतु",
+      "चिकित्सालयः कुत्र?",
+      "पुलिसम् आह्वयतु",
+      "मह्यम् वैद्यः आवश्यकः"
+    ],
+    "answer": "कृपया मम साहाय्यम् करोतु"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Sanskrit?",
+    "options": [
+      "चलच्चित्रम् द्रष्टुम् गच्छामः",
+      "अद्य सायम् त्वम् मुक्तः?",
+      "तव योजनाः काः?",
+      "श्वः मिलामः"
+    ],
+    "answer": "तव योजनाः काः?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Sanskrit?",
+    "options": [
+      "चलच्चित्रम् द्रष्टुम् गच्छामः",
+      "श्वः मिलामः",
+      "वयम् एकत्र भोजनम् करामः?",
+      "अद्य सायम् त्वम् मुक्तः?"
+    ],
+    "answer": "श्वः मिलामः"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Sanskrit?",
+    "options": [
+      "अद्य सायम् त्वम् मुक्तः?",
+      "त्वम् अस्माभिः सह आगन्तुम् शक्नोषि?",
+      "वयम् एकत्र भोजनम् करामः?",
+      "चलच्चित्रम् द्रष्टुम् गच्छामः"
+    ],
+    "answer": "अद्य सायम् त्वम् मुक्तः?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Sanskrit?",
+    "options": [
+      "अहम् अद्य व्यस्तः",
+      "चलच्चित्रम् द्रष्टुम् गच्छामः",
+      "त्वम् अस्माभिः सह आगन्तुम् शक्नोषि?",
+      "वयम् एकत्र भोजनम् करामः?"
+    ],
+    "answer": "चलच्चित्रम् द्रष्टुम् गच्छामः"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Sanskrit?",
+    "options": [
+      "वयम् एकत्र भोजनम् करामः?",
+      "पश्चात् मिलामः",
+      "अहम् अद्य व्यस्तः",
+      "त्वम् अस्माभिः सह आगन्तुम् शक्नोषि?"
+    ],
+    "answer": "वयम् एकत्र भोजनम् करामः?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Sanskrit?",
+    "options": [
+      "अहम् अद्य व्यस्तः",
+      "अहम् त्वाम् आह्वयिष्यामि",
+      "पश्चात् मिलामः",
+      "त्वम् अस्माभिः सह आगन्तुम् शक्नोषि?"
+    ],
+    "answer": "त्वम् अस्माभिः सह आगन्तुम् शक्नोषि?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Sanskrit?",
+    "options": [
+      "उत्सवम् करामः",
+      "अहम् त्वाम् आह्वयिष्यामि",
+      "अहम् अद्य व्यस्तः",
+      "पश्चात् मिलामः"
+    ],
+    "answer": "अहम् अद्य व्यस्तः"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Sanskrit?",
+    "options": [
+      "अहम् त्वाम् आह्वयिष्यामि",
+      "तव योजनाः काः?",
+      "उत्सवम् करामः",
+      "पश्चात् मिलामः"
+    ],
+    "answer": "पश्चात् मिलामः"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Sanskrit?",
+    "options": [
+      "श्वः मिलामः",
+      "उत्सवम् करामः",
+      "तव योजनाः काः?",
+      "अहम् त्वाम् आह्वयिष्यामि"
+    ],
+    "answer": "अहम् त्वाम् आह्वयिष्यामि"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Sanskrit",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Sanskrit?",
+    "options": [
+      "अद्य सायम् त्वम् मुक्तः?",
+      "श्वः मिलामः",
+      "उत्सवम् करामः",
+      "तव योजनाः काः?"
+    ],
+    "answer": "उत्सवम् करामः"
+  }
+]

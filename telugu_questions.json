@@ -1,0 +1,5416 @@
+[
+  
+
+  {
+    
+    "id": 1,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'a'?",
+    "options": [
+      "ఈ",
+      "ఇ",
+      "ఆ",
+      "అ"
+    ],
+    "answer": "అ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'aa'?",
+    "options": [
+      "ఈ",
+      "ఉ",
+      "ఇ",
+      "ఆ"
+    ],
+    "answer": "ఆ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'i'?",
+    "options": [
+      "ఈ",
+      "ఇ",
+      "ఊ",
+      "ఉ"
+    ],
+    "answer": "ఇ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'ee'?",
+    "options": [
+      "ఉ",
+      "ఈ",
+      "ఎ",
+      "ఊ"
+    ],
+    "answer": "ఈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'u'?",
+    "options": [
+      "ఏ",
+      "ఊ",
+      "ఎ",
+      "ఉ"
+    ],
+    "answer": "ఉ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'oo'?",
+    "options": [
+      "ఊ",
+      "ఏ",
+      "ఎ",
+      "ఐ"
+    ],
+    "answer": "ఊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'e'?",
+    "options": [
+      "ఒ",
+      "ఐ",
+      "ఏ",
+      "ఎ"
+    ],
+    "answer": "ఎ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'ae'?",
+    "options": [
+      "ఐ",
+      "ఏ",
+      "ఒ",
+      "అ"
+    ],
+    "answer": "ఏ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'ai'?",
+    "options": [
+      "ఆ",
+      "ఒ",
+      "అ",
+      "ఐ"
+    ],
+    "answer": "ఐ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Telugu vowel for 'o'?",
+    "options": [
+      "ఆ",
+      "అ",
+      "ఇ",
+      "ఒ"
+    ],
+    "answer": "ఒ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'ka'?",
+    "options": [
+      "ఖ",
+      "గ",
+      "క",
+      "ఘ"
+    ],
+    "answer": "క"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'kha'?",
+    "options": [
+      "ఘ",
+      "గ",
+      "చ",
+      "ఖ"
+    ],
+    "answer": "ఖ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'ga'?",
+    "options": [
+      "గ",
+      "జ",
+      "చ",
+      "ఘ"
+    ],
+    "answer": "గ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'gha'?",
+    "options": [
+      "చ",
+      "ఘ",
+      "ట",
+      "జ"
+    ],
+    "answer": "ఘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'cha'?",
+    "options": [
+      "ట",
+      "జ",
+      "చ",
+      "డ"
+    ],
+    "answer": "చ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'ja'?",
+    "options": [
+      "డ",
+      "జ",
+      "ట",
+      "ప"
+    ],
+    "answer": "జ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'ta'?",
+    "options": [
+      "ప",
+      "డ",
+      "మ",
+      "ట"
+    ],
+    "answer": "ట"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'da'?",
+    "options": [
+      "డ",
+      "మ",
+      "క",
+      "ప"
+    ],
+    "answer": "డ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'pa'?",
+    "options": [
+      "క",
+      "ప",
+      "ఖ",
+      "మ"
+    ],
+    "answer": "ప"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Telugu consonant for 'ma'?",
+    "options": [
+      "ఖ",
+      "గ",
+      "క",
+      "మ"
+    ],
+    "answer": "మ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'క' + 'ా'?",
+    "options": [
+      "తే",
+      "కా",
+      "మి",
+      "పు"
+    ],
+    "answer": "కా"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ప' + 'ు'?",
+    "options": [
+      "సూ",
+      "పు",
+      "మి",
+      "తే"
+    ],
+    "answer": "పు"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'మ' + 'ి'?",
+    "options": [
+      "మి",
+      "తే",
+      "సూ",
+      "నో"
+    ],
+    "answer": "మి"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'త' + 'ే'?",
+    "options": [
+      "నో",
+      "తే",
+      "రా",
+      "సూ"
+    ],
+    "answer": "తే"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'స' + 'ూ'?",
+    "options": [
+      "నో",
+      "రా",
+      "లే",
+      "సూ"
+    ],
+    "answer": "సూ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'న' + 'ో'?",
+    "options": [
+      "లే",
+      "నో",
+      "ది",
+      "రా"
+    ],
+    "answer": "నో"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ర' + 'ా'?",
+    "options": [
+      "రా",
+      "ది",
+      "లే",
+      "వు"
+    ],
+    "answer": "రా"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ల' + 'ే'?",
+    "options": [
+      "ది",
+      "లే",
+      "కా",
+      "వు"
+    ],
+    "answer": "లే"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ద' + 'ి'?",
+    "options": [
+      "వు",
+      "పు",
+      "ది",
+      "కా"
+    ],
+    "answer": "ది"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'వ' + 'ు'?",
+    "options": [
+      "పు",
+      "వు",
+      "మి",
+      "కా"
+    ],
+    "answer": "వు"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'పుస్తకం'? (in Telugu)",
+    "options": [
+      "School",
+      "Hand",
+      "Pen",
+      "Book"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'కలము'? (in Telugu)",
+    "options": [
+      "Pen",
+      "School",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'పాఠశాల'? (in Telugu)",
+    "options": [
+      "Flowers",
+      "Hand",
+      "School",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'చెయ్యి'? (in Telugu)",
+    "options": [
+      "Fruit",
+      "Hand",
+      "Tree",
+      "Flowers"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'పండు'? (in Telugu)",
+    "options": [
+      "Tree",
+      "Slate",
+      "Fruit",
+      "Flowers"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'పూలు'? (in Telugu)",
+    "options": [
+      "Slate",
+      "Flowers",
+      "Tree",
+      "Speak"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'చెట్టు'? (in Telugu)",
+    "options": [
+      "Speech",
+      "Slate",
+      "Tree",
+      "Speak"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'పలక'? (in Telugu)",
+    "options": [
+      "Slate",
+      "Speak",
+      "Speech",
+      "Book"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'పలుక'? (in Telugu)",
+    "options": [
+      "Pen",
+      "Book",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'పలుకుబడి'? (in Telugu)",
+    "options": [
+      "Pen",
+      "Book",
+      "School",
+      "Speech"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'book'?",
+    "options": [
+      "పాఠశాల",
+      "కలము",
+      "పుస్తకం",
+      "బ్యాగ్"
+    ],
+    "answer": "పుస్తకం"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'pen'?",
+    "options": [
+      "బ్యాగ్",
+      "కలము",
+      "కుర్చీ",
+      "పాఠశాల"
+    ],
+    "answer": "కలము"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'school'?",
+    "options": [
+      "మెజ్",
+      "బ్యాగ్",
+      "పాఠశాల",
+      "కుర్చీ"
+    ],
+    "answer": "పాఠశాల"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'bag'?",
+    "options": [
+      "మెజ్",
+      "కుర్చీ",
+      "పలక",
+      "బ్యాగ్"
+    ],
+    "answer": "బ్యాగ్"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'chair'?",
+    "options": [
+      "జనాలా",
+      "కుర్చీ",
+      "మెజ్",
+      "పలక"
+    ],
+    "answer": "కుర్చీ"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'table'?",
+    "options": [
+      "తలుపు",
+      "మెజ్",
+      "పలక",
+      "జనాలా"
+    ],
+    "answer": "మెజ్"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'slate'?",
+    "options": [
+      "జనాలా",
+      "పంకా",
+      "తలుపు",
+      "పలక"
+    ],
+    "answer": "పలక"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'window'?",
+    "options": [
+      "జనాలా",
+      "పుస్తకం",
+      "పంకా",
+      "తలుపు"
+    ],
+    "answer": "జనాలా"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'door'?",
+    "options": [
+      "తలుపు",
+      "పంకా",
+      "పుస్తకం",
+      "కలము"
+    ],
+    "answer": "తలుపు"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Telugu word for 'fan'?",
+    "options": [
+      "పాఠశాల",
+      "పుస్తకం",
+      "పంకా",
+      "కలము"
+    ],
+    "answer": "పంకా"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'rice'?",
+    "options": [
+      "అన్నం",
+      "కూర",
+      "పాలు",
+      "పండు"
+    ],
+    "answer": "అన్నం"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'milk'?",
+    "options": [
+      "కూర",
+      "నీరు",
+      "పాలు",
+      "పండు"
+    ],
+    "answer": "పాలు"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'fruit'?",
+    "options": [
+      "పండు",
+      "పెరుగు",
+      "నీరు",
+      "కూర"
+    ],
+    "answer": "పండు"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'vegetable'?",
+    "options": [
+      "కూర",
+      "నీరు",
+      "పెరుగు",
+      "రొట్టె"
+    ],
+    "answer": "కూర"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'water'?",
+    "options": [
+      "రొట్టె",
+      "గుడ్డు",
+      "పెరుగు",
+      "నీరు"
+    ],
+    "answer": "నీరు"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'curd'?",
+    "options": [
+      "రొట్టె",
+      "పెరుగు",
+      "చేప",
+      "గుడ్డు"
+    ],
+    "answer": "పెరుగు"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'bread'?",
+    "options": [
+      "రొట్టె",
+      "చేప",
+      "గుడ్డు",
+      "తీపి"
+    ],
+    "answer": "రొట్టె"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'egg'?",
+    "options": [
+      "గుడ్డు",
+      "తీపి",
+      "చేప",
+      "అన్నం"
+    ],
+    "answer": "గుడ్డు"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'fish'?",
+    "options": [
+      "తీపి",
+      "అన్నం",
+      "చేప",
+      "పాలు"
+    ],
+    "answer": "చేప"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'sweet'?",
+    "options": [
+      "పండు",
+      "పాలు",
+      "అన్నం",
+      "తీపి"
+    ],
+    "answer": "తీపి"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'mother'?",
+    "options": [
+      "అక్క",
+      "అన్న",
+      "నాన్న",
+      "తల్లి"
+    ],
+    "answer": "తల్లి"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'father'?",
+    "options": [
+      "అక్క",
+      "అమ్మమ్మ",
+      "అన్న",
+      "నాన్న"
+    ],
+    "answer": "నాన్న"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'sister'?",
+    "options": [
+      "తాతయ్య",
+      "అక్క",
+      "అమ్మమ్మ",
+      "అన్న"
+    ],
+    "answer": "అక్క"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'brother'?",
+    "options": [
+      "అన్న",
+      "అమ్మమ్మ",
+      "మామ",
+      "తాతయ్య"
+    ],
+    "answer": "అన్న"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'grandmother'?",
+    "options": [
+      "అత్త",
+      "అమ్మమ్మ",
+      "మామ",
+      "తాతయ్య"
+    ],
+    "answer": "అమ్మమ్మ"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'grandfather'?",
+    "options": [
+      "మామ",
+      "అత్త",
+      "కుమారుడు",
+      "తాతయ్య"
+    ],
+    "answer": "తాతయ్య"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'uncle'?",
+    "options": [
+      "కుమారుడు",
+      "మామ",
+      "అత్త",
+      "కుమార్తె"
+    ],
+    "answer": "మామ"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'aunt'?",
+    "options": [
+      "కుమారుడు",
+      "అత్త",
+      "తల్లి",
+      "కుమార్తె"
+    ],
+    "answer": "అత్త"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'son'?",
+    "options": [
+      "కుమార్తె",
+      "తల్లి",
+      "కుమారుడు",
+      "నాన్న"
+    ],
+    "answer": "కుమారుడు"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Telugu word for 'daughter'?",
+    "options": [
+      "తల్లి",
+      "కుమార్తె",
+      "అక్క",
+      "నాన్న"
+    ],
+    "answer": "కుమార్తె"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'tree'?",
+    "options": [
+      "పువ్వు",
+      "పర్వతం",
+      "చెట్టు",
+      "నది"
+    ],
+    "answer": "చెట్టు"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'flower'?",
+    "options": [
+      "నది",
+      "పర్వతం",
+      "పువ్వు",
+      "ఆకు"
+    ],
+    "answer": "పువ్వు"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'river'?",
+    "options": [
+      "ఆకు",
+      "పర్వతం",
+      "ఆకాశం",
+      "నది"
+    ],
+    "answer": "నది"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'mountain'?",
+    "options": [
+      "ఆకు",
+      "పర్వతం",
+      "వర్షం",
+      "ఆకాశం"
+    ],
+    "answer": "పర్వతం"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'leaf'?",
+    "options": [
+      "ఆకు",
+      "సూర్యుడు",
+      "వర్షం",
+      "ఆకాశం"
+    ],
+    "answer": "ఆకు"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'sky'?",
+    "options": [
+      "ఆకాశం",
+      "సూర్యుడు",
+      "చంద్రుడు",
+      "వర్షం"
+    ],
+    "answer": "ఆకాశం"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'rain'?",
+    "options": [
+      "నక్షత్రం",
+      "వర్షం",
+      "సూర్యుడు",
+      "చంద్రుడు"
+    ],
+    "answer": "వర్షం"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'sun'?",
+    "options": [
+      "సూర్యుడు",
+      "నక్షత్రం",
+      "చంద్రుడు",
+      "చెట్టు"
+    ],
+    "answer": "సూర్యుడు"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'moon'?",
+    "options": [
+      "చెట్టు",
+      "నక్షత్రం",
+      "చంద్రుడు",
+      "పువ్వు"
+    ],
+    "answer": "చంద్రుడు"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Telugu word for 'star'?",
+    "options": [
+      "నది",
+      "చెట్టు",
+      "పువ్వు",
+      "నక్షత్రం"
+    ],
+    "answer": "నక్షత్రం"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Telugu?",
+    "options": [
+      "స్వాగతం",
+      "శుభరాత్రి",
+      "శుభోదయం",
+      "నమస్తే"
+    ],
+    "answer": "నమస్తే"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Telugu?",
+    "options": [
+      "మీరు ఎలా ఉన్నారు?",
+      "శుభరాత్రి",
+      "శుభోదయం",
+      "స్వాగతం"
+    ],
+    "answer": "శుభోదయం"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Telugu?",
+    "options": [
+      "శుభరాత్రి",
+      "మీరు ఎలా ఉన్నారు?",
+      "స్వాగతం",
+      "బాగున్నాను"
+    ],
+    "answer": "శుభరాత్రి"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Telugu?",
+    "options": [
+      "స్వాగతం",
+      "మళ్ళీ కలుద్దాం",
+      "బాగున్నాను",
+      "మీరు ఎలా ఉన్నారు?"
+    ],
+    "answer": "స్వాగతం"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Telugu?",
+    "options": [
+      "వీడ్కోలు",
+      "మళ్ళీ కలుద్దాం",
+      "బాగున్నాను",
+      "మీరు ఎలా ఉన్నారు?"
+    ],
+    "answer": "మీరు ఎలా ఉన్నారు?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Telugu?",
+    "options": [
+      "బాగున్నాను",
+      "వీడ్కోలు",
+      "మళ్ళీ కలుద్దాం",
+      "జాగ్రత్త"
+    ],
+    "answer": "బాగున్నాను"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Telugu?",
+    "options": [
+      "మళ్ళీ కలుద్దాం",
+      "వీడ్కోలు",
+      "జాగ్రత్త",
+      "ధన్యవాదాలు"
+    ],
+    "answer": "మళ్ళీ కలుద్దాం"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Telugu?",
+    "options": [
+      "వీడ్కోలు",
+      "నమస్తే",
+      "ధన్యవాదాలు",
+      "జాగ్రత్త"
+    ],
+    "answer": "వీడ్కోలు"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Telugu?",
+    "options": [
+      "జాగ్రత్త",
+      "నమస్తే",
+      "ధన్యవాదాలు",
+      "శుభోదయం"
+    ],
+    "answer": "జాగ్రత్త"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Telugu?",
+    "options": [
+      "శుభరాత్రి",
+      "ధన్యవాదాలు",
+      "శుభోదయం",
+      "నమస్తే"
+    ],
+    "answer": "ధన్యవాదాలు"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Telugu?",
+    "options": [
+      "నేను ... నుండి వచ్చాను",
+      "నా పేరు ...",
+      "నేను ఉపాధ్యాయుడు",
+      "నేను విద్యార్థిని"
+    ],
+    "answer": "నా పేరు ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Telugu?",
+    "options": [
+      "మీను కలవడం ఆనందంగా ఉంది",
+      "నేను ... నుండి వచ్చాను",
+      "నేను ఉపాధ్యాయుడు",
+      "నేను విద్యార్థిని"
+    ],
+    "answer": "నేను ... నుండి వచ్చాను"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Telugu?",
+    "options": [
+      "నేను ఉపాధ్యాయుడు",
+      "నేను విద్యార్థిని",
+      "మీను కలవడం ఆనందంగా ఉంది",
+      "నేను ... లో నివసిస్తున్నాను"
+    ],
+    "answer": "నేను విద్యార్థిని"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Telugu?",
+    "options": [
+      "నేను తెలుగు నేర్చుకుంటున్నాను",
+      "నేను ఉపాధ్యాయుడు",
+      "మీను కలవడం ఆనందంగా ఉంది",
+      "నేను ... లో నివసిస్తున్నాను"
+    ],
+    "answer": "నేను ఉపాధ్యాయుడు"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Telugu?",
+    "options": [
+      "నేను తెలుగు నేర్చుకుంటున్నాను",
+      "మీను కలవడం ఆనందంగా ఉంది",
+      "నేను ... లో నివసిస్తున్నాను",
+      "మీ పేరు ఏమిటి?"
+    ],
+    "answer": "మీను కలవడం ఆనందంగా ఉంది"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Telugu?",
+    "options": [
+      "మీ పేరు ఏమిటి?",
+      "నేను తెలుగు నేర్చుకుంటున్నాను",
+      "మీరు ఎక్కడి నుండి వచ్చారు?",
+      "నేను ... లో నివసిస్తున్నాను"
+    ],
+    "answer": "నేను ... లో నివసిస్తున్నాను"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Telugu' in Telugu?",
+    "options": [
+      "నేను తెలుగు నేర్చుకుంటున్నాను",
+      "మీరు ఎక్కడి నుండి వచ్చారు?",
+      "మీ పేరు ఏమిటి?",
+      "మీ వయస్సు ఎంత?"
+    ],
+    "answer": "నేను తెలుగు నేర్చుకుంటున్నాను"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Telugu?",
+    "options": [
+      "నా పేరు ...",
+      "మీ పేరు ఏమిటి?",
+      "మీరు ఎక్కడి నుండి వచ్చారు?",
+      "మీ వయస్సు ఎంత?"
+    ],
+    "answer": "మీ పేరు ఏమిటి?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Telugu?",
+    "options": [
+      "నేను ... నుండి వచ్చాను",
+      "నా పేరు ...",
+      "మీరు ఎక్కడి నుండి వచ్చారు?",
+      "మీ వయస్సు ఎంత?"
+    ],
+    "answer": "మీరు ఎక్కడి నుండి వచ్చారు?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Telugu?",
+    "options": [
+      "మీ వయస్సు ఎంత?",
+      "నా పేరు ...",
+      "నేను విద్యార్థిని",
+      "నేను ... నుండి వచ్చాను"
+    ],
+    "answer": "మీ వయస్సు ఎంత?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Telugu?",
+    "options": [
+      "కాదు",
+      "బహుశా",
+      "ఖచ్చితంగా",
+      "అవును"
+    ],
+    "answer": "అవును"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Telugu?",
+    "options": [
+      "కాదు",
+      "బహుశా",
+      "ఖచ్చితంగా",
+      "ఎప్పటికీ కాదు"
+    ],
+    "answer": "కాదు"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Telugu?",
+    "options": [
+      "కొన్నిసార్లు",
+      "బహుశా",
+      "ఖచ్చితంగా",
+      "ఎప్పటికీ కాదు"
+    ],
+    "answer": "బహుశా"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Telugu?",
+    "options": [
+      "ఖచ్చితంగా",
+      "ఎప్పటికీ కాదు",
+      "కొన్నిసార్లు",
+      "ఎప్పుడూ"
+    ],
+    "answer": "ఖచ్చితంగా"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Telugu?",
+    "options": [
+      "ఎప్పుడూ",
+      "కొన్నిసార్లు",
+      "అసలు కాదు",
+      "ఎప్పటికీ కాదు"
+    ],
+    "answer": "ఎప్పటికీ కాదు"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Telugu?",
+    "options": [
+      "అసలు కాదు",
+      "కొన్నిసార్లు",
+      "ఖచ్చితంగా",
+      "ఎప్పుడూ"
+    ],
+    "answer": "కొన్నిసార్లు"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Telugu?",
+    "options": [
+      "నాకు తెలియదు",
+      "ఖచ్చితంగా",
+      "ఎప్పుడూ",
+      "అసలు కాదు"
+    ],
+    "answer": "ఎప్పుడూ"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Telugu?",
+    "options": [
+      "అసలు కాదు",
+      "అవును",
+      "నాకు తెలియదు",
+      "ఖచ్చితంగా"
+    ],
+    "answer": "అసలు కాదు"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Telugu?",
+    "options": [
+      "ఖచ్చితంగా",
+      "అవును",
+      "కాదు",
+      "నాకు తెలియదు"
+    ],
+    "answer": "ఖచ్చితంగా"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Telugu?",
+    "options": [
+      "కాదు",
+      "బహుశా",
+      "అవును",
+      "నాకు తెలియదు"
+    ],
+    "answer": "నాకు తెలియదు"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Telugu?",
+    "options": [
+      "క్షమించండి",
+      "క్షమించండి",
+      "దయచేసి",
+      "ధన్యవాదాలు"
+    ],
+    "answer": "ధన్యవాదాలు"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Telugu?",
+    "options": [
+      "దయచేసి",
+      "క్షమించండి",
+      "క్షమించండి",
+      "మీకు స్వాగతం"
+    ],
+    "answer": "క్షమించండి"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Telugu?",
+    "options": [
+      "పరిశ్రమ లేదు",
+      "క్షమించండి",
+      "మీకు స్వాగతం",
+      "దయచేసి"
+    ],
+    "answer": "దయచేసి"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Telugu?",
+    "options": [
+      "పరిశ్రమ లేదు",
+      "అభినందనలు",
+      "క్షమించండి",
+      "మీకు స్వాగతం"
+    ],
+    "answer": "క్షమించండి"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Telugu?",
+    "options": [
+      "అభినందనలు",
+      "దేవుడు ఆశీర్వదించాలి",
+      "పరిశ్రమ లేదు",
+      "మీకు స్వాగతం"
+    ],
+    "answer": "మీకు స్వాగతం"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Telugu?",
+    "options": [
+      "పరిశ్రమ లేదు",
+      "అభినందనలు",
+      "అద్భుతం",
+      "దేవుడు ఆశీర్వదించాలి"
+    ],
+    "answer": "పరిశ్రమ లేదు"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Telugu?",
+    "options": [
+      "దేవుడు ఆశీర్వదించాలి",
+      "అద్భుతం",
+      "పుట్టినరోజు శుభాకాంక్షలు",
+      "అభినందనలు"
+    ],
+    "answer": "అభినందనలు"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Telugu?",
+    "options": [
+      "పుట్టినరోజు శుభాకాంక్షలు",
+      "అద్భుతం",
+      "ధన్యవాదాలు",
+      "దేవుడు ఆశీర్వదించాలి"
+    ],
+    "answer": "దేవుడు ఆశీర్వదించాలి"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Telugu?",
+    "options": [
+      "క్షమించండి",
+      "అద్భుతం",
+      "ధన్యవాదాలు",
+      "పుట్టినరోజు శుభాకాంక్షలు"
+    ],
+    "answer": "అద్భుతం"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Telugu",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Telugu?",
+    "options": [
+      "పుట్టినరోజు శుభాకాంక్షలు",
+      "ధన్యవాదాలు",
+      "క్షమించండి",
+      "దయచేసి"
+    ],
+    "answer": "పుట్టినరోజు శుభాకాంక్షలు"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'ki'?",
+    "options": [
+      "కొ",
+      "కి",
+      "కె",
+      "కు"
+    ],
+    "answer": "కి"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'ku'?",
+    "options": [
+      "కొ",
+      "కు",
+      "గి",
+      "కె"
+    ],
+    "answer": "కు"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'ke'?",
+    "options": [
+      "కొ",
+      "కె",
+      "గు",
+      "గి"
+    ],
+    "answer": "కె"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'ko'?",
+    "options": [
+      "గె",
+      "గి",
+      "గు",
+      "కొ"
+    ],
+    "answer": "కొ"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'gi'?",
+    "options": [
+      "గొ",
+      "గు",
+      "గి",
+      "గె"
+    ],
+    "answer": "గి"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'gu'?",
+    "options": [
+      "గె",
+      "గు",
+      "చి",
+      "గొ"
+    ],
+    "answer": "గు"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'ge'?",
+    "options": [
+      "గె",
+      "చి",
+      "చు",
+      "గొ"
+    ],
+    "answer": "గె"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'go'?",
+    "options": [
+      "కి",
+      "చి",
+      "చు",
+      "గొ"
+    ],
+    "answer": "గొ"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'chi'?",
+    "options": [
+      "చి",
+      "కు",
+      "కి",
+      "చు"
+    ],
+    "answer": "చి"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Telugu syllable for 'chu'?",
+    "options": [
+      "కు",
+      "కె",
+      "చు",
+      "కి"
+    ],
+    "answer": "చు"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'ksha'?",
+    "options": [
+      "జ్ఞ",
+      "జ్ఞ",
+      "త్ర",
+      "క్ష"
+    ],
+    "answer": "క్ష"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'tra'?",
+    "options": [
+      "జ్ఞ",
+      "త్ర",
+      "జ్ఞ",
+      "శ్ర"
+    ],
+    "answer": "త్ర"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'jna'?",
+    "options": [
+      "శ్ర",
+      "జ్ఞ",
+      "క్ర",
+      "జ్ఞ"
+    ],
+    "answer": "జ్ఞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'dnya'?",
+    "options": [
+      "క్ర",
+      "శ్ర",
+      "జ్ఞ",
+      "ప్ర"
+    ],
+    "answer": "జ్ఞ"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'shra'?",
+    "options": [
+      "ప్ర",
+      "శ్ర",
+      "క్ర",
+      "స్ర"
+    ],
+    "answer": "శ్ర"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'kra'?",
+    "options": [
+      "గ్ర",
+      "క్ర",
+      "స్ర",
+      "ప్ర"
+    ],
+    "answer": "క్ర"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'pra'?",
+    "options": [
+      "ద్ర",
+      "ప్ర",
+      "గ్ర",
+      "స్ర"
+    ],
+    "answer": "ప్ర"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'sra'?",
+    "options": [
+      "క్ష",
+      "స్ర",
+      "గ్ర",
+      "ద్ర"
+    ],
+    "answer": "స్ర"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'gra'?",
+    "options": [
+      "త్ర",
+      "గ్ర",
+      "ద్ర",
+      "క్ష"
+    ],
+    "answer": "గ్ర"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Telugu ligature for 'dra'?",
+    "options": [
+      "ద్ర",
+      "క్ష",
+      "త్ర",
+      "జ్ఞ"
+    ],
+    "answer": "ద్ర"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'sha'?",
+    "options": [
+      "ళ",
+      "స",
+      "ష",
+      "హ"
+    ],
+    "answer": "ష"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'sa'?",
+    "options": [
+      "స",
+      "హ",
+      "ఱ",
+      "ళ"
+    ],
+    "answer": "స"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'ha'?",
+    "options": [
+      "ళ",
+      "హ",
+      "వ",
+      "ఱ"
+    ],
+    "answer": "హ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'la'?",
+    "options": [
+      "వ",
+      "ఴ",
+      "ఱ",
+      "ళ"
+    ],
+    "answer": "ళ"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'ra'?",
+    "options": [
+      "ఱ",
+      "వ",
+      "ఫ",
+      "ఴ"
+    ],
+    "answer": "ఱ"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'va'?",
+    "options": [
+      "జ",
+      "వ",
+      "ఴ",
+      "ఫ"
+    ],
+    "answer": "వ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'zha'?",
+    "options": [
+      "క్వ",
+      "జ",
+      "ఴ",
+      "ఫ"
+    ],
+    "answer": "ఴ"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'fa'?",
+    "options": [
+      "జ",
+      "ష",
+      "ఫ",
+      "క్వ"
+    ],
+    "answer": "ఫ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'ja'?",
+    "options": [
+      "క్వ",
+      "ష",
+      "స",
+      "జ"
+    ],
+    "answer": "జ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Telugu letter for 'qwa'?",
+    "options": [
+      "క్వ",
+      "ష",
+      "స",
+      "హ"
+    ],
+    "answer": "క్వ"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "క్షీరము",
+    "options": [
+      "జ్ఞ",
+      "త్ర",
+      "శ్ర",
+      "క్ష"
+    ],
+    "answer": "క్ష"
+  },
+  
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "జ్ఞానం",
+    "options": [
+      "శ్ర",
+      "గ్ర",
+      "త్ర",
+      "జ్ఞ"
+    ],
+    "answer": "జ్ఞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "త్రయం",
+    "options": [
+      "త్ర",
+      "ప్ర",
+      "గ్ర",
+      "శ్ర"
+    ],
+    "answer": "త్ర"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "శ్రద్ధ",
+    "options": [
+      "స్ర",
+      "శ్ర",
+      "గ్ర",
+      "ప్ర"
+    ],
+    "answer": "శ్ర"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "గ్రంధం",
+    "options": [
+      "గ్ర",
+      "ద్ర",
+      "ప్ర",
+      "స్ర"
+    ],
+    "answer": "గ్ర"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+     "hiddenWord": "ప్రయత్నం",
+    "options": [
+      "స్ర",
+      "ద్ర",
+      "ప్ర",
+      "ఫ"
+    ],
+    "answer": "ప్ర"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "స్రవంతి",
+    "options": [
+      "ఫ",
+      "హ",
+      "ద్ర",
+      "స్ర"
+    ],
+    "answer": "స్ర"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "ద్రవ్యము",
+    "options": [
+      "ద్ర",
+      "క్ష",
+      "ఫ",
+      "హ"
+    ],
+    "answer": "ద్ర"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "ఫలితం",
+    "options": [
+      "క్ష",
+      "ఫ",
+      "జ్ఞ",
+      "హ"
+    ],
+    "answer": "ఫ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Telugu letter is used in the word {audio_only}",
+    "hiddenWord": "హరిద్వార్",
+    "options": [
+      "క్ష",
+      "హ",
+      "జ్ఞ",
+      "త్ర"
+    ],
+    "answer": "హ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Sunday'?",
+    "options": [
+      "ఆదివారం",
+      "బుధవారం",
+      "మంగళవారం",
+      "సోమవారం"
+    ],
+    "answer": "ఆదివారం"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Monday'?",
+    "options": [
+      "సోమవారం",
+      "గురువారం",
+      "బుధవారం",
+      "మంగళవారం"
+    ],
+    "answer": "సోమవారం"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Tuesday'?",
+    "options": [
+      "గురువారం",
+      "శుక్రవారం",
+      "బుధవారం",
+      "మంగళవారం"
+    ],
+    "answer": "మంగళవారం"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Wednesday'?",
+    "options": [
+      "బుధవారం",
+      "శుక్రవారం",
+      "గురువారం",
+      "శనివారం"
+    ],
+    "answer": "బుధవారం"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Thursday'?",
+    "options": [
+      "శుక్రవారం",
+      "గురువారం",
+      "శనివారం",
+      "ఈ రోజు"
+    ],
+    "answer": "గురువారం"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Friday'?",
+    "options": [
+      "ఈ రోజు",
+      "శనివారం",
+      "శుక్రవారం",
+      "రేపు"
+    ],
+    "answer": "శుక్రవారం"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Saturday'?",
+    "options": [
+      "ఈ రోజు",
+      "రేపు",
+      "నిన్న",
+      "శనివారం"
+    ],
+    "answer": "శనివారం"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Today'?",
+    "options": [
+      "ఆదివారం",
+      "రేపు",
+      "ఈ రోజు",
+      "నిన్న"
+    ],
+    "answer": "ఈ రోజు"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Tomorrow'?",
+    "options": [
+      "ఆదివారం",
+      "సోమవారం",
+      "రేపు",
+      "నిన్న"
+    ],
+    "answer": "రేపు"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Telugu word for 'Yesterday'?",
+    "options": [
+      "ఆదివారం",
+      "నిన్న",
+      "మంగళవారం",
+      "సోమవారం"
+    ],
+    "answer": "నిన్న"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'red'?",
+    "options": [
+      "ఆకుపచ్చ",
+      "నీలం",
+      "ఎరుపు",
+      "పసుపు"
+    ],
+    "answer": "ఎరుపు"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'blue'?",
+    "options": [
+      "ఆకుపచ్చ",
+      "పసుపు",
+      "నలుపు",
+      "నీలం"
+    ],
+    "answer": "నీలం"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'green'?",
+    "options": [
+      "తెలుపు",
+      "ఆకుపచ్చ",
+      "నలుపు",
+      "పసుపు"
+    ],
+    "answer": "ఆకుపచ్చ"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'yellow'?",
+    "options": [
+      "నారింజ",
+      "తెలుపు",
+      "నలుపు",
+      "పసుపు"
+    ],
+    "answer": "పసుపు"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'black'?",
+    "options": [
+      "నలుపు",
+      "గులాబీ",
+      "నారింజ",
+      "తెలుపు"
+    ],
+    "answer": "నలుపు"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'white'?",
+    "options": [
+      "నారింజ",
+      "గులాబీ",
+      "ఉదయపురం",
+      "తెలుపు"
+    ],
+    "answer": "తెలుపు"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'orange'?",
+    "options": [
+      "గులాబీ",
+      "ఉదయపురం",
+      "గోధుమ",
+      "నారింజ"
+    ],
+    "answer": "నారింజ"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'pink'?",
+    "options": [
+      "గులాబీ",
+      "గోధుమ",
+      "ఎరుపు",
+      "ఉదయపురం"
+    ],
+    "answer": "గులాబీ"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'purple'?",
+    "options": [
+      "గోధుమ",
+      "నీలం",
+      "ఉదయపురం",
+      "ఎరుపు"
+    ],
+    "answer": "ఉదయపురం"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Telugu word for 'brown'?",
+    "options": [
+      "ఎరుపు",
+      "ఆకుపచ్చ",
+      "నీలం",
+      "గోధుమ"
+    ],
+    "answer": "గోధుమ"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'one'?",
+    "options": [
+      "నాలుగు",
+      "ఒకటి",
+      "రెండు",
+      "మూడు"
+    ],
+    "answer": "ఒకటి"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'two'?",
+    "options": [
+      "ఐదు",
+      "రెండు",
+      "నాలుగు",
+      "మూడు"
+    ],
+    "answer": "రెండు"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'three'?",
+    "options": [
+      "మూడు",
+      "ఐదు",
+      "నాలుగు",
+      "ఆరు"
+    ],
+    "answer": "మూడు"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'four'?",
+    "options": [
+      "నాలుగు",
+      "ఆరు",
+      "ఐదు",
+      "ఏడు"
+    ],
+    "answer": "నాలుగు"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'five'?",
+    "options": [
+      "ఆరు",
+      "ఎనిమిది",
+      "ఐదు",
+      "ఏడు"
+    ],
+    "answer": "ఐదు"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'six'?",
+    "options": [
+      "ఎనిమిది",
+      "ఏడు",
+      "ఆరు",
+      "తొమ్మిది"
+    ],
+    "answer": "ఆరు"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'seven'?",
+    "options": [
+      "ఏడు",
+      "ఎనిమిది",
+      "పది",
+      "తొమ్మిది"
+    ],
+    "answer": "ఏడు"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'eight'?",
+    "options": [
+      "తొమ్మిది",
+      "ఒకటి",
+      "పది",
+      "ఎనిమిది"
+    ],
+    "answer": "ఎనిమిది"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'nine'?",
+    "options": [
+      "ఒకటి",
+      "రెండు",
+      "పది",
+      "తొమ్మిది"
+    ],
+    "answer": "తొమ్మిది"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Telugu word for 'ten'?",
+    "options": [
+      "ఒకటి",
+      "పది",
+      "మూడు",
+      "రెండు"
+    ],
+    "answer": "పది"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'breakfast'?",
+    "options": [
+      "మధ్యాహ్న భోజనం",
+      "తినుబండారాలు",
+      "ఉపాహారం",
+      "రాత్రి భోజనం"
+    ],
+    "answer": "ఉపాహారం"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'lunch'?",
+    "options": [
+      "రాత్రి భోజనం",
+      "తీపి వంటకాలు",
+      "తినుబండారాలు",
+      "మధ్యాహ్న భోజనం"
+    ],
+    "answer": "మధ్యాహ్న భోజనం"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'dinner'?",
+    "options": [
+      "తినుబండారాలు",
+      "కారం",
+      "తీపి వంటకాలు",
+      "రాత్రి భోజనం"
+    ],
+    "answer": "రాత్రి భోజనం"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'snacks'?",
+    "options": [
+      "శాకాహారము",
+      "తినుబండారాలు",
+      "తీపి వంటకాలు",
+      "కారం"
+    ],
+    "answer": "తినుబండారాలు"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'sweets'?",
+    "options": [
+      "శాకాహారము",
+      "కారం",
+      "మాంసాహారము",
+      "తీపి వంటకాలు"
+    ],
+    "answer": "తీపి వంటకాలు"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'spicy'?",
+    "options": [
+      "మాంసాహారము",
+      "కారం",
+      "శాకాహారము",
+      "రసం"
+    ],
+    "answer": "కారం"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'vegetarian'?",
+    "options": [
+      "మాంసాహారము",
+      "రసం",
+      "శాకాహారము",
+      "కాఫీ"
+    ],
+    "answer": "శాకాహారము"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'non-vegetarian'?",
+    "options": [
+      "ఉపాహారం",
+      "కాఫీ",
+      "రసం",
+      "మాంసాహారము"
+    ],
+    "answer": "మాంసాహారము"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'juice'?",
+    "options": [
+      "కాఫీ",
+      "మధ్యాహ్న భోజనం",
+      "రసం",
+      "ఉపాహారం"
+    ],
+    "answer": "రసం"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Telugu word for 'coffee'?",
+    "options": [
+      "ఉపాహారం",
+      "మధ్యాహ్న భోజనం",
+      "కాఫీ",
+      "రాత్రి భోజనం"
+    ],
+    "answer": "కాఫీ"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Telugu?",
+    "options": [
+      "మీరు ఎక్కడి నుండి వచ్చారు?",
+      "మీరు ఎలా ఉన్నారు?",
+      "మీ వయస్సు ఎంత?",
+      "మీ పేరు ఏమిటి?"
+    ],
+    "answer": "మీరు ఎలా ఉన్నారు?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Telugu?",
+    "options": [
+      "మీ వయస్సు ఎంత?",
+      "మీ పేరు ఏమిటి?",
+      "మీరు తెలుగు మాట్లాడగలరా?",
+      "మీరు ఎక్కడి నుండి వచ్చారు?"
+    ],
+    "answer": "మీ పేరు ఏమిటి?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Telugu?",
+    "options": [
+      "నేను మీకు సహాయం చేయాలా?",
+      "మీ వయస్సు ఎంత?",
+      "మీరు ఎక్కడి నుండి వచ్చారు?",
+      "మీరు తెలుగు మాట్లాడగలరా?"
+    ],
+    "answer": "మీరు ఎక్కడి నుండి వచ్చారు?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Telugu?",
+    "options": [
+      "మీరు తెలుగు మాట్లాడగలరా?",
+      "మీ వయస్సు ఎంత?",
+      "నేను మీకు సహాయం చేయాలా?",
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "మీ వయస్సు ఎంత?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Telugu?' in Telugu?",
+    "options": [
+      "నేను మీకు సహాయం చేయాలా?",
+      "మీరు తెలుగు మాట్లాడగలరా?",
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "ఇది ఎంత?"
+    ],
+    "answer": "మీరు తెలుగు మాట్లాడగలరా?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Telugu?",
+    "options": [
+      "ఇప్పుడు సమయం ఎంత?",
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "నేను మీకు సహాయం చేయాలా?",
+      "ఇది ఎంత?"
+    ],
+    "answer": "నేను మీకు సహాయం చేయాలా?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Telugu?",
+    "options": [
+      "మీరు ఎక్కడ నివసిస్తున్నారు?",
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "ఇప్పుడు సమయం ఎంత?",
+      "ఇది ఎంత?"
+    ],
+    "answer": "బాత్‌రూమ్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Telugu?",
+    "options": [
+      "ఇది ఎంత?",
+      "మీరు ఎక్కడ నివసిస్తున్నారు?",
+      "మీరు ఎలా ఉన్నారు?",
+      "ఇప్పుడు సమయం ఎంత?"
+    ],
+    "answer": "ఇది ఎంత?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Telugu?",
+    "options": [
+      "ఇప్పుడు సమయం ఎంత?",
+      "మీరు ఎలా ఉన్నారు?",
+      "మీ పేరు ఏమిటి?",
+      "మీరు ఎక్కడ నివసిస్తున్నారు?"
+    ],
+    "answer": "ఇప్పుడు సమయం ఎంత?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Telugu?",
+    "options": [
+      "మీరు ఎక్కడ నివసిస్తున్నారు?",
+      "మీరు ఎలా ఉన్నారు?",
+      "మీ పేరు ఏమిటి?",
+      "మీరు ఎక్కడి నుండి వచ్చారు?"
+    ],
+    "answer": "మీరు ఎక్కడ నివసిస్తున్నారు?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Telugu?",
+    "options": [
+      "దయచేసి ఇక్కడ రండి",
+      "దయచేసి వేచి ఉండండి",
+      "దయచేసి కూర్చోండి",
+      "దయచేసి నాకు సహాయం చేయండి"
+    ],
+    "answer": "దయచేసి నాకు సహాయం చేయండి"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Telugu?",
+    "options": [
+      "దయచేసి వేచి ఉండండి",
+      "దయచేసి నెమ్మదిగా మాట్లాడండి",
+      "దయచేసి ఇక్కడ రండి",
+      "దయచేసి కూర్చోండి"
+    ],
+    "answer": "దయచేసి వేచి ఉండండి"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Telugu?",
+    "options": [
+      "దయచేసి నెమ్మదిగా మాట్లాడండి",
+      "దయచేసి కూర్చోండి",
+      "దయచేసి రాయండి",
+      "దయచేసి ఇక్కడ రండి"
+    ],
+    "answer": "దయచేసి ఇక్కడ రండి"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Telugu?",
+    "options": [
+      "దయచేసి రాయండి",
+      "దయచేసి మళ్ళీ చెప్పండి",
+      "దయచేసి కూర్చోండి",
+      "దయచేసి నెమ్మదిగా మాట్లాడండి"
+    ],
+    "answer": "దయచేసి కూర్చోండి"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Telugu?",
+    "options": [
+      "దయచేసి నెమ్మదిగా మాట్లాడండి",
+      "దయచేసి రాయండి",
+      "దయచేసి చూపించండి",
+      "దయచేసి మళ్ళీ చెప్పండి"
+    ],
+    "answer": "దయచేసి నెమ్మదిగా మాట్లాడండి"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Telugu?",
+    "options": [
+      "దయచేసి రాయండి",
+      "దయచేసి మళ్ళీ చెప్పండి",
+      "దయచేసి తలుపు తీయండి",
+      "దయచేసి చూపించండి"
+    ],
+    "answer": "దయచేసి రాయండి"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Telugu?",
+    "options": [
+      "దయచేసి తలుపు తీయండి",
+      "దయచేసి జనాలా మూసండి",
+      "దయచేసి మళ్ళీ చెప్పండి",
+      "దయచేసి చూపించండి"
+    ],
+    "answer": "దయచేసి మళ్ళీ చెప్పండి"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Telugu?",
+    "options": [
+      "దయచేసి జనాలా మూసండి",
+      "దయచేసి చూపించండి",
+      "దయచేసి తలుపు తీయండి",
+      "దయచేసి నాకు సహాయం చేయండి"
+    ],
+    "answer": "దయచేసి చూపించండి"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Telugu?",
+    "options": [
+      "దయచేసి నాకు సహాయం చేయండి",
+      "దయచేసి తలుపు తీయండి",
+      "దయచేసి వేచి ఉండండి",
+      "దయచేసి జనాలా మూసండి"
+    ],
+    "answer": "దయచేసి తలుపు తీయండి"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Telugu?",
+    "options": [
+      "దయచేసి ఇక్కడ రండి",
+      "దయచేసి జనాలా మూసండి",
+      "దయచేసి వేచి ఉండండి",
+      "దయచేసి నాకు సహాయం చేయండి"
+    ],
+    "answer": "దయచేసి జనాలా మూసండి"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Telugu?",
+    "options": [
+      "ఇది ప్రయత్నించవచ్చా?",
+      "ఇది ఎంత?",
+      "ఇది కొనాలనుకుంటున్నాను",
+      "రాయితీ ఉందా?"
+    ],
+    "answer": "ఇది ఎంత?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Telugu?",
+    "options": [
+      "ఇది ప్రయత్నించవచ్చా?",
+      "మీరు కార్డులు స్వీకరిస్తారా?",
+      "రాయితీ ఉందా?",
+      "ఇది కొనాలనుకుంటున్నాను"
+    ],
+    "answer": "రాయితీ ఉందా?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Telugu?",
+    "options": [
+      "ఇది కొనాలనుకుంటున్నాను",
+      "ఇది ప్రయత్నించవచ్చా?",
+      "కౌంటర్ ఎక్కడ ఉంది?",
+      "మీరు కార్డులు స్వీకరిస్తారా?"
+    ],
+    "answer": "ఇది కొనాలనుకుంటున్నాను"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Telugu?",
+    "options": [
+      "మీరు కార్డులు స్వీకరిస్తారా?",
+      "కౌంటర్ ఎక్కడ ఉంది?",
+      "ఇది అందుబాటులో ఉందా?",
+      "ఇది ప్రయత్నించవచ్చా?"
+    ],
+    "answer": "ఇది ప్రయత్నించవచ్చా?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Telugu?",
+    "options": [
+      "కౌంటర్ ఎక్కడ ఉంది?",
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "మీరు కార్డులు స్వీకరిస్తారా?",
+      "ఇది అందుబాటులో ఉందా?"
+    ],
+    "answer": "మీరు కార్డులు స్వీకరిస్తారా?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Telugu?",
+    "options": [
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "ఇది అందుబాటులో ఉందా?",
+      "నాకు బ్యాగ్ కావాలి",
+      "కౌంటర్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "కౌంటర్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Telugu?",
+    "options": [
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "నాకు బ్యాగ్ కావాలి",
+      "సమయాలు ఏమిటి?",
+      "ఇది అందుబాటులో ఉందా?"
+    ],
+    "answer": "ఇది అందుబాటులో ఉందా?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Telugu?",
+    "options": [
+      "నాకు బ్యాగ్ కావాలి",
+      "ఇది ఎంత?",
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "సమయాలు ఏమిటి?"
+    ],
+    "answer": "దయచేసి ఇది ప్యాక్ చేయండి"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Telugu?",
+    "options": [
+      "సమయాలు ఏమిటి?",
+      "ఇది ఎంత?",
+      "రాయితీ ఉందా?",
+      "నాకు బ్యాగ్ కావాలి"
+    ],
+    "answer": "నాకు బ్యాగ్ కావాలి"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Telugu?",
+    "options": [
+      "ఇది ఎంత?",
+      "ఇది కొనాలనుకుంటున్నాను",
+      "రాయితీ ఉందా?",
+      "సమయాలు ఏమిటి?"
+    ],
+    "answer": "సమయాలు ఏమిటి?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Telugu?",
+    "options": [
+      "ఇక్కడి నుండి అది దూరమా?",
+      "బస్ స్టాప్ ఎక్కడ ఉంది?",
+      "మార్కెట్ కి దారి ఏది?",
+      "రైల్వే స్టేషన్ కి ఎలా వెళ్ళాలి?"
+    ],
+    "answer": "బస్ స్టాప్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Telugu?",
+    "options": [
+      "ఎడమవైపు తిరగండి",
+      "ఇక్కడి నుండి అది దూరమా?",
+      "రైల్వే స్టేషన్ కి ఎలా వెళ్ళాలి?",
+      "మార్కెట్ కి దారి ఏది?"
+    ],
+    "answer": "రైల్వే స్టేషన్ కి ఎలా వెళ్ళాలి?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Telugu?",
+    "options": [
+      "ఇక్కడి నుండి అది దూరమా?",
+      "ఎడమవైపు తిరగండి",
+      "కుడివైపు తిరగండి",
+      "మార్కెట్ కి దారి ఏది?"
+    ],
+    "answer": "మార్కెట్ కి దారి ఏది?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Telugu?",
+    "options": [
+      "నేరుగా పోండి",
+      "కుడివైపు తిరగండి",
+      "ఎడమవైపు తిరగండి",
+      "ఇక్కడి నుండి అది దూరమా?"
+    ],
+    "answer": "ఇక్కడి నుండి అది దూరమా?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Telugu?",
+    "options": [
+      "నేరుగా పోండి",
+      "కుడివైపు తిరగండి",
+      "ఇక్కడ ఆపు",
+      "ఎడమవైపు తిరగండి"
+    ],
+    "answer": "ఎడమవైపు తిరగండి"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Telugu?",
+    "options": [
+      "నేరుగా పోండి",
+      "ఎంత సమయం పడుతుంది?",
+      "ఇక్కడ ఆపు",
+      "కుడివైపు తిరగండి"
+    ],
+    "answer": "కుడివైపు తిరగండి"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Telugu?",
+    "options": [
+      "ఎంత సమయం పడుతుంది?",
+      "ఇక్కడ ఆపు",
+      "మ్యాప్ లో చూపించగలరా?",
+      "నేరుగా పోండి"
+    ],
+    "answer": "నేరుగా పోండి"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Telugu?",
+    "options": [
+      "బస్ స్టాప్ ఎక్కడ ఉంది?",
+      "మ్యాప్ లో చూపించగలరా?",
+      "ఇక్కడ ఆపు",
+      "ఎంత సమయం పడుతుంది?"
+    ],
+    "answer": "ఇక్కడ ఆపు"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Telugu?",
+    "options": [
+      "మ్యాప్ లో చూపించగలరా?",
+      "ఎంత సమయం పడుతుంది?",
+      "రైల్వే స్టేషన్ కి ఎలా వెళ్ళాలి?",
+      "బస్ స్టాప్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "ఎంత సమయం పడుతుంది?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Telugu",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Telugu?",
+    "options": [
+      "బస్ స్టాప్ ఎక్కడ ఉంది?",
+      "మార్కెట్ కి దారి ఏది?",
+      "రైల్వే స్టేషన్ కి ఎలా వెళ్ళాలి?",
+      "మ్యాప్ లో చూపించగలరా?"
+    ],
+    "answer": "మ్యాప్ లో చూపించగలరా?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'go'?",
+    "options": [
+      "తిన్నాను",
+      "వెళ్ళాను",
+      "చూశాను",
+      "చదివాను"
+    ],
+    "answer": "వెళ్ళాను"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'eat'?",
+    "options": [
+      "రాశాను",
+      "తిన్నాను",
+      "చూశాను",
+      "చదివాను"
+    ],
+    "answer": "తిన్నాను"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'see'?",
+    "options": [
+      "చూశాను",
+      "రాశాను",
+      "చదివాను",
+      "వచ్చాను"
+    ],
+    "answer": "చూశాను"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'read'?",
+    "options": [
+      "వచ్చాను",
+      "చదివాను",
+      "ఇచ్చాను",
+      "రాశాను"
+    ],
+    "answer": "చదివాను"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'write'?",
+    "options": [
+      "రాశాను",
+      "వచ్చాను",
+      "తీసుకున్నాను",
+      "ఇచ్చాను"
+    ],
+    "answer": "రాశాను"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'come'?",
+    "options": [
+      "ఆడాను",
+      "వచ్చాను",
+      "తీసుకున్నాను",
+      "ఇచ్చాను"
+    ],
+    "answer": "వచ్చాను"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'give'?",
+    "options": [
+      "నిద్రపోయాను",
+      "తీసుకున్నాను",
+      "ఆడాను",
+      "ఇచ్చాను"
+    ],
+    "answer": "ఇచ్చాను"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'take'?",
+    "options": [
+      "ఆడాను",
+      "వెళ్ళాను",
+      "తీసుకున్నాను",
+      "నిద్రపోయాను"
+    ],
+    "answer": "తీసుకున్నాను"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'play'?",
+    "options": [
+      "నిద్రపోయాను",
+      "ఆడాను",
+      "వెళ్ళాను",
+      "తిన్నాను"
+    ],
+    "answer": "ఆడాను"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Telugu past tense of 'sleep'?",
+    "options": [
+      "చూశాను",
+      "తిన్నాను",
+      "వెళ్ళాను",
+      "నిద్రపోయాను"
+    ],
+    "answer": "నిద్రపోయాను"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'book'?",
+    "options": [
+      "కలములు",
+      "పుస్తకాలు",
+      "బాలికలు",
+      "బాలురు"
+    ],
+    "answer": "పుస్తకాలు"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'pen'?",
+    "options": [
+      "బాలురు",
+      "కలములు",
+      "పూలు",
+      "బాలికలు"
+    ],
+    "answer": "కలములు"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'boy'?",
+    "options": [
+      "బాలికలు",
+      "బాలురు",
+      "పూలు",
+      "ఆకులు"
+    ],
+    "answer": "బాలురు"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'girl'?",
+    "options": [
+      "నక్షత్రాలు",
+      "పూలు",
+      "ఆకులు",
+      "బాలికలు"
+    ],
+    "answer": "బాలికలు"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'flower'?",
+    "options": [
+      "నక్షత్రాలు",
+      "ఆకులు",
+      "చెట్లు",
+      "పూలు"
+    ],
+    "answer": "పూలు"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'leaf'?",
+    "options": [
+      "నక్షత్రాలు",
+      "నదులు",
+      "చెట్లు",
+      "ఆకులు"
+    ],
+    "answer": "ఆకులు"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'star'?",
+    "options": [
+      "నదులు",
+      "నక్షత్రాలు",
+      "కుర్చీలు",
+      "చెట్లు"
+    ],
+    "answer": "నక్షత్రాలు"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'tree'?",
+    "options": [
+      "చెట్లు",
+      "నదులు",
+      "కుర్చీలు",
+      "పుస్తకాలు"
+    ],
+    "answer": "చెట్లు"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'river'?",
+    "options": [
+      "నదులు",
+      "కుర్చీలు",
+      "కలములు",
+      "పుస్తకాలు"
+    ],
+    "answer": "నదులు"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Telugu plural of 'chair'?",
+    "options": [
+      "కలములు",
+      "బాలురు",
+      "కుర్చీలు",
+      "పుస్తకాలు"
+    ],
+    "answer": "కుర్చీలు"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'and'?",
+    "options": [
+      "కానీ",
+      "మరియు",
+      "ఎందుకంటే",
+      "లేదా"
+    ],
+    "answer": "మరియు"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'but'?",
+    "options": [
+      "లేదా",
+      "కానీ",
+      "ఒకవేళ",
+      "ఎందుకంటే"
+    ],
+    "answer": "కానీ"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'or'?",
+    "options": [
+      "ఎప్పుడు",
+      "లేదా",
+      "ఎందుకంటే",
+      "ఒకవేళ"
+    ],
+    "answer": "లేదా"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'because'?",
+    "options": [
+      "ఎక్కడ",
+      "ఒకవేళ",
+      "ఎందుకంటే",
+      "ఎప్పుడు"
+    ],
+    "answer": "ఎందుకంటే"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'if'?",
+    "options": [
+      "ఎక్కడ",
+      "ఒకవేళ",
+      "ఎలా",
+      "ఎప్పుడు"
+    ],
+    "answer": "ఒకవేళ"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'when'?",
+    "options": [
+      "ఎక్కడ",
+      "ఎందుకు",
+      "ఎప్పుడు",
+      "ఎలా"
+    ],
+    "answer": "ఎప్పుడు"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'where'?",
+    "options": [
+      "తో",
+      "ఎందుకు",
+      "ఎక్కడ",
+      "ఎలా"
+    ],
+    "answer": "ఎక్కడ"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'how'?",
+    "options": [
+      "ఎందుకు",
+      "తో",
+      "మరియు",
+      "ఎలా"
+    ],
+    "answer": "ఎలా"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'why'?",
+    "options": [
+      "కానీ",
+      "ఎందుకు",
+      "మరియు",
+      "తో"
+    ],
+    "answer": "ఎందుకు"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Telugu particle for 'with'?",
+    "options": [
+      "కానీ",
+      "మరియు",
+      "లేదా",
+      "తో"
+    ],
+    "answer": "తో"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Telugu?",
+    "options": [
+      "రాను",
+      "తినను",
+      "పోను",
+      "చదవను"
+    ],
+    "answer": "పోను"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Telugu?",
+    "options": [
+      "రాయను",
+      "తినను",
+      "చదవను",
+      "రాను"
+    ],
+    "answer": "రాను"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Telugu?",
+    "options": [
+      "తినను",
+      "రాయను",
+      "చదవను",
+      "ఆడను"
+    ],
+    "answer": "తినను"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Telugu?",
+    "options": [
+      "నిద్రపోవను",
+      "ఆడను",
+      "రాయను",
+      "చదవను"
+    ],
+    "answer": "చదవను"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Telugu?",
+    "options": [
+      "చూడను",
+      "రాయను",
+      "నిద్రపోవను",
+      "ఆడను"
+    ],
+    "answer": "రాయను"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Telugu?",
+    "options": [
+      "నిద్రపోవను",
+      "చూడను",
+      "ఆడను",
+      "ఇవ్వను"
+    ],
+    "answer": "ఆడను"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Telugu?",
+    "options": [
+      "తీసుకోను",
+      "చూడను",
+      "నిద్రపోవను",
+      "ఇవ్వను"
+    ],
+    "answer": "నిద్రపోవను"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Telugu?",
+    "options": [
+      "పోను",
+      "తీసుకోను",
+      "చూడను",
+      "ఇవ్వను"
+    ],
+    "answer": "చూడను"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Telugu?",
+    "options": [
+      "పోను",
+      "రాను",
+      "ఇవ్వను",
+      "తీసుకోను"
+    ],
+    "answer": "ఇవ్వను"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Telugu?",
+    "options": [
+      "పోను",
+      "తీసుకోను",
+      "రాను",
+      "తినను"
+    ],
+    "answer": "తీసుకోను"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'apple'",
+    "options": [
+      "అరటి",
+      "కుక్క",
+      "ఆపిల్",
+      "పిల్లి"
+    ],
+    "answer": "ఆపిల్"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'banana'",
+    "options": [
+      "కుక్క",
+      "కారు",
+      "అరటి",
+      "పిల్లి"
+    ],
+    "answer": "అరటి"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'cat'",
+    "options": [
+      "కుక్క",
+      "బస్సు",
+      "పిల్లి",
+      "కారు"
+    ],
+    "answer": "పిల్లి"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'dog'",
+    "options": [
+      "కుక్క",
+      "బస్సు",
+      "కారు",
+      "రైలు"
+    ],
+    "answer": "కుక్క"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'car'",
+    "options": [
+      "ఇల్లు",
+      "రైలు",
+      "బస్సు",
+      "కారు"
+    ],
+    "answer": "కారు"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'bus'",
+    "options": [
+      "నగరం",
+      "బస్సు",
+      "రైలు",
+      "ఇల్లు"
+    ],
+    "answer": "బస్సు"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'train'",
+    "options": [
+      "రైలు",
+      "నగరం",
+      "ఇల్లు",
+      "గ్రామం"
+    ],
+    "answer": "రైలు"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'house'",
+    "options": [
+      "నగరం",
+      "గ్రామం",
+      "ఇల్లు",
+      "ఆపిల్"
+    ],
+    "answer": "ఇల్లు"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'city'",
+    "options": [
+      "ఆపిల్",
+      "అరటి",
+      "నగరం",
+      "గ్రామం"
+    ],
+    "answer": "నగరం"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Telugu word for 'village'",
+    "options": [
+      "పిల్లి",
+      "గ్రామం",
+      "అరటి",
+      "ఆపిల్"
+    ],
+    "answer": "గ్రామం"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Good morning'",
+    "options": [
+      "శుభోదయం",
+      "క్షమించండి",
+      "ధన్యవాదాలు",
+      "మీరు ఎలా ఉన్నారు?"
+    ],
+    "answer": "శుభోదయం"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'How are you?'",
+    "options": [
+      "దయచేసి రండి",
+      "మీరు ఎలా ఉన్నారు?",
+      "క్షమించండి",
+      "ధన్యవాదాలు"
+    ],
+    "answer": "మీరు ఎలా ఉన్నారు?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Thank you'",
+    "options": [
+      "క్షమించండి",
+      "ధన్యవాదాలు",
+      "కూర్చోండి",
+      "దయచేసి రండి"
+    ],
+    "answer": "ధన్యవాదాలు"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Sorry'",
+    "options": [
+      "కూర్చోండి",
+      "లేచి నిలబడి ఉండండి",
+      "దయచేసి రండి",
+      "క్షమించండి"
+    ],
+    "answer": "క్షమించండి"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Please come in'",
+    "options": [
+      "కూర్చోండి",
+      "లేచి నిలబడి ఉండండి",
+      "ముందుకు పోండి",
+      "దయచేసి రండి"
+    ],
+    "answer": "దయచేసి రండి"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Sit down'",
+    "options": [
+      "కూర్చోండి",
+      "ముందుకు పోండి",
+      "లేచి నిలబడి ఉండండి",
+      "బాగా చేసారు"
+    ],
+    "answer": "కూర్చోండి"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Stand up'",
+    "options": [
+      "బాగా చేసారు",
+      "లేచి నిలబడి ఉండండి",
+      "అభినందనలు",
+      "ముందుకు పోండి"
+    ],
+    "answer": "లేచి నిలబడి ఉండండి"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Go ahead'",
+    "options": [
+      "అభినందనలు",
+      "బాగా చేసారు",
+      "ముందుకు పోండి",
+      "శుభోదయం"
+    ],
+    "answer": "ముందుకు పోండి"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Well done'",
+    "options": [
+      "శుభోదయం",
+      "మీరు ఎలా ఉన్నారు?",
+      "బాగా చేసారు",
+      "అభినందనలు"
+    ],
+    "answer": "బాగా చేసారు"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Telugu phrase for 'Congratulations'",
+    "options": [
+      "మీరు ఎలా ఉన్నారు?",
+      "ధన్యవాదాలు",
+      "అభినందనలు",
+      "శుభోదయం"
+    ],
+    "answer": "అభినందనలు"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'I am going to school'",
+    "options": [
+      "నేను పాఠశాలకు వెళ్తున్నాను",
+      "వారు పుస్తకాలు చదువుతున్నారు",
+      "మేము క్రికెట్ ఆడుతున్నాము",
+      "ఆమె అన్నం తింటోంది"
+    ],
+    "answer": "నేను పాఠశాలకు వెళ్తున్నాను"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'She is eating rice'",
+    "options": [
+      "మేము క్రికెట్ ఆడుతున్నాము",
+      "ఆమె అన్నం తింటోంది",
+      "వారు పుస్తకాలు చదువుతున్నారు",
+      "అతను ఉత్తరం రాస్తున్నాడు"
+    ],
+    "answer": "ఆమె అన్నం తింటోంది"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'We are playing cricket'",
+    "options": [
+      "అతను ఉత్తరం రాస్తున్నాడు",
+      "నీవు నా స్నేహితుడు",
+      "మేము క్రికెట్ ఆడుతున్నాము",
+      "వారు పుస్తకాలు చదువుతున్నారు"
+    ],
+    "answer": "మేము క్రికెట్ ఆడుతున్నాము"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'They are reading books'",
+    "options": [
+      "వారు పుస్తకాలు చదువుతున్నారు",
+      "ఇప్పుడు వర్షం పడుతోంది",
+      "అతను ఉత్తరం రాస్తున్నాడు",
+      "నీవు నా స్నేహితుడు"
+    ],
+    "answer": "వారు పుస్తకాలు చదువుతున్నారు"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'He is writing a letter'",
+    "options": [
+      "ఇప్పుడు వర్షం పడుతోంది",
+      "నీవు నా స్నేహితుడు",
+      "అతను ఉత్తరం రాస్తున్నాడు",
+      "నాకు తెలుగు ఇష్టం"
+    ],
+    "answer": "అతను ఉత్తరం రాస్తున్నాడు"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'You are my friend'",
+    "options": [
+      "ఇప్పుడు వర్షం పడుతోంది",
+      "మేము హైదరాబాద్ లో నివసిస్తున్నాము",
+      "నీవు నా స్నేహితుడు",
+      "నాకు తెలుగు ఇష్టం"
+    ],
+    "answer": "నీవు నా స్నేహితుడు"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'It is raining now'",
+    "options": [
+      "నాకు తెలుగు ఇష్టం",
+      "ఆమె పాట పాడుతోంది",
+      "మేము హైదరాబాద్ లో నివసిస్తున్నాము",
+      "ఇప్పుడు వర్షం పడుతోంది"
+    ],
+    "answer": "ఇప్పుడు వర్షం పడుతోంది"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'I like Telugu'",
+    "options": [
+      "నాకు తెలుగు ఇష్టం",
+      "ఆమె పాట పాడుతోంది",
+      "నేను పాఠశాలకు వెళ్తున్నాను",
+      "మేము హైదరాబాద్ లో నివసిస్తున్నాము"
+    ],
+    "answer": "నాకు తెలుగు ఇష్టం"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'We live in Hyderabad'",
+    "options": [
+      "మేము హైదరాబాద్ లో నివసిస్తున్నాము",
+      "ఆమె పాట పాడుతోంది",
+      "ఆమె అన్నం తింటోంది",
+      "నేను పాఠశాలకు వెళ్తున్నాను"
+    ],
+    "answer": "మేము హైదరాబాద్ లో నివసిస్తున్నాము"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Telugu sentence for 'She is singing a song'",
+    "options": [
+      "ఆమె పాట పాడుతోంది",
+      "ఆమె అన్నం తింటోంది",
+      "నేను పాఠశాలకు వెళ్తున్నాను",
+      "మేము క్రికెట్ ఆడుతున్నాము"
+    ],
+    "answer": "ఆమె పాట పాడుతోంది"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "ఎక్కడికి వెళ్తున్నారు? - మార్కెట్ కి",
+      "మీరు ఎలా ఉన్నారు? - బాగున్నాను",
+      "మీరు ఇంగ్లీష్ మాట్లాడగలరా? - కొంచెం మాట్లాడగలను",
+      "మీ పేరు ఏమిటి? - నా పేరు రవి"
+    ],
+    "answer": "మీరు ఎలా ఉన్నారు? - బాగున్నాను"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "మీ పేరు ఏమిటి? - నా పేరు రవి",
+      "మీరు నాకు సహాయం చేయగలరా? - ఖచ్చితంగా",
+      "మీరు ఇంగ్లీష్ మాట్లాడగలరా? - కొంచెం మాట్లాడగలను",
+      "ఎక్కడికి వెళ్తున్నారు? - మార్కెట్ కి"
+    ],
+    "answer": "మీ పేరు ఏమిటి? - నా పేరు రవి"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "ఇప్పుడు సమయం ఎంత? - ఐదు గంటలు",
+      "మీరు నాకు సహాయం చేయగలరా? - ఖచ్చితంగా",
+      "మీరు ఇంగ్లీష్ మాట్లాడగలరా? - కొంచెం మాట్లాడగలను",
+      "ఎక్కడికి వెళ్తున్నారు? - మార్కెట్ కి"
+    ],
+    "answer": "ఎక్కడికి వెళ్తున్నారు? - మార్కెట్ కి"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "మీరు ఇంగ్లీష్ మాట్లాడగలరా? - కొంచెం మాట్లాడగలను",
+      "ఇప్పుడు సమయం ఎంత? - ఐదు గంటలు",
+      "బస్ స్టాప్ ఎక్కడ ఉంది? - అక్కడే ఉంది",
+      "మీరు నాకు సహాయం చేయగలరా? - ఖచ్చితంగా"
+    ],
+    "answer": "మీరు ఇంగ్లీష్ మాట్లాడగలరా? - కొంచెం మాట్లాడగలను"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "ఇప్పుడు సమయం ఎంత? - ఐదు గంటలు",
+      "మీరు నాకు సహాయం చేయగలరా? - ఖచ్చితంగా",
+      "బస్ స్టాప్ ఎక్కడ ఉంది? - అక్కడే ఉంది",
+      "ఇది ఎంత? - 50 రూపాయలు"
+    ],
+    "answer": "మీరు నాకు సహాయం చేయగలరా? - ఖచ్చితంగా"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "దయచేసి లోపల రండి. - ధన్యవాదాలు",
+      "ఇప్పుడు సమయం ఎంత? - ఐదు గంటలు",
+      "బస్ స్టాప్ ఎక్కడ ఉంది? - అక్కడే ఉంది",
+      "ఇది ఎంత? - 50 రూపాయలు"
+    ],
+    "answer": "ఇప్పుడు సమయం ఎంత? - ఐదు గంటలు"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "బస్ స్టాప్ ఎక్కడ ఉంది? - అక్కడే ఉంది",
+      "వీడ్కోలు. - మళ్ళీ కలుద్దాం",
+      "దయచేసి లోపల రండి. - ధన్యవాదాలు",
+      "ఇది ఎంత? - 50 రూపాయలు"
+    ],
+    "answer": "బస్ స్టాప్ ఎక్కడ ఉంది? - అక్కడే ఉంది"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "ఇది ఎంత? - 50 రూపాయలు",
+      "మీరు ఎలా ఉన్నారు? - బాగున్నాను",
+      "వీడ్కోలు. - మళ్ళీ కలుద్దాం",
+      "దయచేసి లోపల రండి. - ధన్యవాదాలు"
+    ],
+    "answer": "ఇది ఎంత? - 50 రూపాయలు"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "దయచేసి లోపల రండి. - ధన్యవాదాలు",
+      "మీ పేరు ఏమిటి? - నా పేరు రవి",
+      "వీడ్కోలు. - మళ్ళీ కలుద్దాం",
+      "మీరు ఎలా ఉన్నారు? - బాగున్నాను"
+    ],
+    "answer": "దయచేసి లోపల రండి. - ధన్యవాదాలు"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Telugu dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "మీ పేరు ఏమిటి? - నా పేరు రవి",
+      "ఎక్కడికి వెళ్తున్నారు? - మార్కెట్ కి",
+      "మీరు ఎలా ఉన్నారు? - బాగున్నాను",
+      "వీడ్కోలు. - మళ్ళీ కలుద్దాం"
+    ],
+    "answer": "వీడ్కోలు. - మళ్ళీ కలుద్దాం"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Telugu?",
+    "options": [
+      "ఇది కొనాలనుకుంటున్నాను",
+      "ఇది ఎంత?",
+      "కౌంటర్ ఎక్కడ ఉంది?",
+      "రాయితీ ఉందా?"
+    ],
+    "answer": "ఇది కొనాలనుకుంటున్నాను"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Telugu?",
+    "options": [
+      "మీరు కార్డులు తీసుకుంటారా?",
+      "రాయితీ ఉందా?",
+      "ఇది ఎంత?",
+      "కౌంటర్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "ఇది ఎంత?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Telugu?",
+    "options": [
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "మీరు కార్డులు తీసుకుంటారా?",
+      "రాయితీ ఉందా?",
+      "కౌంటర్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "రాయితీ ఉందా?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Telugu?",
+    "options": [
+      "కౌంటర్ ఎక్కడ ఉంది?",
+      "మీరు కార్డులు తీసుకుంటారా?",
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "నాకు బ్యాగ్ కావాలి"
+    ],
+    "answer": "కౌంటర్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Telugu?",
+    "options": [
+      "మీరు కార్డులు తీసుకుంటారా?",
+      "ఇది అందుబాటులో ఉందా?",
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "నాకు బ్యాగ్ కావాలి"
+    ],
+    "answer": "మీరు కార్డులు తీసుకుంటారా?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Telugu?",
+    "options": [
+      "దయచేసి ఇది ప్యాక్ చేయండి",
+      "ఇది అందుబాటులో ఉందా?",
+      "సమయాలు ఏమిటి?",
+      "నాకు బ్యాగ్ కావాలి"
+    ],
+    "answer": "దయచేసి ఇది ప్యాక్ చేయండి"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Telugu?",
+    "options": [
+      "సమయాలు ఏమిటి?",
+      "ఇది ప్రయత్నించవచ్చా?",
+      "నాకు బ్యాగ్ కావాలి",
+      "ఇది అందుబాటులో ఉందా?"
+    ],
+    "answer": "నాకు బ్యాగ్ కావాలి"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Telugu?",
+    "options": [
+      "సమయాలు ఏమిటి?",
+      "ఇది ప్రయత్నించవచ్చా?",
+      "ఇది కొనాలనుకుంటున్నాను",
+      "ఇది అందుబాటులో ఉందా?"
+    ],
+    "answer": "ఇది అందుబాటులో ఉందా?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Telugu?",
+    "options": [
+      "సమయాలు ఏమిటి?",
+      "ఇది ఎంత?",
+      "ఇది ప్రయత్నించవచ్చా?",
+      "ఇది కొనాలనుకుంటున్నాను"
+    ],
+    "answer": "సమయాలు ఏమిటి?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Telugu?",
+    "options": [
+      "రాయితీ ఉందా?",
+      "ఇది కొనాలనుకుంటున్నాను",
+      "ఇది ప్రయత్నించవచ్చా?",
+      "ఇది ఎంత?"
+    ],
+    "answer": "ఇది ప్రయత్నించవచ్చా?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Telugu?",
+    "options": [
+      "ఎయిర్‌పోర్ట్ కి ఎలా వెళ్ళాలి?",
+      "రైల్వే స్టేషన్ ఎక్కడ ఉంది?",
+      "నగరానికి ఏ బస్సు వెళ్తుంది?",
+      "ఎంత సమయం పడుతుంది?"
+    ],
+    "answer": "రైల్వే స్టేషన్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Telugu?",
+    "options": [
+      "ఎయిర్‌పోర్ట్ కి ఎలా వెళ్ళాలి?",
+      "ఇక్కడి నుండి అది దూరమా?",
+      "నగరానికి ఏ బస్సు వెళ్తుంది?",
+      "ఎంత సమయం పడుతుంది?"
+    ],
+    "answer": "ఎయిర్‌పోర్ట్ కి ఎలా వెళ్ళాలి?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Telugu?",
+    "options": [
+      "నగరానికి ఏ బస్సు వెళ్తుంది?",
+      "టాక్సీ ఎక్కడ దొరుకుతుంది?",
+      "ఎంత సమయం పడుతుంది?",
+      "ఇక్కడి నుండి అది దూరమా?"
+    ],
+    "answer": "నగరానికి ఏ బస్సు వెళ్తుంది?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Telugu?",
+    "options": [
+      "ఎంత సమయం పడుతుంది?",
+      "హోటల్ ఎక్కడ ఉంది?",
+      "ఇక్కడి నుండి అది దూరమా?",
+      "టాక్సీ ఎక్కడ దొరుకుతుంది?"
+    ],
+    "answer": "ఎంత సమయం పడుతుంది?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Telugu?",
+    "options": [
+      "ఇక్కడి నుండి అది దూరమా?",
+      "టాక్సీ ఎక్కడ దొరుకుతుంది?",
+      "మ్యాప్ లో చూపించగలరా?",
+      "హోటల్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "ఇక్కడి నుండి అది దూరమా?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Telugu?",
+    "options": [
+      "మ్యాప్ లో చూపించగలరా?",
+      "టాక్సీ ఎక్కడ దొరుకుతుంది?",
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "హోటల్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "టాక్సీ ఎక్కడ దొరుకుతుంది?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Telugu?",
+    "options": [
+      "నేను దారి తప్పిపోయాను",
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "హోటల్ ఎక్కడ ఉంది?",
+      "మ్యాప్ లో చూపించగలరా?"
+    ],
+    "answer": "హోటల్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Telugu?",
+    "options": [
+      "నేను దారి తప్పిపోయాను",
+      "మ్యాప్ లో చూపించగలరా?",
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "రైల్వే స్టేషన్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "మ్యాప్ లో చూపించగలరా?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Telugu?",
+    "options": [
+      "బాత్‌రూమ్ ఎక్కడ ఉంది?",
+      "నేను దారి తప్పిపోయాను",
+      "ఎయిర్‌పోర్ట్ కి ఎలా వెళ్ళాలి?",
+      "రైల్వే స్టేషన్ ఎక్కడ ఉంది?"
+    ],
+    "answer": "బాత్‌రూమ్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Telugu?",
+    "options": [
+      "నేను దారి తప్పిపోయాను",
+      "రైల్వే స్టేషన్ ఎక్కడ ఉంది?",
+      "నగరానికి ఏ బస్సు వెళ్తుంది?",
+      "ఎయిర్‌పోర్ట్ కి ఎలా వెళ్ళాలి?"
+    ],
+    "answer": "నేను దారి తప్పిపోయాను"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Telugu?",
+    "options": [
+      "పోలీసులను పిలవండి",
+      "నాకు డాక్టర్ కావాలి",
+      "హాస్పిటల్ ఎక్కడ ఉంది?",
+      "నాకు అనారోగ్యం"
+    ],
+    "answer": "పోలీసులను పిలవండి"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Telugu?",
+    "options": [
+      "నాకు డాక్టర్ కావాలి",
+      "నాకు అనారోగ్యం",
+      "హాస్పిటల్ ఎక్కడ ఉంది?",
+      "సహాయం!"
+    ],
+    "answer": "నాకు డాక్టర్ కావాలి"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Telugu?",
+    "options": [
+      "నా వాలెట్ పోయింది",
+      "హాస్పిటల్ ఎక్కడ ఉంది?",
+      "నాకు అనారోగ్యం",
+      "సహాయం!"
+    ],
+    "answer": "హాస్పిటల్ ఎక్కడ ఉంది?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Telugu?",
+    "options": [
+      "నా వాలెట్ పోయింది",
+      "సహాయం!",
+      "నాకు అనారోగ్యం",
+      "ఇక్కడ మంటలు ఉన్నాయి"
+    ],
+    "answer": "నాకు అనారోగ్యం"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Telugu?",
+    "options": [
+      "సహాయం!",
+      "ఇక్కడ మంటలు ఉన్నాయి",
+      "నాకు ప్రమాదం జరిగింది",
+      "నా వాలెట్ పోయింది"
+    ],
+    "answer": "సహాయం!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Telugu?",
+    "options": [
+      "నా వాలెట్ పోయింది",
+      "నాకు ప్రమాదం జరిగింది",
+      "ఇక్కడ మంటలు ఉన్నాయి",
+      "నాకు గాయం అయింది"
+    ],
+    "answer": "నా వాలెట్ పోయింది"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Telugu?",
+    "options": [
+      "ఇక్కడ మంటలు ఉన్నాయి",
+      "దయచేసి నాకు సహాయం చేయండి",
+      "నాకు ప్రమాదం జరిగింది",
+      "నాకు గాయం అయింది"
+    ],
+    "answer": "ఇక్కడ మంటలు ఉన్నాయి"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Telugu?",
+    "options": [
+      "నాకు గాయం అయింది",
+      "నాకు ప్రమాదం జరిగింది",
+      "దయచేసి నాకు సహాయం చేయండి",
+      "పోలీసులను పిలవండి"
+    ],
+    "answer": "నాకు ప్రమాదం జరిగింది"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Telugu?",
+    "options": [
+      "దయచేసి నాకు సహాయం చేయండి",
+      "నాకు గాయం అయింది",
+      "పోలీసులను పిలవండి",
+      "నాకు డాక్టర్ కావాలి"
+    ],
+    "answer": "నాకు గాయం అయింది"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Telugu?",
+    "options": [
+      "దయచేసి నాకు సహాయం చేయండి",
+      "హాస్పిటల్ ఎక్కడ ఉంది?",
+      "పోలీసులను పిలవండి",
+      "నాకు డాక్టర్ కావాలి"
+    ],
+    "answer": "దయచేసి నాకు సహాయం చేయండి"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Telugu?",
+    "options": [
+      "రేపు కలుద్దాం",
+      "ఈ సాయంత్రం మీరు ఖాళీగా ఉన్నారా?",
+      "సినిమాకు పోదాం",
+      "మీరు ఏమైనా ప్రణాళికలు వేసుకున్నారా?"
+    ],
+    "answer": "మీరు ఏమైనా ప్రణాళికలు వేసుకున్నారా?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Telugu?",
+    "options": [
+      "రేపు కలుద్దాం",
+      "సినిమాకు పోదాం",
+      "ఈ సాయంత్రం మీరు ఖాళీగా ఉన్నారా?",
+      "మనము కలసి భోజనం చేద్దామా?"
+    ],
+    "answer": "రేపు కలుద్దాం"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Telugu?",
+    "options": [
+      "మీరు మాతో చేరగలరా?",
+      "ఈ సాయంత్రం మీరు ఖాళీగా ఉన్నారా?",
+      "మనము కలసి భోజనం చేద్దామా?",
+      "సినిమాకు పోదాం"
+    ],
+    "answer": "ఈ సాయంత్రం మీరు ఖాళీగా ఉన్నారా?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Telugu?",
+    "options": [
+      "సినిమాకు పోదాం",
+      "నేను ఈ రోజు బిజీగా ఉన్నాను",
+      "మీరు మాతో చేరగలరా?",
+      "మనము కలసి భోజనం చేద్దామా?"
+    ],
+    "answer": "సినిమాకు పోదాం"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Telugu?",
+    "options": [
+      "నేను ఈ రోజు బిజీగా ఉన్నాను",
+      "తరువాత కలుద్దాం",
+      "మనము కలసి భోజనం చేద్దామా?",
+      "మీరు మాతో చేరగలరా?"
+    ],
+    "answer": "మనము కలసి భోజనం చేద్దామా?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Telugu?",
+    "options": [
+      "మీరు మాతో చేరగలరా?",
+      "నేను మీకు కాల్ చేస్తాను",
+      "నేను ఈ రోజు బిజీగా ఉన్నాను",
+      "తరువాత కలుద్దాం"
+    ],
+    "answer": "మీరు మాతో చేరగలరా?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Telugu?",
+    "options": [
+      "నేను ఈ రోజు బిజీగా ఉన్నాను",
+      "నేను మీకు కాల్ చేస్తాను",
+      "తరువాత కలుద్దాం",
+      "పండుగ జరుపుకుందాం"
+    ],
+    "answer": "నేను ఈ రోజు బిజీగా ఉన్నాను"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Telugu?",
+    "options": [
+      "తరువాత కలుద్దాం",
+      "నేను మీకు కాల్ చేస్తాను",
+      "పండుగ జరుపుకుందాం",
+      "మీరు ఏమైనా ప్రణాళికలు వేసుకున్నారా?"
+    ],
+    "answer": "తరువాత కలుద్దాం"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Telugu?",
+    "options": [
+      "రేపు కలుద్దాం",
+      "మీరు ఏమైనా ప్రణాళికలు వేసుకున్నారా?",
+      "నేను మీకు కాల్ చేస్తాను",
+      "పండుగ జరుపుకుందాం"
+    ],
+    "answer": "నేను మీకు కాల్ చేస్తాను"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Telugu",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Telugu?",
+    "options": [
+      "రేపు కలుద్దాం",
+      "ఈ సాయంత్రం మీరు ఖాళీగా ఉన్నారా?",
+      "మీరు ఏమైనా ప్రణాళికలు వేసుకున్నారా?",
+      "పండుగ జరుపుకుందాం"
+    ],
+    "answer": "పండుగ జరుపుకుందాం"
+  }
+]

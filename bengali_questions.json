@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'a'?",
+    "options": [
+      "ঈ",
+      "ই",
+      "অ",
+      "আ"
+    ],
+    "answer": "অ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'aa'?",
+    "options": [
+      "আ",
+      "উ",
+      "ই",
+      "ঈ"
+    ],
+    "answer": "আ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'i'?",
+    "options": [
+      "ঊ",
+      "উ",
+      "ই",
+      "ঈ"
+    ],
+    "answer": "ই"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'ee'?",
+    "options": [
+      "ঈ",
+      "ঊ",
+      "এ",
+      "উ"
+    ],
+    "answer": "ঈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'u'?",
+    "options": [
+      "এ",
+      "ঐ",
+      "উ",
+      "ঊ"
+    ],
+    "answer": "উ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'oo'?",
+    "options": [
+      "ঐ",
+      "এ",
+      "ঊ",
+      "ও"
+    ],
+    "answer": "ঊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'e'?",
+    "options": [
+      "ঐ",
+      "এ",
+      "ঔ",
+      "ও"
+    ],
+    "answer": "এ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'ai'?",
+    "options": [
+      "অ",
+      "ও",
+      "ঔ",
+      "ঐ"
+    ],
+    "answer": "ঐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'o'?",
+    "options": [
+      "ও",
+      "অ",
+      "আ",
+      "ঔ"
+    ],
+    "answer": "ও"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bengali vowel for 'au'?",
+    "options": [
+      "আ",
+      "ই",
+      "ঔ",
+      "অ"
+    ],
+    "answer": "ঔ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'ka'?",
+    "options": [
+      "ক",
+      "গ",
+      "ঘ",
+      "খ"
+    ],
+    "answer": "ক"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'kha'?",
+    "options": [
+      "গ",
+      "ঘ",
+      "খ",
+      "চ"
+    ],
+    "answer": "খ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'ga'?",
+    "options": [
+      "ঘ",
+      "ছ",
+      "গ",
+      "চ"
+    ],
+    "answer": "গ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'gha'?",
+    "options": [
+      "চ",
+      "ঘ",
+      "ছ",
+      "জ"
+    ],
+    "answer": "ঘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'cha'?",
+    "options": [
+      "জ",
+      "চ",
+      "ছ",
+      "ঝ"
+    ],
+    "answer": "চ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'chha'?",
+    "options": [
+      "ট",
+      "ছ",
+      "ঝ",
+      "জ"
+    ],
+    "answer": "ছ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'ja'?",
+    "options": [
+      "জ",
+      "ট",
+      "ঠ",
+      "ঝ"
+    ],
+    "answer": "জ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'jha'?",
+    "options": [
+      "ঝ",
+      "ঠ",
+      "ট",
+      "ক"
+    ],
+    "answer": "ঝ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'ta'?",
+    "options": [
+      "ট",
+      "ঠ",
+      "ক",
+      "খ"
+    ],
+    "answer": "ট"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bengali consonant for 'tha'?",
+    "options": [
+      "ক",
+      "গ",
+      "ঠ",
+      "খ"
+    ],
+    "answer": "ঠ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ক' + 'া'?",
+    "options": [
+      "কা",
+      "তে",
+      "পু",
+      "মি"
+    ],
+    "answer": "কা"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'প' + 'ু'?",
+    "options": [
+      "পু",
+      "মি",
+      "তে",
+      "সূ"
+    ],
+    "answer": "পু"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ম' + 'ি'?",
+    "options": [
+      "সূ",
+      "নো",
+      "তে",
+      "মি"
+    ],
+    "answer": "মি"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ত' + 'ে'?",
+    "options": [
+      "তে",
+      "নো",
+      "সূ",
+      "রা"
+    ],
+    "answer": "তে"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'স' + 'ূ'?",
+    "options": [
+      "রা",
+      "সূ",
+      "লে",
+      "নো"
+    ],
+    "answer": "সূ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ন' + 'ো'?",
+    "options": [
+      "লে",
+      "রা",
+      "দি",
+      "নো"
+    ],
+    "answer": "নো"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'র' + 'া'?",
+    "options": [
+      "লে",
+      "দি",
+      "রা",
+      "ভু"
+    ],
+    "answer": "রা"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ল' + 'ে'?",
+    "options": [
+      "লে",
+      "ভু",
+      "কা",
+      "দি"
+    ],
+    "answer": "লে"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'দ' + 'ি'?",
+    "options": [
+      "কা",
+      "ভু",
+      "পু",
+      "দি"
+    ],
+    "answer": "দি"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ভ' + 'ু'?",
+    "options": [
+      "মি",
+      "পু",
+      "ভু",
+      "কা"
+    ],
+    "answer": "ভু"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'বই'? (in Bengali)",
+    "options": [
+      "Hand",
+      "Pen",
+      "School",
+      "Book"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'কলম'? (in Bengali)",
+    "options": [
+      "School",
+      "Pen",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'স্কুল'? (in Bengali)",
+    "options": [
+      "Hand",
+      "School",
+      "Fruit",
+      "Flowers"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'হাত'? (in Bengali)",
+    "options": [
+      "Tree",
+      "Flowers",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ফল'? (in Bengali)",
+    "options": [
+      "Flowers",
+      "Tree",
+      "Fruit",
+      "Slate"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ফুল'? (in Bengali)",
+    "options": [
+      "Flowers",
+      "Tree",
+      "Slate",
+      "Speak"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'গাছ'? (in Bengali)",
+    "options": [
+      "Speak",
+      "Tree",
+      "Slate",
+      "Speech"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'স্লেট'? (in Bengali)",
+    "options": [
+      "Speak",
+      "Speech",
+      "Book",
+      "Slate"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'বলা'? (in Bengali)",
+    "options": [
+      "Pen",
+      "Speech",
+      "Speak",
+      "Book"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ভাষা'? (in Bengali)",
+    "options": [
+      "Book",
+      "Pen",
+      "School",
+      "Speech"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'book'?",
+    "options": [
+      "বই",
+      "স্কুল",
+      "ব্যাগ",
+      "কলম"
+    ],
+    "answer": "বই"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'pen'?",
+    "options": [
+      "ব্যাগ",
+      "কলম",
+      "চেয়ার",
+      "স্কুল"
+    ],
+    "answer": "কলম"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'school'?",
+    "options": [
+      "স্কুল",
+      "ব্যাগ",
+      "চেয়ার",
+      "টেবিল"
+    ],
+    "answer": "স্কুল"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'bag'?",
+    "options": [
+      "ব্যাগ",
+      "চেয়ার",
+      "স্লেট",
+      "টেবিল"
+    ],
+    "answer": "ব্যাগ"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'chair'?",
+    "options": [
+      "জানালা",
+      "চেয়ার",
+      "টেবিল",
+      "স্লেট"
+    ],
+    "answer": "চেয়ার"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'table'?",
+    "options": [
+      "টেবিল",
+      "জানালা",
+      "দরজা",
+      "স্লেট"
+    ],
+    "answer": "টেবিল"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'slate'?",
+    "options": [
+      "জানালা",
+      "পাখা",
+      "দরজা",
+      "স্লেট"
+    ],
+    "answer": "স্লেট"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'window'?",
+    "options": [
+      "বই",
+      "দরজা",
+      "জানালা",
+      "পাখা"
+    ],
+    "answer": "জানালা"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'door'?",
+    "options": [
+      "দরজা",
+      "কলম",
+      "পাখা",
+      "বই"
+    ],
+    "answer": "দরজা"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bengali word for 'fan'?",
+    "options": [
+      "বই",
+      "স্কুল",
+      "কলম",
+      "পাখা"
+    ],
+    "answer": "পাখা"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'rice'?",
+    "options": [
+      "দুধ",
+      "ফল",
+      "ভাত",
+      "তরকারি"
+    ],
+    "answer": "ভাত"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'milk'?",
+    "options": [
+      "পানি",
+      "দুধ",
+      "তরকারি",
+      "ফল"
+    ],
+    "answer": "দুধ"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'fruit'?",
+    "options": [
+      "ফল",
+      "তরকারি",
+      "দই",
+      "পানি"
+    ],
+    "answer": "ফল"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'vegetable'?",
+    "options": [
+      "পানি",
+      "রুটি",
+      "দই",
+      "তরকারি"
+    ],
+    "answer": "তরকারি"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'water'?",
+    "options": [
+      "রুটি",
+      "ডিম",
+      "দই",
+      "পানি"
+    ],
+    "answer": "পানি"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'curd'?",
+    "options": [
+      "দই",
+      "রুটি",
+      "ডিম",
+      "মাছ"
+    ],
+    "answer": "দই"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'bread'?",
+    "options": [
+      "মাছ",
+      "রুটি",
+      "মিষ্টি",
+      "ডিম"
+    ],
+    "answer": "রুটি"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'egg'?",
+    "options": [
+      "ডিম",
+      "মিষ্টি",
+      "মাছ",
+      "ভাত"
+    ],
+    "answer": "ডিম"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'fish'?",
+    "options": [
+      "মাছ",
+      "দুধ",
+      "ভাত",
+      "মিষ্টি"
+    ],
+    "answer": "মাছ"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'sweet'?",
+    "options": [
+      "দুধ",
+      "মিষ্টি",
+      "ভাত",
+      "ফল"
+    ],
+    "answer": "মিষ্টি"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'mother'?",
+    "options": [
+      "মা",
+      "বোন",
+      "ভাই",
+      "বাবা"
+    ],
+    "answer": "মা"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'father'?",
+    "options": [
+      "দাদি",
+      "বাবা",
+      "ভাই",
+      "বোন"
+    ],
+    "answer": "বাবা"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'sister'?",
+    "options": [
+      "ভাই",
+      "দাদি",
+      "দাদা",
+      "বোন"
+    ],
+    "answer": "বোন"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'brother'?",
+    "options": [
+      "দাদি",
+      "ভাই",
+      "মামা",
+      "দাদা"
+    ],
+    "answer": "ভাই"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'grandmother'?",
+    "options": [
+      "খালা",
+      "মামা",
+      "দাদা",
+      "দাদি"
+    ],
+    "answer": "দাদি"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'grandfather'?",
+    "options": [
+      "মামা",
+      "দাদা",
+      "ছেলে",
+      "খালা"
+    ],
+    "answer": "দাদা"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'uncle'?",
+    "options": [
+      "মেয়ে",
+      "মামা",
+      "খালা",
+      "ছেলে"
+    ],
+    "answer": "মামা"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'aunt'?",
+    "options": [
+      "খালা",
+      "মা",
+      "ছেলে",
+      "মেয়ে"
+    ],
+    "answer": "খালা"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'son'?",
+    "options": [
+      "বাবা",
+      "মা",
+      "মেয়ে",
+      "ছেলে"
+    ],
+    "answer": "ছেলে"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bengali word for 'daughter'?",
+    "options": [
+      "বাবা",
+      "মা",
+      "মেয়ে",
+      "বোন"
+    ],
+    "answer": "মেয়ে"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'tree'?",
+    "options": [
+      "পাহাড়",
+      "নদী",
+      "গাছ",
+      "ফুল"
+    ],
+    "answer": "গাছ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'flower'?",
+    "options": [
+      "নদী",
+      "ফুল",
+      "পাতা",
+      "পাহাড়"
+    ],
+    "answer": "ফুল"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'river'?",
+    "options": [
+      "পাহাড়",
+      "আকাশ",
+      "পাতা",
+      "নদী"
+    ],
+    "answer": "নদী"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'mountain'?",
+    "options": [
+      "পাহাড়",
+      "পাতা",
+      "আকাশ",
+      "বৃষ্টি"
+    ],
+    "answer": "পাহাড়"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'leaf'?",
+    "options": [
+      "বৃষ্টি",
+      "পাতা",
+      "সূর্য",
+      "আকাশ"
+    ],
+    "answer": "পাতা"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'sky'?",
+    "options": [
+      "সূর্য",
+      "বৃষ্টি",
+      "চাঁদ",
+      "আকাশ"
+    ],
+    "answer": "আকাশ"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'rain'?",
+    "options": [
+      "বৃষ্টি",
+      "চাঁদ",
+      "তারা",
+      "সূর্য"
+    ],
+    "answer": "বৃষ্টি"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'sun'?",
+    "options": [
+      "চাঁদ",
+      "সূর্য",
+      "তারা",
+      "গাছ"
+    ],
+    "answer": "সূর্য"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'moon'?",
+    "options": [
+      "তারা",
+      "গাছ",
+      "চাঁদ",
+      "ফুল"
+    ],
+    "answer": "চাঁদ"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bengali word for 'star'?",
+    "options": [
+      "গাছ",
+      "ফুল",
+      "তারা",
+      "নদী"
+    ],
+    "answer": "তারা"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Bengali?",
+    "options": [
+      "নমস্কার",
+      "শুভ সকাল",
+      "শুভ রাত্রি",
+      "স্বাগতম"
+    ],
+    "answer": "নমস্কার"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Bengali?",
+    "options": [
+      "স্বাগতম",
+      "শুভ সকাল",
+      "শুভ রাত্রি",
+      "আপনি কেমন আছেন?"
+    ],
+    "answer": "শুভ সকাল"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Bengali?",
+    "options": [
+      "স্বাগতম",
+      "ভাল আছি",
+      "আপনি কেমন আছেন?",
+      "শুভ রাত্রি"
+    ],
+    "answer": "শুভ রাত্রি"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Bengali?",
+    "options": [
+      "আবার দেখা হবে",
+      "আপনি কেমন আছেন?",
+      "ভাল আছি",
+      "স্বাগতম"
+    ],
+    "answer": "স্বাগতম"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Bengali?",
+    "options": [
+      "আপনি কেমন আছেন?",
+      "বিদায়",
+      "আবার দেখা হবে",
+      "ভাল আছি"
+    ],
+    "answer": "আপনি কেমন আছেন?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Bengali?",
+    "options": [
+      "সাবধান",
+      "আবার দেখা হবে",
+      "ভাল আছি",
+      "বিদায়"
+    ],
+    "answer": "ভাল আছি"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Bengali?",
+    "options": [
+      "আবার দেখা হবে",
+      "বিদায়",
+      "ধন্যবাদ",
+      "সাবধান"
+    ],
+    "answer": "আবার দেখা হবে"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Bengali?",
+    "options": [
+      "সাবধান",
+      "বিদায়",
+      "ধন্যবাদ",
+      "নমস্কার"
+    ],
+    "answer": "বিদায়"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Bengali?",
+    "options": [
+      "নমস্কার",
+      "শুভ সকাল",
+      "ধন্যবাদ",
+      "সাবধান"
+    ],
+    "answer": "সাবধান"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Bengali?",
+    "options": [
+      "নমস্কার",
+      "শুভ রাত্রি",
+      "শুভ সকাল",
+      "ধন্যবাদ"
+    ],
+    "answer": "ধন্যবাদ"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Bengali?",
+    "options": [
+      "আমার নাম ...",
+      "আমি ... থেকে এসেছি",
+      "আমি ছাত্র",
+      "আমি শিক্ষক"
+    ],
+    "answer": "আমার নাম ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Bengali?",
+    "options": [
+      "আমি শিক্ষক",
+      "আমি ছাত্র",
+      "আপনার সাথে দেখা করে ভাল লাগল",
+      "আমি ... থেকে এসেছি"
+    ],
+    "answer": "আমি ... থেকে এসেছি"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Bengali?",
+    "options": [
+      "আপনার সাথে দেখা করে ভাল লাগল",
+      "আমি শিক্ষক",
+      "আমি ... এ থাকি",
+      "আমি ছাত্র"
+    ],
+    "answer": "আমি ছাত্র"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Bengali?",
+    "options": [
+      "আমি শিক্ষক",
+      "আমি বাংলা শিখছি",
+      "আমি ... এ থাকি",
+      "আপনার সাথে দেখা করে ভাল লাগল"
+    ],
+    "answer": "আমি শিক্ষক"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Bengali?",
+    "options": [
+      "আপনার নাম কি?",
+      "আমি ... এ থাকি",
+      "আমি বাংলা শিখছি",
+      "আপনার সাথে দেখা করে ভাল লাগল"
+    ],
+    "answer": "আপনার সাথে দেখা করে ভাল লাগল"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Bengali?",
+    "options": [
+      "আমি ... এ থাকি",
+      "আপনার নাম কি?",
+      "আমি বাংলা শিখছি",
+      "আপনি কোথা থেকে এসেছেন?"
+    ],
+    "answer": "আমি ... এ থাকি"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Bengali' in Bengali?",
+    "options": [
+      "আপনি কোথা থেকে এসেছেন?",
+      "আপনার বয়স কত?",
+      "আপনার নাম কি?",
+      "আমি বাংলা শিখছি"
+    ],
+    "answer": "আমি বাংলা শিখছি"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Bengali?",
+    "options": [
+      "আমার নাম ...",
+      "আপনার বয়স কত?",
+      "আপনি কোথা থেকে এসেছেন?",
+      "আপনার নাম কি?"
+    ],
+    "answer": "আপনার নাম কি?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Bengali?",
+    "options": [
+      "আমি ... থেকে এসেছি",
+      "আপনি কোথা থেকে এসেছেন?",
+      "আমার নাম ...",
+      "আপনার বয়স কত?"
+    ],
+    "answer": "আপনি কোথা থেকে এসেছেন?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Bengali?",
+    "options": [
+      "আমি ছাত্র",
+      "আমি ... থেকে এসেছি",
+      "আমার নাম ...",
+      "আপনার বয়স কত?"
+    ],
+    "answer": "আপনার বয়স কত?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Bengali?",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "অবশ্যই",
+      "হয়তো"
+    ],
+    "answer": "হ্যাঁ"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Bengali?",
+    "options": [
+      "হয়তো",
+      "না",
+      "অবশ্যই",
+      "কখনো না"
+    ],
+    "answer": "না"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Bengali?",
+    "options": [
+      "কখনো না",
+      "কখনো কখনো",
+      "অবশ্যই",
+      "হয়তো"
+    ],
+    "answer": "হয়তো"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Bengali?",
+    "options": [
+      "অবশ্যই",
+      "কখনো কখনো",
+      "সবসময়",
+      "কখনো না"
+    ],
+    "answer": "অবশ্যই"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Bengali?",
+    "options": [
+      "কখনো না",
+      "কখনো কখনো",
+      "একদমই না",
+      "সবসময়"
+    ],
+    "answer": "কখনো না"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Bengali?",
+    "options": [
+      "কখনো কখনো",
+      "অবশ্যই",
+      "সবসময়",
+      "একদমই না"
+    ],
+    "answer": "কখনো কখনো"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Bengali?",
+    "options": [
+      "অবশ্যই",
+      "আমি জানি না",
+      "সবসময়",
+      "একদমই না"
+    ],
+    "answer": "সবসময়"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Bengali?",
+    "options": [
+      "আমি জানি না",
+      "অবশ্যই",
+      "একদমই না",
+      "হ্যাঁ"
+    ],
+    "answer": "একদমই না"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Bengali?",
+    "options": [
+      "আমি জানি না",
+      "হ্যাঁ",
+      "না",
+      "অবশ্যই"
+    ],
+    "answer": "অবশ্যই"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Bengali?",
+    "options": [
+      "হয়তো",
+      "না",
+      "হ্যাঁ",
+      "আমি জানি না"
+    ],
+    "answer": "আমি জানি না"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Bengali?",
+    "options": [
+      "ক্ষমা করবেন",
+      "ধন্যবাদ",
+      "দয়া করে",
+      "ক্ষমা করবেন"
+    ],
+    "answer": "ধন্যবাদ"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Bengali?",
+    "options": [
+      "ক্ষমা করবেন",
+      "ক্ষমা করবেন",
+      "দয়া করে",
+      "আপনাকে স্বাগতম"
+    ],
+    "answer": "ক্ষমা করবেন"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Bengali?",
+    "options": [
+      "দয়া করে",
+      "আপনাকে স্বাগতম",
+      "কোন সমস্যা নেই",
+      "ক্ষমা করবেন"
+    ],
+    "answer": "দয়া করে"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Bengali?",
+    "options": [
+      "কোন সমস্যা নেই",
+      "ক্ষমা করবেন",
+      "আপনাকে স্বাগতম",
+      "অভিনন্দন"
+    ],
+    "answer": "ক্ষমা করবেন"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Bengali?",
+    "options": [
+      "আপনাকে স্বাগতম",
+      "অভিনন্দন",
+      "ঈশ্বর আপনাকে আশীর্বাদ করুন",
+      "কোন সমস্যা নেই"
+    ],
+    "answer": "আপনাকে স্বাগতম"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Bengali?",
+    "options": [
+      "অভিনন্দন",
+      "চমৎকার",
+      "কোন সমস্যা নেই",
+      "ঈশ্বর আপনাকে আশীর্বাদ করুন"
+    ],
+    "answer": "কোন সমস্যা নেই"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Bengali?",
+    "options": [
+      "ঈশ্বর আপনাকে আশীর্বাদ করুন",
+      "জন্মদিনের শুভেচ্ছা",
+      "অভিনন্দন",
+      "চমৎকার"
+    ],
+    "answer": "অভিনন্দন"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Bengali?",
+    "options": [
+      "ঈশ্বর আপনাকে আশীর্বাদ করুন",
+      "ধন্যবাদ",
+      "চমৎকার",
+      "জন্মদিনের শুভেচ্ছা"
+    ],
+    "answer": "ঈশ্বর আপনাকে আশীর্বাদ করুন"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Bengali?",
+    "options": [
+      "চমৎকার",
+      "জন্মদিনের শুভেচ্ছা",
+      "ক্ষমা করবেন",
+      "ধন্যবাদ"
+    ],
+    "answer": "চমৎকার"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Bengali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Bengali?",
+    "options": [
+      "ক্ষমা করবেন",
+      "ধন্যবাদ",
+      "দয়া করে",
+      "জন্মদিনের শুভেচ্ছা"
+    ],
+    "answer": "জন্মদিনের শুভেচ্ছা"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'ki'?",
+    "options": [
+      "কো",
+      "কে",
+      "কি",
+      "কু"
+    ],
+    "answer": "কি"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'ku'?",
+    "options": [
+      "কো",
+      "কে",
+      "কু",
+      "গি"
+    ],
+    "answer": "কু"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'ke'?",
+    "options": [
+      "গু",
+      "কো",
+      "কে",
+      "গি"
+    ],
+    "answer": "কে"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'ko'?",
+    "options": [
+      "কো",
+      "গি",
+      "গে",
+      "গু"
+    ],
+    "answer": "কো"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'gi'?",
+    "options": [
+      "গো",
+      "গে",
+      "গু",
+      "গি"
+    ],
+    "answer": "গি"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'gu'?",
+    "options": [
+      "গু",
+      "চি",
+      "গো",
+      "গে"
+    ],
+    "answer": "গু"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'ge'?",
+    "options": [
+      "গো",
+      "চি",
+      "চু",
+      "গে"
+    ],
+    "answer": "গে"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'go'?",
+    "options": [
+      "চি",
+      "কি",
+      "চু",
+      "গো"
+    ],
+    "answer": "গো"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'chi'?",
+    "options": [
+      "চু",
+      "চি",
+      "কি",
+      "কু"
+    ],
+    "answer": "চি"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bengali syllable for 'chu'?",
+    "options": [
+      "কি",
+      "কে",
+      "চু",
+      "কু"
+    ],
+    "answer": "চু"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'ksha'?",
+    "options": [
+      "ত্র",
+      "শ্র",
+      "ক্ষ",
+      "জ্ঞ"
+    ],
+    "answer": "ক্ষ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'tra'?",
+    "options": [
+      "জ্ঞ",
+      "শ্র",
+      "ক্র",
+      "ত্র"
+    ],
+    "answer": "ত্র"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'jna'?",
+    "options": [
+      "ক্র",
+      "শ্র",
+      "জ্ঞ",
+      "প্র"
+    ],
+    "answer": "জ্ঞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'shra'?",
+    "options": [
+      "শ্র",
+      "প্র",
+      "ক্র",
+      "স্র"
+    ],
+    "answer": "শ্র"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'kra'?",
+    "options": [
+      "ক্র",
+      "গ্র",
+      "প্র",
+      "স্র"
+    ],
+    "answer": "ক্র"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'pra'?",
+    "options": [
+      "দ্র",
+      "প্র",
+      "স্র",
+      "গ্র"
+    ],
+    "answer": "প্র"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'sra'?",
+    "options": [
+      "স্র",
+      "গ্র",
+      "দ্র",
+      "ন্ত"
+    ],
+    "answer": "স্র"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'gra'?",
+    "options": [
+      "ক্ষ",
+      "দ্র",
+      "গ্র",
+      "ন্ত"
+    ],
+    "answer": "গ্র"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'dra'?",
+    "options": [
+      "ন্ত",
+      "দ্র",
+      "ত্র",
+      "ক্ষ"
+    ],
+    "answer": "দ্র"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bengali ligature for 'nta'?",
+    "options": [
+      "ত্র",
+      "ক্ষ",
+      "জ্ঞ",
+      "ন্ত"
+    ],
+    "answer": "ন্ত"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'sha'?",
+    "options": [
+      "স",
+      "ল",
+      "হ",
+      "শ"
+    ],
+    "answer": "শ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'sa'?",
+    "options": [
+      "স",
+      "র",
+      "হ",
+      "ল"
+    ],
+    "answer": "স"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'ha'?",
+    "options": [
+      "র",
+      "ব",
+      "হ",
+      "ল"
+    ],
+    "answer": "হ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'la'?",
+    "options": [
+      "য",
+      "র",
+      "ল",
+      "ব"
+    ],
+    "answer": "ল"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'ra'?",
+    "options": [
+      "ব",
+      "য",
+      "ফ",
+      "র"
+    ],
+    "answer": "র"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'va'?",
+    "options": [
+      "য",
+      "ব",
+      "জ",
+      "ফ"
+    ],
+    "answer": "ব"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'ya'?",
+    "options": [
+      "জ",
+      "য",
+      "ফ",
+      "ক্ব"
+    ],
+    "answer": "য"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'fa'?",
+    "options": [
+      "শ",
+      "ফ",
+      "জ",
+      "ক্ব"
+    ],
+    "answer": "ফ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'za'?",
+    "options": [
+      "শ",
+      "জ",
+      "ক্ব",
+      "স"
+    ],
+    "answer": "জ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bengali letter for 'qwa'?",
+    "options": [
+      "স",
+      "হ",
+      "ক্ব",
+      "শ"
+    ],
+    "answer": "ক্ব"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'ক্ষীর'?",
+    "options": [
+      "জ্ঞ",
+      "শ্র",
+      "ক্ষ",
+      "ত্র"
+    ],
+    "answer": "ক্ষ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'জ্ঞান'?",
+    "options": [
+      "ত্র",
+      "গ্র",
+      "জ্ঞ",
+      "শ্র"
+    ],
+    "answer": "জ্ঞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'ত্রয়'?",
+    "options": [
+      "গ্র",
+      "শ্র",
+      "ত্র",
+      "প্র"
+    ],
+    "answer": "ত্র"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'শ্রদ্ধা'?",
+    "options": [
+      "শ্র",
+      "প্র",
+      "গ্র",
+      "স্র"
+    ],
+    "answer": "শ্র"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'গ্রন্থ'?",
+    "options": [
+      "দ্র",
+      "প্র",
+      "স্র",
+      "গ্র"
+    ],
+    "answer": "গ্র"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'প্রয়াস'?",
+    "options": [
+      "দ্র",
+      "স্র",
+      "ফ",
+      "প্র"
+    ],
+    "answer": "প্র"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'স্রোত'?",
+    "options": [
+      "দ্র",
+      "স্র",
+      "হ",
+      "ফ"
+    ],
+    "answer": "স্র"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'দ্রব্য'?",
+    "options": [
+      "ক্ষ",
+      "দ্র",
+      "ফ",
+      "হ"
+    ],
+    "answer": "দ্র"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'ফল'?",
+    "options": [
+      "জ্ঞ",
+      "হ",
+      "ক্ষ",
+      "ফ"
+    ],
+    "answer": "ফ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bengali letter is used in the word 'হরিদ্বার'?",
+    "options": [
+      "ক্ষ",
+      "জ্ঞ",
+      "হ",
+      "ত্র"
+    ],
+    "answer": "হ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Sunday'?",
+    "options": [
+      "বুধবার",
+      "রবিবার",
+      "সোমবার",
+      "মঙ্গলবার"
+    ],
+    "answer": "রবিবার"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Monday'?",
+    "options": [
+      "বৃহস্পতিবার",
+      "বুধবার",
+      "সোমবার",
+      "মঙ্গলবার"
+    ],
+    "answer": "সোমবার"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Tuesday'?",
+    "options": [
+      "মঙ্গলবার",
+      "বৃহস্পতিবার",
+      "শুক্রবার",
+      "বুধবার"
+    ],
+    "answer": "মঙ্গলবার"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Wednesday'?",
+    "options": [
+      "বৃহস্পতিবার",
+      "শনিবার",
+      "বুধবার",
+      "শুক্রবার"
+    ],
+    "answer": "বুধবার"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Thursday'?",
+    "options": [
+      "শুক্রবার",
+      "বৃহস্পতিবার",
+      "শনিবার",
+      "আজ"
+    ],
+    "answer": "বৃহস্পতিবার"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Friday'?",
+    "options": [
+      "শনিবার",
+      "কাল",
+      "আজ",
+      "শুক্রবার"
+    ],
+    "answer": "শুক্রবার"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Saturday'?",
+    "options": [
+      "গতকাল",
+      "কাল",
+      "শনিবার",
+      "আজ"
+    ],
+    "answer": "শনিবার"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Today'?",
+    "options": [
+      "আজ",
+      "রবিবার",
+      "গতকাল",
+      "কাল"
+    ],
+    "answer": "আজ"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Tomorrow'?",
+    "options": [
+      "সোমবার",
+      "কাল",
+      "গতকাল",
+      "রবিবার"
+    ],
+    "answer": "কাল"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bengali word for 'Yesterday'?",
+    "options": [
+      "সোমবার",
+      "রবিবার",
+      "মঙ্গলবার",
+      "গতকাল"
+    ],
+    "answer": "গতকাল"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'red'?",
+    "options": [
+      "নীল",
+      "লাল",
+      "হলুদ",
+      "সবুজ"
+    ],
+    "answer": "লাল"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'blue'?",
+    "options": [
+      "নীল",
+      "কালো",
+      "সবুজ",
+      "হলুদ"
+    ],
+    "answer": "নীল"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'green'?",
+    "options": [
+      "কালো",
+      "হলুদ",
+      "সাদা",
+      "সবুজ"
+    ],
+    "answer": "সবুজ"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'yellow'?",
+    "options": [
+      "সাদা",
+      "কমলা",
+      "হলুদ",
+      "কালো"
+    ],
+    "answer": "হলুদ"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'black'?",
+    "options": [
+      "গোলাপী",
+      "কমলা",
+      "কালো",
+      "সাদা"
+    ],
+    "answer": "কালো"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'white'?",
+    "options": [
+      "গোলাপী",
+      "সাদা",
+      "কমলা",
+      "বেগুনী"
+    ],
+    "answer": "সাদা"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'orange'?",
+    "options": [
+      "বাদামী",
+      "কমলা",
+      "বেগুনী",
+      "গোলাপী"
+    ],
+    "answer": "কমলা"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'pink'?",
+    "options": [
+      "গোলাপী",
+      "বেগুনী",
+      "বাদামী",
+      "লাল"
+    ],
+    "answer": "গোলাপী"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'purple'?",
+    "options": [
+      "বেগুনী",
+      "নীল",
+      "লাল",
+      "বাদামী"
+    ],
+    "answer": "বেগুনী"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bengali word for 'brown'?",
+    "options": [
+      "বাদামী",
+      "সবুজ",
+      "লাল",
+      "নীল"
+    ],
+    "answer": "বাদামী"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'one'?",
+    "options": [
+      "তিন",
+      "দুই",
+      "চার",
+      "এক"
+    ],
+    "answer": "এক"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'two'?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": "দুই"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'three'?",
+    "options": [
+      "ছয়",
+      "পাঁচ",
+      "তিন",
+      "চার"
+    ],
+    "answer": "তিন"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'four'?",
+    "options": [
+      "পাঁচ",
+      "সাত",
+      "চার",
+      "ছয়"
+    ],
+    "answer": "চার"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'five'?",
+    "options": [
+      "ছয়",
+      "পাঁচ",
+      "সাত",
+      "আট"
+    ],
+    "answer": "পাঁচ"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'six'?",
+    "options": [
+      "নয়",
+      "আট",
+      "ছয়",
+      "সাত"
+    ],
+    "answer": "ছয়"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'seven'?",
+    "options": [
+      "আট",
+      "নয়",
+      "সাত",
+      "দশ"
+    ],
+    "answer": "সাত"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'eight'?",
+    "options": [
+      "এক",
+      "দশ",
+      "নয়",
+      "আট"
+    ],
+    "answer": "আট"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'nine'?",
+    "options": [
+      "এক",
+      "দশ",
+      "দুই",
+      "নয়"
+    ],
+    "answer": "নয়"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bengali word for 'ten'?",
+    "options": [
+      "তিন",
+      "দশ",
+      "দুই",
+      "এক"
+    ],
+    "answer": "দশ"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'breakfast'?",
+    "options": [
+      "দুপুরের খাবার",
+      "নাস্তা",
+      "নাস্তা",
+      "রাতের খাবার"
+    ],
+    "answer": "নাস্তা"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'lunch'?",
+    "options": [
+      "নাস্তা",
+      "দুপুরের খাবার",
+      "মিষ্টান্ন",
+      "রাতের খাবার"
+    ],
+    "answer": "দুপুরের খাবার"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'dinner'?",
+    "options": [
+      "রাতের খাবার",
+      "মিষ্টান্ন",
+      "নাস্তা",
+      "ঝাল"
+    ],
+    "answer": "রাতের খাবার"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'snacks'?",
+    "options": [
+      "নিরামিষ",
+      "নাস্তা",
+      "মিষ্টান্ন",
+      "ঝাল"
+    ],
+    "answer": "নাস্তা"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'sweets'?",
+    "options": [
+      "ঝাল",
+      "নিরামিষ",
+      "আমিষ",
+      "মিষ্টান্ন"
+    ],
+    "answer": "মিষ্টান্ন"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'spicy'?",
+    "options": [
+      "নিরামিষ",
+      "রস",
+      "আমিষ",
+      "ঝাল"
+    ],
+    "answer": "ঝাল"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'vegetarian'?",
+    "options": [
+      "আমিষ",
+      "কফি",
+      "রস",
+      "নিরামিষ"
+    ],
+    "answer": "নিরামিষ"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'non-vegetarian'?",
+    "options": [
+      "কফি",
+      "রস",
+      "আমিষ",
+      "নাস্তা"
+    ],
+    "answer": "আমিষ"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'juice'?",
+    "options": [
+      "রস",
+      "দুপুরের খাবার",
+      "নাস্তা",
+      "কফি"
+    ],
+    "answer": "রস"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bengali word for 'coffee'?",
+    "options": [
+      "কফি",
+      "নাস্তা",
+      "দুপুরের খাবার",
+      "রাতের খাবার"
+    ],
+    "answer": "কফি"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Bengali?",
+    "options": [
+      "আপনার নাম কি?",
+      "আপনি কেমন আছেন?",
+      "আপনি কোথা থেকে এসেছেন?",
+      "আপনার বয়স কত?"
+    ],
+    "answer": "আপনি কেমন আছেন?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Bengali?",
+    "options": [
+      "আপনি বাংলা বলতে পারেন?",
+      "আপনার বয়স কত?",
+      "আপনি কোথা থেকে এসেছেন?",
+      "আপনার নাম কি?"
+    ],
+    "answer": "আপনার নাম কি?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Bengali?",
+    "options": [
+      "আমি আপনাকে সাহায্য করতে পারি?",
+      "আপনি বাংলা বলতে পারেন?",
+      "আপনি কোথা থেকে এসেছেন?",
+      "আপনার বয়স কত?"
+    ],
+    "answer": "আপনি কোথা থেকে এসেছেন?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Bengali?",
+    "options": [
+      "আপনার বয়স কত?",
+      "বাথরুম কোথায়?",
+      "আপনি বাংলা বলতে পারেন?",
+      "আমি আপনাকে সাহায্য করতে পারি?"
+    ],
+    "answer": "আপনার বয়স কত?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Bengali?' in Bengali?",
+    "options": [
+      "আপনি বাংলা বলতে পারেন?",
+      "এটা কত?",
+      "বাথরুম কোথায়?",
+      "আমি আপনাকে সাহায্য করতে পারি?"
+    ],
+    "answer": "আপনি বাংলা বলতে পারেন?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Bengali?",
+    "options": [
+      "বাথরুম কোথায়?",
+      "এটা কত?",
+      "আমি আপনাকে সাহায্য করতে পারি?",
+      "এখন সময় কত?"
+    ],
+    "answer": "আমি আপনাকে সাহায্য করতে পারি?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Bengali?",
+    "options": [
+      "বাথরুম কোথায়?",
+      "এখন সময় কত?",
+      "আপনি কোথায় থাকেন?",
+      "এটা কত?"
+    ],
+    "answer": "বাথরুম কোথায়?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Bengali?",
+    "options": [
+      "আপনি কোথায় থাকেন?",
+      "এটা কত?",
+      "এখন সময় কত?",
+      "আপনি কেমন আছেন?"
+    ],
+    "answer": "এটা কত?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Bengali?",
+    "options": [
+      "আপনি কোথায় থাকেন?",
+      "আপনি কেমন আছেন?",
+      "এখন সময় কত?",
+      "আপনার নাম কি?"
+    ],
+    "answer": "এখন সময় কত?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Bengali?",
+    "options": [
+      "আপনি কেমন আছেন?",
+      "আপনার নাম কি?",
+      "আপনি কোথা থেকে এসেছেন?",
+      "আপনি কোথায় থাকেন?"
+    ],
+    "answer": "আপনি কোথায় থাকেন?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Bengali?",
+    "options": [
+      "দয়া করে অপেক্ষা করুন",
+      "দয়া করে আমাকে সাহায্য করুন",
+      "দয়া করে এখানে আসুন",
+      "দয়া করে বসুন"
+    ],
+    "answer": "দয়া করে আমাকে সাহায্য করুন"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Bengali?",
+    "options": [
+      "দয়া করে বসুন",
+      "দয়া করে ধীরে বলুন",
+      "দয়া করে এখানে আসুন",
+      "দয়া করে অপেক্ষা করুন"
+    ],
+    "answer": "দয়া করে অপেক্ষা করুন"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Bengali?",
+    "options": [
+      "দয়া করে এখানে আসুন",
+      "দয়া করে ধীরে বলুন",
+      "দয়া করে বসুন",
+      "দয়া করে লিখুন"
+    ],
+    "answer": "দয়া করে এখানে আসুন"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Bengali?",
+    "options": [
+      "দয়া করে বসুন",
+      "দয়া করে লিখুন",
+      "দয়া করে ধীরে বলুন",
+      "দয়া করে আবার বলুন"
+    ],
+    "answer": "দয়া করে বসুন"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Bengali?",
+    "options": [
+      "দয়া করে আবার বলুন",
+      "দয়া করে লিখুন",
+      "দয়া করে ধীরে বলুন",
+      "দয়া করে দেখান"
+    ],
+    "answer": "দয়া করে ধীরে বলুন"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Bengali?",
+    "options": [
+      "দয়া করে লিখুন",
+      "দয়া করে আবার বলুন",
+      "দয়া করে দেখান",
+      "দয়া করে দরজা খুলুন"
+    ],
+    "answer": "দয়া করে লিখুন"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Bengali?",
+    "options": [
+      "দয়া করে দরজা খুলুন",
+      "দয়া করে জানালা বন্ধ করুন",
+      "দয়া করে আবার বলুন",
+      "দয়া করে দেখান"
+    ],
+    "answer": "দয়া করে আবার বলুন"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Bengali?",
+    "options": [
+      "দয়া করে দরজা খুলুন",
+      "দয়া করে দেখান",
+      "দয়া করে আমাকে সাহায্য করুন",
+      "দয়া করে জানালা বন্ধ করুন"
+    ],
+    "answer": "দয়া করে দেখান"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Bengali?",
+    "options": [
+      "দয়া করে অপেক্ষা করুন",
+      "দয়া করে জানালা বন্ধ করুন",
+      "দয়া করে দরজা খুলুন",
+      "দয়া করে আমাকে সাহায্য করুন"
+    ],
+    "answer": "দয়া করে দরজা খুলুন"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Bengali?",
+    "options": [
+      "দয়া করে জানালা বন্ধ করুন",
+      "দয়া করে আমাকে সাহায্য করুন",
+      "দয়া করে এখানে আসুন",
+      "দয়া করে অপেক্ষা করুন"
+    ],
+    "answer": "দয়া করে জানালা বন্ধ করুন"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Bengali?",
+    "options": [
+      "এটা কিনতে চাই",
+      "এটা কত?",
+      "ছাড় আছে?",
+      "এটা চেষ্টা করতে পারি?"
+    ],
+    "answer": "এটা কত?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Bengali?",
+    "options": [
+      "এটা কিনতে চাই",
+      "আপনি কার্ড নেন?",
+      "ছাড় আছে?",
+      "এটা চেষ্টা করতে পারি?"
+    ],
+    "answer": "ছাড় আছে?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Bengali?",
+    "options": [
+      "আপনি কার্ড নেন?",
+      "এটা কিনতে চাই",
+      "এটা চেষ্টা করতে পারি?",
+      "কাউন্টার কোথায়?"
+    ],
+    "answer": "এটা কিনতে চাই"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Bengali?",
+    "options": [
+      "কাউন্টার কোথায়?",
+      "আপনি কার্ড নেন?",
+      "এটা পাওয়া যায়?",
+      "এটা চেষ্টা করতে পারি?"
+    ],
+    "answer": "এটা চেষ্টা করতে পারি?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Bengali?",
+    "options": [
+      "আপনি কার্ড নেন?",
+      "কাউন্টার কোথায়?",
+      "দয়া করে প্যাক করুন",
+      "এটা পাওয়া যায়?"
+    ],
+    "answer": "আপনি কার্ড নেন?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Bengali?",
+    "options": [
+      "কাউন্টার কোথায়?",
+      "আমার ব্যাগ লাগবে",
+      "এটা পাওয়া যায়?",
+      "দয়া করে প্যাক করুন"
+    ],
+    "answer": "কাউন্টার কোথায়?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Bengali?",
+    "options": [
+      "আমার ব্যাগ লাগবে",
+      "সময় কি?",
+      "এটা পাওয়া যায়?",
+      "দয়া করে প্যাক করুন"
+    ],
+    "answer": "এটা পাওয়া যায়?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Bengali?",
+    "options": [
+      "এটা কত?",
+      "আমার ব্যাগ লাগবে",
+      "দয়া করে প্যাক করুন",
+      "সময় কি?"
+    ],
+    "answer": "দয়া করে প্যাক করুন"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Bengali?",
+    "options": [
+      "আমার ব্যাগ লাগবে",
+      "সময় কি?",
+      "ছাড় আছে?",
+      "এটা কত?"
+    ],
+    "answer": "আমার ব্যাগ লাগবে"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Bengali?",
+    "options": [
+      "সময় কি?",
+      "এটা কিনতে চাই",
+      "এটা কত?",
+      "ছাড় আছে?"
+    ],
+    "answer": "সময় কি?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Bengali?",
+    "options": [
+      "রেল স্টেশনে কিভাবে যাবো?",
+      "বাজারে যাওয়ার রাস্তা কোনটা?",
+      "বাস স্টপ কোথায়?",
+      "এখান থেকে কত দূর?"
+    ],
+    "answer": "বাস স্টপ কোথায়?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Bengali?",
+    "options": [
+      "এখান থেকে কত দূর?",
+      "বাঁদিকে ঘুরুন",
+      "রেল স্টেশনে কিভাবে যাবো?",
+      "বাজারে যাওয়ার রাস্তা কোনটা?"
+    ],
+    "answer": "রেল স্টেশনে কিভাবে যাবো?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Bengali?",
+    "options": [
+      "এখান থেকে কত দূর?",
+      "বাঁদিকে ঘুরুন",
+      "ডানদিকে ঘুরুন",
+      "বাজারে যাওয়ার রাস্তা কোনটা?"
+    ],
+    "answer": "বাজারে যাওয়ার রাস্তা কোনটা?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Bengali?",
+    "options": [
+      "বাঁদিকে ঘুরুন",
+      "সোজা যান",
+      "এখান থেকে কত দূর?",
+      "ডানদিকে ঘুরুন"
+    ],
+    "answer": "এখান থেকে কত দূর?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Bengali?",
+    "options": [
+      "সোজা যান",
+      "এখানে থামুন",
+      "বাঁদিকে ঘুরুন",
+      "ডানদিকে ঘুরুন"
+    ],
+    "answer": "বাঁদিকে ঘুরুন"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Bengali?",
+    "options": [
+      "সোজা যান",
+      "ডানদিকে ঘুরুন",
+      "এখানে থামুন",
+      "কত সময় লাগবে?"
+    ],
+    "answer": "ডানদিকে ঘুরুন"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Bengali?",
+    "options": [
+      "এখানে থামুন",
+      "সোজা যান",
+      "কত সময় লাগবে?",
+      "মানচিত্রে দেখাতে পারেন?"
+    ],
+    "answer": "সোজা যান"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Bengali?",
+    "options": [
+      "কত সময় লাগবে?",
+      "বাস স্টপ কোথায়?",
+      "মানচিত্রে দেখাতে পারেন?",
+      "এখানে থামুন"
+    ],
+    "answer": "এখানে থামুন"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Bengali?",
+    "options": [
+      "মানচিত্রে দেখাতে পারেন?",
+      "রেল স্টেশনে কিভাবে যাবো?",
+      "বাস স্টপ কোথায়?",
+      "কত সময় লাগবে?"
+    ],
+    "answer": "কত সময় লাগবে?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Bengali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Bengali?",
+    "options": [
+      "মানচিত্রে দেখাতে পারেন?",
+      "বাস স্টপ কোথায়?",
+      "রেল স্টেশনে কিভাবে যাবো?",
+      "বাজারে যাওয়ার রাস্তা কোনটা?"
+    ],
+    "answer": "মানচিত্রে দেখাতে পারেন?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'go'?",
+    "options": [
+      "খেয়েছি",
+      "গিয়েছি",
+      "পড়েছি",
+      "দেখেছি"
+    ],
+    "answer": "গিয়েছি"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'eat'?",
+    "options": [
+      "লিখেছি",
+      "পড়েছি",
+      "খেয়েছি",
+      "দেখেছি"
+    ],
+    "answer": "খেয়েছি"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'see'?",
+    "options": [
+      "পড়েছি",
+      "লিখেছি",
+      "দেখেছি",
+      "এসেছি"
+    ],
+    "answer": "দেখেছি"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'read'?",
+    "options": [
+      "দিয়েছি",
+      "পড়েছি",
+      "লিখেছি",
+      "এসেছি"
+    ],
+    "answer": "পড়েছি"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'write'?",
+    "options": [
+      "লিখেছি",
+      "দিয়েছি",
+      "এসেছি",
+      "নিয়েছি"
+    ],
+    "answer": "লিখেছি"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'come'?",
+    "options": [
+      "খেলেছি",
+      "নিয়েছি",
+      "এসেছি",
+      "দিয়েছি"
+    ],
+    "answer": "এসেছি"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'give'?",
+    "options": [
+      "ঘুমিয়েছি",
+      "খেলেছি",
+      "নিয়েছি",
+      "দিয়েছি"
+    ],
+    "answer": "দিয়েছি"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'take'?",
+    "options": [
+      "ঘুমিয়েছি",
+      "নিয়েছি",
+      "খেলেছি",
+      "গিয়েছি"
+    ],
+    "answer": "নিয়েছি"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'play'?",
+    "options": [
+      "ঘুমিয়েছি",
+      "খেলেছি",
+      "খেয়েছি",
+      "গিয়েছি"
+    ],
+    "answer": "খেলেছি"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bengali past tense of 'sleep'?",
+    "options": [
+      "দেখেছি",
+      "গিয়েছি",
+      "খেয়েছি",
+      "ঘুমিয়েছি"
+    ],
+    "answer": "ঘুমিয়েছি"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'book'?",
+    "options": [
+      "বইগুলো",
+      "মেয়েরা",
+      "ছেলেরা",
+      "কলমগুলো"
+    ],
+    "answer": "বইগুলো"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'pen'?",
+    "options": [
+      "মেয়েরা",
+      "কলমগুলো",
+      "ছেলেরা",
+      "ফুলগুলো"
+    ],
+    "answer": "কলমগুলো"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'boy'?",
+    "options": [
+      "ফুলগুলো",
+      "ছেলেরা",
+      "মেয়েরা",
+      "পাতাগুলো"
+    ],
+    "answer": "ছেলেরা"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'girl'?",
+    "options": [
+      "ফুলগুলো",
+      "মেয়েরা",
+      "তারাগুলো",
+      "পাতাগুলো"
+    ],
+    "answer": "মেয়েরা"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'flower'?",
+    "options": [
+      "তারাগুলো",
+      "ফুলগুলো",
+      "গাছগুলো",
+      "পাতাগুলো"
+    ],
+    "answer": "ফুলগুলো"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'leaf'?",
+    "options": [
+      "পাতাগুলো",
+      "তারাগুলো",
+      "গাছগুলো",
+      "নদীগুলো"
+    ],
+    "answer": "পাতাগুলো"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'star'?",
+    "options": [
+      "নদীগুলো",
+      "তারাগুলো",
+      "চেয়ারগুলো",
+      "গাছগুলো"
+    ],
+    "answer": "তারাগুলো"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'tree'?",
+    "options": [
+      "নদীগুলো",
+      "গাছগুলো",
+      "বইগুলো",
+      "চেয়ারগুলো"
+    ],
+    "answer": "গাছগুলো"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'river'?",
+    "options": [
+      "কলমগুলো",
+      "বইগুলো",
+      "নদীগুলো",
+      "চেয়ারগুলো"
+    ],
+    "answer": "নদীগুলো"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bengali plural of 'chair'?",
+    "options": [
+      "চেয়ারগুলো",
+      "কলমগুলো",
+      "বইগুলো",
+      "ছেলেরা"
+    ],
+    "answer": "চেয়ারগুলো"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'and'?",
+    "options": [
+      "এবং",
+      "অথবা",
+      "কারণ",
+      "কিন্তু"
+    ],
+    "answer": "এবং"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'but'?",
+    "options": [
+      "যদি",
+      "কারণ",
+      "অথবা",
+      "কিন্তু"
+    ],
+    "answer": "কিন্তু"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'or'?",
+    "options": [
+      "অথবা",
+      "কারণ",
+      "যদি",
+      "যখন"
+    ],
+    "answer": "অথবা"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'because'?",
+    "options": [
+      "যখন",
+      "যদি",
+      "কোথায়",
+      "কারণ"
+    ],
+    "answer": "কারণ"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'if'?",
+    "options": [
+      "যদি",
+      "যখন",
+      "কিভাবে",
+      "কোথায়"
+    ],
+    "answer": "যদি"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'when'?",
+    "options": [
+      "কোথায়",
+      "যখন",
+      "কিভাবে",
+      "কেন"
+    ],
+    "answer": "যখন"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'where'?",
+    "options": [
+      "কেন",
+      "সাথে",
+      "কোথায়",
+      "কিভাবে"
+    ],
+    "answer": "কোথায়"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'how'?",
+    "options": [
+      "কিভাবে",
+      "সাথে",
+      "কেন",
+      "এবং"
+    ],
+    "answer": "কিভাবে"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'why'?",
+    "options": [
+      "কিন্তু",
+      "এবং",
+      "কেন",
+      "সাথে"
+    ],
+    "answer": "কেন"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bengali particle for 'with'?",
+    "options": [
+      "অথবা",
+      "কিন্তু",
+      "এবং",
+      "সাথে"
+    ],
+    "answer": "সাথে"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Bengali?",
+    "options": [
+      "খাচ্ছি না",
+      "আসছি না",
+      "পড়ছি না",
+      "যাচ্ছি না"
+    ],
+    "answer": "যাচ্ছি না"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Bengali?",
+    "options": [
+      "আসছি না",
+      "খাচ্ছি না",
+      "লিখছি না",
+      "পড়ছি না"
+    ],
+    "answer": "আসছি না"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Bengali?",
+    "options": [
+      "খেলছি না",
+      "পড়ছি না",
+      "লিখছি না",
+      "খাচ্ছি না"
+    ],
+    "answer": "খাচ্ছি না"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Bengali?",
+    "options": [
+      "পড়ছি না",
+      "খেলছি না",
+      "ঘুমাচ্ছি না",
+      "লিখছি না"
+    ],
+    "answer": "পড়ছি না"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Bengali?",
+    "options": [
+      "খেলছি না",
+      "ঘুমাচ্ছি না",
+      "লিখছি না",
+      "দেখছি না"
+    ],
+    "answer": "লিখছি না"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Bengali?",
+    "options": [
+      "দেখছি না",
+      "ঘুমাচ্ছি না",
+      "দিচ্ছি না",
+      "খেলছি না"
+    ],
+    "answer": "খেলছি না"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Bengali?",
+    "options": [
+      "দেখছি না",
+      "ঘুমাচ্ছি না",
+      "নিচ্ছি না",
+      "দিচ্ছি না"
+    ],
+    "answer": "ঘুমাচ্ছি না"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Bengali?",
+    "options": [
+      "দেখছি না",
+      "দিচ্ছি না",
+      "যাচ্ছি না",
+      "নিচ্ছি না"
+    ],
+    "answer": "দেখছি না"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Bengali?",
+    "options": [
+      "দিচ্ছি না",
+      "যাচ্ছি না",
+      "আসছি না",
+      "নিচ্ছি না"
+    ],
+    "answer": "দিচ্ছি না"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Bengali?",
+    "options": [
+      "নিচ্ছি না",
+      "আসছি না",
+      "যাচ্ছি না",
+      "খাচ্ছি না"
+    ],
+    "answer": "নিচ্ছি না"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'apple'",
+    "options": [
+      "আপেল",
+      "কলা",
+      "কুকুর",
+      "বিড়াল"
+    ],
+    "answer": "আপেল"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'banana'",
+    "options": [
+      "বিড়াল",
+      "কুকুর",
+      "গাড়ি",
+      "কলা"
+    ],
+    "answer": "কলা"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'cat'",
+    "options": [
+      "গাড়ি",
+      "কুকুর",
+      "বাস",
+      "বিড়াল"
+    ],
+    "answer": "বিড়াল"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'dog'",
+    "options": [
+      "ট্রেন",
+      "কুকুর",
+      "বাস",
+      "গাড়ি"
+    ],
+    "answer": "কুকুর"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'car'",
+    "options": [
+      "বাড়ি",
+      "ট্রেন",
+      "গাড়ি",
+      "বাস"
+    ],
+    "answer": "গাড়ি"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'bus'",
+    "options": [
+      "ট্রেন",
+      "বাড়ি",
+      "শহর",
+      "বাস"
+    ],
+    "answer": "বাস"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'train'",
+    "options": [
+      "গ্রাম",
+      "ট্রেন",
+      "বাড়ি",
+      "শহর"
+    ],
+    "answer": "ট্রেন"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'house'",
+    "options": [
+      "শহর",
+      "বাড়ি",
+      "আপেল",
+      "গ্রাম"
+    ],
+    "answer": "বাড়ি"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'city'",
+    "options": [
+      "আপেল",
+      "শহর",
+      "গ্রাম",
+      "কলা"
+    ],
+    "answer": "শহর"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bengali word for 'village'",
+    "options": [
+      "কলা",
+      "গ্রাম",
+      "আপেল",
+      "বিড়াল"
+    ],
+    "answer": "গ্রাম"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Good morning'",
+    "options": [
+      "ধন্যবাদ",
+      "আপনি কেমন আছেন?",
+      "শুভ সকাল",
+      "ক্ষমা করবেন"
+    ],
+    "answer": "শুভ সকাল"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'How are you?'",
+    "options": [
+      "ধন্যবাদ",
+      "আপনি কেমন আছেন?",
+      "দয়া করে ভিতরে আসুন",
+      "ক্ষমা করবেন"
+    ],
+    "answer": "আপনি কেমন আছেন?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Thank you'",
+    "options": [
+      "ধন্যবাদ",
+      "ক্ষমা করবেন",
+      "বসুন",
+      "দয়া করে ভিতরে আসুন"
+    ],
+    "answer": "ধন্যবাদ"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Sorry'",
+    "options": [
+      "বসুন",
+      "ক্ষমা করবেন",
+      "দয়া করে ভিতরে আসুন",
+      "দাঁড়ান"
+    ],
+    "answer": "ক্ষমা করবেন"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Please come in'",
+    "options": [
+      "দাঁড়ান",
+      "দয়া করে ভিতরে আসুন",
+      "এগিয়ে যান",
+      "বসুন"
+    ],
+    "answer": "দয়া করে ভিতরে আসুন"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Sit down'",
+    "options": [
+      "দাঁড়ান",
+      "এগিয়ে যান",
+      "বসুন",
+      "ভাল করেছেন"
+    ],
+    "answer": "বসুন"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Stand up'",
+    "options": [
+      "ভাল করেছেন",
+      "দাঁড়ান",
+      "এগিয়ে যান",
+      "অভিনন্দন"
+    ],
+    "answer": "দাঁড়ান"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Go ahead'",
+    "options": [
+      "এগিয়ে যান",
+      "অভিনন্দন",
+      "শুভ সকাল",
+      "ভাল করেছেন"
+    ],
+    "answer": "এগিয়ে যান"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Well done'",
+    "options": [
+      "শুভ সকাল",
+      "অভিনন্দন",
+      "আপনি কেমন আছেন?",
+      "ভাল করেছেন"
+    ],
+    "answer": "ভাল করেছেন"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bengali phrase for 'Congratulations'",
+    "options": [
+      "শুভ সকাল",
+      "আপনি কেমন আছেন?",
+      "অভিনন্দন",
+      "ধন্যবাদ"
+    ],
+    "answer": "অভিনন্দন"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'I am going to school'",
+    "options": [
+      "সে ভাত খাচ্ছে",
+      "আমরা ক্রিকেট খেলছি",
+      "তারা বই পড়ছে",
+      "আমি স্কুলে যাচ্ছি"
+    ],
+    "answer": "আমি স্কুলে যাচ্ছি"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'She is eating rice'",
+    "options": [
+      "তারা বই পড়ছে",
+      "সে ভাত খাচ্ছে",
+      "আমরা ক্রিকেট খেলছি",
+      "সে চিঠি লিখছে"
+    ],
+    "answer": "সে ভাত খাচ্ছে"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'We are playing cricket'",
+    "options": [
+      "তারা বই পড়ছে",
+      "তুমি আমার বন্ধু",
+      "আমরা ক্রিকেট খেলছি",
+      "সে চিঠি লিখছে"
+    ],
+    "answer": "আমরা ক্রিকেট খেলছি"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'They are reading books'",
+    "options": [
+      "এখন বৃষ্টি হচ্ছে",
+      "তারা বই পড়ছে",
+      "তুমি আমার বন্ধু",
+      "সে চিঠি লিখছে"
+    ],
+    "answer": "তারা বই পড়ছে"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'He is writing a letter'",
+    "options": [
+      "এখন বৃষ্টি হচ্ছে",
+      "সে চিঠি লিখছে",
+      "তুমি আমার বন্ধু",
+      "আমি বাংলা পছন্দ করি"
+    ],
+    "answer": "সে চিঠি লিখছে"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'You are my friend'",
+    "options": [
+      "এখন বৃষ্টি হচ্ছে",
+      "আমরা ঢাকায় থাকি",
+      "তুমি আমার বন্ধু",
+      "আমি বাংলা পছন্দ করি"
+    ],
+    "answer": "তুমি আমার বন্ধু"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'It is raining now'",
+    "options": [
+      "আমি বাংলা পছন্দ করি",
+      "আমরা ঢাকায় থাকি",
+      "এখন বৃষ্টি হচ্ছে",
+      "সে গান গাইছে"
+    ],
+    "answer": "এখন বৃষ্টি হচ্ছে"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'I like Bengali'",
+    "options": [
+      "আমি বাংলা পছন্দ করি",
+      "সে গান গাইছে",
+      "আমি স্কুলে যাচ্ছি",
+      "আমরা ঢাকায় থাকি"
+    ],
+    "answer": "আমি বাংলা পছন্দ করি"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'We live in Dhaka'",
+    "options": [
+      "আমরা ঢাকায় থাকি",
+      "সে গান গাইছে",
+      "আমি স্কুলে যাচ্ছি",
+      "সে ভাত খাচ্ছে"
+    ],
+    "answer": "আমরা ঢাকায় থাকি"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bengali sentence for 'She is singing a song'",
+    "options": [
+      "আমরা ক্রিকেট খেলছি",
+      "আমি স্কুলে যাচ্ছি",
+      "সে ভাত খাচ্ছে",
+      "সে গান গাইছে"
+    ],
+    "answer": "সে গান গাইছে"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "আপনি কেমন আছেন? - আমি ভাল আছি",
+      "আপনি ইংরেজি বলতে পারেন? - হ্যাঁ, একটু",
+      "আপনার নাম কি? - আমার নাম রবি",
+      "আপনি কোথায় যাচ্ছেন? - বাজারে"
+    ],
+    "answer": "আপনি কেমন আছেন? - আমি ভাল আছি"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "আপনি কোথায় যাচ্ছেন? - বাজারে",
+      "আপনি আমাকে সাহায্য করতে পারেন? - অবশ্যই",
+      "আপনি ইংরেজি বলতে পারেন? - হ্যাঁ, একটু",
+      "আপনার নাম কি? - আমার নাম রবি"
+    ],
+    "answer": "আপনার নাম কি? - আমার নাম রবি"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "আপনি ইংরেজি বলতে পারেন? - হ্যাঁ, একটু",
+      "আপনি আমাকে সাহায্য করতে পারেন? - অবশ্যই",
+      "এখন কয়টা বাজে? - পাঁচটা বাজে",
+      "আপনি কোথায় যাচ্ছেন? - বাজারে"
+    ],
+    "answer": "আপনি কোথায় যাচ্ছেন? - বাজারে"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "এখন কয়টা বাজে? - পাঁচটা বাজে",
+      "আপনি ইংরেজি বলতে পারেন? - হ্যাঁ, একটু",
+      "আপনি আমাকে সাহায্য করতে পারেন? - অবশ্যই",
+      "বাস স্টপ কোথায়? - ওখানে"
+    ],
+    "answer": "আপনি ইংরেজি বলতে পারেন? - হ্যাঁ, একটু"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "এটা কত? - ৫০ টাকা",
+      "এখন কয়টা বাজে? - পাঁচটা বাজে",
+      "আপনি আমাকে সাহায্য করতে পারেন? - অবশ্যই",
+      "বাস স্টপ কোথায়? - ওখানে"
+    ],
+    "answer": "আপনি আমাকে সাহায্য করতে পারেন? - অবশ্যই"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "দয়া করে ভিতরে আসুন। - ধন্যবাদ",
+      "এটা কত? - ৫০ টাকা",
+      "এখন কয়টা বাজে? - পাঁচটা বাজে",
+      "বাস স্টপ কোথায়? - ওখানে"
+    ],
+    "answer": "এখন কয়টা বাজে? - পাঁচটা বাজে"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "দয়া করে ভিতরে আসুন। - ধন্যবাদ",
+      "বাস স্টপ কোথায়? - ওখানে",
+      "এটা কত? - ৫০ টাকা",
+      "বিদায়। - আবার দেখা হবে"
+    ],
+    "answer": "বাস স্টপ কোথায়? - ওখানে"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'How much is this? - 50 taka.'",
+    "options": [
+      "এটা কত? - ৫০ টাকা",
+      "দয়া করে ভিতরে আসুন। - ধন্যবাদ",
+      "আপনি কেমন আছেন? - আমি ভাল আছি",
+      "বিদায়। - আবার দেখা হবে"
+    ],
+    "answer": "এটা কত? - ৫০ টাকা"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "আপনি কেমন আছেন? - আমি ভাল আছি",
+      "আপনার নাম কি? - আমার নাম রবি",
+      "বিদায়। - আবার দেখা হবে",
+      "দয়া করে ভিতরে আসুন। - ধন্যবাদ"
+    ],
+    "answer": "দয়া করে ভিতরে আসুন। - ধন্যবাদ"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bengali dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "আপনার নাম কি? - আমার নাম রবি",
+      "আপনি কেমন আছেন? - আমি ভাল আছি",
+      "বিদায়। - আবার দেখা হবে",
+      "আপনি কোথায় যাচ্ছেন? - বাজারে"
+    ],
+    "answer": "বিদায়। - আবার দেখা হবে"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Bengali?",
+    "options": [
+      "কাউন্টার কোথায়?",
+      "এটা কত?",
+      "আমি এটা কিনতে চাই",
+      "ছাড় আছে?"
+    ],
+    "answer": "আমি এটা কিনতে চাই"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Bengali?",
+    "options": [
+      "আপনি কার্ড নেন?",
+      "ছাড় আছে?",
+      "কাউন্টার কোথায়?",
+      "এটা কত?"
+    ],
+    "answer": "এটা কত?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Bengali?",
+    "options": [
+      "কাউন্টার কোথায়?",
+      "দয়া করে প্যাক করুন",
+      "ছাড় আছে?",
+      "আপনি কার্ড নেন?"
+    ],
+    "answer": "ছাড় আছে?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Bengali?",
+    "options": [
+      "দয়া করে প্যাক করুন",
+      "আপনি কার্ড নেন?",
+      "আমার ব্যাগ লাগবে",
+      "কাউন্টার কোথায়?"
+    ],
+    "answer": "কাউন্টার কোথায়?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Bengali?",
+    "options": [
+      "দয়া করে প্যাক করুন",
+      "আমার ব্যাগ লাগবে",
+      "এটা পাওয়া যায়?",
+      "আপনি কার্ড নেন?"
+    ],
+    "answer": "আপনি কার্ড নেন?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Bengali?",
+    "options": [
+      "আমার ব্যাগ লাগবে",
+      "এটা পাওয়া যায়?",
+      "সময় কি?",
+      "দয়া করে প্যাক করুন"
+    ],
+    "answer": "দয়া করে প্যাক করুন"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Bengali?",
+    "options": [
+      "এটা পাওয়া যায়?",
+      "সময় কি?",
+      "আমার ব্যাগ লাগবে",
+      "এটা চেষ্টা করতে পারি?"
+    ],
+    "answer": "আমার ব্যাগ লাগবে"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Bengali?",
+    "options": [
+      "আমি এটা কিনতে চাই",
+      "এটা পাওয়া যায়?",
+      "এটা চেষ্টা করতে পারি?",
+      "সময় কি?"
+    ],
+    "answer": "এটা পাওয়া যায়?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Bengali?",
+    "options": [
+      "আমি এটা কিনতে চাই",
+      "এটা চেষ্টা করতে পারি?",
+      "সময় কি?",
+      "এটা কত?"
+    ],
+    "answer": "সময় কি?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Bengali?",
+    "options": [
+      "আমি এটা কিনতে চাই",
+      "এটা চেষ্টা করতে পারি?",
+      "এটা কত?",
+      "ছাড় আছে?"
+    ],
+    "answer": "এটা চেষ্টা করতে পারি?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Bengali?",
+    "options": [
+      "রেল স্টেশন কোথায়?",
+      "কত সময় লাগবে?",
+      "বিমানবন্দরে কিভাবে যাবো?",
+      "শহরে কোন বাস যায়?"
+    ],
+    "answer": "রেল স্টেশন কোথায়?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Bengali?",
+    "options": [
+      "শহরে কোন বাস যায়?",
+      "এখান থেকে কত দূর?",
+      "কত সময় লাগবে?",
+      "বিমানবন্দরে কিভাবে যাবো?"
+    ],
+    "answer": "বিমানবন্দরে কিভাবে যাবো?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Bengali?",
+    "options": [
+      "কত সময় লাগবে?",
+      "ট্যাক্সি কোথায় পাবো?",
+      "এখান থেকে কত দূর?",
+      "শহরে কোন বাস যায়?"
+    ],
+    "answer": "শহরে কোন বাস যায়?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Bengali?",
+    "options": [
+      "হোটেল কোথায়?",
+      "ট্যাক্সি কোথায় পাবো?",
+      "কত সময় লাগবে?",
+      "এখান থেকে কত দূর?"
+    ],
+    "answer": "কত সময় লাগবে?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Bengali?",
+    "options": [
+      "মানচিত্রে দেখাতে পারেন?",
+      "ট্যাক্সি কোথায় পাবো?",
+      "এখান থেকে কত দূর?",
+      "হোটেল কোথায়?"
+    ],
+    "answer": "এখান থেকে কত দূর?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Bengali?",
+    "options": [
+      "হোটেল কোথায়?",
+      "মানচিত্রে দেখাতে পারেন?",
+      "বাথরুম কোথায়?",
+      "ট্যাক্সি কোথায় পাবো?"
+    ],
+    "answer": "ট্যাক্সি কোথায় পাবো?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Bengali?",
+    "options": [
+      "আমি পথ হারিয়েছি",
+      "বাথরুম কোথায়?",
+      "হোটেল কোথায়?",
+      "মানচিত্রে দেখাতে পারেন?"
+    ],
+    "answer": "হোটেল কোথায়?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Bengali?",
+    "options": [
+      "আমি পথ হারিয়েছি",
+      "মানচিত্রে দেখাতে পারেন?",
+      "রেল স্টেশন কোথায়?",
+      "বাথরুম কোথায়?"
+    ],
+    "answer": "মানচিত্রে দেখাতে পারেন?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Bengali?",
+    "options": [
+      "আমি পথ হারিয়েছি",
+      "বাথরুম কোথায়?",
+      "বিমানবন্দরে কিভাবে যাবো?",
+      "রেল স্টেশন কোথায়?"
+    ],
+    "answer": "বাথরুম কোথায়?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Bengali?",
+    "options": [
+      "আমি পথ হারিয়েছি",
+      "বিমানবন্দরে কিভাবে যাবো?",
+      "রেল স্টেশন কোথায়?",
+      "শহরে কোন বাস যায়?"
+    ],
+    "answer": "আমি পথ হারিয়েছি"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Bengali?",
+    "options": [
+      "আমার ডাক্তার লাগবে",
+      "হাসপাতাল কোথায়?",
+      "পুলিশ ডাকুন",
+      "আমি অসুস্থ"
+    ],
+    "answer": "পুলিশ ডাকুন"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Bengali?",
+    "options": [
+      "হাসপাতাল কোথায়?",
+      "সাহায্য!",
+      "আমি অসুস্থ",
+      "আমার ডাক্তার লাগবে"
+    ],
+    "answer": "আমার ডাক্তার লাগবে"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Bengali?",
+    "options": [
+      "সাহায্য!",
+      "আমি অসুস্থ",
+      "আমার মানিব্যাগ হারিয়েছে",
+      "হাসপাতাল কোথায়?"
+    ],
+    "answer": "হাসপাতাল কোথায়?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Bengali?",
+    "options": [
+      "সাহায্য!",
+      "আমি অসুস্থ",
+      "আমার মানিব্যাগ হারিয়েছে",
+      "আগুন লেগেছে"
+    ],
+    "answer": "আমি অসুস্থ"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Bengali?",
+    "options": [
+      "আগুন লেগেছে",
+      "সাহায্য!",
+      "আমার মানিব্যাগ হারিয়েছে",
+      "আমার দুর্ঘটনা হয়েছে"
+    ],
+    "answer": "সাহায্য!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Bengali?",
+    "options": [
+      "আমার দুর্ঘটনা হয়েছে",
+      "আমি আহত",
+      "আগুন লেগেছে",
+      "আমার মানিব্যাগ হারিয়েছে"
+    ],
+    "answer": "আমার মানিব্যাগ হারিয়েছে"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Bengali?",
+    "options": [
+      "আগুন লেগেছে",
+      "দয়া করে আমাকে সাহায্য করুন",
+      "আমি আহত",
+      "আমার দুর্ঘটনা হয়েছে"
+    ],
+    "answer": "আগুন লেগেছে"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Bengali?",
+    "options": [
+      "আমি আহত",
+      "পুলিশ ডাকুন",
+      "দয়া করে আমাকে সাহায্য করুন",
+      "আমার দুর্ঘটনা হয়েছে"
+    ],
+    "answer": "আমার দুর্ঘটনা হয়েছে"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Bengali?",
+    "options": [
+      "পুলিশ ডাকুন",
+      "আমি আহত",
+      "আমার ডাক্তার লাগবে",
+      "দয়া করে আমাকে সাহায্য করুন"
+    ],
+    "answer": "আমি আহত"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Bengali?",
+    "options": [
+      "পুলিশ ডাকুন",
+      "হাসপাতাল কোথায়?",
+      "দয়া করে আমাকে সাহায্য করুন",
+      "আমার ডাক্তার লাগবে"
+    ],
+    "answer": "দয়া করে আমাকে সাহায্য করুন"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Bengali?",
+    "options": [
+      "কাল দেখা করি",
+      "আপনার পরিকল্পনা কি?",
+      "আজ সন্ধ্যায় আপনি ফ্রি?",
+      "সিনেমা দেখতে যাই"
+    ],
+    "answer": "আপনার পরিকল্পনা কি?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Bengali?",
+    "options": [
+      "কাল দেখা করি",
+      "একসাথে দুপুরের খাবার খাই?",
+      "সিনেমা দেখতে যাই",
+      "আজ সন্ধ্যায় আপনি ফ্রি?"
+    ],
+    "answer": "কাল দেখা করি"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Bengali?",
+    "options": [
+      "একসাথে দুপুরের খাবার খাই?",
+      "সিনেমা দেখতে যাই",
+      "আজ সন্ধ্যায় আপনি ফ্রি?",
+      "আপনি আমাদের সাথে যোগ দিতে পারেন?"
+    ],
+    "answer": "আজ সন্ধ্যায় আপনি ফ্রি?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Bengali?",
+    "options": [
+      "একসাথে দুপুরের খাবার খাই?",
+      "আজ আমি ব্যস্ত",
+      "আপনি আমাদের সাথে যোগ দিতে পারেন?",
+      "সিনেমা দেখতে যাই"
+    ],
+    "answer": "সিনেমা দেখতে যাই"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Bengali?",
+    "options": [
+      "আপনি আমাদের সাথে যোগ দিতে পারেন?",
+      "আজ আমি ব্যস্ত",
+      "একসাথে দুপুরের খাবার খাই?",
+      "পরে দেখা হবে"
+    ],
+    "answer": "একসাথে দুপুরের খাবার খাই?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Bengali?",
+    "options": [
+      "পরে দেখা হবে",
+      "আমি আপনাকে ফোন করবো",
+      "আজ আমি ব্যস্ত",
+      "আপনি আমাদের সাথে যোগ দিতে পারেন?"
+    ],
+    "answer": "আপনি আমাদের সাথে যোগ দিতে পারেন?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Bengali?",
+    "options": [
+      "উৎসব করি",
+      "আমি আপনাকে ফোন করবো",
+      "পরে দেখা হবে",
+      "আজ আমি ব্যস্ত"
+    ],
+    "answer": "আজ আমি ব্যস্ত"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Bengali?",
+    "options": [
+      "পরে দেখা হবে",
+      "আপনার পরিকল্পনা কি?",
+      "আমি আপনাকে ফোন করবো",
+      "উৎসব করি"
+    ],
+    "answer": "পরে দেখা হবে"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Bengali?",
+    "options": [
+      "কাল দেখা করি",
+      "উৎসব করি",
+      "আপনার পরিকল্পনা কি?",
+      "আমি আপনাকে ফোন করবো"
+    ],
+    "answer": "আমি আপনাকে ফোন করবো"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Bengali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Bengali?",
+    "options": [
+      "কাল দেখা করি",
+      "আজ সন্ধ্যায় আপনি ফ্রি?",
+      "উৎসব করি",
+      "আপনার পরিকল্পনা কি?"
+    ],
+    "answer": "উৎসব করি"
+  }
+]

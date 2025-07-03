@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'a'?",
+    "options": [
+      "ಈ",
+      "ಇ",
+      "ಆ",
+      "ಅ"
+    ],
+    "answer": "ಅ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'aa'?",
+    "options": [
+      "ಉ",
+      "ಇ",
+      "ಈ",
+      "ಆ"
+    ],
+    "answer": "ಆ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'i'?",
+    "options": [
+      "ಉ",
+      "ಈ",
+      "ಊ",
+      "ಇ"
+    ],
+    "answer": "ಇ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'ee'?",
+    "options": [
+      "ಊ",
+      "ಉ",
+      "ಎ",
+      "ಈ"
+    ],
+    "answer": "ಈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'u'?",
+    "options": [
+      "ಉ",
+      "ಎ",
+      "ಊ",
+      "ಏ"
+    ],
+    "answer": "ಉ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'oo'?",
+    "options": [
+      "ಏ",
+      "ಐ",
+      "ಎ",
+      "ಊ"
+    ],
+    "answer": "ಊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'e'?",
+    "options": [
+      "ಏ",
+      "ಐ",
+      "ಒ",
+      "ಎ"
+    ],
+    "answer": "ಎ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'ae'?",
+    "options": [
+      "ಐ",
+      "ಏ",
+      "ಒ",
+      "ಅ"
+    ],
+    "answer": "ಏ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'ai'?",
+    "options": [
+      "ಒ",
+      "ಐ",
+      "ಆ",
+      "ಅ"
+    ],
+    "answer": "ಐ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Kannada vowel for 'o'?",
+    "options": [
+      "ಅ",
+      "ಆ",
+      "ಇ",
+      "ಒ"
+    ],
+    "answer": "ಒ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'ka'?",
+    "options": [
+      "ಖ",
+      "ಘ",
+      "ಕ",
+      "ಗ"
+    ],
+    "answer": "ಕ"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'kha'?",
+    "options": [
+      "ಗ",
+      "ಘ",
+      "ಚ",
+      "ಖ"
+    ],
+    "answer": "ಖ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'ga'?",
+    "options": [
+      "ಛ",
+      "ಚ",
+      "ಘ",
+      "ಗ"
+    ],
+    "answer": "ಗ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'gha'?",
+    "options": [
+      "ಛ",
+      "ಘ",
+      "ಜ",
+      "ಚ"
+    ],
+    "answer": "ಘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'cha'?",
+    "options": [
+      "ಚ",
+      "ಛ",
+      "ಜ",
+      "ಝ"
+    ],
+    "answer": "ಚ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'chha'?",
+    "options": [
+      "ಝ",
+      "ಟ",
+      "ಛ",
+      "ಜ"
+    ],
+    "answer": "ಛ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'ja'?",
+    "options": [
+      "ಝ",
+      "ಟ",
+      "ಠ",
+      "ಜ"
+    ],
+    "answer": "ಜ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'jha'?",
+    "options": [
+      "ಝ",
+      "ಕ",
+      "ಟ",
+      "ಠ"
+    ],
+    "answer": "ಝ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'ta'?",
+    "options": [
+      "ಠ",
+      "ಟ",
+      "ಖ",
+      "ಕ"
+    ],
+    "answer": "ಟ"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Kannada consonant for 'tha'?",
+    "options": [
+      "ಠ",
+      "ಖ",
+      "ಗ",
+      "ಕ"
+    ],
+    "answer": "ಠ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ಕ' + 'ಾ'?",
+    "options": [
+      "ಕಾ",
+      "ತೇ",
+      "ಪು",
+      "ಮಿ"
+    ],
+    "answer": "ಕಾ"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ಪ' + 'ು'?",
+    "options": [
+      "ಸೂ",
+      "ಪು",
+      "ತೇ",
+      "ಮಿ"
+    ],
+    "answer": "ಪು"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ಮ' + 'ಿ'?",
+    "options": [
+      "ಮಿ",
+      "ನೋ",
+      "ಸೂ",
+      "ತೇ"
+    ],
+    "answer": "ಮಿ"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ತ' + 'ೇ'?",
+    "options": [
+      "ನೋ",
+      "ತೇ",
+      "ಸೂ",
+      "ರಾ"
+    ],
+    "answer": "ತೇ"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ಸ' + 'ೂ'?",
+    "options": [
+      "ನೋ",
+      "ರಾ",
+      "ಲೇ",
+      "ಸೂ"
+    ],
+    "answer": "ಸೂ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ನ' + 'ೋ'?",
+    "options": [
+      "ದಿ",
+      "ಲೇ",
+      "ರಾ",
+      "ನೋ"
+    ],
+    "answer": "ನೋ"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ರ' + 'ಾ'?",
+    "options": [
+      "ಲೇ",
+      "ದಿ",
+      "ವು",
+      "ರಾ"
+    ],
+    "answer": "ರಾ"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ಲ' + 'ೇ'?",
+    "options": [
+      "ದಿ",
+      "ಲೇ",
+      "ಕಾ",
+      "ವು"
+    ],
+    "answer": "ಲೇ"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ದ' + 'ಿ'?",
+    "options": [
+      "ದಿ",
+      "ಕಾ",
+      "ಪು",
+      "ವು"
+    ],
+    "answer": "ದಿ"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ವ' + 'ು'?",
+    "options": [
+      "ವು",
+      "ಪು",
+      "ಮಿ",
+      "ಕಾ"
+    ],
+    "answer": "ವು"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಪುಸ್ತಕ'? (in Kannada)",
+    "options": [
+      "School",
+      "Book",
+      "Hand",
+      "Pen"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಲೇಖನಿ'? (in Kannada)",
+    "options": [
+      "Pen",
+      "School",
+      "Hand",
+      "Fruit"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಶಾಲೆ'? (in Kannada)",
+    "options": [
+      "Flowers",
+      "Hand",
+      "School",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಕೈ'? (in Kannada)",
+    "options": [
+      "Fruit",
+      "Hand",
+      "Tree",
+      "Flowers"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಹಣ್ಣು'? (in Kannada)",
+    "options": [
+      "Flowers",
+      "Slate",
+      "Tree",
+      "Fruit"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಹೂವು'? (in Kannada)",
+    "options": [
+      "Tree",
+      "Speak",
+      "Slate",
+      "Flowers"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಮರ'? (in Kannada)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಪಟ್ಟಿ'? (in Kannada)",
+    "options": [
+      "Speech",
+      "Book",
+      "Slate",
+      "Speak"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಮಾತನಾಡು'? (in Kannada)",
+    "options": [
+      "Speech",
+      "Book",
+      "Speak",
+      "Pen"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ಭಾಷೆ'? (in Kannada)",
+    "options": [
+      "Pen",
+      "School",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'book'?",
+    "options": [
+      "ಲೇಖನಿ",
+      "ಶಾಲೆ",
+      "ಪುಸ್ತಕ",
+      "ಚೀಲ"
+    ],
+    "answer": "ಪುಸ್ತಕ"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'pen'?",
+    "options": [
+      "ಶಾಲೆ",
+      "ಚೀಲ",
+      "ಕುರ್ಚಿ",
+      "ಲೇಖನಿ"
+    ],
+    "answer": "ಲೇಖನಿ"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'school'?",
+    "options": [
+      "ಶಾಲೆ",
+      "ಚೀಲ",
+      "ಮೇಜು",
+      "ಕುರ್ಚಿ"
+    ],
+    "answer": "ಶಾಲೆ"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'bag'?",
+    "options": [
+      "ಚೀಲ",
+      "ಪಟ್ಟಿ",
+      "ಕುರ್ಚಿ",
+      "ಮೇಜು"
+    ],
+    "answer": "ಚೀಲ"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'chair'?",
+    "options": [
+      "ಪಟ್ಟಿ",
+      "ಕುರ್ಚಿ",
+      "ಕಿಟಕಿ",
+      "ಮೇಜು"
+    ],
+    "answer": "ಕುರ್ಚಿ"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'table'?",
+    "options": [
+      "ಮೇಜು",
+      "ಕಿಟಕಿ",
+      "ಪಟ್ಟಿ",
+      "ಬಾಗಿಲು"
+    ],
+    "answer": "ಮೇಜು"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'slate'?",
+    "options": [
+      "ಬಾಗಿಲು",
+      "ಕಿಟಕಿ",
+      "ಫ್ಯಾನ್",
+      "ಪಟ್ಟಿ"
+    ],
+    "answer": "ಪಟ್ಟಿ"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'window'?",
+    "options": [
+      "ಬಾಗಿಲು",
+      "ಫ್ಯಾನ್",
+      "ಕಿಟಕಿ",
+      "ಪುಸ್ತಕ"
+    ],
+    "answer": "ಕಿಟಕಿ"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'door'?",
+    "options": [
+      "ಫ್ಯಾನ್",
+      "ಪುಸ್ತಕ",
+      "ಲೇಖನಿ",
+      "ಬಾಗಿಲು"
+    ],
+    "answer": "ಬಾಗಿಲು"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Kannada word for 'fan'?",
+    "options": [
+      "ಫ್ಯಾನ್",
+      "ಲೇಖನಿ",
+      "ಪುಸ್ತಕ",
+      "ಶಾಲೆ"
+    ],
+    "answer": "ಫ್ಯಾನ್"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'rice'?",
+    "options": [
+      "ತರಕಾರಿ",
+      "ಅನ್ನ",
+      "ಹಾಲು",
+      "ಹಣ್ಣು"
+    ],
+    "answer": "ಅನ್ನ"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'milk'?",
+    "options": [
+      "ತರಕಾರಿ",
+      "ಹಣ್ಣು",
+      "ಹಾಲು",
+      "ನೀರು"
+    ],
+    "answer": "ಹಾಲು"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'fruit'?",
+    "options": [
+      "ನೀರು",
+      "ಮೊಸರು",
+      "ತರಕಾರಿ",
+      "ಹಣ್ಣು"
+    ],
+    "answer": "ಹಣ್ಣು"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'vegetable'?",
+    "options": [
+      "ತರಕಾರಿ",
+      "ನೀರು",
+      "ಮೊಸರು",
+      "ರೊಟ್ಟಿ"
+    ],
+    "answer": "ತರಕಾರಿ"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'water'?",
+    "options": [
+      "ರೊಟ್ಟಿ",
+      "ಮೊಟ್ಟೆ",
+      "ಮೊಸರು",
+      "ನೀರು"
+    ],
+    "answer": "ನೀರು"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'curd'?",
+    "options": [
+      "ಮೊಸರು",
+      "ರೊಟ್ಟಿ",
+      "ಮೊಟ್ಟೆ",
+      "ಮೀನು"
+    ],
+    "answer": "ಮೊಸರು"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'bread'?",
+    "options": [
+      "ಮೀನು",
+      "ರೊಟ್ಟಿ",
+      "ಮೊಟ್ಟೆ",
+      "ಸಿಹಿ"
+    ],
+    "answer": "ರೊಟ್ಟಿ"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'egg'?",
+    "options": [
+      "ಮೀನು",
+      "ಮೊಟ್ಟೆ",
+      "ಅನ್ನ",
+      "ಸಿಹಿ"
+    ],
+    "answer": "ಮೊಟ್ಟೆ"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'fish'?",
+    "options": [
+      "ಅನ್ನ",
+      "ಹಾಲು",
+      "ಸಿಹಿ",
+      "ಮೀನು"
+    ],
+    "answer": "ಮೀನು"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'sweet'?",
+    "options": [
+      "ಹಾಲು",
+      "ಅನ್ನ",
+      "ಹಣ್ಣು",
+      "ಸಿಹಿ"
+    ],
+    "answer": "ಸಿಹಿ"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'mother'?",
+    "options": [
+      "ಅಕ್ಕ",
+      "ಅಣ್ಣ",
+      "ಅಮ್ಮ",
+      "ಅಪ್ಪ"
+    ],
+    "answer": "ಅಮ್ಮ"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'father'?",
+    "options": [
+      "ಅಪ್ಪ",
+      "ಅಜ್ಜಿ",
+      "ಅಕ್ಕ",
+      "ಅಣ್ಣ"
+    ],
+    "answer": "ಅಪ್ಪ"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'sister'?",
+    "options": [
+      "ಅಜ್ಜಿ",
+      "ಅಜ್ಜ",
+      "ಅಕ್ಕ",
+      "ಅಣ್ಣ"
+    ],
+    "answer": "ಅಕ್ಕ"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'brother'?",
+    "options": [
+      "ಮಾವ",
+      "ಅಣ್ಣ",
+      "ಅಜ್ಜ",
+      "ಅಜ್ಜಿ"
+    ],
+    "answer": "ಅಣ್ಣ"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'grandmother'?",
+    "options": [
+      "ಮಾವ",
+      "ಅತ್ತೆ",
+      "ಅಜ್ಜ",
+      "ಅಜ್ಜಿ"
+    ],
+    "answer": "ಅಜ್ಜಿ"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'grandfather'?",
+    "options": [
+      "ಮಗ",
+      "ಅಜ್ಜ",
+      "ಅತ್ತೆ",
+      "ಮಾವ"
+    ],
+    "answer": "ಅಜ್ಜ"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'uncle'?",
+    "options": [
+      "ಮಗಳು",
+      "ಮಾವ",
+      "ಅತ್ತೆ",
+      "ಮಗ"
+    ],
+    "answer": "ಮಾವ"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'aunt'?",
+    "options": [
+      "ಅಮ್ಮ",
+      "ಅತ್ತೆ",
+      "ಮಗಳು",
+      "ಮಗ"
+    ],
+    "answer": "ಅತ್ತೆ"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'son'?",
+    "options": [
+      "ಮಗಳು",
+      "ಮಗ",
+      "ಅಪ್ಪ",
+      "ಅಮ್ಮ"
+    ],
+    "answer": "ಮಗ"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Kannada word for 'daughter'?",
+    "options": [
+      "ಮಗಳು",
+      "ಅಪ್ಪ",
+      "ಅಮ್ಮ",
+      "ಅಕ್ಕ"
+    ],
+    "answer": "ಮಗಳು"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'tree'?",
+    "options": [
+      "ಬೆಟ್ಟ",
+      "ಹೂವು",
+      "ಮರ",
+      "ನದಿ"
+    ],
+    "answer": "ಮರ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'flower'?",
+    "options": [
+      "ಹೂವು",
+      "ಎಲೆ",
+      "ನದಿ",
+      "ಬೆಟ್ಟ"
+    ],
+    "answer": "ಹೂವು"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'river'?",
+    "options": [
+      "ಎಲೆ",
+      "ಆಕಾಶ",
+      "ಬೆಟ್ಟ",
+      "ನದಿ"
+    ],
+    "answer": "ನದಿ"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'mountain'?",
+    "options": [
+      "ಬೆಟ್ಟ",
+      "ಆಕಾಶ",
+      "ಮಳೆ",
+      "ಎಲೆ"
+    ],
+    "answer": "ಬೆಟ್ಟ"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'leaf'?",
+    "options": [
+      "ಸೂರ್ಯ",
+      "ಆಕಾಶ",
+      "ಎಲೆ",
+      "ಮಳೆ"
+    ],
+    "answer": "ಎಲೆ"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'sky'?",
+    "options": [
+      "ಸೂರ್ಯ",
+      "ಆಕಾಶ",
+      "ಚಂದ್ರ",
+      "ಮಳೆ"
+    ],
+    "answer": "ಆಕಾಶ"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'rain'?",
+    "options": [
+      "ಚಂದ್ರ",
+      "ಸೂರ್ಯ",
+      "ನಕ್ಷತ್ರ",
+      "ಮಳೆ"
+    ],
+    "answer": "ಮಳೆ"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'sun'?",
+    "options": [
+      "ನಕ್ಷತ್ರ",
+      "ಸೂರ್ಯ",
+      "ಚಂದ್ರ",
+      "ಮರ"
+    ],
+    "answer": "ಸೂರ್ಯ"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'moon'?",
+    "options": [
+      "ನಕ್ಷತ್ರ",
+      "ಮರ",
+      "ಚಂದ್ರ",
+      "ಹೂವು"
+    ],
+    "answer": "ಚಂದ್ರ"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Kannada word for 'star'?",
+    "options": [
+      "ನದಿ",
+      "ಮರ",
+      "ಹೂವು",
+      "ನಕ್ಷತ್ರ"
+    ],
+    "answer": "ನಕ್ಷತ್ರ"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Kannada?",
+    "options": [
+      "ನಮಸ್ಕಾರ",
+      "ಶುಭೋದಯ",
+      "ಶುಭ ರಾತ್ರಿ",
+      "ಸ್ವಾಗತ"
+    ],
+    "answer": "ನಮಸ್ಕಾರ"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Kannada?",
+    "options": [
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಶುಭೋದಯ",
+      "ಶುಭ ರಾತ್ರಿ",
+      "ಸ್ವಾಗತ"
+    ],
+    "answer": "ಶುಭೋದಯ"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Kannada?",
+    "options": [
+      "ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+      "ಶುಭ ರಾತ್ರಿ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಸ್ವಾಗತ"
+    ],
+    "answer": "ಶುಭ ರಾತ್ರಿ"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Kannada?",
+    "options": [
+      "ಸ್ವಾಗತ",
+      "ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ"
+    ],
+    "answer": "ಸ್ವಾಗತ"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Kannada?",
+    "options": [
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ",
+      "ವಿದಾಯ",
+      "ಚೆನ್ನಾಗಿದ್ದೇನೆ"
+    ],
+    "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Kannada?",
+    "options": [
+      "ವಿದಾಯ",
+      "ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ",
+      "ಜಾಗರೂಕರಾಗಿರಿ",
+      "ಚೆನ್ನಾಗಿದ್ದೇನೆ"
+    ],
+    "answer": "ಚೆನ್ನಾಗಿದ್ದೇನೆ"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Kannada?",
+    "options": [
+      "ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ",
+      "ಜಾಗರೂಕರಾಗಿರಿ",
+      "ವಿದಾಯ",
+      "ಧನ್ಯವಾದ"
+    ],
+    "answer": "ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Kannada?",
+    "options": [
+      "ಜಾಗರೂಕರಾಗಿರಿ",
+      "ನಮಸ್ಕಾರ",
+      "ವಿದಾಯ",
+      "ಧನ್ಯವಾದ"
+    ],
+    "answer": "ವಿದಾಯ"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Kannada?",
+    "options": [
+      "ಧನ್ಯವಾದ",
+      "ಜಾಗರೂಕರಾಗಿರಿ",
+      "ಶುಭೋದಯ",
+      "ನಮಸ್ಕಾರ"
+    ],
+    "answer": "ಜಾಗರೂಕರಾಗಿರಿ"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Kannada?",
+    "options": [
+      "ಶುಭೋದಯ",
+      "ಶುಭ ರಾತ್ರಿ",
+      "ನಮಸ್ಕಾರ",
+      "ಧನ್ಯವಾದ"
+    ],
+    "answer": "ಧನ್ಯವಾದ"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Kannada?",
+    "options": [
+      "ನಾನು ಶಿಕ್ಷಕ",
+      "ನನ್ನ ಹೆಸರು ...",
+      "ನಾನು ... ನಿಂದ ಬಂದಿದ್ದೇನೆ",
+      "ನಾನು ವಿದ್ಯಾರ್ಥಿ"
+    ],
+    "answer": "ನನ್ನ ಹೆಸರು ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Kannada?",
+    "options": [
+      "ನಾನು ವಿದ್ಯಾರ್ಥಿ",
+      "ನಾನು ಶಿಕ್ಷಕ",
+      "ನಾನು ... ನಿಂದ ಬಂದಿದ್ದೇನೆ",
+      "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷವಾಯಿತು"
+    ],
+    "answer": "ನಾನು ... ನಿಂದ ಬಂದಿದ್ದೇನೆ"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Kannada?",
+    "options": [
+      "ನಾನು ವಿದ್ಯಾರ್ಥಿ",
+      "ನಾನು ಶಿಕ್ಷಕ",
+      "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷವಾಯಿತು",
+      "ನಾನು ... ನಲ್ಲಿ ವಾಸಿಸುತ್ತೇನೆ"
+    ],
+    "answer": "ನಾನು ವಿದ್ಯಾರ್ಥಿ"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Kannada?",
+    "options": [
+      "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷವಾಯಿತು",
+      "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ",
+      "ನಾನು ... ನಲ್ಲಿ ವಾಸಿಸುತ್ತೇನೆ",
+      "ನಾನು ಶಿಕ್ಷಕ"
+    ],
+    "answer": "ನಾನು ಶಿಕ್ಷಕ"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Kannada?",
+    "options": [
+      "ನಾನು ... ನಲ್ಲಿ ವಾಸಿಸುತ್ತೇನೆ",
+      "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ",
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷವಾಯಿತು"
+    ],
+    "answer": "ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷವಾಯಿತು"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Kannada?",
+    "options": [
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನಾನು ... ನಲ್ಲಿ ವಾಸಿಸುತ್ತೇನೆ",
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+      "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ"
+    ],
+    "answer": "ನಾನು ... ನಲ್ಲಿ ವಾಸಿಸುತ್ತೇನೆ"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Kannada' in Kannada?",
+    "options": [
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?",
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+      "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ"
+    ],
+    "answer": "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Kannada?",
+    "options": [
+      "ನನ್ನ ಹೆಸರು ...",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?",
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?"
+    ],
+    "answer": "ನಿಮ್ಮ ಹೆಸರೇನು?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Kannada?",
+    "options": [
+      "ನನ್ನ ಹೆಸರು ...",
+      "ನಾನು ... ನಿಂದ ಬಂದಿದ್ದೇನೆ",
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?"
+    ],
+    "answer": "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Kannada?",
+    "options": [
+      "ನನ್ನ ಹೆಸರು ...",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?",
+      "ನಾನು ವಿದ್ಯಾರ್ಥಿ",
+      "ನಾನು ... ನಿಂದ ಬಂದಿದ್ದೇನೆ"
+    ],
+    "answer": "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Kannada?",
+    "options": [
+      "ಹೌದು",
+      "ಖಂಡಿತವಾಗಿ",
+      "ಇಲ್ಲ",
+      "ಇರಬಹುದು"
+    ],
+    "answer": "ಹೌದು"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Kannada?",
+    "options": [
+      "ಇಲ್ಲ",
+      "ಎಂದಿಗೂ ಇಲ್ಲ",
+      "ಖಂಡಿತವಾಗಿ",
+      "ಇರಬಹುದು"
+    ],
+    "answer": "ಇಲ್ಲ"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Kannada?",
+    "options": [
+      "ಇರಬಹುದು",
+      "ಖಂಡಿತವಾಗಿ",
+      "ಎಂದಿಗೂ ಇಲ್ಲ",
+      "ಕೆಲವೊಮ್ಮೆ"
+    ],
+    "answer": "ಇರಬಹುದು"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Kannada?",
+    "options": [
+      "ಖಂಡಿತವಾಗಿ",
+      "ಯಾವಾಗಲೂ",
+      "ಎಂದಿಗೂ ಇಲ್ಲ",
+      "ಕೆಲವೊಮ್ಮೆ"
+    ],
+    "answer": "ಖಂಡಿತವಾಗಿ"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Kannada?",
+    "options": [
+      "ಕೆಲವೊಮ್ಮೆ",
+      "ಎಂದಿಗೂ ಇಲ್ಲ",
+      "ಸ್ವಲ್ಪವೂ ಇಲ್ಲ",
+      "ಯಾವಾಗಲೂ"
+    ],
+    "answer": "ಎಂದಿಗೂ ಇಲ್ಲ"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Kannada?",
+    "options": [
+      "ಯಾವಾಗಲೂ",
+      "ಸ್ವಲ್ಪವೂ ಇಲ್ಲ",
+      "ಕೆಲವೊಮ್ಮೆ",
+      "ಖಂಡಿತ"
+    ],
+    "answer": "ಕೆಲವೊಮ್ಮೆ"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Kannada?",
+    "options": [
+      "ಸ್ವಲ್ಪವೂ ಇಲ್ಲ",
+      "ನನಗೆ ಗೊತ್ತಿಲ್ಲ",
+      "ಖಂಡಿತ",
+      "ಯಾವಾಗಲೂ"
+    ],
+    "answer": "ಯಾವಾಗಲೂ"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Kannada?",
+    "options": [
+      "ಖಂಡಿತ",
+      "ಹೌದು",
+      "ನನಗೆ ಗೊತ್ತಿಲ್ಲ",
+      "ಸ್ವಲ್ಪವೂ ಇಲ್ಲ"
+    ],
+    "answer": "ಸ್ವಲ್ಪವೂ ಇಲ್ಲ"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Kannada?",
+    "options": [
+      "ಖಂಡಿತ",
+      "ಹೌದು",
+      "ನನಗೆ ಗೊತ್ತಿಲ್ಲ",
+      "ಇಲ್ಲ"
+    ],
+    "answer": "ಖಂಡಿತ"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Kannada?",
+    "options": [
+      "ಇಲ್ಲ",
+      "ಹೌದು",
+      "ಇರಬಹುದು",
+      "ನನಗೆ ಗೊತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ನನಗೆ ಗೊತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Kannada?",
+    "options": [
+      "ಕ್ಷಮಿಸಿ",
+      "ಕ್ಷಮಿಸಿ",
+      "ಧನ್ಯವಾದ",
+      "ದಯವಿಟ್ಟು"
+    ],
+    "answer": "ಧನ್ಯವಾದ"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Kannada?",
+    "options": [
+      "ಕ್ಷಮಿಸಿ",
+      "ದಯವಿಟ್ಟು",
+      "ಸ್ವಾಗತ",
+      "ಕ್ಷಮಿಸಿ"
+    ],
+    "answer": "ಕ್ಷಮಿಸಿ"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Kannada?",
+    "options": [
+      "ಯಾವ ತೊಂದರೆ ಇಲ್ಲ",
+      "ದಯವಿಟ್ಟು",
+      "ಸ್ವಾಗತ",
+      "ಕ್ಷಮಿಸಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Kannada?",
+    "options": [
+      "ಅಭಿನಂದನೆಗಳು",
+      "ಯಾವ ತೊಂದರೆ ಇಲ್ಲ",
+      "ಕ್ಷಮಿಸಿ",
+      "ಸ್ವಾಗತ"
+    ],
+    "answer": "ಕ್ಷಮಿಸಿ"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Kannada?",
+    "options": [
+      "ದೇವರು ನಿಮ್ಮನ್ನು ಆಶೀರ್ವದಿಸಲಿ",
+      "ಸ್ವಾಗತ",
+      "ಯಾವ ತೊಂದರೆ ಇಲ್ಲ",
+      "ಅಭಿನಂದನೆಗಳು"
+    ],
+    "answer": "ಸ್ವಾಗತ"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Kannada?",
+    "options": [
+      "ಶುಭಾಶಯಗಳು",
+      "ದೇವರು ನಿಮ್ಮನ್ನು ಆಶೀರ್ವದಿಸಲಿ",
+      "ಯಾವ ತೊಂದರೆ ಇಲ್ಲ",
+      "ಅಭಿನಂದನೆಗಳು"
+    ],
+    "answer": "ಯಾವ ತೊಂದರೆ ಇಲ್ಲ"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Kannada?",
+    "options": [
+      "ಶುಭಾಶಯಗಳು",
+      "ಅಭಿನಂದನೆಗಳು",
+      "ದೇವರು ನಿಮ್ಮನ್ನು ಆಶೀರ್ವದಿಸಲಿ",
+      "ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು"
+    ],
+    "answer": "ಅಭಿನಂದನೆಗಳು"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Kannada?",
+    "options": [
+      "ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು",
+      "ಧನ್ಯವಾದ",
+      "ಶುಭಾಶಯಗಳು",
+      "ದೇವರು ನಿಮ್ಮನ್ನು ಆಶೀರ್ವದಿಸಲಿ"
+    ],
+    "answer": "ದೇವರು ನಿಮ್ಮನ್ನು ಆಶೀರ್ವದಿಸಲಿ"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Kannada?",
+    "options": [
+      "ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು",
+      "ಶುಭಾಶಯಗಳು",
+      "ಕ್ಷಮಿಸಿ",
+      "ಧನ್ಯವಾದ"
+    ],
+    "answer": "ಶುಭಾಶಯಗಳು"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Kannada",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು",
+      "ಕ್ಷಮಿಸಿ",
+      "ಧನ್ಯವಾದ",
+      "ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು"
+    ],
+    "answer": "ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'ki'?",
+    "options": [
+      "ಕೊ",
+      "ಕಿ",
+      "ಕೆ",
+      "ಕು"
+    ],
+    "answer": "ಕಿ"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'ku'?",
+    "options": [
+      "ಗಿ",
+      "ಕು",
+      "ಕೊ",
+      "ಕೆ"
+    ],
+    "answer": "ಕು"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'ke'?",
+    "options": [
+      "ಗಿ",
+      "ಕೆ",
+      "ಗು",
+      "ಕೊ"
+    ],
+    "answer": "ಕೆ"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'ko'?",
+    "options": [
+      "ಗೆ",
+      "ಗಿ",
+      "ಗು",
+      "ಕೊ"
+    ],
+    "answer": "ಕೊ"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'gi'?",
+    "options": [
+      "ಗಿ",
+      "ಗೆ",
+      "ಗು",
+      "ಗೊ"
+    ],
+    "answer": "ಗಿ"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'gu'?",
+    "options": [
+      "ಚಿ",
+      "ಗು",
+      "ಗೆ",
+      "ಗೊ"
+    ],
+    "answer": "ಗು"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'ge'?",
+    "options": [
+      "ಚು",
+      "ಚಿ",
+      "ಗೆ",
+      "ಗೊ"
+    ],
+    "answer": "ಗೆ"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'go'?",
+    "options": [
+      "ಗೊ",
+      "ಕಿ",
+      "ಚಿ",
+      "ಚು"
+    ],
+    "answer": "ಗೊ"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'chi'?",
+    "options": [
+      "ಚು",
+      "ಕಿ",
+      "ಕು",
+      "ಚಿ"
+    ],
+    "answer": "ಚಿ"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Kannada syllable for 'chu'?",
+    "options": [
+      "ಕೆ",
+      "ಚು",
+      "ಕು",
+      "ಕಿ"
+    ],
+    "answer": "ಚು"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'ksha'?",
+    "options": [
+      "ಕ್ಷ",
+      "ಜ್ಞ",
+      "ಶ್ರ",
+      "ತ್ರ"
+    ],
+    "answer": "ಕ್ಷ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'tra'?",
+    "options": [
+      "ಕ್ರ",
+      "ತ್ರ",
+      "ಶ್ರ",
+      "ಜ್ಞ"
+    ],
+    "answer": "ತ್ರ"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'jna'?",
+    "options": [
+      "ಕ್ರ",
+      "ಪ್ರ",
+      "ಜ್ಞ",
+      "ಶ್ರ"
+    ],
+    "answer": "ಜ್ಞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'shra'?",
+    "options": [
+      "ಕ್ರ",
+      "ಸ್ರ",
+      "ಶ್ರ",
+      "ಪ್ರ"
+    ],
+    "answer": "ಶ್ರ"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'kra'?",
+    "options": [
+      "ಗ್ರ",
+      "ಸ್ರ",
+      "ಕ್ರ",
+      "ಪ್ರ"
+    ],
+    "answer": "ಕ್ರ"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'pra'?",
+    "options": [
+      "ಪ್ರ",
+      "ಸ್ರ",
+      "ದ್ರ",
+      "ಗ್ರ"
+    ],
+    "answer": "ಪ್ರ"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'sra'?",
+    "options": [
+      "ಗ್ರ",
+      "ಸ್ರ",
+      "ದ್ರ",
+      "ನ್ತ"
+    ],
+    "answer": "ಸ್ರ"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'gra'?",
+    "options": [
+      "ಗ್ರ",
+      "ಕ್ಷ",
+      "ನ್ತ",
+      "ದ್ರ"
+    ],
+    "answer": "ಗ್ರ"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'dra'?",
+    "options": [
+      "ನ್ತ",
+      "ದ್ರ",
+      "ಕ್ಷ",
+      "ತ್ರ"
+    ],
+    "answer": "ದ್ರ"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Kannada ligature for 'nta'?",
+    "options": [
+      "ಕ್ಷ",
+      "ನ್ತ",
+      "ತ್ರ",
+      "ಜ್ಞ"
+    ],
+    "answer": "ನ್ತ"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'sha'?",
+    "options": [
+      "ಸ",
+      "ಶ",
+      "ಲ",
+      "ಹ"
+    ],
+    "answer": "ಶ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'sa'?",
+    "options": [
+      "ಲ",
+      "ರ",
+      "ಹ",
+      "ಸ"
+    ],
+    "answer": "ಸ"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'ha'?",
+    "options": [
+      "ಹ",
+      "ಲ",
+      "ರ",
+      "ವ"
+    ],
+    "answer": "ಹ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'la'?",
+    "options": [
+      "ವ",
+      "ಲ",
+      "ರ",
+      "ಯ"
+    ],
+    "answer": "ಲ"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'ra'?",
+    "options": [
+      "ಫ",
+      "ವ",
+      "ರ",
+      "ಯ"
+    ],
+    "answer": "ರ"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'va'?",
+    "options": [
+      "ವ",
+      "ಜ",
+      "ಯ",
+      "ಫ"
+    ],
+    "answer": "ವ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'ya'?",
+    "options": [
+      "ಯ",
+      "ಕ್ವ",
+      "ಜ",
+      "ಫ"
+    ],
+    "answer": "ಯ"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'fa'?",
+    "options": [
+      "ಶ",
+      "ಕ್ವ",
+      "ಫ",
+      "ಜ"
+    ],
+    "answer": "ಫ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'za'?",
+    "options": [
+      "ಕ್ವ",
+      "ಸ",
+      "ಜ",
+      "ಶ"
+    ],
+    "answer": "ಜ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Kannada letter for 'qwa'?",
+    "options": [
+      "ಶ",
+      "ಹ",
+      "ಸ",
+      "ಕ್ವ"
+    ],
+    "answer": "ಕ್ವ"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಕ್ಷೀರ'?",
+    "options": [
+      "ಕ್ಷ",
+      "ತ್ರ",
+      "ಶ್ರ",
+      "ಜ್ಞ"
+    ],
+    "answer": "ಕ್ಷ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಜ್ಞಾನ'?",
+    "options": [
+      "ಗ್ರ",
+      "ತ್ರ",
+      "ಜ್ಞ",
+      "ಶ್ರ"
+    ],
+    "answer": "ಜ್ಞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ತ್ರಯ'?",
+    "options": [
+      "ಪ್ರ",
+      "ಗ್ರ",
+      "ತ್ರ",
+      "ಶ್ರ"
+    ],
+    "answer": "ತ್ರ"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಶ್ರದ್ಧೆ'?",
+    "options": [
+      "ಪ್ರ",
+      "ಗ್ರ",
+      "ಶ್ರ",
+      "ಸ್ರ"
+    ],
+    "answer": "ಶ್ರ"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಗ್ರಂಥ'?",
+    "options": [
+      "ಸ್ರ",
+      "ದ್ರ",
+      "ಗ್ರ",
+      "ಪ್ರ"
+    ],
+    "answer": "ಗ್ರ"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಪ್ರಯತ್ನ'?",
+    "options": [
+      "ಸ್ರ",
+      "ಫ",
+      "ದ್ರ",
+      "ಪ್ರ"
+    ],
+    "answer": "ಪ್ರ"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಸ್ರೋತಸ್ಸು'?",
+    "options": [
+      "ಫ",
+      "ಹ",
+      "ದ್ರ",
+      "ಸ್ರ"
+    ],
+    "answer": "ಸ್ರ"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ದ್ರವ್ಯ'?",
+    "options": [
+      "ಹ",
+      "ದ್ರ",
+      "ಫ",
+      "ಕ್ಷ"
+    ],
+    "answer": "ದ್ರ"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಫಲ'?",
+    "options": [
+      "ಕ್ಷ",
+      "ಹ",
+      "ಜ್ಞ",
+      "ಫ"
+    ],
+    "answer": "ಫ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Kannada letter is used in the word 'ಹರಿದ್ವಾರ'?",
+    "options": [
+      "ಜ್ಞ",
+      "ತ್ರ",
+      "ಕ್ಷ",
+      "ಹ"
+    ],
+    "answer": "ಹ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Sunday'?",
+    "options": [
+      "ಭಾನುವಾರ",
+      "ಬುಧವಾರ",
+      "ಮಂಗಳವಾರ",
+      "ಸೋಮವಾರ"
+    ],
+    "answer": "ಭಾನುವಾರ"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Monday'?",
+    "options": [
+      "ಮಂಗಳವಾರ",
+      "ಬುಧವಾರ",
+      "ಸೋಮವಾರ",
+      "ಗುರುವಾರ"
+    ],
+    "answer": "ಸೋಮವಾರ"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Tuesday'?",
+    "options": [
+      "ಗುರುವಾರ",
+      "ಬುಧವಾರ",
+      "ಮಂಗಳವಾರ",
+      "ಶುಕ್ರವಾರ"
+    ],
+    "answer": "ಮಂಗಳವಾರ"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Wednesday'?",
+    "options": [
+      "ಶುಕ್ರವಾರ",
+      "ಶನಿವಾರ",
+      "ಬುಧವಾರ",
+      "ಗುರುವಾರ"
+    ],
+    "answer": "ಬುಧವಾರ"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Thursday'?",
+    "options": [
+      "ಶುಕ್ರವಾರ",
+      "ಇಂದು",
+      "ಗುರುವಾರ",
+      "ಶನಿವಾರ"
+    ],
+    "answer": "ಗುರುವಾರ"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Friday'?",
+    "options": [
+      "ಶುಕ್ರವಾರ",
+      "ನಾಳೆ",
+      "ಶನಿವಾರ",
+      "ಇಂದು"
+    ],
+    "answer": "ಶುಕ್ರವಾರ"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Saturday'?",
+    "options": [
+      "ನಿನ್ನೆ",
+      "ಇಂದು",
+      "ನಾಳೆ",
+      "ಶನಿವಾರ"
+    ],
+    "answer": "ಶನಿವಾರ"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Today'?",
+    "options": [
+      "ಇಂದು",
+      "ಭಾನುವಾರ",
+      "ನಿನ್ನೆ",
+      "ನಾಳೆ"
+    ],
+    "answer": "ಇಂದು"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Tomorrow'?",
+    "options": [
+      "ಭಾನುವಾರ",
+      "ನಾಳೆ",
+      "ನಿನ್ನೆ",
+      "ಸೋಮವಾರ"
+    ],
+    "answer": "ನಾಳೆ"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Kannada word for 'Yesterday'?",
+    "options": [
+      "ಭಾನುವಾರ",
+      "ಮಂಗಳವಾರ",
+      "ಸೋಮವಾರ",
+      "ನಿನ್ನೆ"
+    ],
+    "answer": "ನಿನ್ನೆ"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'red'?",
+    "options": [
+      "ಕೆಂಪು",
+      "ಹಳದಿ",
+      "ನೀಲಿ",
+      "ಹಸಿರು"
+    ],
+    "answer": "ಕೆಂಪು"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'blue'?",
+    "options": [
+      "ಕಪ್ಪು",
+      "ನೀಲಿ",
+      "ಹಳದಿ",
+      "ಹಸಿರು"
+    ],
+    "answer": "ನೀಲಿ"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'green'?",
+    "options": [
+      "ಕಪ್ಪು",
+      "ಹಸಿರು",
+      "ಬಿಳಿ",
+      "ಹಳದಿ"
+    ],
+    "answer": "ಹಸಿರು"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'yellow'?",
+    "options": [
+      "ಹಳದಿ",
+      "ಕಿತ್ತಳೆ",
+      "ಕಪ್ಪು",
+      "ಬಿಳಿ"
+    ],
+    "answer": "ಹಳದಿ"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'black'?",
+    "options": [
+      "ಕಿತ್ತಳೆ",
+      "ಗುಲಾಬಿ",
+      "ಕಪ್ಪು",
+      "ಬಿಳಿ"
+    ],
+    "answer": "ಕಪ್ಪು"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'white'?",
+    "options": [
+      "ಗುಲಾಬಿ",
+      "ಕಿತ್ತಳೆ",
+      "ನೇರಳೆ",
+      "ಬಿಳಿ"
+    ],
+    "answer": "ಬಿಳಿ"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'orange'?",
+    "options": [
+      "ಕಿತ್ತಳೆ",
+      "ಗುಲಾಬಿ",
+      "ಕಂದು",
+      "ನೇರಳೆ"
+    ],
+    "answer": "ಕಿತ್ತಳೆ"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'pink'?",
+    "options": [
+      "ನೇರಳೆ",
+      "ಗುಲಾಬಿ",
+      "ಕೆಂಪು",
+      "ಕಂದು"
+    ],
+    "answer": "ಗುಲಾಬಿ"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'purple'?",
+    "options": [
+      "ನೇರಳೆ",
+      "ಕೆಂಪು",
+      "ಕಂದು",
+      "ನೀಲಿ"
+    ],
+    "answer": "ನೇರಳೆ"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Kannada word for 'brown'?",
+    "options": [
+      "ಹಸಿರು",
+      "ಕೆಂಪು",
+      "ಕಂದು",
+      "ನೀಲಿ"
+    ],
+    "answer": "ಕಂದು"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'one'?",
+    "options": [
+      "ಎರಡು",
+      "ನಾಲ್ಕು",
+      "ಒಂದು",
+      "ಮೂರು"
+    ],
+    "answer": "ಒಂದು"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'two'?",
+    "options": [
+      "ಐದು",
+      "ಎರಡು",
+      "ನಾಲ್ಕು",
+      "ಮೂರು"
+    ],
+    "answer": "ಎರಡು"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'three'?",
+    "options": [
+      "ಮೂರು",
+      "ಐದು",
+      "ಆರು",
+      "ನಾಲ್ಕು"
+    ],
+    "answer": "ಮೂರು"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'four'?",
+    "options": [
+      "ಐದು",
+      "ಆರು",
+      "ನಾಲ್ಕು",
+      "ಏಳು"
+    ],
+    "answer": "ನಾಲ್ಕು"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'five'?",
+    "options": [
+      "ಎಂಟು",
+      "ಐದು",
+      "ಏಳು",
+      "ಆರು"
+    ],
+    "answer": "ಐದು"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'six'?",
+    "options": [
+      "ಒಂಬತ್ತು",
+      "ಎಂಟು",
+      "ಏಳು",
+      "ಆರು"
+    ],
+    "answer": "ಆರು"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'seven'?",
+    "options": [
+      "ಒಂಬತ್ತು",
+      "ಏಳು",
+      "ಎಂಟು",
+      "ಹತ್ತು"
+    ],
+    "answer": "ಏಳು"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'eight'?",
+    "options": [
+      "ಒಂದು",
+      "ಹತ್ತು",
+      "ಒಂಬತ್ತು",
+      "ಎಂಟು"
+    ],
+    "answer": "ಎಂಟು"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'nine'?",
+    "options": [
+      "ಒಂದು",
+      "ಒಂಬತ್ತು",
+      "ಹತ್ತು",
+      "ಎರಡು"
+    ],
+    "answer": "ಒಂಬತ್ತು"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Kannada word for 'ten'?",
+    "options": [
+      "ಒಂದು",
+      "ಎರಡು",
+      "ಹತ್ತು",
+      "ಮೂರು"
+    ],
+    "answer": "ಹತ್ತು"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'breakfast'?",
+    "options": [
+      "ಬೆಳಗಿನ ಊಟ",
+      "ರಾತ್ರಿಯ ಊಟ",
+      "ತಿಂಡಿ",
+      "ಮಧ್ಯಾಹ್ನದ ಊಟ"
+    ],
+    "answer": "ಬೆಳಗಿನ ಊಟ"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'lunch'?",
+    "options": [
+      "ರಾತ್ರಿಯ ಊಟ",
+      "ಸಿಹಿತಿಂಡಿ",
+      "ತಿಂಡಿ",
+      "ಮಧ್ಯಾಹ್ನದ ಊಟ"
+    ],
+    "answer": "ಮಧ್ಯಾಹ್ನದ ಊಟ"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'dinner'?",
+    "options": [
+      "ರಾತ್ರಿಯ ಊಟ",
+      "ತಿಂಡಿ",
+      "ಖಾರ",
+      "ಸಿಹಿತಿಂಡಿ"
+    ],
+    "answer": "ರಾತ್ರಿಯ ಊಟ"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'snacks'?",
+    "options": [
+      "ತಿಂಡಿ",
+      "ಖಾರ",
+      "ಸಸ್ಯಾಹಾರಿ",
+      "ಸಿಹಿತಿಂಡಿ"
+    ],
+    "answer": "ತಿಂಡಿ"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'sweets'?",
+    "options": [
+      "ಖಾರ",
+      "ಮಾಂಸಾಹಾರಿ",
+      "ಸಸ್ಯಾಹಾರಿ",
+      "ಸಿಹಿತಿಂಡಿ"
+    ],
+    "answer": "ಸಿಹಿತಿಂಡಿ"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'spicy'?",
+    "options": [
+      "ಖಾರ",
+      "ಸಸ್ಯಾಹಾರಿ",
+      "ರಸ",
+      "ಮಾಂಸಾಹಾರಿ"
+    ],
+    "answer": "ಖಾರ"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'vegetarian'?",
+    "options": [
+      "ರಸ",
+      "ಸಸ್ಯಾಹಾರಿ",
+      "ಕಾಫಿ",
+      "ಮಾಂಸಾಹಾರಿ"
+    ],
+    "answer": "ಸಸ್ಯಾಹಾರಿ"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'non-vegetarian'?",
+    "options": [
+      "ರಸ",
+      "ಮಾಂಸಾಹಾರಿ",
+      "ಬೆಳಗಿನ ಊಟ",
+      "ಕಾಫಿ"
+    ],
+    "answer": "ಮಾಂಸಾಹಾರಿ"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'juice'?",
+    "options": [
+      "ರಸ",
+      "ಬೆಳಗಿನ ಊಟ",
+      "ಕಾಫಿ",
+      "ಮಧ್ಯಾಹ್ನದ ಊಟ"
+    ],
+    "answer": "ರಸ"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Kannada word for 'coffee'?",
+    "options": [
+      "ಮಧ್ಯಾಹ್ನದ ಊಟ",
+      "ಬೆಳಗಿನ ಊಟ",
+      "ಕಾಫಿ",
+      "ರಾತ್ರಿಯ ಊಟ"
+    ],
+    "answer": "ಕಾಫಿ"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Kannada?",
+    "options": [
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?"
+    ],
+    "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Kannada?",
+    "options": [
+      "ನೀವು ಕನ್ನಡ ಮಾತನಾಡುತ್ತೀರಾ?",
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?"
+    ],
+    "answer": "ನಿಮ್ಮ ಹೆಸರೇನು?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Kannada?",
+    "options": [
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+      "ನೀವು ಕನ್ನಡ ಮಾತನಾಡುತ್ತೀರಾ?",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?",
+      "ನಾನು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ?"
+    ],
+    "answer": "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Kannada?",
+    "options": [
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?",
+      "ನೀವು ಕನ್ನಡ ಮಾತನಾಡುತ್ತೀರಾ?",
+      "ನಾನು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ?",
+      "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?"
+    ],
+    "answer": "ನಿಮ್ಮ ವಯಸ್ಸೆಷ್ಟು?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Kannada?' in Kannada?",
+    "options": [
+      "ನಾನು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ?",
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?",
+      "ನೀವು ಕನ್ನಡ ಮಾತನಾಡುತ್ತೀರಾ?",
+      "ಇದು ಎಷ್ಟು?"
+    ],
+    "answer": "ನೀವು ಕನ್ನಡ ಮಾತನಾಡುತ್ತೀರಾ?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Kannada?",
+    "options": [
+      "ಈಗ ಎಷ್ಟು ಸಮಯ?",
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?",
+      "ಇದು ಎಷ್ಟು?",
+      "ನಾನು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ?"
+    ],
+    "answer": "ನಾನು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Kannada?",
+    "options": [
+      "ಇದು ಎಷ್ಟು?",
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?",
+      "ಈಗ ಎಷ್ಟು ಸಮಯ?",
+      "ನೀವು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತೀರಿ?"
+    ],
+    "answer": "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Kannada?",
+    "options": [
+      "ಈಗ ಎಷ್ಟು ಸಮಯ?",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಇದು ಎಷ್ಟು?",
+      "ನೀವು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತೀರಿ?"
+    ],
+    "answer": "ಇದು ಎಷ್ಟು?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Kannada?",
+    "options": [
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಈಗ ಎಷ್ಟು ಸಮಯ?",
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನೀವು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತೀರಿ?"
+    ],
+    "answer": "ಈಗ ಎಷ್ಟು ಸಮಯ?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Kannada?",
+    "options": [
+      "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಿ?",
+      "ನೀವು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತೀರಿ?",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?"
+    ],
+    "answer": "ನೀವು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತೀರಿ?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಕಾಯಿರಿ",
+      "ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ",
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "ದಯವಿಟ್ಟು ಇಲ್ಲಿ ಬನ್ನಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಕಾಯಿರಿ",
+      "ದಯವಿಟ್ಟು ಇಲ್ಲಿ ಬನ್ನಿ",
+      "ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ",
+      "ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಕಾಯಿರಿ"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಬರೆಯಿರಿ",
+      "ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ",
+      "ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ",
+      "ದಯವಿಟ್ಟು ಇಲ್ಲಿ ಬನ್ನಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಇಲ್ಲಿ ಬನ್ನಿ"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ",
+      "ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ",
+      "ದಯವಿಟ್ಟು ಮತ್ತೆ ಹೇಳಿ",
+      "ದಯವಿಟ್ಟು ಬರೆಯಿರಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಬರೆಯಿರಿ",
+      "ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ",
+      "ದಯವಿಟ್ಟು ಮತ್ತೆ ಹೇಳಿ",
+      "ದಯವಿಟ್ಟು ನನಗೆ ತೋರಿಸಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ನನಗೆ ತೋರಿಸಿ",
+      "ದಯವಿಟ್ಟು ಮತ್ತೆ ಹೇಳಿ",
+      "ದಯವಿಟ್ಟು ಬಾಗಿಲು ತೆರೆಯಿರಿ",
+      "ದಯವಿಟ್ಟು ಬರೆಯಿರಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಬರೆಯಿರಿ"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಬಾಗಿಲು ತೆರೆಯಿರಿ",
+      "ದಯವಿಟ್ಟು ಕಿಟಕಿ ಮುಚ್ಚಿರಿ",
+      "ದಯವಿಟ್ಟು ನನಗೆ ತೋರಿಸಿ",
+      "ದಯವಿಟ್ಟು ಮತ್ತೆ ಹೇಳಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಮತ್ತೆ ಹೇಳಿ"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಬಾಗಿಲು ತೆರೆಯಿರಿ",
+      "ದಯವಿಟ್ಟು ನನಗೆ ತೋರಿಸಿ",
+      "ದಯವಿಟ್ಟು ಕಿಟಕಿ ಮುಚ್ಚಿರಿ",
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ನನಗೆ ತೋರಿಸಿ"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "ದಯವಿಟ್ಟು ಕಿಟಕಿ ಮುಚ್ಚಿರಿ",
+      "ದಯವಿಟ್ಟು ಕಾಯಿರಿ",
+      "ದಯವಿಟ್ಟು ಬಾಗಿಲು ತೆರೆಯಿರಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಬಾಗಿಲು ತೆರೆಯಿರಿ"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "ದಯವಿಟ್ಟು ಕಾಯಿರಿ",
+      "ದಯವಿಟ್ಟು ಕಿಟಕಿ ಮುಚ್ಚಿರಿ",
+      "ದಯವಿಟ್ಟು ಇಲ್ಲಿ ಬನ್ನಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಕಿಟಕಿ ಮುಚ್ಚಿರಿ"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Kannada?",
+    "options": [
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?",
+      "ಇದು ಎಷ್ಟು?",
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?"
+    ],
+    "answer": "ಇದು ಎಷ್ಟು?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Kannada?",
+    "options": [
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?"
+    ],
+    "answer": "ರಿಯಾಯಿತಿ ಇದೆಯೇ?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Kannada?",
+    "options": [
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?"
+    ],
+    "answer": "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Kannada?",
+    "options": [
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?"
+    ],
+    "answer": "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ",
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?"
+    ],
+    "answer": "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Kannada?",
+    "options": [
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?",
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ",
+      "ನನಗೆ ಚೀಲ ಬೇಕು"
+    ],
+    "answer": "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Kannada?",
+    "options": [
+      "ನನಗೆ ಚೀಲ ಬೇಕು",
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ",
+      "ಸಮಯ ಏನು?",
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?"
+    ],
+    "answer": "ಇದು ಲಭ್ಯವಿದೆಯೇ?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Kannada?",
+    "options": [
+      "ಸಮಯ ಏನು?",
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ",
+      "ಇದು ಎಷ್ಟು?",
+      "ನನಗೆ ಚೀಲ ಬೇಕು"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Kannada?",
+    "options": [
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?",
+      "ಇದು ಎಷ್ಟು?",
+      "ಸಮಯ ಏನು?",
+      "ನನಗೆ ಚೀಲ ಬೇಕು"
+    ],
+    "answer": "ನನಗೆ ಚೀಲ ಬೇಕು"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Kannada?",
+    "options": [
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?",
+      "ಸಮಯ ಏನು?",
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+      "ಇದು ಎಷ್ಟು?"
+    ],
+    "answer": "ಸಮಯ ಏನು?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Kannada?",
+    "options": [
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ದಾರಿ?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?",
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?"
+    ],
+    "answer": "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Kannada?",
+    "options": [
+      "ಎಡಕ್ಕೆ ತಿರುಗಿ",
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?",
+      "ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ದಾರಿ?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?"
+    ],
+    "answer": "ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Kannada?",
+    "options": [
+      "ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ದಾರಿ?",
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?",
+      "ಎಡಕ್ಕೆ ತಿರುಗಿ",
+      "ಬಲಕ್ಕೆ ತಿರುಗಿ"
+    ],
+    "answer": "ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ದಾರಿ?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Kannada?",
+    "options": [
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?",
+      "ಬಲಕ್ಕೆ ತಿರುಗಿ",
+      "ನೇರವಾಗಿ ಹೋಗಿ",
+      "ಎಡಕ್ಕೆ ತಿರುಗಿ"
+    ],
+    "answer": "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Kannada?",
+    "options": [
+      "ನೇರವಾಗಿ ಹೋಗಿ",
+      "ಎಡಕ್ಕೆ ತಿರುಗಿ",
+      "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ",
+      "ಬಲಕ್ಕೆ ತಿರುಗಿ"
+    ],
+    "answer": "ಎಡಕ್ಕೆ ತಿರುಗಿ"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Kannada?",
+    "options": [
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?",
+      "ನೇರವಾಗಿ ಹೋಗಿ",
+      "ಬಲಕ್ಕೆ ತಿರುಗಿ",
+      "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ"
+    ],
+    "answer": "ಬಲಕ್ಕೆ ತಿರುಗಿ"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Kannada?",
+    "options": [
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?",
+      "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ",
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?",
+      "ನೇರವಾಗಿ ಹೋಗಿ"
+    ],
+    "answer": "ನೇರವಾಗಿ ಹೋಗಿ"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Kannada?",
+    "options": [
+      "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ",
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?",
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "answer": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Kannada?",
+    "options": [
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?",
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?"
+    ],
+    "answer": "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Kannada",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Kannada?",
+    "options": [
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?",
+      "ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ದಾರಿ?",
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?"
+    ],
+    "answer": "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'go'?",
+    "options": [
+      "ತಿಂದೆ",
+      "ಓದಿದೆ",
+      "ಹೋದೆ",
+      "ನೋಡಿದೆ"
+    ],
+    "answer": "ಹೋದೆ"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'eat'?",
+    "options": [
+      "ತಿಂದೆ",
+      "ಬರೆದೆ",
+      "ಓದಿದೆ",
+      "ನೋಡಿದೆ"
+    ],
+    "answer": "ತಿಂದೆ"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'see'?",
+    "options": [
+      "ಬಂದೆ",
+      "ಓದಿದೆ",
+      "ಬರೆದೆ",
+      "ನೋಡಿದೆ"
+    ],
+    "answer": "ನೋಡಿದೆ"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'read'?",
+    "options": [
+      "ಬರೆದೆ",
+      "ಕೊಟ್ಟೆ",
+      "ಓದಿದೆ",
+      "ಬಂದೆ"
+    ],
+    "answer": "ಓದಿದೆ"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'write'?",
+    "options": [
+      "ಬಂದೆ",
+      "ಬರೆದೆ",
+      "ಕೊಟ್ಟೆ",
+      "ತೆಗೆದುಕೊಂಡೆ"
+    ],
+    "answer": "ಬರೆದೆ"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'come'?",
+    "options": [
+      "ತೆಗೆದುಕೊಂಡೆ",
+      "ಕೊಟ್ಟೆ",
+      "ಬಂದೆ",
+      "ಆಡಿದೆ"
+    ],
+    "answer": "ಬಂದೆ"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'give'?",
+    "options": [
+      "ತೆಗೆದುಕೊಂಡೆ",
+      "ಕೊಟ್ಟೆ",
+      "ಆಡಿದೆ",
+      "ಮಲಗಿದೆ"
+    ],
+    "answer": "ಕೊಟ್ಟೆ"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'take'?",
+    "options": [
+      "ಹೋದೆ",
+      "ತೆಗೆದುಕೊಂಡೆ",
+      "ಆಡಿದೆ",
+      "ಮಲಗಿದೆ"
+    ],
+    "answer": "ತೆಗೆದುಕೊಂಡೆ"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'play'?",
+    "options": [
+      "ಆಡಿದೆ",
+      "ಮಲಗಿದೆ",
+      "ತಿಂದೆ",
+      "ಹೋದೆ"
+    ],
+    "answer": "ಆಡಿದೆ"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Kannada past tense of 'sleep'?",
+    "options": [
+      "ತಿಂದೆ",
+      "ಹೋದೆ",
+      "ನೋಡಿದೆ",
+      "ಮಲಗಿದೆ"
+    ],
+    "answer": "ಮಲಗಿದೆ"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'book'?",
+    "options": [
+      "ಪುಸ್ತಕಗಳು",
+      "ಹುಡುಗರು",
+      "ಹುಡುಗಿಯರು",
+      "ಲೇಖನಿಗಳು"
+    ],
+    "answer": "ಪುಸ್ತಕಗಳು"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'pen'?",
+    "options": [
+      "ಲೇಖನಿಗಳು",
+      "ಹೂವುಗಳು",
+      "ಹುಡುಗಿಯರು",
+      "ಹುಡುಗರು"
+    ],
+    "answer": "ಲೇಖನಿಗಳು"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'boy'?",
+    "options": [
+      "ಹುಡುಗರು",
+      "ಎಲೆಗಳು",
+      "ಹುಡುಗಿಯರು",
+      "ಹೂವುಗಳು"
+    ],
+    "answer": "ಹುಡುಗರು"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'girl'?",
+    "options": [
+      "ನಕ್ಷತ್ರಗಳು",
+      "ಎಲೆಗಳು",
+      "ಹೂವುಗಳು",
+      "ಹುಡುಗಿಯರು"
+    ],
+    "answer": "ಹುಡುಗಿಯರು"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'flower'?",
+    "options": [
+      "ಎಲೆಗಳು",
+      "ಹೂವುಗಳು",
+      "ನಕ್ಷತ್ರಗಳು",
+      "ಮರಗಳು"
+    ],
+    "answer": "ಹೂವುಗಳು"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'leaf'?",
+    "options": [
+      "ನದಿಗಳು",
+      "ನಕ್ಷತ್ರಗಳು",
+      "ಮರಗಳು",
+      "ಎಲೆಗಳು"
+    ],
+    "answer": "ಎಲೆಗಳು"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'star'?",
+    "options": [
+      "ಮರಗಳು",
+      "ಕುರ್ಚಿಗಳು",
+      "ನಕ್ಷತ್ರಗಳು",
+      "ನದಿಗಳು"
+    ],
+    "answer": "ನಕ್ಷತ್ರಗಳು"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'tree'?",
+    "options": [
+      "ಕುರ್ಚಿಗಳು",
+      "ಪುಸ್ತಕಗಳು",
+      "ನದಿಗಳು",
+      "ಮರಗಳು"
+    ],
+    "answer": "ಮರಗಳು"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'river'?",
+    "options": [
+      "ಪುಸ್ತಕಗಳು",
+      "ಲೇಖನಿಗಳು",
+      "ಕುರ್ಚಿಗಳು",
+      "ನದಿಗಳು"
+    ],
+    "answer": "ನದಿಗಳು"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Kannada plural of 'chair'?",
+    "options": [
+      "ಲೇಖನಿಗಳು",
+      "ಹುಡುಗರು",
+      "ಕುರ್ಚಿಗಳು",
+      "ಪುಸ್ತಕಗಳು"
+    ],
+    "answer": "ಕುರ್ಚಿಗಳು"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'and'?",
+    "options": [
+      "ಏಕೆಂದರೆ",
+      "ಆದರೆ",
+      "ಅಥವಾ",
+      "ಮತ್ತು"
+    ],
+    "answer": "ಮತ್ತು"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'but'?",
+    "options": [
+      "ಏಕೆಂದರೆ",
+      "ಅಥವಾ",
+      "ಆದರೆ",
+      "ಒಂದುವೇಳೆ"
+    ],
+    "answer": "ಆದರೆ"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'or'?",
+    "options": [
+      "ಅಥವಾ",
+      "ಏಕೆಂದರೆ",
+      "ಒಂದುವೇಳೆ",
+      "ಯಾವಾಗ"
+    ],
+    "answer": "ಅಥವಾ"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'because'?",
+    "options": [
+      "ಯಾವಾಗ",
+      "ಒಂದುವೇಳೆ",
+      "ಏಕೆಂದರೆ",
+      "ಎಲ್ಲಿ"
+    ],
+    "answer": "ಏಕೆಂದರೆ"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'if'?",
+    "options": [
+      "ಎಲ್ಲಿ",
+      "ಹೇಗೆ",
+      "ಯಾವಾಗ",
+      "ಒಂದುವೇಳೆ"
+    ],
+    "answer": "ಒಂದುವೇಳೆ"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'when'?",
+    "options": [
+      "ಎಲ್ಲಿ",
+      "ಯಾವಾಗ",
+      "ಏಕೆ",
+      "ಹೇಗೆ"
+    ],
+    "answer": "ಯಾವಾಗ"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'where'?",
+    "options": [
+      "ಹೇಗೆ",
+      "ಜೊತೆ",
+      "ಎಲ್ಲಿ",
+      "ಏಕೆ"
+    ],
+    "answer": "ಎಲ್ಲಿ"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'how'?",
+    "options": [
+      "ಜೊತೆ",
+      "ಏಕೆ",
+      "ಹೇಗೆ",
+      "ಮತ್ತು"
+    ],
+    "answer": "ಹೇಗೆ"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'why'?",
+    "options": [
+      "ಮತ್ತು",
+      "ಜೊತೆ",
+      "ಏಕೆ",
+      "ಆದರೆ"
+    ],
+    "answer": "ಏಕೆ"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Kannada particle for 'with'?",
+    "options": [
+      "ಅಥವಾ",
+      "ಜೊತೆ",
+      "ಮತ್ತು",
+      "ಆದರೆ"
+    ],
+    "answer": "ಜೊತೆ"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Kannada?",
+    "options": [
+      "ಓದುತ್ತಿಲ್ಲ",
+      "ಹೋಗುತ್ತಿಲ್ಲ",
+      "ತಿನ್ನುತ್ತಿಲ್ಲ",
+      "ಬರುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ಹೋಗುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Kannada?",
+    "options": [
+      "ಓದುತ್ತಿಲ್ಲ",
+      "ಬರೆಯುತ್ತಿಲ್ಲ",
+      "ಬರುತ್ತಿಲ್ಲ",
+      "ತಿನ್ನುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ಬರುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Kannada?",
+    "options": [
+      "ಓದುತ್ತಿಲ್ಲ",
+      "ಆಡುತ್ತಿಲ್ಲ",
+      "ಬರೆಯುತ್ತಿಲ್ಲ",
+      "ತಿನ್ನುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ತಿನ್ನುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Kannada?",
+    "options": [
+      "ಮಲಗುತ್ತಿಲ್ಲ",
+      "ಬರೆಯುತ್ತಿಲ್ಲ",
+      "ಆಡುತ್ತಿಲ್ಲ",
+      "ಓದುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ಓದುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Kannada?",
+    "options": [
+      "ಬರೆಯುತ್ತಿಲ್ಲ",
+      "ಮಲಗುತ್ತಿಲ್ಲ",
+      "ಆಡುತ್ತಿಲ್ಲ",
+      "ನೋಡುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ಬರೆಯುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Kannada?",
+    "options": [
+      "ಮಲಗುತ್ತಿಲ್ಲ",
+      "ನೋಡುತ್ತಿಲ್ಲ",
+      "ಕೊಡುತ್ತಿಲ್ಲ",
+      "ಆಡುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ಆಡುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Kannada?",
+    "options": [
+      "ನೋಡುತ್ತಿಲ್ಲ",
+      "ಮಲಗುತ್ತಿಲ್ಲ",
+      "ಕೊಡುತ್ತಿಲ್ಲ",
+      "ತೆಗೆದುಕೊಳ್ಳುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ಮಲಗುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Kannada?",
+    "options": [
+      "ಹೋಗುತ್ತಿಲ್ಲ",
+      "ಕೊಡುತ್ತಿಲ್ಲ",
+      "ತೆಗೆದುಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "ನೋಡುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ನೋಡುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Kannada?",
+    "options": [
+      "ಕೊಡುತ್ತಿಲ್ಲ",
+      "ಬರುತ್ತಿಲ್ಲ",
+      "ಹೋಗುತ್ತಿಲ್ಲ",
+      "ತೆಗೆದುಕೊಳ್ಳುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ಕೊಡುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Kannada?",
+    "options": [
+      "ತಿನ್ನುತ್ತಿಲ್ಲ",
+      "ತೆಗೆದುಕೊಳ್ಳುತ್ತಿಲ್ಲ",
+      "ಹೋಗುತ್ತಿಲ್ಲ",
+      "ಬರುತ್ತಿಲ್ಲ"
+    ],
+    "answer": "ತೆಗೆದುಕೊಳ್ಳುತ್ತಿಲ್ಲ"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'apple'",
+    "options": [
+      "ನಾಯಿ",
+      "ಬೆಕ್ಕು",
+      "ಬಾಳೆಹಣ್ಣು",
+      "ಸೇಬು"
+    ],
+    "answer": "ಸೇಬು"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'banana'",
+    "options": [
+      "ಬೆಕ್ಕು",
+      "ಕಾರು",
+      "ನಾಯಿ",
+      "ಬಾಳೆಹಣ್ಣು"
+    ],
+    "answer": "ಬಾಳೆಹಣ್ಣು"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'cat'",
+    "options": [
+      "ಕಾರು",
+      "ಬೆಕ್ಕು",
+      "ನಾಯಿ",
+      "ಬಸ್"
+    ],
+    "answer": "ಬೆಕ್ಕು"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'dog'",
+    "options": [
+      "ಕಾರು",
+      "ರೈಲು",
+      "ಬಸ್",
+      "ನಾಯಿ"
+    ],
+    "answer": "ನಾಯಿ"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'car'",
+    "options": [
+      "ರೈಲು",
+      "ಮನೆ",
+      "ಬಸ್",
+      "ಕಾರು"
+    ],
+    "answer": "ಕಾರು"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'bus'",
+    "options": [
+      "ರೈಲು",
+      "ಬಸ್",
+      "ನಗರ",
+      "ಮನೆ"
+    ],
+    "answer": "ಬಸ್"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'train'",
+    "options": [
+      "ಗ್ರಾಮ",
+      "ಮನೆ",
+      "ನಗರ",
+      "ರೈಲು"
+    ],
+    "answer": "ರೈಲು"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'house'",
+    "options": [
+      "ಮನೆ",
+      "ಗ್ರಾಮ",
+      "ಸೇಬು",
+      "ನಗರ"
+    ],
+    "answer": "ಮನೆ"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'city'",
+    "options": [
+      "ಬಾಳೆಹಣ್ಣು",
+      "ನಗರ",
+      "ಗ್ರಾಮ",
+      "ಸೇಬು"
+    ],
+    "answer": "ನಗರ"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Kannada word for 'village'",
+    "options": [
+      "ಬಾಳೆಹಣ್ಣು",
+      "ಗ್ರಾಮ",
+      "ಸೇಬು",
+      "ಬೆಕ್ಕು"
+    ],
+    "answer": "ಗ್ರಾಮ"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Good morning'",
+    "options": [
+      "ಶುಭೋದಯ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಧನ್ಯವಾದ",
+      "ಕ್ಷಮಿಸಿ"
+    ],
+    "answer": "ಶುಭೋದಯ"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'How are you?'",
+    "options": [
+      "ಧನ್ಯವಾದ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಕ್ಷಮಿಸಿ",
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ"
+    ],
+    "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Thank you'",
+    "options": [
+      "ಕುಳಿತುಕೊಳ್ಳಿ",
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ",
+      "ಕ್ಷಮಿಸಿ",
+      "ಧನ್ಯವಾದ"
+    ],
+    "answer": "ಧನ್ಯವಾದ"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Sorry'",
+    "options": [
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ",
+      "ಕುಳಿತುಕೊಳ್ಳಿ",
+      "ಎದ್ದು ನಿಲ್ಲಿ",
+      "ಕ್ಷಮಿಸಿ"
+    ],
+    "answer": "ಕ್ಷಮಿಸಿ"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Please come in'",
+    "options": [
+      "ಎದ್ದು ನಿಲ್ಲಿ",
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ",
+      "ಮುಂದೆ ಹೋಗಿ",
+      "ಕುಳಿತುಕೊಳ್ಳಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Sit down'",
+    "options": [
+      "ಮುಂದೆ ಹೋಗಿ",
+      "ಚೆನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ",
+      "ಕುಳಿತುಕೊಳ್ಳಿ",
+      "ಎದ್ದು ನಿಲ್ಲಿ"
+    ],
+    "answer": "ಕುಳಿತುಕೊಳ್ಳಿ"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Stand up'",
+    "options": [
+      "ಅಭಿನಂದನೆಗಳು",
+      "ಮುಂದೆ ಹೋಗಿ",
+      "ಎದ್ದು ನಿಲ್ಲಿ",
+      "ಚೆನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ"
+    ],
+    "answer": "ಎದ್ದು ನಿಲ್ಲಿ"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Go ahead'",
+    "options": [
+      "ಅಭಿನಂದನೆಗಳು",
+      "ಮುಂದೆ ಹೋಗಿ",
+      "ಚೆನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ",
+      "ಶುಭೋದಯ"
+    ],
+    "answer": "ಮುಂದೆ ಹೋಗಿ"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Well done'",
+    "options": [
+      "ಚೆನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ",
+      "ಶುಭೋದಯ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಅಭಿನಂದನೆಗಳು"
+    ],
+    "answer": "ಚೆನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Kannada phrase for 'Congratulations'",
+    "options": [
+      "ಅಭಿನಂದನೆಗಳು",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ?",
+      "ಧನ್ಯವಾದ",
+      "ಶುಭೋದಯ"
+    ],
+    "answer": "ಅಭಿನಂದನೆಗಳು"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'I am going to school'",
+    "options": [
+      "ನಾವು ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದೇವೆ",
+      "ಅವಳು ಅನ್ನ ತಿನ್ನುತ್ತಿದ್ದಾಳೆ",
+      "ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "ಅವರು ಪುಸ್ತಕಗಳನ್ನು ಓದುತ್ತಿದ್ದಾರೆ"
+    ],
+    "answer": "ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'She is eating rice'",
+    "options": [
+      "ಅವರು ಪುಸ್ತಕಗಳನ್ನು ಓದುತ್ತಿದ್ದಾರೆ",
+      "ಅವಳು ಅನ್ನ ತಿನ್ನುತ್ತಿದ್ದಾಳೆ",
+      "ನಾವು ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದೇವೆ",
+      "ಅವನು ಪತ್ರ ಬರೆಯುತ್ತಿದ್ದಾನೆ"
+    ],
+    "answer": "ಅವಳು ಅನ್ನ ತಿನ್ನುತ್ತಿದ್ದಾಳೆ"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'We are playing cricket'",
+    "options": [
+      "ಅವರು ಪುಸ್ತಕಗಳನ್ನು ಓದುತ್ತಿದ್ದಾರೆ",
+      "ನೀವು ನನ್ನ ಸ್ನೇಹಿತ",
+      "ಅವನು ಪತ್ರ ಬರೆಯುತ್ತಿದ್ದಾನೆ",
+      "ನಾವು ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದೇವೆ"
+    ],
+    "answer": "ನಾವು ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದೇವೆ"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'They are reading books'",
+    "options": [
+      "ನೀವು ನನ್ನ ಸ್ನೇಹಿತ",
+      "ಅವರು ಪುಸ್ತಕಗಳನ್ನು ಓದುತ್ತಿದ್ದಾರೆ",
+      "ಈಗ ಮಳೆ ಬರುತ್ತಿದೆ",
+      "ಅವನು ಪತ್ರ ಬರೆಯುತ್ತಿದ್ದಾನೆ"
+    ],
+    "answer": "ಅವರು ಪುಸ್ತಕಗಳನ್ನು ಓದುತ್ತಿದ್ದಾರೆ"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'He is writing a letter'",
+    "options": [
+      "ನನಗೆ ಕನ್ನಡ ಇಷ್ಟ",
+      "ಈಗ ಮಳೆ ಬರುತ್ತಿದೆ",
+      "ನೀವು ನನ್ನ ಸ್ನೇಹಿತ",
+      "ಅವನು ಪತ್ರ ಬರೆಯುತ್ತಿದ್ದಾನೆ"
+    ],
+    "answer": "ಅವನು ಪತ್ರ ಬರೆಯುತ್ತಿದ್ದಾನೆ"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'You are my friend'",
+    "options": [
+      "ನನಗೆ ಕನ್ನಡ ಇಷ್ಟ",
+      "ಈಗ ಮಳೆ ಬರುತ್ತಿದೆ",
+      "ನೀವು ನನ್ನ ಸ್ನೇಹಿತ",
+      "ನಾವು ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತೇವೆ"
+    ],
+    "answer": "ನೀವು ನನ್ನ ಸ್ನೇಹಿತ"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'It is raining now'",
+    "options": [
+      "ನಾವು ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತೇವೆ",
+      "ಈಗ ಮಳೆ ಬರುತ್ತಿದೆ",
+      "ನನಗೆ ಕನ್ನಡ ಇಷ್ಟ",
+      "ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ"
+    ],
+    "answer": "ಈಗ ಮಳೆ ಬರುತ್ತಿದೆ"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'I like Kannada'",
+    "options": [
+      "ನಾವು ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತೇವೆ",
+      "ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ",
+      "ನನಗೆ ಕನ್ನಡ ಇಷ್ಟ"
+    ],
+    "answer": "ನನಗೆ ಕನ್ನಡ ಇಷ್ಟ"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'We live in Bangalore'",
+    "options": [
+      "ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ",
+      "ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "ಅವಳು ಅನ್ನ ತಿನ್ನುತ್ತಿದ್ದಾಳೆ",
+      "ನಾವು ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತೇವೆ"
+    ],
+    "answer": "ನಾವು ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತೇವೆ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Kannada sentence for 'She is singing a song'",
+    "options": [
+      "ನಾನು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ",
+      "ಅವಳು ಅನ್ನ ತಿನ್ನುತ್ತಿದ್ದಾಳೆ",
+      "ನಾವು ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದೇವೆ",
+      "ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ"
+    ],
+    "answer": "ಅವಳು ಹಾಡು ಹಾಡುತ್ತಿದ್ದಾಳೆ"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "ನೀವು ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡುತ್ತೀರಾ? - ಹೌದು, ಸ್ವಲ್ಪ",
+      "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಿ? - ಮಾರುಕಟ್ಟೆಗೆ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ? - ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+      "ನಿಮ್ಮ ಹೆಸರೇನು? - ನನ್ನ ಹೆಸರು ರವಿ"
+    ],
+    "answer": "ನೀವು ಹೇಗಿದ್ದೀರಿ? - ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "ನಿಮ್ಮ ಹೆಸರೇನು? - ನನ್ನ ಹೆಸರು ರವಿ",
+      "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಿ? - ಮಾರುಕಟ್ಟೆಗೆ",
+      "ನೀವು ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡುತ್ತೀರಾ? - ಹೌದು, ಸ್ವಲ್ಪ",
+      "ನೀವು ನನಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ? - ಖಂಡಿತ"
+    ],
+    "answer": "ನಿಮ್ಮ ಹೆಸರೇನು? - ನನ್ನ ಹೆಸರು ರವಿ"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಿ? - ಮಾರುಕಟ್ಟೆಗೆ",
+      "ನೀವು ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡುತ್ತೀರಾ? - ಹೌದು, ಸ್ವಲ್ಪ",
+      "ನೀವು ನನಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ? - ಖಂಡಿತ",
+      "ಈಗ ಎಷ್ಟು ಸಮಯ? - ಐದು ಗಂಟೆ"
+    ],
+    "answer": "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಿ? - ಮಾರುಕಟ್ಟೆಗೆ"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "ನೀವು ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡುತ್ತೀರಾ? - ಹೌದು, ಸ್ವಲ್ಪ",
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ? - ಅಲ್ಲಿ",
+      "ನೀವು ನನಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ? - ಖಂಡಿತ",
+      "ಈಗ ಎಷ್ಟು ಸಮಯ? - ಐದು ಗಂಟೆ"
+    ],
+    "answer": "ನೀವು ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡುತ್ತೀರಾ? - ಹೌದು, ಸ್ವಲ್ಪ"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "ಇದು ಎಷ್ಟು? - ಐವತ್ತು ರೂಪಾಯಿ",
+      "ಈಗ ಎಷ್ಟು ಸಮಯ? - ಐದು ಗಂಟೆ",
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ? - ಅಲ್ಲಿ",
+      "ನೀವು ನನಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ? - ಖಂಡಿತ"
+    ],
+    "answer": "ನೀವು ನನಗೆ ಸಹಾಯ ಮಾಡಬಹುದೇ? - ಖಂಡಿತ"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "ಇದು ಎಷ್ಟು? - ಐವತ್ತು ರೂಪಾಯಿ",
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ। - ಧನ್ಯವಾದ",
+      "ಈಗ ಎಷ್ಟು ಸಮಯ? - ಐದು ಗಂಟೆ",
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ? - ಅಲ್ಲಿ"
+    ],
+    "answer": "ಈಗ ಎಷ್ಟು ಸಮಯ? - ಐದು ಗಂಟೆ"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "ವಿದಾಯ। - ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ",
+      "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ? - ಅಲ್ಲಿ",
+      "ಇದು ಎಷ್ಟು? - ಐವತ್ತು ರೂಪಾಯಿ",
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ। - ಧನ್ಯವಾದ"
+    ],
+    "answer": "ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ? - ಅಲ್ಲಿ"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ? - ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+      "ಇದು ಎಷ್ಟು? - ಐವತ್ತು ರೂಪಾಯಿ",
+      "ವಿದಾಯ। - ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ",
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ। - ಧನ್ಯವಾದ"
+    ],
+    "answer": "ಇದು ಎಷ್ಟು? - ಐವತ್ತು ರೂಪಾಯಿ"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ। - ಧನ್ಯವಾದ",
+      "ನಿಮ್ಮ ಹೆಸರೇನು? - ನನ್ನ ಹೆಸರು ರವಿ",
+      "ವಿದಾಯ। - ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ? - ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ। - ಧನ್ಯವಾದ"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Kannada dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "ನಿಮ್ಮ ಹೆಸರೇನು? - ನನ್ನ ಹೆಸರು ರವಿ",
+      "ನೀವು ಹೇಗಿದ್ದೀರಿ? - ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+      "ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಿ? - ಮಾರುಕಟ್ಟೆಗೆ",
+      "ವಿದಾಯ। - ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ"
+    ],
+    "answer": "ವಿದಾಯ। - ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Kannada?",
+    "options": [
+      "ಇದು ಎಷ್ಟು?",
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?",
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ"
+    ],
+    "answer": "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Kannada?",
+    "options": [
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "ಇದು ಎಷ್ಟು?",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?"
+    ],
+    "answer": "ಇದು ಎಷ್ಟು?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ",
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?"
+    ],
+    "answer": "ರಿಯಾಯಿತಿ ಇದೆಯೇ?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Kannada?",
+    "options": [
+      "ನನಗೆ ಚೀಲ ಬೇಕು",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?",
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ"
+    ],
+    "answer": "ಕೌಂಟರ್ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Kannada?",
+    "options": [
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?",
+      "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?",
+      "ನನಗೆ ಚೀಲ ಬೇಕು",
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ"
+    ],
+    "answer": "ನೀವು ಕಾರ್ಡ್ ತೆಗೆದುಕೊಳ್ಳುತ್ತೀರಾ?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ",
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?",
+      "ಸಮಯ ಏನು?",
+      "ನನಗೆ ಚೀಲ ಬೇಕು"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ಇದನ್ನು ಪ್ಯಾಕ್ ಮಾಡಿ"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Kannada?",
+    "options": [
+      "ನನಗೆ ಚೀಲ ಬೇಕು",
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?",
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?",
+      "ಸಮಯ ಏನು?"
+    ],
+    "answer": "ನನಗೆ ಚೀಲ ಬೇಕು"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Kannada?",
+    "options": [
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+      "ಸಮಯ ಏನು?",
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?",
+      "ಇದು ಲಭ್ಯವಿದೆಯೇ?"
+    ],
+    "answer": "ಇದು ಲಭ್ಯವಿದೆಯೇ?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Kannada?",
+    "options": [
+      "ಇದು ಎಷ್ಟು?",
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?",
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+      "ಸಮಯ ಏನು?"
+    ],
+    "answer": "ಸಮಯ ಏನು?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Kannada?",
+    "options": [
+      "ನಾನು ಇದನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ",
+      "ಇದು ಎಷ್ಟು?",
+      "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?",
+      "ರಿಯಾಯಿತಿ ಇದೆಯೇ?"
+    ],
+    "answer": "ನಾನು ಇದನ್ನು ಪ್ರಯತ್ನಿಸಬಹುದೇ?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Kannada?",
+    "options": [
+      "ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?",
+      "ನಗರಕ್ಕೆ ಯಾವ ಬಸ್ ಹೋಗುತ್ತದೆ?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "answer": "ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Kannada?",
+    "options": [
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?",
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?",
+      "ನಗರಕ್ಕೆ ಯಾವ ಬಸ್ ಹೋಗುತ್ತದೆ?",
+      "ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?"
+    ],
+    "answer": "ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Kannada?",
+    "options": [
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?",
+      "ನಗರಕ್ಕೆ ಯಾವ ಬಸ್ ಹೋಗುತ್ತದೆ?",
+      "ಟ್ಯಾಕ್ಸಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "answer": "ನಗರಕ್ಕೆ ಯಾವ ಬಸ್ ಹೋಗುತ್ತದೆ?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Kannada?",
+    "options": [
+      "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?",
+      "ಹೋಟೆಲ್ ಎಲ್ಲಿದೆ?",
+      "ಟ್ಯಾಕ್ಸಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?"
+    ],
+    "answer": "ಎಷ್ಟು ಸಮಯ ಬೇಕಾಗುತ್ತದೆ?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Kannada?",
+    "options": [
+      "ಹೋಟೆಲ್ ಎಲ್ಲಿದೆ?",
+      "ಟ್ಯಾಕ್ಸಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+      "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?",
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?"
+    ],
+    "answer": "ಇಲ್ಲಿಂದ ದೂರವಿದೆಯೇ?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Kannada?",
+    "options": [
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?",
+      "ಟ್ಯಾಕ್ಸಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+      "ಹೋಟೆಲ್ ಎಲ್ಲಿದೆ?",
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?"
+    ],
+    "answer": "ಟ್ಯಾಕ್ಸಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Kannada?",
+    "options": [
+      "ನಾನು ದಾರಿ ತಪ್ಪಿದ್ದೇನೆ",
+      "ಹೋಟೆಲ್ ಎಲ್ಲಿದೆ?",
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?",
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?"
+    ],
+    "answer": "ಹೋಟೆಲ್ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Kannada?",
+    "options": [
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "ನಾನು ದಾರಿ ತಪ್ಪಿದ್ದೇನೆ",
+      "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?"
+    ],
+    "answer": "ನಕ್ಷೆಯಲ್ಲಿ ತೋರಿಸಬಹುದೇ?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Kannada?",
+    "options": [
+      "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?",
+      "ನಾನು ದಾರಿ ತಪ್ಪಿದ್ದೇನೆ",
+      "ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?"
+    ],
+    "answer": "ಸ್ನಾನಗೃಹ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Kannada?",
+    "options": [
+      "ನಗರಕ್ಕೆ ಯಾವ ಬಸ್ ಹೋಗುತ್ತದೆ?",
+      "ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗಬೇಕು?",
+      "ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "ನಾನು ದಾರಿ ತಪ್ಪಿದ್ದೇನೆ"
+    ],
+    "answer": "ನಾನು ದಾರಿ ತಪ್ಪಿದ್ದೇನೆ"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Kannada?",
+    "options": [
+      "ನನಗೆ ವೈದ್ಯರು ಬೇಕು",
+      "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?",
+      "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ",
+      "ನನಗೆ ಅನಾರೋಗ್ಯ"
+    ],
+    "answer": "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Kannada?",
+    "options": [
+      "ಸಹಾಯ!",
+      "ನನಗೆ ವೈದ್ಯರು ಬೇಕು",
+      "ನನಗೆ ಅನಾರೋಗ್ಯ",
+      "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?"
+    ],
+    "answer": "ನನಗೆ ವೈದ್ಯರು ಬೇಕು"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Kannada?",
+    "options": [
+      "ಸಹಾಯ!",
+      "ನನ್ನ ಕೈಚೀಲ ಕಳೆದುಹೋಗಿದೆ",
+      "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?",
+      "ನನಗೆ ಅನಾರೋಗ್ಯ"
+    ],
+    "answer": "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Kannada?",
+    "options": [
+      "ನನಗೆ ಅನಾರೋಗ್ಯ",
+      "ನನ್ನ ಕೈಚೀಲ ಕಳೆದುಹೋಗಿದೆ",
+      "ಸಹಾಯ!",
+      "ಬೆಂಕಿ ಇದೆ"
+    ],
+    "answer": "ನನಗೆ ಅನಾರೋಗ್ಯ"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Kannada?",
+    "options": [
+      "ಬೆಂಕಿ ಇದೆ",
+      "ಸಹಾಯ!",
+      "ನನ್ನ ಕೈಚೀಲ ಕಳೆದುಹೋಗಿದೆ",
+      "ನನಗೆ ಅಪಘಾತವಾಗಿದೆ"
+    ],
+    "answer": "ಸಹಾಯ!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Kannada?",
+    "options": [
+      "ಬೆಂಕಿ ಇದೆ",
+      "ನನಗೆ ನೋವಾಗಿದೆ",
+      "ನನಗೆ ಅಪಘಾತವಾಗಿದೆ",
+      "ನನ್ನ ಕೈಚೀಲ ಕಳೆದುಹೋಗಿದೆ"
+    ],
+    "answer": "ನನ್ನ ಕೈಚೀಲ ಕಳೆದುಹೋಗಿದೆ"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Kannada?",
+    "options": [
+      "ಬೆಂಕಿ ಇದೆ",
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "ನನಗೆ ನೋವಾಗಿದೆ",
+      "ನನಗೆ ಅಪಘಾತವಾಗಿದೆ"
+    ],
+    "answer": "ಬೆಂಕಿ ಇದೆ"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Kannada?",
+    "options": [
+      "ನನಗೆ ಅಪಘಾತವಾಗಿದೆ",
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ",
+      "ನನಗೆ ನೋವಾಗಿದೆ"
+    ],
+    "answer": "ನನಗೆ ಅಪಘಾತವಾಗಿದೆ"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "ನನಗೆ ನೋವಾಗಿದೆ",
+      "ನನಗೆ ವೈದ್ಯರು ಬೇಕು",
+      "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ"
+    ],
+    "answer": "ನನಗೆ ನೋವಾಗಿದೆ"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Kannada?",
+    "options": [
+      "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?",
+      "ನನಗೆ ವೈದ್ಯರು ಬೇಕು",
+      "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ"
+    ],
+    "answer": "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Kannada?",
+    "options": [
+      "ನಿಮ್ಮ ಯೋಜನೆಗಳೇನು?",
+      "ಸಿನಿಮಾಗೆ ಹೋಗೋಣ",
+      "ಇಂದು ಸಂಜೆ ನೀವು ಬಿಡುವಿದ್ದೀರಾ?",
+      "ನಾಳೆ ಭೇಟಿಯಾಗೋಣ"
+    ],
+    "answer": "ನಿಮ್ಮ ಯೋಜನೆಗಳೇನು?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Kannada?",
+    "options": [
+      "ನಾವು ಒಟ್ಟಿಗೆ ಊಟ ಮಾಡೋಣವೇ?",
+      "ಸಿನಿಮಾಗೆ ಹೋಗೋಣ",
+      "ನಾಳೆ ಭೇಟಿಯಾಗೋಣ",
+      "ಇಂದು ಸಂಜೆ ನೀವು ಬಿಡುವಿದ್ದೀರಾ?"
+    ],
+    "answer": "ನಾಳೆ ಭೇಟಿಯಾಗೋಣ"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Kannada?",
+    "options": [
+      "ಇಂದು ಸಂಜೆ ನೀವು ಬಿಡುವಿದ್ದೀರಾ?",
+      "ನಾವು ಒಟ್ಟಿಗೆ ಊಟ ಮಾಡೋಣವೇ?",
+      "ನೀವು ನಮ್ಮೊಂದಿಗೆ ಸೇರಬಹುದೇ?",
+      "ಸಿನಿಮಾಗೆ ಹೋಗೋಣ"
+    ],
+    "answer": "ಇಂದು ಸಂಜೆ ನೀವು ಬಿಡುವಿದ್ದೀರಾ?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Kannada?",
+    "options": [
+      "ಸಿನಿಮಾಗೆ ಹೋಗೋಣ",
+      "ನಾವು ಒಟ್ಟಿಗೆ ಊಟ ಮಾಡೋಣವೇ?",
+      "ನೀವು ನಮ್ಮೊಂದಿಗೆ ಸೇರಬಹುದೇ?",
+      "ನಾನು ಇಂದು ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ"
+    ],
+    "answer": "ಸಿನಿಮಾಗೆ ಹೋಗೋಣ"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Kannada?",
+    "options": [
+      "ನಾನು ಇಂದು ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ",
+      "ನಂತರ ಭೇಟಿಯಾಗೋಣ",
+      "ನೀವು ನಮ್ಮೊಂದಿಗೆ ಸೇರಬಹುದೇ?",
+      "ನಾವು ಒಟ್ಟಿಗೆ ಊಟ ಮಾಡೋಣವೇ?"
+    ],
+    "answer": "ನಾವು ಒಟ್ಟಿಗೆ ಊಟ ಮಾಡೋಣವೇ?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Kannada?",
+    "options": [
+      "ನೀವು ನಮ್ಮೊಂದಿಗೆ ಸೇರಬಹುದೇ?",
+      "ನಾನು ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ",
+      "ನಂತರ ಭೇಟಿಯಾಗೋಣ",
+      "ನಾನು ಇಂದು ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ"
+    ],
+    "answer": "ನೀವು ನಮ್ಮೊಂದಿಗೆ ಸೇರಬಹುದೇ?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Kannada?",
+    "options": [
+      "ನಾನು ಇಂದು ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ",
+      "ನಂತರ ಭೇಟಿಯಾಗೋಣ",
+      "ನಾನು ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ",
+      "ಆಚರಿಸೋಣ"
+    ],
+    "answer": "ನಾನು ಇಂದು ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Kannada?",
+    "options": [
+      "ಆಚರಿಸೋಣ",
+      "ನಂತರ ಭೇಟಿಯಾಗೋಣ",
+      "ನಾನು ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ",
+      "ನಿಮ್ಮ ಯೋಜನೆಗಳೇನು?"
+    ],
+    "answer": "ನಂತರ ಭೇಟಿಯಾಗೋಣ"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Kannada?",
+    "options": [
+      "ನಾನು ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ",
+      "ನಿಮ್ಮ ಯೋಜನೆಗಳೇನು?",
+      "ನಾಳೆ ಭೇಟಿಯಾಗೋಣ",
+      "ಆಚರಿಸೋಣ"
+    ],
+    "answer": "ನಾನು ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Kannada",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Kannada?",
+    "options": [
+      "ನಿಮ್ಮ ಯೋಜನೆಗಳೇನು?",
+      "ನಾಳೆ ಭೇಟಿಯಾಗೋಣ",
+      "ಇಂದು ಸಂಜೆ ನೀವು ಬಿಡುವಿದ್ದೀರಾ?",
+      "ಆಚರಿಸೋಣ"
+    ],
+    "answer": "ಆಚರಿಸೋಣ"
+  }
+]

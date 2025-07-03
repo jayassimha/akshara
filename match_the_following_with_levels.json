@@ -1,0 +1,1543 @@
+[
+    {
+        "questions": [
+            "సీత ఏలూరు ఎప్పుడు వెళ్తుంది?",
+            "ఆవిడ చేతులు, కాళ్ళు పొడవుగా ఉంటాయి",
+            "వాళ్ళని అని ఏం లాభం లేదు",
+            "నాకు నువ్వు ఒద్దని చెప్తావని తెలుసు."
+        ],
+        "answers": [
+            "I know you will say yes.",
+            "When will Sita go to Eluru?",
+            "There is no use in calling them",
+            "Her arms and legs are long"
+        ],
+        "correct_mapping": {
+            "ఆవిడ చేతులు, కాళ్ళు పొడవుగా ఉంటాయి": "Her arms and legs are long",
+            "సీత ఏలూరు ఎప్పుడు వెళ్తుంది?": "When will Sita go to Eluru?",
+            "వాళ్ళని అని ఏం లాభం లేదు": "There is no use in calling them",
+            "నాకు నువ్వు ఒద్దని చెప్తావని తెలుసు.": "I know you will say yes."
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "వారు ఇంటికి త్వరగా వెళ్లాలని కోరుతున్నారు.",
+            "నేనింక నీతో మాట్లాడదల్చుకోవట్లేదు",
+            "ఆ పైన ఇంకేమైనా చెప్పేది వుందా ?",
+            "ఇది చైనీసా లేక జపనీసా ? ఇది కొరియన్"
+        ],
+        "answers": [
+            "Is it Chinese or Japanese? This is Korean",
+            "Is there anything else to say on top of that?",
+            "I don't want to talk to you anymore",
+            "They want to go home early."
+        ],
+        "correct_mapping": {
+            "ఆ పైన ఇంకేమైనా చెప్పేది వుందా ?": "Is there anything else to say on top of that?",
+            "వారు ఇంటికి త్వరగా వెళ్లాలని కోరుతున్నారు.": "They want to go home early.",
+            "నేనింక నీతో మాట్లాడదల్చుకోవట్లేదు": "I don't want to talk to you anymore",
+            "ఇది చైనీసా లేక జపనీసా ? ఇది కొరియన్": "Is it Chinese or Japanese? This is Korean"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఆది ఒక పార్టీ.",
+            "మీరు దేని గురించి మాట్లాడారు.",
+            "నేను అనుకునేది అది ఉపయోగపడదు",
+            "అభినందనలు"
+        ],
+        "answers": [
+            "Congratulations",
+            "What did you talk about?",
+            "Aadi is a party.",
+            "I think it is not useful"
+        ],
+        "correct_mapping": {
+            "నేను అనుకునేది అది ఉపయోగపడదు": "I think it is not useful",
+            "మీరు దేని గురించి మాట్లాడారు.": "What did you talk about?",
+            "ఆది ఒక పార్టీ.": "Aadi is a party.",
+            "అభినందనలు": "Congratulations"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "దయచేసి కుక్కను వదిలిపెట్టకుండ జాగ్రత్త వహించండి.",
+            "నువ్వు ఏమి తీసుకుంటావ్?",
+            "అతడు ఆమెకు ఒక పిక్చర్ పోస్ట్ కార్డ్ పంపాడు.",
+            "టామ్ తనకు తాను చేయటానికి అనుమతించకపోవచ్చని అనుకున్నాడు."
+        ],
+        "answers": [
+            "what do you take",
+            "Tom thought he might not allow himself to do it.",
+            "He sent her a picture post card.",
+            "Please be careful not to leave the dog behind."
+        ],
+        "correct_mapping": {
+            "నువ్వు ఏమి తీసుకుంటావ్?": "what do you take",
+            "దయచేసి కుక్కను వదిలిపెట్టకుండ జాగ్రత్త వహించండి.": "Please be careful not to leave the dog behind.",
+            "అతడు ఆమెకు ఒక పిక్చర్ పోస్ట్ కార్డ్ పంపాడు.": "He sent her a picture post card.",
+            "టామ్ తనకు తాను చేయటానికి అనుమతించకపోవచ్చని అనుకున్నాడు.": "Tom thought he might not allow himself to do it."
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అతను పెట్టేసాడు",
+            "టామ్ తన చేతులు మొహం కడుక్కున్నాడు.",
+            "పెట్టె లో ఏముంది?",
+            "నేను ఈదటం ఎంతో తొందరగా మొదలుపెడతాను."
+        ],
+        "answers": [
+            "Tom washed his face with his hands.",
+            "I start swimming very early.",
+            "What's in the box?",
+            "He put"
+        ],
+        "correct_mapping": {
+            "నేను ఈదటం ఎంతో తొందరగా మొదలుపెడతాను.": "I start swimming very early.",
+            "టామ్ తన చేతులు మొహం కడుక్కున్నాడు.": "Tom washed his face with his hands.",
+            "అతను పెట్టేసాడు": "He put",
+            "పెట్టె లో ఏముంది?": "What's in the box?"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నా బాగ్ ఎక్కడా కనిపించుటలేదు.",
+            "మేరీ నీకు అబద్దం చెప్పి వుండేది, కాని చెప్పలేదు",
+            "అతడొక ప్రతిభావంతుడైన యువ దర్శకుడు.",
+            "ఏమైనా అవుతుందని ఇంకా భయపడుతున్నావా ?"
+        ],
+        "answers": [
+            "Mary could have lied to you, but she didn't",
+            "My bag is nowhere to be seen.",
+            "He is a talented young director.",
+            "Are you still afraid of what will happen?"
+        ],
+        "correct_mapping": {
+            "నా బాగ్ ఎక్కడా కనిపించుటలేదు.": "My bag is nowhere to be seen.",
+            "మేరీ నీకు అబద్దం చెప్పి వుండేది, కాని చెప్పలేదు": "Mary could have lied to you, but she didn't",
+            "అతడొక ప్రతిభావంతుడైన యువ దర్శకుడు.": "He is a talented young director.",
+            "ఏమైనా అవుతుందని ఇంకా భయపడుతున్నావా ?": "Are you still afraid of what will happen?"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను చెప్పిన పని పూర్తయిందా?",
+            "అది చాలా విలువైనది",
+            "తన గుండె కొట్టుకుంటూనే ఆమె తలుపు తీసింది",
+            "ఇది చదువు."
+        ],
+        "answers": [
+            "She opened the door with her heart pounding",
+            "Read it.",
+            "It is very valuable",
+            "Did I finish what I said?"
+        ],
+        "correct_mapping": {
+            "అది చాలా విలువైనది": "It is very valuable",
+            "నేను చెప్పిన పని పూర్తయిందా?": "Did I finish what I said?",
+            "తన గుండె కొట్టుకుంటూనే ఆమె తలుపు తీసింది": "She opened the door with her heart pounding",
+            "ఇది చదువు.": "Read it."
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "లత స్కూల్ నుండి వచ్చిందా?",
+            "నువ్వు ఈత కొట్టడానికో లేక చేపలు పట్టడానికో వెళ్ళొచ్చు",
+            "మీరు బాగున్నారా ?",
+            "తను ఇప్పుడు ఇంటి దగ్గర లేదు"
+        ],
+        "answers": [
+            "He is not at home now",
+            "are you ok",
+            "Did Lata come from school?",
+            "You can go swimming or fishing"
+        ],
+        "correct_mapping": {
+            "మీరు బాగున్నారా ?": "are you ok",
+            "తను ఇప్పుడు ఇంటి దగ్గర లేదు": "He is not at home now",
+            "నువ్వు ఈత కొట్టడానికో లేక చేపలు పట్టడానికో వెళ్ళొచ్చు": "You can go swimming or fishing",
+            "లత స్కూల్ నుండి వచ్చిందా?": "Did Lata come from school?"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఇది ఒక వాక్యం కాదు.",
+            "జంతు పదార్ధాలు మాత్రమే కొవ్వును కలిగి ఉంటాయి.",
+            "రేపు అక్కడికి వెళ్లు!",
+            "దగ్గరలో వున్న బస్ స్టాప్ ఎక్కడో కొంచెం చెప్తావా"
+        ],
+        "answers": [
+            "Only animal products contain fat.",
+            "It is not a sentence.",
+            "Can you tell me the nearest bus stop?",
+            "Go there tomorrow!"
+        ],
+        "correct_mapping": {
+            "ఇది ఒక వాక్యం కాదు.": "It is not a sentence.",
+            "జంతు పదార్ధాలు మాత్రమే కొవ్వును కలిగి ఉంటాయి.": "Only animal products contain fat.",
+            "దగ్గరలో వున్న బస్ స్టాప్ ఎక్కడో కొంచెం చెప్తావా": "Can you tell me the nearest bus stop?",
+            "రేపు అక్కడికి వెళ్లు!": "Go there tomorrow!"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "మీ అబ్బాయి ఎక్కడ వున్నాడు ?",
+            "దయచేసి ఇంకొంచం కాఫీ ఇవ్వరా.",
+            "ఇంగ్లీషు బాగా మట్లాడటం కష్టం",
+            "అది అంత సులభం ఏం కాదు"
+        ],
+        "answers": [
+            "It is not that easy",
+            "where is your boy",
+            "Please give me some more coffee.",
+            "It is difficult to speak English well"
+        ],
+        "correct_mapping": {
+            "మీ అబ్బాయి ఎక్కడ వున్నాడు ?": "where is your boy",
+            "అది అంత సులభం ఏం కాదు": "It is not that easy",
+            "దయచేసి ఇంకొంచం కాఫీ ఇవ్వరా.": "Please give me some more coffee.",
+            "ఇంగ్లీషు బాగా మట్లాడటం కష్టం": "It is difficult to speak English well"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఇది నేను అరటిపండు తింటూ ఉండగా.",
+            "తను స్కూలుకు వెళ్ళే దారిలో వుంది",
+            "మధ్యాహ్నం మొత్తం లేదా ఇంకా ఎక్కువ సమయం పట్టొచ్చు",
+            "భోజనం చేశావా ?"
+        ],
+        "answers": [
+            "This was while I was eating a banana.",
+            "She is on her way to school",
+            "did you eat",
+            "It could take an entire afternoon or even longer"
+        ],
+        "correct_mapping": {
+            "భోజనం చేశావా ?": "did you eat",
+            "తను స్కూలుకు వెళ్ళే దారిలో వుంది": "She is on her way to school",
+            "ఇది నేను అరటిపండు తింటూ ఉండగా.": "This was while I was eating a banana.",
+            "మధ్యాహ్నం మొత్తం లేదా ఇంకా ఎక్కువ సమయం పట్టొచ్చు": "It could take an entire afternoon or even longer"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను జపనీస్ మాట్లాడను",
+            "నువ్వు ఇంతకు ముందెప్పుడైనా ఇక్కడకు వచ్చావా?",
+            "ఇది చెయ్యడానికి సిద్దంగా వున్నావా",
+            "మేరీ ఒక నఖిలీ గుచ్ఛిీ హ్యాండ్‌బ్యాగ్ కొన్నది."
+        ],
+        "answers": [
+            "I don't speak Japanese",
+            "Are you ready to do this?",
+            "Have you ever been here before?",
+            "Mary bought a fake Gucci handbag."
+        ],
+        "correct_mapping": {
+            "మేరీ ఒక నఖిలీ గుచ్ఛిీ హ్యాండ్‌బ్యాగ్ కొన్నది.": "Mary bought a fake Gucci handbag.",
+            "నేను జపనీస్ మాట్లాడను": "I don't speak Japanese",
+            "ఇది చెయ్యడానికి సిద్దంగా వున్నావా": "Are you ready to do this?",
+            "నువ్వు ఇంతకు ముందెప్పుడైనా ఇక్కడకు వచ్చావా?": "Have you ever been here before?"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఈ పుస్తకం రాముకి ఇవ్వు.",
+            "టీ తీసుకురా.",
+            "ఇదంతా నిజంగా జరిగిందా ?",
+            "లలిత పెళ్ళికి పిలిచింది."
+        ],
+        "answers": [
+            "Give this book to Rama.",
+            "Lalitha called for marriage.",
+            "Bring tea.",
+            "Did all this really happen?"
+        ],
+        "correct_mapping": {
+            "లలిత పెళ్ళికి పిలిచింది.": "Lalitha called for marriage.",
+            "టీ తీసుకురా.": "Bring tea.",
+            "ఈ పుస్తకం రాముకి ఇవ్వు.": "Give this book to Rama.",
+            "ఇదంతా నిజంగా జరిగిందా ?": "Did all this really happen?"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను ఎన్ని భాషలు మట్లాడుతానని తను అడిగింది",
+            "నువ్వు అది చూసావా ?",
+            "మేరీ బోయ్ ఫ్రెండ్ తనని వదిలేస్తానని బెదిరించాడు.",
+            "అవునా ?"
+        ],
+        "answers": [
+            "Mary's boyfriend threatened to leave her.",
+            "yes",
+            "did you see it",
+            "She asked me how many languages ​​I speak"
+        ],
+        "correct_mapping": {
+            "నేను ఎన్ని భాషలు మట్లాడుతానని తను అడిగింది": "She asked me how many languages ​​I speak",
+            "అవునా ?": "yes",
+            "మేరీ బోయ్ ఫ్రెండ్ తనని వదిలేస్తానని బెదిరించాడు.": "Mary's boyfriend threatened to leave her.",
+            "నువ్వు అది చూసావా ?": "did you see it"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అది నిజంగా అంత చెడ్డదా ?",
+            "నువ్వు భోజనం ఇక్కడ ఈ గదిలో తినొచ్చు",
+            "పని దాదాపుగా అయిపోయింది",
+            "వాళ్ళు పోలీసులు."
+        ],
+        "answers": [
+            "They are the police.",
+            "The work is almost done",
+            "You can eat your meal here in this room",
+            "Is it really that bad?"
+        ],
+        "correct_mapping": {
+            "నువ్వు భోజనం ఇక్కడ ఈ గదిలో తినొచ్చు": "You can eat your meal here in this room",
+            "వాళ్ళు పోలీసులు.": "They are the police.",
+            "అది నిజంగా అంత చెడ్డదా ?": "Is it really that bad?",
+            "పని దాదాపుగా అయిపోయింది": "The work is almost done"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఆ పిల్లవాడు ఒక చిన్న రాక్షషుడు",
+            "వాళ్ళు ఎక్కడ ఉన్నారో నాకు తెలియదు",
+            "ముసలివాళ్లు నెమ్మదిగా నడుస్తారు",
+            "నా తల నొప్పిపుడుతుంది"
+        ],
+        "answers": [
+            "I don't know where they are",
+            "That kid is a little monster",
+            "My head hurts",
+            "Old people walk slowly"
+        ],
+        "correct_mapping": {
+            "ఆ పిల్లవాడు ఒక చిన్న రాక్షషుడు": "That kid is a little monster",
+            "నా తల నొప్పిపుడుతుంది": "My head hurts",
+            "వాళ్ళు ఎక్కడ ఉన్నారో నాకు తెలియదు": "I don't know where they are",
+            "ముసలివాళ్లు నెమ్మదిగా నడుస్తారు": "Old people walk slowly"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అయ్యో! పడిపోయాడా!",
+            "నేను ఈసారికి వదిలేస్తాను",
+            "ఎక్కడ పదాలు మాట్లాడలేవో అక్కడ సంగీతం మాట్లాడుతుంది.",
+            "భయపడాల్సిన కారణం ఏమీ లేదు."
+        ],
+        "answers": [
+            "I'll leave it for now",
+            "Oops! fell!",
+            "Where words cannot speak, music speaks.",
+            "There is nothing to fear."
+        ],
+        "correct_mapping": {
+            "భయపడాల్సిన కారణం ఏమీ లేదు.": "There is nothing to fear.",
+            "నేను ఈసారికి వదిలేస్తాను": "I'll leave it for now",
+            "అయ్యో! పడిపోయాడా!": "Oops! fell!",
+            "ఎక్కడ పదాలు మాట్లాడలేవో అక్కడ సంగీతం మాట్లాడుతుంది.": "Where words cannot speak, music speaks."
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "తన దగ్గర రెండు పెన్సిళ్ళు వున్నాయి. ఒకటి పొడుగు ఇంకోటి పొట్టి",
+            "మీరు ఎందుకు రావాలనుకుంటున్నారు?",
+            "పాప బిగ్గరగా ఏడ్చింది.",
+            "వాళ్ళు ఒక పాట పాడతారు"
+        ],
+        "answers": [
+            "They sing a song",
+            "The baby cried loudly.",
+            "Why do you want to come?",
+            "He has two pencils. One is long and the other is short"
+        ],
+        "correct_mapping": {
+            "తన దగ్గర రెండు పెన్సిళ్ళు వున్నాయి. ఒకటి పొడుగు ఇంకోటి పొట్టి": "He has two pencils. One is long and the other is short",
+            "మీరు ఎందుకు రావాలనుకుంటున్నారు?": "Why do you want to come?",
+            "పాప బిగ్గరగా ఏడ్చింది.": "The baby cried loudly.",
+            "వాళ్ళు ఒక పాట పాడతారు": "They sing a song"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నాకు తెలుసు అతను వస్తాడు",
+            "నేను దానిగురించి చాలా ఆలోచిస్తుంటాను.",
+            "అతను ప్రతీకారం తీర్చుకున్నాడు",
+            "హోమ్‌వర్క్ చేశావా ?"
+        ],
+        "answers": [
+            "Did you do your homework?",
+            "I think about it a lot.",
+            "I know he will come",
+            "He took revenge"
+        ],
+        "correct_mapping": {
+            "నేను దానిగురించి చాలా ఆలోచిస్తుంటాను.": "I think about it a lot.",
+            "నాకు తెలుసు అతను వస్తాడు": "I know he will come",
+            "హోమ్‌వర్క్ చేశావా ?": "Did you do your homework?",
+            "అతను ప్రతీకారం తీర్చుకున్నాడు": "He took revenge"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను చాలా జాగ్రత్తగా ఉంటాను",
+            "నువ్వు ఏం చెప్తున్నావు ?",
+            "నువ్వు చేయగలవు",
+            "రేపు నువ్వు టామ్ ఏం చేస్తున్నారు."
+        ],
+        "answers": [
+            "what are you saying",
+            "what are you doing tomorrow tom",
+            "you can do it",
+            "I will be very careful"
+        ],
+        "correct_mapping": {
+            "నువ్వు చేయగలవు": "you can do it",
+            "నువ్వు ఏం చెప్తున్నావు ?": "what are you saying",
+            "రేపు నువ్వు టామ్ ఏం చేస్తున్నారు.": "what are you doing tomorrow tom",
+            "నేను చాలా జాగ్రత్తగా ఉంటాను": "I will be very careful"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అతను తన మాట నిలబెట్టుకోలేదు",
+            "నువ్వు గట్టిగా మాట్లాడాలి",
+            "అయ్యొ! రజు మెట్ల మీద నుంచి పడిపోయాడా!",
+            "లత వచ్చిందా?"
+        ],
+        "answers": [
+            "He did not keep his word",
+            "You should speak loudly",
+            "Oops! Raju fell down the stairs!",
+            "Did Lata come?"
+        ],
+        "correct_mapping": {
+            "అతను తన మాట నిలబెట్టుకోలేదు": "He did not keep his word",
+            "లత వచ్చిందా?": "Did Lata come?",
+            "అయ్యొ! రజు మెట్ల మీద నుంచి పడిపోయాడా!": "Oops! Raju fell down the stairs!",
+            "నువ్వు గట్టిగా మాట్లాడాలి": "You should speak loudly"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఇది చాలా తెలివితక్కువ ప్రశ్న",
+            "నన్ను సహాయం అడగడానికి ఏం సందేహ పడొద్దు",
+            "అతడు తన చేతులకి అంటిన రక్తాన్ని కడిగేసాడు",
+            "ఒకటి, రెండు, ముడు, నాలుగు, ఐదు, ఆరు, ఏడు, ఎనిమిది, తొమ్మిదు, పది."
+        ],
+        "answers": [
+            "Do not hesitate to ask me for help",
+            "This is a very stupid question",
+            "He washed the blood off his hands",
+            "One, two, three, four, five, six, seven, eight, nine, ten."
+        ],
+        "correct_mapping": {
+            "ఒకటి, రెండు, ముడు, నాలుగు, ఐదు, ఆరు, ఏడు, ఎనిమిది, తొమ్మిదు, పది.": "One, two, three, four, five, six, seven, eight, nine, ten.",
+            "నన్ను సహాయం అడగడానికి ఏం సందేహ పడొద్దు": "Do not hesitate to ask me for help",
+            "అతడు తన చేతులకి అంటిన రక్తాన్ని కడిగేసాడు": "He washed the blood off his hands",
+            "ఇది చాలా తెలివితక్కువ ప్రశ్న": "This is a very stupid question"
+        },
+        "level": 1,
+        "module": "Conversation",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నీకు బాగోలేదని విన్నాను",
+            "నువ్వు ఎందుకు తయారు కాలేదు.",
+            "నా పని లో అడ్డు రాకు.",
+            "నువ్వు ఎలా వస్తున్నావ్?"
+        ],
+        "answers": [
+            "I heard you are not well",
+            "how are you coming",
+            "Don't interfere with my work.",
+            "Why didn't you make it?"
+        ],
+        "correct_mapping": {
+            "నా పని లో అడ్డు రాకు.": "Don't interfere with my work.",
+            "నీకు బాగోలేదని విన్నాను": "I heard you are not well",
+            "నువ్వు ఎందుకు తయారు కాలేదు.": "Why didn't you make it?",
+            "నువ్వు ఎలా వస్తున్నావ్?": "how are you coming"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నువ్వు దేని గురించి మాట్లాడావు ?",
+            "మామయ్య విజయవాడ నుంచి ఎప్పుడు వస్తారు?",
+            "ఆ! ఇది నిజమా?",
+            "ఆహా! ఈ గుడి ఎంత ప్రశాంతంగా ఉంది!"
+        ],
+        "answers": [
+            "What did you talk about?",
+            "When will my uncle come from Vijayawada?",
+            "Aha! How peaceful is this temple!",
+            "That! Is this true?"
+        ],
+        "correct_mapping": {
+            "మామయ్య విజయవాడ నుంచి ఎప్పుడు వస్తారు?": "When will my uncle come from Vijayawada?",
+            "నువ్వు దేని గురించి మాట్లాడావు ?": "What did you talk about?",
+            "ఆహా! ఈ గుడి ఎంత ప్రశాంతంగా ఉంది!": "Aha! How peaceful is this temple!",
+            "ఆ! ఇది నిజమా?": "That! Is this true?"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను అంగీకరించను",
+            "పాప ఏడ్చింది.",
+            "నన్ను ఎందుకు పిలిచావు?",
+            "ఈ సాక్స్ ఉతికినప్పుడు సాగవు"
+        ],
+        "answers": [
+            "why did you call me",
+            "These socks do not stretch when washed",
+            "I don't agree",
+            "The baby cried."
+        ],
+        "correct_mapping": {
+            "ఈ సాక్స్ ఉతికినప్పుడు సాగవు": "These socks do not stretch when washed",
+            "పాప ఏడ్చింది.": "The baby cried.",
+            "నన్ను ఎందుకు పిలిచావు?": "why did you call me",
+            "నేను అంగీకరించను": "I don't agree"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "తను ఎందుకు అంత కోపంగా ఉందొ నీకు తెలుసా ?",
+            "పొగ తాగడం ఎప్పుడు ఆపేశావ్?",
+            "నీ కలం ఏది ?",
+            "శుభ అంతర్జాతీయ మహిళల దినోత్సవం!"
+        ],
+        "answers": [
+            "Happy International Women's Day!",
+            "Do you know why he is so angry?",
+            "When did you stop smoking?",
+            "What is your pen?"
+        ],
+        "correct_mapping": {
+            "నీ కలం ఏది ?": "What is your pen?",
+            "తను ఎందుకు అంత కోపంగా ఉందొ నీకు తెలుసా ?": "Do you know why he is so angry?",
+            "పొగ తాగడం ఎప్పుడు ఆపేశావ్?": "When did you stop smoking?",
+            "శుభ అంతర్జాతీయ మహిళల దినోత్సవం!": "Happy International Women's Day!"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "రాముడు బడికి వచ్చాడు.",
+            "ఇది ఒక గొప్ప గుణం",
+            "ఈ బొమ్మ ఎలా వేశావు ?",
+            "సముద్రంలో ద్వీపాలు ఉన్నాయి."
+        ],
+        "answers": [
+            "How did you draw this figure?",
+            "This is a great quality",
+            "Rama came to school.",
+            "There are islands in the sea."
+        ],
+        "correct_mapping": {
+            "ఈ బొమ్మ ఎలా వేశావు ?": "How did you draw this figure?",
+            "సముద్రంలో ద్వీపాలు ఉన్నాయి.": "There are islands in the sea.",
+            "ఇది ఒక గొప్ప గుణం": "This is a great quality",
+            "రాముడు బడికి వచ్చాడు.": "Rama came to school."
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నాకు కాఫీ ఇష్టం లేదు",
+            "అతను మా అబ్బాయి",
+            "ఈ రోజు ఇంకా అయిపోలేదు",
+            "నాకు మళ్ళా ఆకలి వేస్తుంది"
+        ],
+        "answers": [
+            "Today is not over yet",
+            "I'm hungry again",
+            "I don't like coffee",
+            "He is our boy"
+        ],
+        "correct_mapping": {
+            "నాకు మళ్ళా ఆకలి వేస్తుంది": "I'm hungry again",
+            "నాకు కాఫీ ఇష్టం లేదు": "I don't like coffee",
+            "ఈ రోజు ఇంకా అయిపోలేదు": "Today is not over yet",
+            "అతను మా అబ్బాయి": "He is our boy"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నువ్వు అది చెయ్యమని నా సలహా",
+            "టామ్ చెసింది విని మేరీ విరుచుకుపడింది",
+            "నువ్వు చాలా సంతోషంగా ఉన్నట్లున్నావ్",
+            "ఆమెకి అబద్దం ఎందుకు చెప్పావు ?"
+        ],
+        "answers": [
+            "Mary burst out hearing what Tom said",
+            "Why did you lie to her?",
+            "You seem so happy",
+            "My advice is that you do it"
+        ],
+        "correct_mapping": {
+            "ఆమెకి అబద్దం ఎందుకు చెప్పావు ?": "Why did you lie to her?",
+            "నువ్వు చాలా సంతోషంగా ఉన్నట్లున్నావ్": "You seem so happy",
+            "టామ్ చెసింది విని మేరీ విరుచుకుపడింది": "Mary burst out hearing what Tom said",
+            "నువ్వు అది చెయ్యమని నా సలహా": "My advice is that you do it"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నా అంతట నేనే చేయగలిగి వుండాల్సింది",
+            "ఈ మొక్కకి కొన్ని కాలిన ఆకులు వున్నాయి",
+            "మేరీకి తాను చూసేది తనకి నచ్చుతుంది.",
+            "తనని ఒంటరిగా వదిలెయ్యడం మంచిది"
+        ],
+        "answers": [
+            "This plant has some burnt leaves",
+            "I should have been able to do it myself",
+            "Better to leave him alone",
+            "Mary likes what she sees."
+        ],
+        "correct_mapping": {
+            "నా అంతట నేనే చేయగలిగి వుండాల్సింది": "I should have been able to do it myself",
+            "మేరీకి తాను చూసేది తనకి నచ్చుతుంది.": "Mary likes what she sees.",
+            "తనని ఒంటరిగా వదిలెయ్యడం మంచిది": "Better to leave him alone",
+            "ఈ మొక్కకి కొన్ని కాలిన ఆకులు వున్నాయి": "This plant has some burnt leaves"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నిన్నటి హోమ్‌వర్క్ చేశావా ?",
+            "ఎర్ర గులాబీ పూసిందా ?",
+            "నిన్నే కాదు నన్ను కూడా నిందించాల్సి వుంది",
+            "తప్పు"
+        ],
+        "answers": [
+            "Did you wear a red rose?",
+            "Did you do your homework yesterday?",
+            "Not only you are to blame but also me",
+            "wrong"
+        ],
+        "correct_mapping": {
+            "ఎర్ర గులాబీ పూసిందా ?": "Did you wear a red rose?",
+            "నిన్నే కాదు నన్ను కూడా నిందించాల్సి వుంది": "Not only you are to blame but also me",
+            "తప్పు": "wrong",
+            "నిన్నటి హోమ్‌వర్క్ చేశావా ?": "Did you do your homework yesterday?"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను వాడిని నమ్మను",
+            "మళ్ళీ ఎప్పుడు వస్తావు?",
+            "నేను బర్మీస్ భాషను నేర్చుకుంటున్నాను.",
+            "నిన్ను ఇక్కడ ఇంకా ఎక్కువ సమయం వుంచలేను"
+        ],
+        "answers": [
+            "I am learning Burmese language.",
+            "I don't believe him",
+            "When will you come again?",
+            "I can't keep you here much longer"
+        ],
+        "correct_mapping": {
+            "నేను బర్మీస్ భాషను నేర్చుకుంటున్నాను.": "I am learning Burmese language.",
+            "నేను వాడిని నమ్మను": "I don't believe him",
+            "మళ్ళీ ఎప్పుడు వస్తావు?": "When will you come again?",
+            "నిన్ను ఇక్కడ ఇంకా ఎక్కువ సమయం వుంచలేను": "I can't keep you here much longer"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేనో పొరపాటు చేసాను, కావాలని కాకపోయినా.",
+            "శభాష్! ఈ బొమ్మ బాగా వేశావు!",
+            "నువ్వు ఒక్కసారిగా రావాలి",
+            "మేము రోజుల తరబడి నిద్రపోలేదు"
+        ],
+        "answers": [
+            "We didn't sleep for days",
+            "I made a mistake, though not on purpose.",
+            "You should come at once",
+            "Well done! This figure is well done!"
+        ],
+        "correct_mapping": {
+            "నువ్వు ఒక్కసారిగా రావాలి": "You should come at once",
+            "శభాష్! ఈ బొమ్మ బాగా వేశావు!": "Well done! This figure is well done!",
+            "నేనో పొరపాటు చేసాను, కావాలని కాకపోయినా.": "I made a mistake, though not on purpose.",
+            "మేము రోజుల తరబడి నిద్రపోలేదు": "We didn't sleep for days"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "టామ్ చివరికి ఉద్యోగం సంపాదించాడు.",
+            "ఆమె చల్ల గాలి పీల్చింది .",
+            "ఆమె వైద్యురాలు కాదు",
+            "ఇది ఒక అద్భుతమైన ఫీచర్"
+        ],
+        "answers": [
+            "She inhaled the cold air.",
+            "She is not a doctor",
+            "This is an amazing feature",
+            "Tom eventually got the job."
+        ],
+        "correct_mapping": {
+            "టామ్ చివరికి ఉద్యోగం సంపాదించాడు.": "Tom eventually got the job.",
+            "ఆమె చల్ల గాలి పీల్చింది .": "She inhaled the cold air.",
+            "ఆమె వైద్యురాలు కాదు": "She is not a doctor",
+            "ఇది ఒక అద్భుతమైన ఫీచర్": "This is an amazing feature"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నాకు ఇప్పుడు మాట్లాడేంత సమయం లేదు",
+            "ఈ పెన్సిళ్లు ఒకే రంగులో ఉన్నాయి",
+            "మేము ఎవరము ?",
+            "సాదారణంగా అది చేసేది నేనే"
+        ],
+        "answers": [
+            "who are we",
+            "I don't have time to talk now",
+            "These pencils are of the same color",
+            "I'm usually the one who does it"
+        ],
+        "correct_mapping": {
+            "సాదారణంగా అది చేసేది నేనే": "I'm usually the one who does it",
+            "మేము ఎవరము ?": "who are we",
+            "నాకు ఇప్పుడు మాట్లాడేంత సమయం లేదు": "I don't have time to talk now",
+            "ఈ పెన్సిళ్లు ఒకే రంగులో ఉన్నాయి": "These pencils are of the same color"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నువ్వు ఎక్కడ ఉన్నవో అక్కడే ఉండు",
+            "ఆ! మీరు చెప్పింది నిజమా?",
+            "దేవుడున్నాడని జనాలు నమ్ముతారు.",
+            "అది నా తప్పు కాదు."
+        ],
+        "answers": [
+            "It's not my fault.",
+            "That! Are you right?",
+            "Stay where you are",
+            "People believe that God exists."
+        ],
+        "correct_mapping": {
+            "నువ్వు ఎక్కడ ఉన్నవో అక్కడే ఉండు": "Stay where you are",
+            "దేవుడున్నాడని జనాలు నమ్ముతారు.": "People believe that God exists.",
+            "అది నా తప్పు కాదు.": "It's not my fault.",
+            "ఆ! మీరు చెప్పింది నిజమా?": "That! Are you right?"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను ఒక ఫోన్ చేసుకోవచ్చా ?",
+            "నీ రోజువారీ జీవితం గురించి చెప్పు",
+            "ఆమె ముప్పై ఏళ్ళ పాటు సంగీతం నేర్పిస్తుంది",
+            "ఆమె భయంతో తెల్లబోయింది"
+        ],
+        "answers": [
+            "Can I have a phone call?",
+            "Tell me about your daily life",
+            "She turned white with fear",
+            "She has been teaching music for thirty years"
+        ],
+        "correct_mapping": {
+            "నేను ఒక ఫోన్ చేసుకోవచ్చా ?": "Can I have a phone call?",
+            "ఆమె భయంతో తెల్లబోయింది": "She turned white with fear",
+            "ఆమె ముప్పై ఏళ్ళ పాటు సంగీతం నేర్పిస్తుంది": "She has been teaching music for thirty years",
+            "నీ రోజువారీ జీవితం గురించి చెప్పు": "Tell me about your daily life"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను కాఫీ తాగాను",
+            "ఇప్పుడు టైమ్ ఎంత ?",
+            "ఆమె బల్ల మీద కూర్చుంది .",
+            "నేను ఇంటికి పరిగెత్తాను"
+        ],
+        "answers": [
+            "I drank coffee",
+            "She sat on the table.",
+            "What is the time now?",
+            "I ran home"
+        ],
+        "correct_mapping": {
+            "ఇప్పుడు టైమ్ ఎంత ?": "What is the time now?",
+            "నేను కాఫీ తాగాను": "I drank coffee",
+            "ఆమె బల్ల మీద కూర్చుంది .": "She sat on the table.",
+            "నేను ఇంటికి పరిగెత్తాను": "I ran home"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అతన్ని అక్కడ ఉండనివ్వు",
+            "వేరే దారి లేదని స్పష్టంగా తెలుస్తుంది",
+            "నువ్వు ఈ చుట్టుపక్కల నివసిస్తున్నావా?",
+            "వొంట్లో ఎలా వుంది"
+        ],
+        "answers": [
+            "It is clear that there is no other way",
+            "How is it there?",
+            "Let him be there",
+            "Do you live around here?"
+        ],
+        "correct_mapping": {
+            "వేరే దారి లేదని స్పష్టంగా తెలుస్తుంది": "It is clear that there is no other way",
+            "అతన్ని అక్కడ ఉండనివ్వు": "Let him be there",
+            "నువ్వు ఈ చుట్టుపక్కల నివసిస్తున్నావా?": "Do you live around here?",
+            "వొంట్లో ఎలా వుంది": "How is it there?"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "మేము అది కావాలని చేశాం",
+            "మేరీ పార్టీ కోసం కొత్త డ్రెస్ కొన్నది.",
+            "ఏం చెయ్యాలన్నా మనకి డబ్బులు కావాలి",
+            "ఆ పుస్తకం వెల ఎంత ?"
+        ],
+        "answers": [
+            "How much is that book?",
+            "We need money to do anything",
+            "Mary bought a new dress for the party.",
+            "We did it on purpose"
+        ],
+        "correct_mapping": {
+            "మేరీ పార్టీ కోసం కొత్త డ్రెస్ కొన్నది.": "Mary bought a new dress for the party.",
+            "ఏం చెయ్యాలన్నా మనకి డబ్బులు కావాలి": "We need money to do anything",
+            "మేము అది కావాలని చేశాం": "We did it on purpose",
+            "ఆ పుస్తకం వెల ఎంత ?": "How much is that book?"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "సాయంత్రం భోజనానికి మైక వస్తున్నాడు",
+            "నువ్వు నా తమ్ముడివని నాకు గుర్తొచ్చింది.",
+            "ఆవిడ ఇంకా ఎక్కువ చెప్పడానికి ఒప్పుకోవట్లేదు",
+            "తప్పకుండా"
+        ],
+        "answers": [
+            "Of course",
+            "Maika is coming for evening meal",
+            "I remembered that you are my younger brother.",
+            "She refused to say more"
+        ],
+        "correct_mapping": {
+            "ఆవిడ ఇంకా ఎక్కువ చెప్పడానికి ఒప్పుకోవట్లేదు": "She refused to say more",
+            "తప్పకుండా": "Of course",
+            "సాయంత్రం భోజనానికి మైక వస్తున్నాడు": "Maika is coming for evening meal",
+            "నువ్వు నా తమ్ముడివని నాకు గుర్తొచ్చింది.": "I remembered that you are my younger brother."
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నా కంప్యూటర్ ఖరీదైనది.",
+            "రా, నీకు కూడా కొంచెం పెడతా",
+            "మా అక్కకి టెన్నిసంటే పిచ్చి",
+            "ఇది నన్ను చాలా బాధ పెట్టింది"
+        ],
+        "answers": [
+            "This made me very sad",
+            "My sister is crazy about tennis",
+            "My computer is expensive.",
+            "Come on, I'll give you some too"
+        ],
+        "correct_mapping": {
+            "నా కంప్యూటర్ ఖరీదైనది.": "My computer is expensive.",
+            "ఇది నన్ను చాలా బాధ పెట్టింది": "This made me very sad",
+            "రా, నీకు కూడా కొంచెం పెడతా": "Come on, I'll give you some too",
+            "మా అక్కకి టెన్నిసంటే పిచ్చి": "My sister is crazy about tennis"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నన్ను పలకరించినందుకు కృతజ్ఞతలు.",
+            "యానీ దీనికోసం ఎదురు చూస్తున్నాడు.",
+            "నేనూ తప్పులు చేస్తాను",
+            "నువ్వు నాన్న అయినప్పుడు నీకు అర్ధం అవుతుంది"
+        ],
+        "answers": [
+            "Thank you for greeting me.",
+            "When you become a father you will understand",
+            "I make mistakes too",
+            "Yani is waiting for this."
+        ],
+        "correct_mapping": {
+            "నువ్వు నాన్న అయినప్పుడు నీకు అర్ధం అవుతుంది": "When you become a father you will understand",
+            "నన్ను పలకరించినందుకు కృతజ్ఞతలు.": "Thank you for greeting me.",
+            "నేనూ తప్పులు చేస్తాను": "I make mistakes too",
+            "యానీ దీనికోసం ఎదురు చూస్తున్నాడు.": "Yani is waiting for this."
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అతను ఆమెకి పుస్తకాల అర తయారు చేసాడు",
+            "స్కూలుకి బయలుదేరే సమయం అయ్యింది, కాదా",
+            "నువ్వు ఎలా వున్నావు?",
+            "వాళ్ళు మృగాలు"
+        ],
+        "answers": [
+            "how are you",
+            "He made her a bookshelf",
+            "They are beasts",
+            "It's time to leave for school, isn't it?"
+        ],
+        "correct_mapping": {
+            "నువ్వు ఎలా వున్నావు?": "how are you",
+            "వాళ్ళు మృగాలు": "They are beasts",
+            "అతను ఆమెకి పుస్తకాల అర తయారు చేసాడు": "He made her a bookshelf",
+            "స్కూలుకి బయలుదేరే సమయం అయ్యింది, కాదా": "It's time to leave for school, isn't it?"
+        },
+        "level": 2,
+        "module": "Conversation Everyday",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను నా సొంత నిర్ణయాలు తీసుకునేఅంత పెద్దవాదినయ్యాను.",
+            "ఎమిటీ! ఇది నిజమా?",
+            "రాముకి ఇవ్వు.",
+            "నేనెప్పుడూ జపాన్ వెళ్ళలేదు"
+        ],
+        "answers": [
+            "Give it to Rama.",
+            "I have never been to Japan",
+            "Amity! Is this true?",
+            "I am old enough to make my own decisions."
+        ],
+        "correct_mapping": {
+            "నేనెప్పుడూ జపాన్ వెళ్ళలేదు": "I have never been to Japan",
+            "ఎమిటీ! ఇది నిజమా?": "Amity! Is this true?",
+            "రాముకి ఇవ్వు.": "Give it to Rama.",
+            "నేను నా సొంత నిర్ణయాలు తీసుకునేఅంత పెద్దవాదినయ్యాను.": "I am old enough to make my own decisions."
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నువ్వు చాల త్వరగా వచ్చావు",
+            "నీకు నచ్చితే ముందే వెళ్లిపోవచ్చు",
+            "ఎవరు గెలిచారో నాకు తెలియదు",
+            "అది చాలా ఆసక్తికరంగా ఉన్నట్లు ఉంది"
+        ],
+        "answers": [
+            "You can leave earlier if you like",
+            "You came too soon",
+            "I don't know who won",
+            "That sounds very interesting"
+        ],
+        "correct_mapping": {
+            "నువ్వు చాల త్వరగా వచ్చావు": "You came too soon",
+            "నీకు నచ్చితే ముందే వెళ్లిపోవచ్చు": "You can leave earlier if you like",
+            "ఎవరు గెలిచారో నాకు తెలియదు": "I don't know who won",
+            "అది చాలా ఆసక్తికరంగా ఉన్నట్లు ఉంది": "That sounds very interesting"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఆమె ఎంత పొడుగు ?",
+            "నువ్వు ఇంకా ఎందుకు నిద్రపొవట్లేదు.",
+            "డబ్బాలు అక్కడ పెట్టు",
+            "ఒక పిల్లి డెస్క్ కింద నుండి బయటకు వచ్చింది."
+        ],
+        "answers": [
+            "Why haven't you slept yet?",
+            "A cat came out from under the desk.",
+            "Put the boxes there",
+            "How tall is she?"
+        ],
+        "correct_mapping": {
+            "ఒక పిల్లి డెస్క్ కింద నుండి బయటకు వచ్చింది.": "A cat came out from under the desk.",
+            "నువ్వు ఇంకా ఎందుకు నిద్రపొవట్లేదు.": "Why haven't you slept yet?",
+            "డబ్బాలు అక్కడ పెట్టు": "Put the boxes there",
+            "ఆమె ఎంత పొడుగు ?": "How tall is she?"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "సీత అందంగా నావ్వింది.",
+            "మనం ఆ అవకాశం తీసుకుందాం",
+            "మీరిద్దరూ సంగీతకారులా?",
+            "అద్భుతం!"
+        ],
+        "answers": [
+            "Are you both musicians?",
+            "Sita smiled beautifully.",
+            "Awesome!",
+            "Let's take that chance"
+        ],
+        "correct_mapping": {
+            "మీరిద్దరూ సంగీతకారులా?": "Are you both musicians?",
+            "సీత అందంగా నావ్వింది.": "Sita smiled beautifully.",
+            "అద్భుతం!": "Awesome!",
+            "మనం ఆ అవకాశం తీసుకుందాం": "Let's take that chance"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "మనం నమ్మదగిన వాళ్ళనే పనిలోకి తీసుకోవాలి",
+            "ఒక్క దెబ్బకి రెండు పిట్టలు",
+            "అది ఇక్కడ చెయ్యడానికి నాకు అనుమతి లేదు",
+            "మేము నిన్న బాస్కెట్ బాల్ ఆడాము"
+        ],
+        "answers": [
+            "Two birds with one stone",
+            "We played basketball yesterday",
+            "I'm not allowed to do that here",
+            "We have to employ trustworthy people"
+        ],
+        "correct_mapping": {
+            "మనం నమ్మదగిన వాళ్ళనే పనిలోకి తీసుకోవాలి": "We have to employ trustworthy people",
+            "మేము నిన్న బాస్కెట్ బాల్ ఆడాము": "We played basketball yesterday",
+            "అది ఇక్కడ చెయ్యడానికి నాకు అనుమతి లేదు": "I'm not allowed to do that here",
+            "ఒక్క దెబ్బకి రెండు పిట్టలు": "Two birds with one stone"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "పిల్లలకి కేక్ అంటే ఇష్టం",
+            "నీకు ఎన్ని మామిడిపండ్లు కావాలి?",
+            "తన కళ్లజోడు అద్దాలను టామ్ వేడిగా ఉన్న సబ్బు నీళ్ళతో కడిగి గుడ్డ పై ఆరాపెట్టాడు.",
+            "లలిత పిలిచింది."
+        ],
+        "answers": [
+            "Lalita called.",
+            "How many mangoes do you want?",
+            "Tom washed his spectacles in hot soapy water and dried them on a cloth.",
+            "Children like cake"
+        ],
+        "correct_mapping": {
+            "తన కళ్లజోడు అద్దాలను టామ్ వేడిగా ఉన్న సబ్బు నీళ్ళతో కడిగి గుడ్డ పై ఆరాపెట్టాడు.": "Tom washed his spectacles in hot soapy water and dried them on a cloth.",
+            "పిల్లలకి కేక్ అంటే ఇష్టం": "Children like cake",
+            "లలిత పిలిచింది.": "Lalita called.",
+            "నీకు ఎన్ని మామిడిపండ్లు కావాలి?": "How many mangoes do you want?"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "చలనచిత్రం మొదలు అవ్వబోతుంది",
+            "ఆహా! తాజ్ మహల్ ఎంత బాగుంది!",
+            "జిరాఫీలు ఎందుకు పాడలేవు ?",
+            "అ! ఆశ్సర్యం!"
+        ],
+        "answers": [
+            "Ah! Surprise!",
+            "Aha! How cool is the Taj Mahal!",
+            "The movie is about to start",
+            "Why can't giraffes sing?"
+        ],
+        "correct_mapping": {
+            "ఆహా! తాజ్ మహల్ ఎంత బాగుంది!": "Aha! How cool is the Taj Mahal!",
+            "అ! ఆశ్సర్యం!": "Ah! Surprise!",
+            "జిరాఫీలు ఎందుకు పాడలేవు ?": "Why can't giraffes sing?",
+            "చలనచిత్రం మొదలు అవ్వబోతుంది": "The movie is about to start"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను ఇంకేం కోల్పోతాను ?",
+            "జనం ముందుకు వచ్చి పోలీసులకు తమకు తెలిసింది చెప్పడం మొదలుపెట్టారు.",
+            "రాముడు వచ్చాడు.",
+            "నాకు తెలిసినంత మటుకు తనకింకా పెళ్లి కాలేదు."
+        ],
+        "answers": [
+            "Rama came.",
+            "What else do I have to lose?",
+            "As far as I know, he is not married yet.",
+            "People came forward and started telling the police what they knew."
+        ],
+        "correct_mapping": {
+            "రాముడు వచ్చాడు.": "Rama came.",
+            "నేను ఇంకేం కోల్పోతాను ?": "What else do I have to lose?",
+            "నాకు తెలిసినంత మటుకు తనకింకా పెళ్లి కాలేదు.": "As far as I know, he is not married yet.",
+            "జనం ముందుకు వచ్చి పోలీసులకు తమకు తెలిసింది చెప్పడం మొదలుపెట్టారు.": "People came forward and started telling the police what they knew."
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నువ్వు మాములుగా ఏడు కు ముందే టిఫిన చెస్తావా?",
+            "ఈ రాత్రి బయటకి వెళ్లి తిందామా ?",
+            "అక్కడికి వెళ్ళు.",
+            "నువ్వు సిగ్గు పడాల్సిన అవసరం లేదు"
+        ],
+        "answers": [
+            "Do you usually wake up before seven?",
+            "go there",
+            "You don't need to be ashamed",
+            "Shall we go out to eat tonight?"
+        ],
+        "correct_mapping": {
+            "నువ్వు సిగ్గు పడాల్సిన అవసరం లేదు": "You don't need to be ashamed",
+            "ఈ రాత్రి బయటకి వెళ్లి తిందామా ?": "Shall we go out to eat tonight?",
+            "నువ్వు మాములుగా ఏడు కు ముందే టిఫిన చెస్తావా?": "Do you usually wake up before seven?",
+            "అక్కడికి వెళ్ళు.": "go there"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "సహాయం చాలా ఆలస్యముగా వచ్చింది",
+            "అతను పిల్లలకి స్పానిష్ నేర్పుతున్నాడు",
+            "ఆవిడకి పిల్లలు లేరు",
+            "మనం తనని వదిలించుకోవాలి"
+        ],
+        "answers": [
+            "Help came too late",
+            "He is teaching the children Spanish",
+            "She has no children",
+            "We must get rid of him"
+        ],
+        "correct_mapping": {
+            "అతను పిల్లలకి స్పానిష్ నేర్పుతున్నాడు": "He is teaching the children Spanish",
+            "ఆవిడకి పిల్లలు లేరు": "She has no children",
+            "సహాయం చాలా ఆలస్యముగా వచ్చింది": "Help came too late",
+            "మనం తనని వదిలించుకోవాలి": "We must get rid of him"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "చూపుకి వెలుపల​, మనసుకి వెలుపల​",
+            "మేము వినాలని అనుకుంటున్నాం",
+            "నేను అతన్ని ఎప్పుడూ చూడలేదు",
+            "మీరు ఎలా వున్నారు?"
+        ],
+        "answers": [
+            "We want to hear",
+            "how are you",
+            "I have never seen him",
+            "Out of sight, out of mind"
+        ],
+        "correct_mapping": {
+            "మీరు ఎలా వున్నారు?": "how are you",
+            "చూపుకి వెలుపల​, మనసుకి వెలుపల​": "Out of sight, out of mind",
+            "మేము వినాలని అనుకుంటున్నాం": "We want to hear",
+            "నేను అతన్ని ఎప్పుడూ చూడలేదు": "I have never seen him"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నేను వచ్చే స్టాపు లో దిగుతాను",
+            "శభాష్! బొమ్మ బాగుంది!",
+            "ఆవిడ పిల్లిని భయపెట్టి తరిమేసింది .",
+            "నాకు ఏమీ అవసరంలేదు."
+        ],
+        "answers": [
+            "She scared the cat away.",
+            "Well done! The toy is great!",
+            "I will get off at the next stop",
+            "I don't need anything."
+        ],
+        "correct_mapping": {
+            "ఆవిడ పిల్లిని భయపెట్టి తరిమేసింది .": "She scared the cat away.",
+            "నేను వచ్చే స్టాపు లో దిగుతాను": "I will get off at the next stop",
+            "నాకు ఏమీ అవసరంలేదు.": "I don't need anything.",
+            "శభాష్! బొమ్మ బాగుంది!": "Well done! The toy is great!"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "రోజంతా కూర్చోవడం నీకు మంచిది కాదు",
+            "మీకు ఎన్ని మామిడిపండ్లు కావాలి?",
+            "నా పుస్తకం ఎక్కడ పెట్టావ్?",
+            "నేను మాట్లాడటం మొదలుపెట్టాను"
+        ],
+        "answers": [
+            "Sitting all day is not good for you",
+            "How many mangoes do you need?",
+            "Where did you put my book?",
+            "I started talking"
+        ],
+        "correct_mapping": {
+            "నా పుస్తకం ఎక్కడ పెట్టావ్?": "Where did you put my book?",
+            "నేను మాట్లాడటం మొదలుపెట్టాను": "I started talking",
+            "మీకు ఎన్ని మామిడిపండ్లు కావాలి?": "How many mangoes do you need?",
+            "రోజంతా కూర్చోవడం నీకు మంచిది కాదు": "Sitting all day is not good for you"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఇది సయంత్రం చదువు.",
+            "నేను ఇంటికి వెళ్లి పరీక్ష కోసం చదవాలి",
+            "కొన్ని కుక్కలు బ్రతికే ఉన్నాయి",
+            "నువ్వు బొద్దుగా వున్నావు"
+        ],
+        "answers": [
+            "It is an evening study.",
+            "I have to go home and study for the test",
+            "Some dogs are still alive",
+            "You are fat"
+        ],
+        "correct_mapping": {
+            "కొన్ని కుక్కలు బ్రతికే ఉన్నాయి": "Some dogs are still alive",
+            "నేను ఇంటికి వెళ్లి పరీక్ష కోసం చదవాలి": "I have to go home and study for the test",
+            "నువ్వు బొద్దుగా వున్నావు": "You are fat",
+            "ఇది సయంత్రం చదువు.": "It is an evening study."
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "టామ్ మరియు నేను తరచుగా బస్సులో ముచ్చటిస్తుంటాము.",
+            "నీకు ఎప్పుడైనా గుండెపోటు వచ్చిందా",
+            "పని పూర్తయిందా?",
+            "పొగత్రాగడం మానేసినప్పుడు కొందరు బరువు పెరుగుతారు"
+        ],
+        "answers": [
+            "Is the work done?",
+            "Some people gain weight when they quit smoking",
+            "Tom and I often make out on the bus.",
+            "Have you ever had a heart attack?"
+        ],
+        "correct_mapping": {
+            "నీకు ఎప్పుడైనా గుండెపోటు వచ్చిందా": "Have you ever had a heart attack?",
+            "టామ్ మరియు నేను తరచుగా బస్సులో ముచ్చటిస్తుంటాము.": "Tom and I often make out on the bus.",
+            "పొగత్రాగడం మానేసినప్పుడు కొందరు బరువు పెరుగుతారు": "Some people gain weight when they quit smoking",
+            "పని పూర్తయిందా?": "Is the work done?"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నీ పళ్ళు రోజూ తోముకో",
+            "సమయం ఎంత అయ్యింది?",
+            "వారు చంద్రకాంతిలో ముద్దాడారు",
+            "వాళ్లెవరు రాలేదు"
+        ],
+        "answers": [
+            "They kissed in the moonlight",
+            "what time is it",
+            "None of them came",
+            "Brush your teeth daily"
+        ],
+        "correct_mapping": {
+            "నీ పళ్ళు రోజూ తోముకో": "Brush your teeth daily",
+            "వాళ్లెవరు రాలేదు": "None of them came",
+            "వారు చంద్రకాంతిలో ముద్దాడారు": "They kissed in the moonlight",
+            "సమయం ఎంత అయ్యింది?": "what time is it"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఆటను చెప్పేది ఏం అర్ధం పర్థం లేకుండా ఉంది",
+            "కోపమొచ్చిందా ?",
+            "మేరీ ఎక్కడ ఉంది?",
+            "అతను నన్ను తాకాడు"
+        ],
+        "answers": [
+            "What the game says is meaningless",
+            "Are you angry?",
+            "He touched me",
+            "where is mary"
+        ],
+        "correct_mapping": {
+            "ఆటను చెప్పేది ఏం అర్ధం పర్థం లేకుండా ఉంది": "What the game says is meaningless",
+            "మేరీ ఎక్కడ ఉంది?": "where is mary",
+            "కోపమొచ్చిందా ?": "Are you angry?",
+            "అతను నన్ను తాకాడు": "He touched me"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అతడు నాకన్నా మూడు రెట్లు ఎక్కువ సంపాదిస్తాడు",
+            "నిన్న రాత్రికి నన్ను నిజంగా క్షమించు",
+            "టామ్ గర్ల్‌ఫ్రెండ్ తనని వదిలేస్తానని బెదిరించింది.",
+            "నీకు ఏ రంగు అంటే ఇష్టం , నీలమా లేక పచ్ఛా ?"
+        ],
+        "answers": [
+            "I'm really sorry for last night",
+            "Which color do you like, blue or green?",
+            "He earns three times more than me",
+            "Tom's girlfriend threatens to leave him."
+        ],
+        "correct_mapping": {
+            "అతడు నాకన్నా మూడు రెట్లు ఎక్కువ సంపాదిస్తాడు": "He earns three times more than me",
+            "నిన్న రాత్రికి నన్ను నిజంగా క్షమించు": "I'm really sorry for last night",
+            "నీకు ఏ రంగు అంటే ఇష్టం , నీలమా లేక పచ్ఛా ?": "Which color do you like, blue or green?",
+            "టామ్ గర్ల్‌ఫ్రెండ్ తనని వదిలేస్తానని బెదిరించింది.": "Tom's girlfriend threatens to leave him."
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నాకు అది తట్టింది",
+            "ఇదంతా నీ తప్పు కాదు",
+            "నువ్వు ఎప్పుడైనా పారిస్ వెళ్ళావా?",
+            "స్టేషన్కు ఎన్ని గంటలకు వెళ్ళాలి ?"
+        ],
+        "answers": [
+            "It struck me",
+            "Have you ever been to Paris?",
+            "How many hours to go to the station?",
+            "This is not your fault"
+        ],
+        "correct_mapping": {
+            "నువ్వు ఎప్పుడైనా పారిస్ వెళ్ళావా?": "Have you ever been to Paris?",
+            "నాకు అది తట్టింది": "It struck me",
+            "స్టేషన్కు ఎన్ని గంటలకు వెళ్ళాలి ?": "How many hours to go to the station?",
+            "ఇదంతా నీ తప్పు కాదు": "This is not your fault"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "అక్కడ మంచి నీళ్లు ఉన్నాయా ?",
+            "అరటిపళ్ళు రుచికరంగా ఉంటాయి.",
+            "మా నాన్న ప్రస్తుతం ఇంటి దగ్గర లేడు",
+            "స్టేషన్ దగ్గర్లో వుంది"
+        ],
+        "answers": [
+            "Bananas are delicious.",
+            "The station is near",
+            "My father is not at home now",
+            "Is there good water there?"
+        ],
+        "correct_mapping": {
+            "మా నాన్న ప్రస్తుతం ఇంటి దగ్గర లేడు": "My father is not at home now",
+            "అక్కడ మంచి నీళ్లు ఉన్నాయా ?": "Is there good water there?",
+            "స్టేషన్ దగ్గర్లో వుంది": "The station is near",
+            "అరటిపళ్ళు రుచికరంగా ఉంటాయి.": "Bananas are delicious."
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నాకు గంట మోగటం వినపడింది",
+            "మా నాన్న దురదర్శిని చూస్తూనే నిద్ర పోతాడు",
+            "ఎక్కడ నొప్పి పుడుతుందో నాకు చూపించు",
+            "సీత నవ్వింది."
+        ],
+        "answers": [
+            "My father falls asleep watching the misfortune",
+            "I heard the bell ring",
+            "Show me where it hurts",
+            "Sita smiled."
+        ],
+        "correct_mapping": {
+            "ఎక్కడ నొప్పి పుడుతుందో నాకు చూపించు": "Show me where it hurts",
+            "సీత నవ్వింది.": "Sita smiled.",
+            "మా నాన్న దురదర్శిని చూస్తూనే నిద్ర పోతాడు": "My father falls asleep watching the misfortune",
+            "నాకు గంట మోగటం వినపడింది": "I heard the bell ring"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "నీ గది అంకె ఎంత ?",
+            "పసిపాప పాల కోసం ఏడుస్తుంది",
+            "అతడు స్త్రీలాగా వస్త్రాలను ధరించాడు.",
+            "మాకు ఫ్రెంచి అర్ధం కాదు"
+        ],
+        "answers": [
+            "He was clothed like a woman.",
+            "A baby cries for milk",
+            "What is your room number?",
+            "We don't understand French"
+        ],
+        "correct_mapping": {
+            "అతడు స్త్రీలాగా వస్త్రాలను ధరించాడు.": "He was clothed like a woman.",
+            "మాకు ఫ్రెంచి అర్ధం కాదు": "We don't understand French",
+            "పసిపాప పాల కోసం ఏడుస్తుంది": "A baby cries for milk",
+            "నీ గది అంకె ఎంత ?": "What is your room number?"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    },
+    {
+        "questions": [
+            "ఇంకేమి మిగల్లేదు",
+            "అది అంత తేలిక కాదు, తెలుసా",
+            "గులాబీ పూసిందా?",
+            "టామ్ చాలా భయపడ్డాడు."
+        ],
+        "answers": [
+            "Is it pink?",
+            "Tom was very scared.",
+            "It's not that easy, you know",
+            "There is nothing left"
+        ],
+        "correct_mapping": {
+            "ఇంకేమి మిగల్లేదు": "There is nothing left",
+            "గులాబీ పూసిందా?": "Is it pink?",
+            "టామ్ చాలా భయపడ్డాడు.": "Tom was very scared.",
+            "అది అంత తేలిక కాదు, తెలుసా": "It's not that easy, you know"
+        },
+        "level": 3,
+        "module": "Conversation Daily life",
+        "submodule": "Match the following"
+    }
+]

@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'a'?",
+    "options": [
+      "ई",
+      "इ",
+      "अ",
+      "आ"
+    ],
+    "answer": "अ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'aa'?",
+    "options": [
+      "उ",
+      "ई",
+      "आ",
+      "इ"
+    ],
+    "answer": "आ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'i'?",
+    "options": [
+      "ऊ",
+      "उ",
+      "ई",
+      "इ"
+    ],
+    "answer": "इ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'ee'?",
+    "options": [
+      "ई",
+      "उ",
+      "ऊ",
+      "ए"
+    ],
+    "answer": "ई"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'u'?",
+    "options": [
+      "ऊ",
+      "उ",
+      "ऐ",
+      "ए"
+    ],
+    "answer": "उ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'oo'?",
+    "options": [
+      "ऐ",
+      "ऊ",
+      "ओ",
+      "ए"
+    ],
+    "answer": "ऊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'e'?",
+    "options": [
+      "ओ",
+      "औ",
+      "ऐ",
+      "ए"
+    ],
+    "answer": "ए"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'ai'?",
+    "options": [
+      "अ",
+      "ओ",
+      "औ",
+      "ऐ"
+    ],
+    "answer": "ऐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'o'?",
+    "options": [
+      "आ",
+      "ओ",
+      "अ",
+      "औ"
+    ],
+    "answer": "ओ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Nepali vowel for 'au'?",
+    "options": [
+      "औ",
+      "इ",
+      "अ",
+      "आ"
+    ],
+    "answer": "औ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'ka'?",
+    "options": [
+      "क",
+      "ख",
+      "घ",
+      "ग"
+    ],
+    "answer": "क"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'kha'?",
+    "options": [
+      "ग",
+      "घ",
+      "च",
+      "ख"
+    ],
+    "answer": "ख"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'ga'?",
+    "options": [
+      "ग",
+      "छ",
+      "च",
+      "घ"
+    ],
+    "answer": "ग"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'gha'?",
+    "options": [
+      "घ",
+      "छ",
+      "ज",
+      "च"
+    ],
+    "answer": "घ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'cha'?",
+    "options": [
+      "ज",
+      "छ",
+      "झ",
+      "च"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'chha'?",
+    "options": [
+      "ट",
+      "झ",
+      "छ",
+      "ज"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'ja'?",
+    "options": [
+      "ज",
+      "ट",
+      "ठ",
+      "झ"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'jha'?",
+    "options": [
+      "ठ",
+      "झ",
+      "क",
+      "ट"
+    ],
+    "answer": "झ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'ta'?",
+    "options": [
+      "ट",
+      "ठ",
+      "क",
+      "ख"
+    ],
+    "answer": "ट"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Nepali consonant for 'tha'?",
+    "options": [
+      "क",
+      "ठ",
+      "ख",
+      "ग"
+    ],
+    "answer": "ठ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'क' + 'ा'?",
+    "options": [
+      "ते",
+      "मि",
+      "पु",
+      "का"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'प' + 'ु'?",
+    "options": [
+      "सू",
+      "पु",
+      "ते",
+      "मि"
+    ],
+    "answer": "पु"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'म' + 'ि'?",
+    "options": [
+      "नो",
+      "मि",
+      "ते",
+      "सू"
+    ],
+    "answer": "मि"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'त' + 'े'?",
+    "options": [
+      "ते",
+      "रा",
+      "नो",
+      "सू"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'स' + 'ू'?",
+    "options": [
+      "सू",
+      "नो",
+      "रा",
+      "ले"
+    ],
+    "answer": "सू"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'न' + 'ो'?",
+    "options": [
+      "रा",
+      "दि",
+      "नो",
+      "ले"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'र' + 'ा'?",
+    "options": [
+      "रा",
+      "दि",
+      "ले",
+      "वु"
+    ],
+    "answer": "रा"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ल' + 'े'?",
+    "options": [
+      "वु",
+      "दि",
+      "का",
+      "ले"
+    ],
+    "answer": "ले"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'द' + 'ि'?",
+    "options": [
+      "वु",
+      "पु",
+      "का",
+      "दि"
+    ],
+    "answer": "दि"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'व' + 'ु'?",
+    "options": [
+      "मि",
+      "वु",
+      "पु",
+      "का"
+    ],
+    "answer": "वु"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'किताब'? (in Nepali)",
+    "options": [
+      "Pen",
+      "School",
+      "Hand",
+      "Book"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'कलम'? (in Nepali)",
+    "options": [
+      "Pen",
+      "Hand",
+      "Fruit",
+      "School"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'स्कूल'? (in Nepali)",
+    "options": [
+      "School",
+      "Flowers",
+      "Hand",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'हात'? (in Nepali)",
+    "options": [
+      "Hand",
+      "Fruit",
+      "Flowers",
+      "Tree"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फल'? (in Nepali)",
+    "options": [
+      "Fruit",
+      "Tree",
+      "Slate",
+      "Flowers"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फूल'? (in Nepali)",
+    "options": [
+      "Flowers",
+      "Speak",
+      "Slate",
+      "Tree"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'रुख'? (in Nepali)",
+    "options": [
+      "Speak",
+      "Slate",
+      "Speech",
+      "Tree"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पाटी'? (in Nepali)",
+    "options": [
+      "Book",
+      "Slate",
+      "Speak",
+      "Speech"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'बोल्नु'? (in Nepali)",
+    "options": [
+      "Speech",
+      "Book",
+      "Speak",
+      "Pen"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'भाषा'? (in Nepali)",
+    "options": [
+      "School",
+      "Book",
+      "Speech",
+      "Pen"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'book'?",
+    "options": [
+      "किताब",
+      "स्कूल",
+      "कलम",
+      "झोला"
+    ],
+    "answer": "किताब"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'pen'?",
+    "options": [
+      "झोला",
+      "कुर्सी",
+      "कलम",
+      "स्कूल"
+    ],
+    "answer": "कलम"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'school'?",
+    "options": [
+      "झोला",
+      "टेबल",
+      "कुर्सी",
+      "स्कूल"
+    ],
+    "answer": "स्कूल"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'bag'?",
+    "options": [
+      "पाटी",
+      "झोला",
+      "टेबल",
+      "कुर्सी"
+    ],
+    "answer": "झोला"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'chair'?",
+    "options": [
+      "टेबल",
+      "कुर्सी",
+      "पाटी",
+      "झ्याल"
+    ],
+    "answer": "कुर्सी"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'table'?",
+    "options": [
+      "पाटी",
+      "टेबल",
+      "ढोका",
+      "झ्याल"
+    ],
+    "answer": "टेबल"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'slate'?",
+    "options": [
+      "पंखा",
+      "पाटी",
+      "ढोका",
+      "झ्याल"
+    ],
+    "answer": "पाटी"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'window'?",
+    "options": [
+      "किताब",
+      "ढोका",
+      "झ्याल",
+      "पंखा"
+    ],
+    "answer": "झ्याल"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'door'?",
+    "options": [
+      "ढोका",
+      "पंखा",
+      "कलम",
+      "किताब"
+    ],
+    "answer": "ढोका"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Nepali word for 'fan'?",
+    "options": [
+      "स्कूल",
+      "कलम",
+      "किताब",
+      "पंखा"
+    ],
+    "answer": "पंखा"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'rice'?",
+    "options": [
+      "भात",
+      "तरकारी",
+      "दूध",
+      "फल"
+    ],
+    "answer": "भात"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'milk'?",
+    "options": [
+      "तरकारी",
+      "फल",
+      "दूध",
+      "पानी"
+    ],
+    "answer": "दूध"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'fruit'?",
+    "options": [
+      "पानी",
+      "तरकारी",
+      "फल",
+      "दही"
+    ],
+    "answer": "फल"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'vegetable'?",
+    "options": [
+      "पानी",
+      "तरकारी",
+      "दही",
+      "रोटी"
+    ],
+    "answer": "तरकारी"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'water'?",
+    "options": [
+      "अण्डा",
+      "पानी",
+      "दही",
+      "रोटी"
+    ],
+    "answer": "पानी"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'curd'?",
+    "options": [
+      "रोटी",
+      "माछा",
+      "अण्डा",
+      "दही"
+    ],
+    "answer": "दही"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'bread'?",
+    "options": [
+      "अण्डा",
+      "रोटी",
+      "माछा",
+      "मिठो"
+    ],
+    "answer": "रोटी"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'egg'?",
+    "options": [
+      "अण्डा",
+      "मिठो",
+      "माछा",
+      "भात"
+    ],
+    "answer": "अण्डा"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'fish'?",
+    "options": [
+      "भात",
+      "दूध",
+      "मिठो",
+      "माछा"
+    ],
+    "answer": "माछा"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'sweet'?",
+    "options": [
+      "फल",
+      "दूध",
+      "मिठो",
+      "भात"
+    ],
+    "answer": "मिठो"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'mother'?",
+    "options": [
+      "दिदी",
+      "बुवा",
+      "दाजु",
+      "आमा"
+    ],
+    "answer": "आमा"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'father'?",
+    "options": [
+      "दाजु",
+      "बुवा",
+      "दिदी",
+      "हजुरआमा"
+    ],
+    "answer": "बुवा"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'sister'?",
+    "options": [
+      "हजुरबुवा",
+      "दिदी",
+      "दाजु",
+      "हजुरआमा"
+    ],
+    "answer": "दिदी"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'brother'?",
+    "options": [
+      "हजुरआमा",
+      "दाजु",
+      "हजुरबुवा",
+      "काका"
+    ],
+    "answer": "दाजु"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'grandmother'?",
+    "options": [
+      "हजुरबुवा",
+      "काकी",
+      "हजुरआमा",
+      "काका"
+    ],
+    "answer": "हजुरआमा"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'grandfather'?",
+    "options": [
+      "काका",
+      "हजुरबुवा",
+      "काकी",
+      "छोरा"
+    ],
+    "answer": "हजुरबुवा"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'uncle'?",
+    "options": [
+      "काकी",
+      "छोरी",
+      "काका",
+      "छोरा"
+    ],
+    "answer": "काका"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'aunt'?",
+    "options": [
+      "छोरी",
+      "छोरा",
+      "काकी",
+      "आमा"
+    ],
+    "answer": "काकी"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'son'?",
+    "options": [
+      "बुवा",
+      "छोरी",
+      "आमा",
+      "छोरा"
+    ],
+    "answer": "छोरा"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Nepali word for 'daughter'?",
+    "options": [
+      "आमा",
+      "बुवा",
+      "छोरी",
+      "दिदी"
+    ],
+    "answer": "छोरी"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'tree'?",
+    "options": [
+      "फूल",
+      "पहाड",
+      "नदी",
+      "रुख"
+    ],
+    "answer": "रुख"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'flower'?",
+    "options": [
+      "नदी",
+      "पहाड",
+      "पात",
+      "फूल"
+    ],
+    "answer": "फूल"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'river'?",
+    "options": [
+      "पात",
+      "नदी",
+      "आकाश",
+      "पहाड"
+    ],
+    "answer": "नदी"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'mountain'?",
+    "options": [
+      "पानी",
+      "पहाड",
+      "आकाश",
+      "पात"
+    ],
+    "answer": "पहाड"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'leaf'?",
+    "options": [
+      "पात",
+      "आकाश",
+      "पानी",
+      "सूर्य"
+    ],
+    "answer": "पात"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'sky'?",
+    "options": [
+      "सूर्य",
+      "आकाश",
+      "चन्द्र",
+      "पानी"
+    ],
+    "answer": "आकाश"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'rain'?",
+    "options": [
+      "पानी",
+      "चन्द्र",
+      "तारा",
+      "सूर्य"
+    ],
+    "answer": "पानी"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'sun'?",
+    "options": [
+      "चन्द्र",
+      "तारा",
+      "सूर्य",
+      "रुख"
+    ],
+    "answer": "सूर्य"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'moon'?",
+    "options": [
+      "चन्द्र",
+      "तारा",
+      "फूल",
+      "रुख"
+    ],
+    "answer": "चन्द्र"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Nepali word for 'star'?",
+    "options": [
+      "फूल",
+      "नदी",
+      "तारा",
+      "रुख"
+    ],
+    "answer": "तारा"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Nepali?",
+    "options": [
+      "शुभ प्रभात",
+      "स्वागत",
+      "नमस्ते",
+      "शुभ रात्री"
+    ],
+    "answer": "नमस्ते"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Nepali?",
+    "options": [
+      "शुभ प्रभात",
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "स्वागत",
+      "शुभ रात्री"
+    ],
+    "answer": "शुभ प्रभात"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Nepali?",
+    "options": [
+      "शुभ रात्री",
+      "ठीक छु",
+      "स्वागत",
+      "तपाईं कस्तो हुनुहुन्छ?"
+    ],
+    "answer": "शुभ रात्री"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Nepali?",
+    "options": [
+      "स्वागत",
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "ठीक छु",
+      "फेरि भेटौंला"
+    ],
+    "answer": "स्वागत"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Nepali?",
+    "options": [
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "बिदाई",
+      "फेरि भेटौंला",
+      "ठीक छु"
+    ],
+    "answer": "तपाईं कस्तो हुनुहुन्छ?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Nepali?",
+    "options": [
+      "फेरि भेटौंला",
+      "बिदाई",
+      "ठीक छु",
+      "ख्याल गर्नुहोस्"
+    ],
+    "answer": "ठीक छु"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Nepali?",
+    "options": [
+      "ख्याल गर्नुहोस्",
+      "फेरि भेटौंला",
+      "धन्यवाद",
+      "बिदाई"
+    ],
+    "answer": "फेरि भेटौंला"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Nepali?",
+    "options": [
+      "धन्यवाद",
+      "बिदाई",
+      "नमस्ते",
+      "ख्याल गर्नुहोस्"
+    ],
+    "answer": "बिदाई"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Nepali?",
+    "options": [
+      "नमस्ते",
+      "शुभ प्रभात",
+      "ख्याल गर्नुहोस्",
+      "धन्यवाद"
+    ],
+    "answer": "ख्याल गर्नुहोस्"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Nepali?",
+    "options": [
+      "धन्यवाद",
+      "शुभ प्रभात",
+      "शुभ रात्री",
+      "नमस्ते"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Nepali?",
+    "options": [
+      "म ... बाट आएको हुँ",
+      "मेरो नाम ... हो",
+      "म एक विद्यार्थी हुँ",
+      "म एक शिक्षक हुँ"
+    ],
+    "answer": "मेरो नाम ... हो"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Nepali?",
+    "options": [
+      "म एक विद्यार्थी हुँ",
+      "म ... बाट आएको हुँ",
+      "तपाईंलाई भेटेर खुशी लाग्यो",
+      "म एक शिक्षक हुँ"
+    ],
+    "answer": "म ... बाट आएको हुँ"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Nepali?",
+    "options": [
+      "तपाईंलाई भेटेर खुशी लाग्यो",
+      "म ... मा बस्छु",
+      "म एक विद्यार्थी हुँ",
+      "म एक शिक्षक हुँ"
+    ],
+    "answer": "म एक विद्यार्थी हुँ"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Nepali?",
+    "options": [
+      "म नेपाली सिकिरहेको छु",
+      "तपाईंलाई भेटेर खुशी लाग्यो",
+      "म ... मा बस्छु",
+      "म एक शिक्षक हुँ"
+    ],
+    "answer": "म एक शिक्षक हुँ"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Nepali?",
+    "options": [
+      "म ... मा बस्छु",
+      "म नेपाली सिकिरहेको छु",
+      "तपाईंको नाम के हो?",
+      "तपाईंलाई भेटेर खुशी लाग्यो"
+    ],
+    "answer": "तपाईंलाई भेटेर खुशी लाग्यो"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Nepali?",
+    "options": [
+      "तपाईंको नाम के हो?",
+      "म ... मा बस्छु",
+      "म नेपाली सिकिरहेको छु",
+      "तपाईं कहाँबाट आउनुभएको हो?"
+    ],
+    "answer": "म ... मा बस्छु"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Nepali' in Nepali?",
+    "options": [
+      "तपाईंको उमेर कति हो?",
+      "तपाईं कहाँबाट आउनुभएको हो?",
+      "म नेपाली सिकिरहेको छु",
+      "तपाईंको नाम के हो?"
+    ],
+    "answer": "म नेपाली सिकिरहेको छु"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Nepali?",
+    "options": [
+      "तपाईं कहाँबाट आउनुभएको हो?",
+      "तपाईंको नाम के हो?",
+      "तपाईंको उमेर कति हो?",
+      "मेरो नाम ... हो"
+    ],
+    "answer": "तपाईंको नाम के हो?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Nepali?",
+    "options": [
+      "मेरो नाम ... हो",
+      "तपाईं कहाँबाट आउनुभएको हो?",
+      "तपाईंको उमेर कति हो?",
+      "म ... बाट आएको हुँ"
+    ],
+    "answer": "तपाईं कहाँबाट आउनुभएको हो?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Nepali?",
+    "options": [
+      "म ... बाट आएको हुँ",
+      "तपाईंको उमेर कति हो?",
+      "मेरो नाम ... हो",
+      "म एक विद्यार्थी हुँ"
+    ],
+    "answer": "तपाईंको उमेर कति हो?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Nepali?",
+    "options": [
+      "हुन सक्छ",
+      "होइन",
+      "हो",
+      "पक्कै"
+    ],
+    "answer": "हो"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Nepali?",
+    "options": [
+      "होइन",
+      "हुन सक्छ",
+      "पक्कै",
+      "कहिल्यै होइन"
+    ],
+    "answer": "होइन"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Nepali?",
+    "options": [
+      "कहिल्यै होइन",
+      "कहिले काहीं",
+      "पक्कै",
+      "हुन सक्छ"
+    ],
+    "answer": "हुन सक्छ"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Nepali?",
+    "options": [
+      "कहिले काहीं",
+      "पक्कै",
+      "कहिल्यै होइन",
+      "सधैं"
+    ],
+    "answer": "पक्कै"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Nepali?",
+    "options": [
+      "कहिल्यै होइन",
+      "बिल्कुल होइन",
+      "कहिले काहीं",
+      "सधैं"
+    ],
+    "answer": "कहिल्यै होइन"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Nepali?",
+    "options": [
+      "सधैं",
+      "बिल्कुल होइन",
+      "पक्का",
+      "कहिले काहीं"
+    ],
+    "answer": "कहिले काहीं"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Nepali?",
+    "options": [
+      "बिल्कुल होइन",
+      "पक्का",
+      "मलाई थाहा छैन",
+      "सधैं"
+    ],
+    "answer": "सधैं"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Nepali?",
+    "options": [
+      "बिल्कुल होइन",
+      "मलाई थाहा छैन",
+      "पक्का",
+      "हो"
+    ],
+    "answer": "बिल्कुल होइन"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Nepali?",
+    "options": [
+      "हो",
+      "मलाई थाहा छैन",
+      "पक्का",
+      "होइन"
+    ],
+    "answer": "पक्का"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Nepali?",
+    "options": [
+      "हो",
+      "मलाई थाहा छैन",
+      "हुन सक्छ",
+      "होइन"
+    ],
+    "answer": "मलाई थाहा छैन"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Nepali?",
+    "options": [
+      "धन्यवाद",
+      "कृपया",
+      "माफ गर्नुहोस्",
+      "माफ गर्नुहोस्"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Nepali?",
+    "options": [
+      "माफ गर्नुहोस्",
+      "कृपया",
+      "स्वागत छ",
+      "माफ गर्नुहोस्"
+    ],
+    "answer": "माफ गर्नुहोस्"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Nepali?",
+    "options": [
+      "माफ गर्नुहोस्",
+      "कृपया",
+      "कुनै समस्या छैन",
+      "स्वागत छ"
+    ],
+    "answer": "कृपया"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Nepali?",
+    "options": [
+      "कुनै समस्या छैन",
+      "माफ गर्नुहोस्",
+      "स्वागत छ",
+      "बधाई"
+    ],
+    "answer": "माफ गर्नुहोस्"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Nepali?",
+    "options": [
+      "बधाई",
+      "स्वागत छ",
+      "भगवानले आशीर्वाद दिनुहोस्",
+      "कुनै समस्या छैन"
+    ],
+    "answer": "स्वागत छ"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Nepali?",
+    "options": [
+      "कुनै समस्या छैन",
+      "शुभकामना",
+      "भगवानले आशीर्वाद दिनुहोस्",
+      "बधाई"
+    ],
+    "answer": "कुनै समस्या छैन"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Nepali?",
+    "options": [
+      "बधाई",
+      "जन्मदिनको शुभकामना",
+      "शुभकामना",
+      "भगवानले आशीर्वाद दिनुहोस्"
+    ],
+    "answer": "बधाई"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Nepali?",
+    "options": [
+      "धन्यवाद",
+      "जन्मदिनको शुभकामना",
+      "भगवानले आशीर्वाद दिनुहोस्",
+      "शुभकामना"
+    ],
+    "answer": "भगवानले आशीर्वाद दिनुहोस्"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Nepali?",
+    "options": [
+      "माफ गर्नुहोस्",
+      "धन्यवाद",
+      "जन्मदिनको शुभकामना",
+      "शुभकामना"
+    ],
+    "answer": "शुभकामना"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Nepali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Nepali?",
+    "options": [
+      "धन्यवाद",
+      "जन्मदिनको शुभकामना",
+      "कृपया",
+      "माफ गर्नुहोस्"
+    ],
+    "answer": "जन्मदिनको शुभकामना"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'ki'?",
+    "options": [
+      "को",
+      "कि",
+      "के",
+      "कु"
+    ],
+    "answer": "कि"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'ku'?",
+    "options": [
+      "को",
+      "कु",
+      "गि",
+      "के"
+    ],
+    "answer": "कु"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'ke'?",
+    "options": [
+      "गु",
+      "के",
+      "गि",
+      "को"
+    ],
+    "answer": "के"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'ko'?",
+    "options": [
+      "गे",
+      "को",
+      "गु",
+      "गि"
+    ],
+    "answer": "को"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'gi'?",
+    "options": [
+      "गु",
+      "गि",
+      "गे",
+      "गो"
+    ],
+    "answer": "गि"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'gu'?",
+    "options": [
+      "गो",
+      "चि",
+      "गु",
+      "गे"
+    ],
+    "answer": "गु"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'ge'?",
+    "options": [
+      "गे",
+      "चु",
+      "चि",
+      "गो"
+    ],
+    "answer": "गे"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'go'?",
+    "options": [
+      "चु",
+      "चि",
+      "कि",
+      "गो"
+    ],
+    "answer": "गो"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'chi'?",
+    "options": [
+      "चि",
+      "कु",
+      "कि",
+      "चु"
+    ],
+    "answer": "चि"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Nepali syllable for 'chu'?",
+    "options": [
+      "कि",
+      "कु",
+      "चु",
+      "के"
+    ],
+    "answer": "चु"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'ksha'?",
+    "options": [
+      "ज्ञ",
+      "त्र",
+      "क्ष",
+      "श्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'tra'?",
+    "options": [
+      "त्र",
+      "श्र",
+      "ज्ञ",
+      "क्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'jna'?",
+    "options": [
+      "क्र",
+      "प्र",
+      "ज्ञ",
+      "श्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'shra'?",
+    "options": [
+      "क्र",
+      "श्र",
+      "प्र",
+      "स्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'kra'?",
+    "options": [
+      "ग्र",
+      "प्र",
+      "स्र",
+      "क्र"
+    ],
+    "answer": "क्र"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'pra'?",
+    "options": [
+      "ग्र",
+      "प्र",
+      "स्र",
+      "द्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'sra'?",
+    "options": [
+      "स्र",
+      "द्र",
+      "ग्र",
+      "न्त"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'gra'?",
+    "options": [
+      "क्ष",
+      "न्त",
+      "ग्र",
+      "द्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'dra'?",
+    "options": [
+      "क्ष",
+      "न्त",
+      "द्र",
+      "त्र"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Nepali ligature for 'nta'?",
+    "options": [
+      "न्त",
+      "त्र",
+      "क्ष",
+      "ज्ञ"
+    ],
+    "answer": "न्त"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'sha'?",
+    "options": [
+      "स",
+      "ह",
+      "श",
+      "ल"
+    ],
+    "answer": "श"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'sa'?",
+    "options": [
+      "स",
+      "ल",
+      "र",
+      "ह"
+    ],
+    "answer": "स"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'ha'?",
+    "options": [
+      "व",
+      "ल",
+      "र",
+      "ह"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'la'?",
+    "options": [
+      "र",
+      "य",
+      "व",
+      "ल"
+    ],
+    "answer": "ल"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'ra'?",
+    "options": [
+      "फ",
+      "र",
+      "व",
+      "य"
+    ],
+    "answer": "र"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'va'?",
+    "options": [
+      "ज",
+      "व",
+      "फ",
+      "य"
+    ],
+    "answer": "व"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'ya'?",
+    "options": [
+      "य",
+      "क्व",
+      "ज",
+      "फ"
+    ],
+    "answer": "य"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'fa'?",
+    "options": [
+      "फ",
+      "श",
+      "ज",
+      "क्व"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'za'?",
+    "options": [
+      "स",
+      "क्व",
+      "श",
+      "ज"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Nepali letter for 'qwa'?",
+    "options": [
+      "स",
+      "ह",
+      "क्व",
+      "श"
+    ],
+    "answer": "क्व"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'क्षीर'?",
+    "options": [
+      "क्ष",
+      "त्र",
+      "ज्ञ",
+      "श्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'ज्ञान'?",
+    "options": [
+      "श्र",
+      "ज्ञ",
+      "त्र",
+      "ग्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'त्रिकोण'?",
+    "options": [
+      "श्र",
+      "प्र",
+      "त्र",
+      "ग्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'श्रद्धा'?",
+    "options": [
+      "श्र",
+      "प्र",
+      "ग्र",
+      "स्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'ग्रन्थ'?",
+    "options": [
+      "ग्र",
+      "स्र",
+      "द्र",
+      "प्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'प्रयत्न'?",
+    "options": [
+      "फ",
+      "प्र",
+      "द्र",
+      "स्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'स्रोत'?",
+    "options": [
+      "फ",
+      "द्र",
+      "ह",
+      "स्र"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'द्रव्य'?",
+    "options": [
+      "द्र",
+      "फ",
+      "ह",
+      "क्ष"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'फल'?",
+    "options": [
+      "फ",
+      "ज्ञ",
+      "ह",
+      "क्ष"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Nepali letter is used in the word 'हरिद्वार'?",
+    "options": [
+      "ज्ञ",
+      "ह",
+      "क्ष",
+      "त्र"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Sunday'?",
+    "options": [
+      "सोमबार",
+      "बुधबार",
+      "आइतबार",
+      "मंगलबार"
+    ],
+    "answer": "आइतबार"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Monday'?",
+    "options": [
+      "मंगलबार",
+      "बिहीबार",
+      "सोमबार",
+      "बुधबार"
+    ],
+    "answer": "सोमबार"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Tuesday'?",
+    "options": [
+      "बुधबार",
+      "शुक्रबार",
+      "बिहीबार",
+      "मंगलबार"
+    ],
+    "answer": "मंगलबार"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Wednesday'?",
+    "options": [
+      "बुधबार",
+      "शुक्रबार",
+      "शनिबार",
+      "बिहीबार"
+    ],
+    "answer": "बुधबार"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Thursday'?",
+    "options": [
+      "शुक्रबार",
+      "शनिबार",
+      "बिहीबार",
+      "आज"
+    ],
+    "answer": "बिहीबार"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Friday'?",
+    "options": [
+      "शुक्रबार",
+      "भोलि",
+      "आज",
+      "शनिबार"
+    ],
+    "answer": "शुक्रबार"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Saturday'?",
+    "options": [
+      "भोलि",
+      "हिजो",
+      "आज",
+      "शनिबार"
+    ],
+    "answer": "शनिबार"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Today'?",
+    "options": [
+      "हिजो",
+      "भोलि",
+      "आइतबार",
+      "आज"
+    ],
+    "answer": "आज"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Tomorrow'?",
+    "options": [
+      "हिजो",
+      "आइतबार",
+      "भोलि",
+      "सोमबार"
+    ],
+    "answer": "भोलि"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Nepali word for 'Yesterday'?",
+    "options": [
+      "सोमबार",
+      "मंगलबार",
+      "हिजो",
+      "आइतबार"
+    ],
+    "answer": "हिजो"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'red'?",
+    "options": [
+      "रातो",
+      "निलो",
+      "हरियो",
+      "पहेंलो"
+    ],
+    "answer": "रातो"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'blue'?",
+    "options": [
+      "निलो",
+      "हरियो",
+      "कालो",
+      "पहेंलो"
+    ],
+    "answer": "निलो"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'green'?",
+    "options": [
+      "हरियो",
+      "पहेंलो",
+      "सेतो",
+      "कालो"
+    ],
+    "answer": "हरियो"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'yellow'?",
+    "options": [
+      "सेतो",
+      "पहेंलो",
+      "सुन्तला रंग",
+      "कालो"
+    ],
+    "answer": "पहेंलो"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'black'?",
+    "options": [
+      "कालो",
+      "गुलाबी",
+      "सुन्तला रंग",
+      "सेतो"
+    ],
+    "answer": "कालो"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'white'?",
+    "options": [
+      "सुन्तला रंग",
+      "बैजनी",
+      "सेतो",
+      "गुलाबी"
+    ],
+    "answer": "सेतो"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'orange'?",
+    "options": [
+      "बैजनी",
+      "सुन्तला रंग",
+      "खैरो",
+      "गुलाबी"
+    ],
+    "answer": "सुन्तला रंग"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'pink'?",
+    "options": [
+      "खैरो",
+      "रातो",
+      "बैजनी",
+      "गुलाबी"
+    ],
+    "answer": "गुलाबी"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'purple'?",
+    "options": [
+      "रातो",
+      "खैरो",
+      "बैजनी",
+      "निलो"
+    ],
+    "answer": "बैजनी"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Nepali word for 'brown'?",
+    "options": [
+      "निलो",
+      "खैरो",
+      "हरियो",
+      "रातो"
+    ],
+    "answer": "खैरो"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'one'?",
+    "options": [
+      "एक",
+      "चार",
+      "तीन",
+      "दुई"
+    ],
+    "answer": "एक"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'two'?",
+    "options": [
+      "तीन",
+      "दुई",
+      "चार",
+      "पाँच"
+    ],
+    "answer": "दुई"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'three'?",
+    "options": [
+      "पाँच",
+      "छ",
+      "तीन",
+      "चार"
+    ],
+    "answer": "तीन"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'four'?",
+    "options": [
+      "छ",
+      "चार",
+      "सात",
+      "पाँच"
+    ],
+    "answer": "चार"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'five'?",
+    "options": [
+      "छ",
+      "सात",
+      "आठ",
+      "पाँच"
+    ],
+    "answer": "पाँच"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'six'?",
+    "options": [
+      "नौ",
+      "छ",
+      "आठ",
+      "सात"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'seven'?",
+    "options": [
+      "सात",
+      "आठ",
+      "नौ",
+      "दश"
+    ],
+    "answer": "सात"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'eight'?",
+    "options": [
+      "नौ",
+      "आठ",
+      "दश",
+      "एक"
+    ],
+    "answer": "आठ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'nine'?",
+    "options": [
+      "नौ",
+      "दश",
+      "दुई",
+      "एक"
+    ],
+    "answer": "नौ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Nepali word for 'ten'?",
+    "options": [
+      "तीन",
+      "एक",
+      "दुई",
+      "दश"
+    ],
+    "answer": "दश"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'breakfast'?",
+    "options": [
+      "दिउँसोको खाना",
+      "बिहानको खाना",
+      "बेलुकाको खाना",
+      "खाजा"
+    ],
+    "answer": "बिहानको खाना"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'lunch'?",
+    "options": [
+      "बेलुकाको खाना",
+      "दिउँसोको खाना",
+      "मिठाई",
+      "खाजा"
+    ],
+    "answer": "दिउँसोको खाना"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'dinner'?",
+    "options": [
+      "पिरो",
+      "बेलुकाको खाना",
+      "खाजा",
+      "मिठाई"
+    ],
+    "answer": "बेलुकाको खाना"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'snacks'?",
+    "options": [
+      "मिठाई",
+      "खाजा",
+      "शाकाहारी",
+      "पिरो"
+    ],
+    "answer": "खाजा"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'sweets'?",
+    "options": [
+      "पिरो",
+      "मिठाई",
+      "मांसाहारी",
+      "शाकाहारी"
+    ],
+    "answer": "मिठाई"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'spicy'?",
+    "options": [
+      "मांसाहारी",
+      "रस",
+      "पिरो",
+      "शाकाहारी"
+    ],
+    "answer": "पिरो"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'vegetarian'?",
+    "options": [
+      "शाकाहारी",
+      "मांसाहारी",
+      "रस",
+      "कफी"
+    ],
+    "answer": "शाकाहारी"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'non-vegetarian'?",
+    "options": [
+      "मांसाहारी",
+      "रस",
+      "कफी",
+      "बिहानको खाना"
+    ],
+    "answer": "मांसाहारी"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'juice'?",
+    "options": [
+      "कफी",
+      "रस",
+      "दिउँसोको खाना",
+      "बिहानको खाना"
+    ],
+    "answer": "रस"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Nepali word for 'coffee'?",
+    "options": [
+      "बेलुकाको खाना",
+      "कफी",
+      "दिउँसोको खाना",
+      "बिहानको खाना"
+    ],
+    "answer": "कफी"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Nepali?",
+    "options": [
+      "तपाईंको नाम के हो?",
+      "तपाईंको उमेर कति हो?",
+      "तपाईं कहाँबाट आउनुभएको हो?",
+      "तपाईं कस्तो हुनुहुन्छ?"
+    ],
+    "answer": "तपाईं कस्तो हुनुहुन्छ?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Nepali?",
+    "options": [
+      "तपाईं नेपाली बोल्नुहुन्छ?",
+      "तपाईंको नाम के हो?",
+      "तपाईं कहाँबाट आउनुभएको हो?",
+      "तपाईंको उमेर कति हो?"
+    ],
+    "answer": "तपाईंको नाम के हो?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Nepali?",
+    "options": [
+      "तपाईंको उमेर कति हो?",
+      "तपाईं नेपाली बोल्नुहुन्छ?",
+      "म तपाईंलाई मद्दत गर्न सक्छु?",
+      "तपाईं कहाँबाट आउनुभएको हो?"
+    ],
+    "answer": "तपाईं कहाँबाट आउनुभएको हो?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Nepali?",
+    "options": [
+      "म तपाईंलाई मद्दत गर्न सक्छु?",
+      "तपाईंको उमेर कति हो?",
+      "तपाईं नेपाली बोल्नुहुन्छ?",
+      "बाथरूम कहाँ छ?"
+    ],
+    "answer": "तपाईंको उमेर कति हो?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Nepali?' in Nepali?",
+    "options": [
+      "बाथरूम कहाँ छ?",
+      "म तपाईंलाई मद्दत गर्न सक्छु?",
+      "तपाईं नेपाली बोल्नुहुन्छ?",
+      "यो कति हो?"
+    ],
+    "answer": "तपाईं नेपाली बोल्नुहुन्छ?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Nepali?",
+    "options": [
+      "बाथरूम कहाँ छ?",
+      "यो कति हो?",
+      "कति बज्यो?",
+      "म तपाईंलाई मद्दत गर्न सक्छु?"
+    ],
+    "answer": "म तपाईंलाई मद्दत गर्न सक्छु?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Nepali?",
+    "options": [
+      "कति बज्यो?",
+      "यो कति हो?",
+      "तपाईं कहाँ बस्नुहुन्छ?",
+      "बाथरूम कहाँ छ?"
+    ],
+    "answer": "बाथरूम कहाँ छ?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Nepali?",
+    "options": [
+      "यो कति हो?",
+      "तपाईं कहाँ बस्नुहुन्छ?",
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "कति बज्यो?"
+    ],
+    "answer": "यो कति हो?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Nepali?",
+    "options": [
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "कति बज्यो?",
+      "तपाईंको नाम के हो?",
+      "तपाईं कहाँ बस्नुहुन्छ?"
+    ],
+    "answer": "कति बज्यो?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Nepali?",
+    "options": [
+      "तपाईं कहाँ बस्नुहुन्छ?",
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "तपाईंको नाम के हो?",
+      "तपाईं कहाँबाट आउनुभएको हो?"
+    ],
+    "answer": "तपाईं कहाँ बस्नुहुन्छ?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Nepali?",
+    "options": [
+      "कृपया पर्खनुहोस्",
+      "कृपया मलाई मद्दत गर्नुहोस्",
+      "कृपया यहाँ आउनुहोस्",
+      "कृपया बस्नुहोस्"
+    ],
+    "answer": "कृपया मलाई मद्दत गर्नुहोस्"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Nepali?",
+    "options": [
+      "कृपया यहाँ आउनुहोस्",
+      "कृपया बस्नुहोस्",
+      "कृपया पर्खनुहोस्",
+      "कृपया बिस्तारै बोल्नुहोस्"
+    ],
+    "answer": "कृपया पर्खनुहोस्"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Nepali?",
+    "options": [
+      "कृपया लेख्नुहोस्",
+      "कृपया बिस्तारै बोल्नुहोस्",
+      "कृपया बस्नुहोस्",
+      "कृपया यहाँ आउनुहोस्"
+    ],
+    "answer": "कृपया यहाँ आउनुहोस्"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Nepali?",
+    "options": [
+      "कृपया बिस्तारै बोल्नुहोस्",
+      "कृपया बस्नुहोस्",
+      "कृपया लेख्नुहोस्",
+      "कृपया दोहोर्याउनुहोस्"
+    ],
+    "answer": "कृपया बस्नुहोस्"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Nepali?",
+    "options": [
+      "कृपया लेख्नुहोस्",
+      "कृपया दोहोर्याउनुहोस्",
+      "कृपया मलाई देखाउनुहोस्",
+      "कृपया बिस्तारै बोल्नुहोस्"
+    ],
+    "answer": "कृपया बिस्तारै बोल्नुहोस्"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Nepali?",
+    "options": [
+      "कृपया मलाई देखाउनुहोस्",
+      "कृपया दोहोर्याउनुहोस्",
+      "कृपया ढोका खोल्नुहोस्",
+      "कृपया लेख्नुहोस्"
+    ],
+    "answer": "कृपया लेख्नुहोस्"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Nepali?",
+    "options": [
+      "कृपया दोहोर्याउनुहोस्",
+      "कृपया झ्याल बन्द गर्नुहोस्",
+      "कृपया मलाई देखाउनुहोस्",
+      "कृपया ढोका खोल्नुहोस्"
+    ],
+    "answer": "कृपया दोहोर्याउनुहोस्"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Nepali?",
+    "options": [
+      "कृपया मलाई मद्दत गर्नुहोस्",
+      "कृपया मलाई देखाउनुहोस्",
+      "कृपया झ्याल बन्द गर्नुहोस्",
+      "कृपया ढोका खोल्नुहोस्"
+    ],
+    "answer": "कृपया मलाई देखाउनुहोस्"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Nepali?",
+    "options": [
+      "कृपया ढोका खोल्नुहोस्",
+      "कृपया पर्खनुहोस्",
+      "कृपया मलाई मद्दत गर्नुहोस्",
+      "कृपया झ्याल बन्द गर्नुहोस्"
+    ],
+    "answer": "कृपया ढोका खोल्नुहोस्"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Nepali?",
+    "options": [
+      "कृपया झ्याल बन्द गर्नुहोस्",
+      "कृपया पर्खनुहोस्",
+      "कृपया मलाई मद्दत गर्नुहोस्",
+      "कृपया यहाँ आउनुहोस्"
+    ],
+    "answer": "कृपया झ्याल बन्द गर्नुहोस्"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Nepali?",
+    "options": [
+      "म यो प्रयोग गर्न सक्छु?",
+      "यो कति हो?",
+      "म यो किन्न चाहन्छु",
+      "छुट छ?"
+    ],
+    "answer": "यो कति हो?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Nepali?",
+    "options": [
+      "छुट छ?",
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "म यो प्रयोग गर्न सक्छु?",
+      "म यो किन्न चाहन्छु"
+    ],
+    "answer": "छुट छ?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Nepali?",
+    "options": [
+      "काउन्टर कहाँ छ?",
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "म यो किन्न चाहन्छु",
+      "म यो प्रयोग गर्न सक्छु?"
+    ],
+    "answer": "म यो किन्न चाहन्छु"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Nepali?",
+    "options": [
+      "यो उपलब्ध छ?",
+      "काउन्टर कहाँ छ?",
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "म यो प्रयोग गर्न सक्छु?"
+    ],
+    "answer": "म यो प्रयोग गर्न सक्छु?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Nepali?",
+    "options": [
+      "काउन्टर कहाँ छ?",
+      "कृपया यो प्याक गर्नुहोस्",
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "यो उपलब्ध छ?"
+    ],
+    "answer": "तपाईं कार्ड लिनुहुन्छ?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Nepali?",
+    "options": [
+      "कृपया यो प्याक गर्नुहोस्",
+      "मलाई झोला चाहिन्छ",
+      "काउन्टर कहाँ छ?",
+      "यो उपलब्ध छ?"
+    ],
+    "answer": "काउन्टर कहाँ छ?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Nepali?",
+    "options": [
+      "यो उपलब्ध छ?",
+      "समय के हो?",
+      "कृपया यो प्याक गर्नुहोस्",
+      "मलाई झोला चाहिन्छ"
+    ],
+    "answer": "यो उपलब्ध छ?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Nepali?",
+    "options": [
+      "यो कति हो?",
+      "समय के हो?",
+      "मलाई झोला चाहिन्छ",
+      "कृपया यो प्याक गर्नुहोस्"
+    ],
+    "answer": "कृपया यो प्याक गर्नुहोस्"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Nepali?",
+    "options": [
+      "यो कति हो?",
+      "समय के हो?",
+      "मलाई झोला चाहिन्छ",
+      "छुट छ?"
+    ],
+    "answer": "मलाई झोला चाहिन्छ"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Nepali?",
+    "options": [
+      "छुट छ?",
+      "यो कति हो?",
+      "म यो किन्न चाहन्छु",
+      "समय के हो?"
+    ],
+    "answer": "समय के हो?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Nepali?",
+    "options": [
+      "बजार कुन बाटो हो?",
+      "बस स्टप कहाँ छ?",
+      "यो यहाँबाट टाढा छ?",
+      "रेलवे स्टेशन कसरी जाने?"
+    ],
+    "answer": "बस स्टप कहाँ छ?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Nepali?",
+    "options": [
+      "बायाँ मोड्नुहोस्",
+      "रेलवे स्टेशन कसरी जाने?",
+      "बजार कुन बाटो हो?",
+      "यो यहाँबाट टाढा छ?"
+    ],
+    "answer": "रेलवे स्टेशन कसरी जाने?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Nepali?",
+    "options": [
+      "यो यहाँबाट टाढा छ?",
+      "बजार कुन बाटो हो?",
+      "बायाँ मोड्नुहोस्",
+      "दायाँ मोड्नुहोस्"
+    ],
+    "answer": "बजार कुन बाटो हो?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Nepali?",
+    "options": [
+      "दायाँ मोड्नुहोस्",
+      "सिधा जानुहोस्",
+      "बायाँ मोड्नुहोस्",
+      "यो यहाँबाट टाढा छ?"
+    ],
+    "answer": "यो यहाँबाट टाढा छ?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Nepali?",
+    "options": [
+      "यहाँ रोक्नुहोस्",
+      "दायाँ मोड्नुहोस्",
+      "सिधा जानुहोस्",
+      "बायाँ मोड्नुहोस्"
+    ],
+    "answer": "बायाँ मोड्नुहोस्"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Nepali?",
+    "options": [
+      "सिधा जानुहोस्",
+      "दायाँ मोड्नुहोस्",
+      "यहाँ रोक्नुहोस्",
+      "कति समय लाग्छ?"
+    ],
+    "answer": "दायाँ मोड्नुहोस्"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Nepali?",
+    "options": [
+      "सिधा जानुहोस्",
+      "कति समय लाग्छ?",
+      "यहाँ रोक्नुहोस्",
+      "नक्सामा देखाउन सक्नुहुन्छ?"
+    ],
+    "answer": "सिधा जानुहोस्"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Nepali?",
+    "options": [
+      "नक्सामा देखाउन सक्नुहुन्छ?",
+      "बस स्टप कहाँ छ?",
+      "यहाँ रोक्नुहोस्",
+      "कति समय लाग्छ?"
+    ],
+    "answer": "यहाँ रोक्नुहोस्"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Nepali?",
+    "options": [
+      "कति समय लाग्छ?",
+      "नक्सामा देखाउन सक्नुहुन्छ?",
+      "बस स्टप कहाँ छ?",
+      "रेलवे स्टेशन कसरी जाने?"
+    ],
+    "answer": "कति समय लाग्छ?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Nepali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Nepali?",
+    "options": [
+      "रेलवे स्टेशन कसरी जाने?",
+      "नक्सामा देखाउन सक्नुहुन्छ?",
+      "बजार कुन बाटो हो?",
+      "बस स्टप कहाँ छ?"
+    ],
+    "answer": "नक्सामा देखाउन सक्नुहुन्छ?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'go'?",
+    "options": [
+      "खाएँ",
+      "देखेँ",
+      "गएँ",
+      "पढेँ"
+    ],
+    "answer": "गएँ"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'eat'?",
+    "options": [
+      "पढेँ",
+      "खाएँ",
+      "लेखेँ",
+      "देखेँ"
+    ],
+    "answer": "खाएँ"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'see'?",
+    "options": [
+      "देखेँ",
+      "पढेँ",
+      "आएँ",
+      "लेखेँ"
+    ],
+    "answer": "देखेँ"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'read'?",
+    "options": [
+      "लेखेँ",
+      "दिएँ",
+      "आएँ",
+      "पढेँ"
+    ],
+    "answer": "पढेँ"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'write'?",
+    "options": [
+      "लेखेँ",
+      "आएँ",
+      "लिएँ",
+      "दिएँ"
+    ],
+    "answer": "लेखेँ"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'come'?",
+    "options": [
+      "आएँ",
+      "दिएँ",
+      "खेलेँ",
+      "लिएँ"
+    ],
+    "answer": "आएँ"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'give'?",
+    "options": [
+      "खेलेँ",
+      "दिएँ",
+      "सुतेँ",
+      "लिएँ"
+    ],
+    "answer": "दिएँ"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'take'?",
+    "options": [
+      "गएँ",
+      "लिएँ",
+      "सुतेँ",
+      "खेलेँ"
+    ],
+    "answer": "लिएँ"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'play'?",
+    "options": [
+      "गएँ",
+      "सुतेँ",
+      "खाएँ",
+      "खेलेँ"
+    ],
+    "answer": "खेलेँ"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Nepali past tense of 'sleep'?",
+    "options": [
+      "देखेँ",
+      "खाएँ",
+      "गएँ",
+      "सुतेँ"
+    ],
+    "answer": "सुतेँ"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'book'?",
+    "options": [
+      "किताबहरू",
+      "केटीहरू",
+      "केटाहरू",
+      "कलमहरू"
+    ],
+    "answer": "किताबहरू"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'pen'?",
+    "options": [
+      "केटाहरू",
+      "कलमहरू",
+      "फूलहरू",
+      "केटीहरू"
+    ],
+    "answer": "कलमहरू"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'boy'?",
+    "options": [
+      "केटाहरू",
+      "पातहरू",
+      "फूलहरू",
+      "केटीहरू"
+    ],
+    "answer": "केटाहरू"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'girl'?",
+    "options": [
+      "केटीहरू",
+      "ताराहरू",
+      "फूलहरू",
+      "पातहरू"
+    ],
+    "answer": "केटीहरू"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'flower'?",
+    "options": [
+      "रुखहरू",
+      "पातहरू",
+      "फूलहरू",
+      "ताराहरू"
+    ],
+    "answer": "फूलहरू"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'leaf'?",
+    "options": [
+      "ताराहरू",
+      "नदीहरू",
+      "रुखहरू",
+      "पातहरू"
+    ],
+    "answer": "पातहरू"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'star'?",
+    "options": [
+      "ताराहरू",
+      "नदीहरू",
+      "रुखहरू",
+      "कुर्सीहरू"
+    ],
+    "answer": "ताराहरू"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'tree'?",
+    "options": [
+      "कुर्सीहरू",
+      "नदीहरू",
+      "किताबहरू",
+      "रुखहरू"
+    ],
+    "answer": "रुखहरू"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'river'?",
+    "options": [
+      "नदीहरू",
+      "किताबहरू",
+      "कलमहरू",
+      "कुर्सीहरू"
+    ],
+    "answer": "नदीहरू"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Nepali plural of 'chair'?",
+    "options": [
+      "केटाहरू",
+      "कुर्सीहरू",
+      "किताबहरू",
+      "कलमहरू"
+    ],
+    "answer": "कुर्सीहरू"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'and'?",
+    "options": [
+      "तर",
+      "किनकि",
+      "र",
+      "वा"
+    ],
+    "answer": "र"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'but'?",
+    "options": [
+      "तर",
+      "किनकि",
+      "वा",
+      "यदि"
+    ],
+    "answer": "तर"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'or'?",
+    "options": [
+      "जब",
+      "वा",
+      "किनकि",
+      "यदि"
+    ],
+    "answer": "वा"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'because'?",
+    "options": [
+      "किनकि",
+      "यदि",
+      "कहाँ",
+      "जब"
+    ],
+    "answer": "किनकि"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'if'?",
+    "options": [
+      "कसरी",
+      "जब",
+      "यदि",
+      "कहाँ"
+    ],
+    "answer": "यदि"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'when'?",
+    "options": [
+      "कहाँ",
+      "जब",
+      "किन",
+      "कसरी"
+    ],
+    "answer": "जब"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'where'?",
+    "options": [
+      "कसरी",
+      "संग",
+      "कहाँ",
+      "किन"
+    ],
+    "answer": "कहाँ"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'how'?",
+    "options": [
+      "किन",
+      "र",
+      "संग",
+      "कसरी"
+    ],
+    "answer": "कसरी"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'why'?",
+    "options": [
+      "र",
+      "किन",
+      "तर",
+      "संग"
+    ],
+    "answer": "किन"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Nepali particle for 'with'?",
+    "options": [
+      "तर",
+      "संग",
+      "वा",
+      "र"
+    ],
+    "answer": "संग"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Nepali?",
+    "options": [
+      "आउँदैन",
+      "खाँदैन",
+      "जाँदैन",
+      "पढ्दैन"
+    ],
+    "answer": "जाँदैन"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Nepali?",
+    "options": [
+      "लेख्दैन",
+      "पढ्दैन",
+      "आउँदैन",
+      "खाँदैन"
+    ],
+    "answer": "आउँदैन"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Nepali?",
+    "options": [
+      "लेख्दैन",
+      "खेल्दैन",
+      "पढ्दैन",
+      "खाँदैन"
+    ],
+    "answer": "खाँदैन"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Nepali?",
+    "options": [
+      "खेल्दैन",
+      "लेख्दैन",
+      "सुत्दैन",
+      "पढ्दैन"
+    ],
+    "answer": "पढ्दैन"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Nepali?",
+    "options": [
+      "सुत्दैन",
+      "देख्दैन",
+      "लेख्दैन",
+      "खेल्दैन"
+    ],
+    "answer": "लेख्दैन"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Nepali?",
+    "options": [
+      "देख्दैन",
+      "सुत्दैन",
+      "दिँदैन",
+      "खेल्दैन"
+    ],
+    "answer": "खेल्दैन"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Nepali?",
+    "options": [
+      "लिँदैन",
+      "देख्दैन",
+      "सुत्दैन",
+      "दिँदैन"
+    ],
+    "answer": "सुत्दैन"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Nepali?",
+    "options": [
+      "देख्दैन",
+      "दिँदैन",
+      "लिँदैन",
+      "जाँदैन"
+    ],
+    "answer": "देख्दैन"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Nepali?",
+    "options": [
+      "लिँदैन",
+      "आउँदैन",
+      "जाँदैन",
+      "दिँदैन"
+    ],
+    "answer": "दिँदैन"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Nepali?",
+    "options": [
+      "खाँदैन",
+      "जाँदैन",
+      "लिँदैन",
+      "आउँदैन"
+    ],
+    "answer": "लिँदैन"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'apple'",
+    "options": [
+      "स्याउ",
+      "केरा",
+      "कुकुर",
+      "बिरालो"
+    ],
+    "answer": "स्याउ"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'banana'",
+    "options": [
+      "कार",
+      "कुकुर",
+      "बिरालो",
+      "केरा"
+    ],
+    "answer": "केरा"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'cat'",
+    "options": [
+      "बिरालो",
+      "कुकुर",
+      "बस",
+      "कार"
+    ],
+    "answer": "बिरालो"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'dog'",
+    "options": [
+      "कार",
+      "बस",
+      "कुकुर",
+      "रेल"
+    ],
+    "answer": "कुकुर"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'car'",
+    "options": [
+      "बस",
+      "घर",
+      "रेल",
+      "कार"
+    ],
+    "answer": "कार"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'bus'",
+    "options": [
+      "बस",
+      "रेल",
+      "घर",
+      "शहर"
+    ],
+    "answer": "बस"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'train'",
+    "options": [
+      "शहर",
+      "गाउँ",
+      "रेल",
+      "घर"
+    ],
+    "answer": "रेल"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'house'",
+    "options": [
+      "घर",
+      "गाउँ",
+      "स्याउ",
+      "शहर"
+    ],
+    "answer": "घर"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'city'",
+    "options": [
+      "स्याउ",
+      "शहर",
+      "गाउँ",
+      "केरा"
+    ],
+    "answer": "शहर"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Nepali word for 'village'",
+    "options": [
+      "बिरालो",
+      "केरा",
+      "स्याउ",
+      "गाउँ"
+    ],
+    "answer": "गाउँ"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Good morning'",
+    "options": [
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "माफ गर्नुहोस्",
+      "धन्यवाद",
+      "शुभ प्रभात"
+    ],
+    "answer": "शुभ प्रभात"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'How are you?'",
+    "options": [
+      "माफ गर्नुहोस्",
+      "धन्यवाद",
+      "कृपया भित्र आउनुहोस्",
+      "तपाईं कस्तो हुनुहुन्छ?"
+    ],
+    "answer": "तपाईं कस्तो हुनुहुन्छ?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Thank you'",
+    "options": [
+      "धन्यवाद",
+      "कृपया भित्र आउनुहोस्",
+      "बस्नुहोस्",
+      "माफ गर्नुहोस्"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Sorry'",
+    "options": [
+      "बस्नुहोस्",
+      "उठ्नुहोस्",
+      "कृपया भित्र आउनुहोस्",
+      "माफ गर्नुहोस्"
+    ],
+    "answer": "माफ गर्नुहोस्"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Please come in'",
+    "options": [
+      "उठ्नुहोस्",
+      "अगाडि जानुहोस्",
+      "बस्नुहोस्",
+      "कृपया भित्र आउनुहोस्"
+    ],
+    "answer": "कृपया भित्र आउनुहोस्"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Sit down'",
+    "options": [
+      "बस्नुहोस्",
+      "राम्रो गर्नुभयो",
+      "उठ्नुहोस्",
+      "अगाडि जानुहोस्"
+    ],
+    "answer": "बस्नुहोस्"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Stand up'",
+    "options": [
+      "राम्रो गर्नुभयो",
+      "उठ्नुहोस्",
+      "अगाडि जानुहोस्",
+      "बधाई"
+    ],
+    "answer": "उठ्नुहोस्"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Go ahead'",
+    "options": [
+      "अगाडि जानुहोस्",
+      "राम्रो गर्नुभयो",
+      "शुभ प्रभात",
+      "बधाई"
+    ],
+    "answer": "अगाडि जानुहोस्"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Well done'",
+    "options": [
+      "शुभ प्रभात",
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "राम्रो गर्नुभयो",
+      "बधाई"
+    ],
+    "answer": "राम्रो गर्नुभयो"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Nepali phrase for 'Congratulations'",
+    "options": [
+      "धन्यवाद",
+      "तपाईं कस्तो हुनुहुन्छ?",
+      "शुभ प्रभात",
+      "बधाई"
+    ],
+    "answer": "बधाई"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'I am going to school'",
+    "options": [
+      "म स्कूल जाँदैछु",
+      "उनी भात खाँदैछिन्",
+      "हामी क्रिकेट खेलिरहेका छौं",
+      "तिनीहरू किताब पढिरहेका छन्"
+    ],
+    "answer": "म स्कूल जाँदैछु"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'She is eating rice'",
+    "options": [
+      "उनी भात खाँदैछिन्",
+      "तिनीहरू किताब पढिरहेका छन्",
+      "उसले चिठी लेखिरहेको छ",
+      "हामी क्रिकेट खेलिरहेका छौं"
+    ],
+    "answer": "उनी भात खाँदैछिन्"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'We are playing cricket'",
+    "options": [
+      "उसले चिठी लेखिरहेको छ",
+      "तिनीहरू किताब पढिरहेका छन्",
+      "हामी क्रिकेट खेलिरहेका छौं",
+      "तपाईं मेरो साथी हुनुहुन्छ"
+    ],
+    "answer": "हामी क्रिकेट खेलिरहेका छौं"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'They are reading books'",
+    "options": [
+      "तिनीहरू किताब पढिरहेका छन्",
+      "उसले चिठी लेखिरहेको छ",
+      "तपाईं मेरो साथी हुनुहुन्छ",
+      "अहिले पानी परिरहेको छ"
+    ],
+    "answer": "तिनीहरू किताब पढिरहेका छन्"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'He is writing a letter'",
+    "options": [
+      "तपाईं मेरो साथी हुनुहुन्छ",
+      "मलाई नेपाली मन पर्छ",
+      "उसले चिठी लेखिरहेको छ",
+      "अहिले पानी परिरहेको छ"
+    ],
+    "answer": "उसले चिठी लेखिरहेको छ"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'You are my friend'",
+    "options": [
+      "मलाई नेपाली मन पर्छ",
+      "अहिले पानी परिरहेको छ",
+      "तपाईं मेरो साथी हुनुहुन्छ",
+      "हामी नेपालमा बस्छौं"
+    ],
+    "answer": "तपाईं मेरो साथी हुनुहुन्छ"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'It is raining now'",
+    "options": [
+      "उनी गीत गाउँदैछिन्",
+      "मलाई नेपाली मन पर्छ",
+      "अहिले पानी परिरहेको छ",
+      "हामी नेपालमा बस्छौं"
+    ],
+    "answer": "अहिले पानी परिरहेको छ"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'I like Nepali'",
+    "options": [
+      "मलाई नेपाली मन पर्छ",
+      "म स्कूल जाँदैछु",
+      "हामी नेपालमा बस्छौं",
+      "उनी गीत गाउँदैछिन्"
+    ],
+    "answer": "मलाई नेपाली मन पर्छ"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'We live in Nepal'",
+    "options": [
+      "उनी गीत गाउँदैछिन्",
+      "हामी नेपालमा बस्छौं",
+      "उनी भात खाँदैछिन्",
+      "म स्कूल जाँदैछु"
+    ],
+    "answer": "हामी नेपालमा बस्छौं"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Nepali sentence for 'She is singing a song'",
+    "options": [
+      "उनी गीत गाउँदैछिन्",
+      "म स्कूल जाँदैछु",
+      "उनी भात खाँदैछिन्",
+      "हामी क्रिकेट खेलिरहेका छौं"
+    ],
+    "answer": "उनी गीत गाउँदैछिन्"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "तपाईं अंग्रेजी बोल्नुहुन्छ? - हो, अलिकति",
+      "तपाईं कहाँ जाँदै हुनुहुन्छ? - बजार",
+      "तपाईं कस्तो हुनुहुन्छ? - म ठीक छु",
+      "तपाईंको नाम के हो? - मेरो नाम रवि हो"
+    ],
+    "answer": "तपाईं कस्तो हुनुहुन्छ? - म ठीक छु"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "तपाईं मलाई मद्दत गर्न सक्नुहुन्छ? - पक्कै",
+      "तपाईंको नाम के हो? - मेरो नाम रवि हो",
+      "तपाईं कहाँ जाँदै हुनुहुन्छ? - बजार",
+      "तपाईं अंग्रेजी बोल्नुहुन्छ? - हो, अलिकति"
+    ],
+    "answer": "तपाईंको नाम के हो? - मेरो नाम रवि हो"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "तपाईं मलाई मद्दत गर्न सक्नुहुन्छ? - पक्कै",
+      "तपाईं कहाँ जाँदै हुनुहुन्छ? - बजार",
+      "कति बज्यो? - पाँच बज्यो",
+      "तपाईं अंग्रेजी बोल्नुहुन्छ? - हो, अलिकति"
+    ],
+    "answer": "तपाईं कहाँ जाँदै हुनुहुन्छ? - बजार"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "बस स्टप कहाँ छ? - त्यहाँ",
+      "तपाईं अंग्रेजी बोल्नुहुन्छ? - हो, अलिकति",
+      "तपाईं मलाई मद्दत गर्न सक्नुहुन्छ? - पक्कै",
+      "कति बज्यो? - पाँच बज्यो"
+    ],
+    "answer": "तपाईं अंग्रेजी बोल्नुहुन्छ? - हो, अलिकति"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "बस स्टप कहाँ छ? - त्यहाँ",
+      "तपाईं मलाई मद्दत गर्न सक्नुहुन्छ? - पक्कै",
+      "कति बज्यो? - पाँच बज्यो",
+      "यो कति हो? - पचास रुपैयाँ"
+    ],
+    "answer": "तपाईं मलाई मद्दत गर्न सक्नुहुन्छ? - पक्कै"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "कति बज्यो? - पाँच बज्यो",
+      "यो कति हो? - पचास रुपैयाँ",
+      "कृपया भित्र आउनुहोस्। - धन्यवाद",
+      "बस स्टप कहाँ छ? - त्यहाँ"
+    ],
+    "answer": "कति बज्यो? - पाँच बज्यो"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "कृपया भित्र आउनुहोस्। - धन्यवाद",
+      "बिदाई। - फेरि भेटौंला",
+      "यो कति हो? - पचास रुपैयाँ",
+      "बस स्टप कहाँ छ? - त्यहाँ"
+    ],
+    "answer": "बस स्टप कहाँ छ? - त्यहाँ"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "कृपया भित्र आउनुहोस्। - धन्यवाद",
+      "तपाईं कस्तो हुनुहुन्छ? - म ठीक छु",
+      "यो कति हो? - पचास रुपैयाँ",
+      "बिदाई। - फेरि भेटौंला"
+    ],
+    "answer": "यो कति हो? - पचास रुपैयाँ"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "बिदाई। - फेरि भेटौंला",
+      "कृपया भित्र आउनुहोस्। - धन्यवाद",
+      "तपाईंको नाम के हो? - मेरो नाम रवि हो",
+      "तपाईं कस्तो हुनुहुन्छ? - म ठीक छु"
+    ],
+    "answer": "कृपया भित्र आउनुहोस्। - धन्यवाद"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Nepali dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "तपाईं कहाँ जाँदै हुनुहुन्छ? - बजार",
+      "तपाईं कस्तो हुनुहुन्छ? - म ठीक छु",
+      "बिदाई। - फेरि भेटौंला",
+      "तपाईंको नाम के हो? - मेरो नाम रवि हो"
+    ],
+    "answer": "बिदाई। - फेरि भेटौंला"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Nepali?",
+    "options": [
+      "यो कति हो?",
+      "काउन्टर कहाँ छ?",
+      "म यो किन्न चाहन्छु",
+      "छुट छ?"
+    ],
+    "answer": "म यो किन्न चाहन्छु"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Nepali?",
+    "options": [
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "छुट छ?",
+      "काउन्टर कहाँ छ?",
+      "यो कति हो?"
+    ],
+    "answer": "यो कति हो?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Nepali?",
+    "options": [
+      "कृपया यो प्याक गर्नुहोस्",
+      "काउन्टर कहाँ छ?",
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "छुट छ?"
+    ],
+    "answer": "छुट छ?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Nepali?",
+    "options": [
+      "काउन्टर कहाँ छ?",
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "मलाई झोला चाहिन्छ",
+      "कृपया यो प्याक गर्नुहोस्"
+    ],
+    "answer": "काउन्टर कहाँ छ?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Nepali?",
+    "options": [
+      "तपाईं कार्ड लिनुहुन्छ?",
+      "कृपया यो प्याक गर्नुहोस्",
+      "मलाई झोला चाहिन्छ",
+      "यो उपलब्ध छ?"
+    ],
+    "answer": "तपाईं कार्ड लिनुहुन्छ?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Nepali?",
+    "options": [
+      "कृपया यो प्याक गर्नुहोस्",
+      "मलाई झोला चाहिन्छ",
+      "यो उपलब्ध छ?",
+      "समय के हो?"
+    ],
+    "answer": "कृपया यो प्याक गर्नुहोस्"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Nepali?",
+    "options": [
+      "यो उपलब्ध छ?",
+      "म यो प्रयोग गर्न सक्छु?",
+      "मलाई झोला चाहिन्छ",
+      "समय के हो?"
+    ],
+    "answer": "मलाई झोला चाहिन्छ"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Nepali?",
+    "options": [
+      "म यो किन्न चाहन्छु",
+      "यो उपलब्ध छ?",
+      "समय के हो?",
+      "म यो प्रयोग गर्न सक्छु?"
+    ],
+    "answer": "यो उपलब्ध छ?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Nepali?",
+    "options": [
+      "यो कति हो?",
+      "म यो किन्न चाहन्छु",
+      "समय के हो?",
+      "म यो प्रयोग गर्न सक्छु?"
+    ],
+    "answer": "समय के हो?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Nepali?",
+    "options": [
+      "छुट छ?",
+      "म यो किन्न चाहन्छु",
+      "म यो प्रयोग गर्न सक्छु?",
+      "यो कति हो?"
+    ],
+    "answer": "म यो प्रयोग गर्न सक्छु?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Nepali?",
+    "options": [
+      "एयरपोर्ट कसरी जाने?",
+      "कति समय लाग्छ?",
+      "रेलवे स्टेशन कहाँ छ?",
+      "शहर कुन बस जान्छ?"
+    ],
+    "answer": "रेलवे स्टेशन कहाँ छ?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Nepali?",
+    "options": [
+      "शहर कुन बस जान्छ?",
+      "कति समय लाग्छ?",
+      "एयरपोर्ट कसरी जाने?",
+      "यो यहाँबाट टाढा छ?"
+    ],
+    "answer": "एयरपोर्ट कसरी जाने?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Nepali?",
+    "options": [
+      "यो यहाँबाट टाढा छ?",
+      "शहर कुन बस जान्छ?",
+      "कति समय लाग्छ?",
+      "ट्याक्सी कहाँ पाइन्छ?"
+    ],
+    "answer": "शहर कुन बस जान्छ?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Nepali?",
+    "options": [
+      "होटल कहाँ छ?",
+      "ट्याक्सी कहाँ पाइन्छ?",
+      "यो यहाँबाट टाढा छ?",
+      "कति समय लाग्छ?"
+    ],
+    "answer": "कति समय लाग्छ?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Nepali?",
+    "options": [
+      "होटल कहाँ छ?",
+      "नक्सामा देखाउन सक्नुहुन्छ?",
+      "यो यहाँबाट टाढा छ?",
+      "ट्याक्सी कहाँ पाइन्छ?"
+    ],
+    "answer": "यो यहाँबाट टाढा छ?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Nepali?",
+    "options": [
+      "ट्याक्सी कहाँ पाइन्छ?",
+      "नक्सामा देखाउन सक्नुहुन्छ?",
+      "बाथरूम कहाँ छ?",
+      "होटल कहाँ छ?"
+    ],
+    "answer": "ट्याक्सी कहाँ पाइन्छ?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Nepali?",
+    "options": [
+      "म बाटो हराएको छु",
+      "बाथरूम कहाँ छ?",
+      "नक्सामा देखाउन सक्नुहुन्छ?",
+      "होटल कहाँ छ?"
+    ],
+    "answer": "होटल कहाँ छ?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Nepali?",
+    "options": [
+      "रेलवे स्टेशन कहाँ छ?",
+      "नक्सामा देखाउन सक्नुहुन्छ?",
+      "बाथरूम कहाँ छ?",
+      "म बाटो हराएको छु"
+    ],
+    "answer": "नक्सामा देखाउन सक्नुहुन्छ?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Nepali?",
+    "options": [
+      "रेलवे स्टेशन कहाँ छ?",
+      "एयरपोर्ट कसरी जाने?",
+      "म बाटो हराएको छु",
+      "बाथरूम कहाँ छ?"
+    ],
+    "answer": "बाथरूम कहाँ छ?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Nepali?",
+    "options": [
+      "रेलवे स्टेशन कहाँ छ?",
+      "शहर कुन बस जान्छ?",
+      "एयरपोर्ट कसरी जाने?",
+      "म बाटो हराएको छु"
+    ],
+    "answer": "म बाटो हराएको छु"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Nepali?",
+    "options": [
+      "अस्पताल कहाँ छ?",
+      "मलाई डाक्टर चाहिन्छ",
+      "म बिरामी छु",
+      "प्रहरीलाई फोन गर्नुहोस्"
+    ],
+    "answer": "प्रहरीलाई फोन गर्नुहोस्"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Nepali?",
+    "options": [
+      "मद्दत!",
+      "अस्पताल कहाँ छ?",
+      "मलाई डाक्टर चाहिन्छ",
+      "म बिरामी छु"
+    ],
+    "answer": "मलाई डाक्टर चाहिन्छ"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Nepali?",
+    "options": [
+      "म बिरामी छु",
+      "अस्पताल कहाँ छ?",
+      "मेरो वालेट हराएको छ",
+      "मद्दत!"
+    ],
+    "answer": "अस्पताल कहाँ छ?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Nepali?",
+    "options": [
+      "म बिरामी छु",
+      "आगो लागेको छ",
+      "मेरो वालेट हराएको छ",
+      "मद्दत!"
+    ],
+    "answer": "म बिरामी छु"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Nepali?",
+    "options": [
+      "मद्दत!",
+      "मेरो दुर्घटना भयो",
+      "आगो लागेको छ",
+      "मेरो वालेट हराएको छ"
+    ],
+    "answer": "मद्दत!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Nepali?",
+    "options": [
+      "आगो लागेको छ",
+      "मेरो वालेट हराएको छ",
+      "मेरो दुर्घटना भयो",
+      "मलाई चोट लागेको छ"
+    ],
+    "answer": "मेरो वालेट हराएको छ"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Nepali?",
+    "options": [
+      "आगो लागेको छ",
+      "मेरो दुर्घटना भयो",
+      "मलाई चोट लागेको छ",
+      "कृपया मलाई मद्दत गर्नुहोस्"
+    ],
+    "answer": "आगो लागेको छ"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Nepali?",
+    "options": [
+      "प्रहरीलाई फोन गर्नुहोस्",
+      "मलाई चोट लागेको छ",
+      "मेरो दुर्घटना भयो",
+      "कृपया मलाई मद्दत गर्नुहोस्"
+    ],
+    "answer": "मेरो दुर्घटना भयो"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Nepali?",
+    "options": [
+      "प्रहरीलाई फोन गर्नुहोस्",
+      "कृपया मलाई मद्दत गर्नुहोस्",
+      "मलाई चोट लागेको छ",
+      "मलाई डाक्टर चाहिन्छ"
+    ],
+    "answer": "मलाई चोट लागेको छ"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Nepali?",
+    "options": [
+      "प्रहरीलाई फोन गर्नुहोस्",
+      "मलाई डाक्टर चाहिन्छ",
+      "कृपया मलाई मद्दत गर्नुहोस्",
+      "अस्पताल कहाँ छ?"
+    ],
+    "answer": "कृपया मलाई मद्दत गर्नुहोस्"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Nepali?",
+    "options": [
+      "भोलि भेटौंला",
+      "चलचित्र हेर्न जाऔं",
+      "तपाईंको योजना के छ?",
+      "आज साँझ तपाईं फ्री हुनुहुन्छ?"
+    ],
+    "answer": "तपाईंको योजना के छ?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Nepali?",
+    "options": [
+      "भोलि भेटौंला",
+      "आज साँझ तपाईं फ्री हुनुहुन्छ?",
+      "हामी सँगै खाना खाऔं?",
+      "चलचित्र हेर्न जाऔं"
+    ],
+    "answer": "भोलि भेटौंला"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Nepali?",
+    "options": [
+      "आज साँझ तपाईं फ्री हुनुहुन्छ?",
+      "हामी सँगै खाना खाऔं?",
+      "चलचित्र हेर्न जाऔं",
+      "तपाईं हामीसँग आउन सक्नुहुन्छ?"
+    ],
+    "answer": "आज साँझ तपाईं फ्री हुनुहुन्छ?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Nepali?",
+    "options": [
+      "तपाईं हामीसँग आउन सक्नुहुन्छ?",
+      "म आज व्यस्त छु",
+      "हामी सँगै खाना खाऔं?",
+      "चलचित्र हेर्न जाऔं"
+    ],
+    "answer": "चलचित्र हेर्न जाऔं"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Nepali?",
+    "options": [
+      "म आज व्यस्त छु",
+      "हामी सँगै खाना खाऔं?",
+      "पछि भेटौंला",
+      "तपाईं हामीसँग आउन सक्नुहुन्छ?"
+    ],
+    "answer": "हामी सँगै खाना खाऔं?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Nepali?",
+    "options": [
+      "पछि भेटौंला",
+      "तपाईं हामीसँग आउन सक्नुहुन्छ?",
+      "म आज व्यस्त छु",
+      "म तपाईंलाई फोन गर्नेछु"
+    ],
+    "answer": "तपाईं हामीसँग आउन सक्नुहुन्छ?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Nepali?",
+    "options": [
+      "पछि भेटौंला",
+      "म आज व्यस्त छु",
+      "म तपाईंलाई फोन गर्नेछु",
+      "मनाऔं"
+    ],
+    "answer": "म आज व्यस्त छु"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Nepali?",
+    "options": [
+      "तपाईंको योजना के छ?",
+      "मनाऔं",
+      "पछि भेटौंला",
+      "म तपाईंलाई फोन गर्नेछु"
+    ],
+    "answer": "पछि भेटौंला"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Nepali?",
+    "options": [
+      "तपाईंको योजना के छ?",
+      "भोलि भेटौंला",
+      "म तपाईंलाई फोन गर्नेछु",
+      "मनाऔं"
+    ],
+    "answer": "म तपाईंलाई फोन गर्नेछु"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Nepali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Nepali?",
+    "options": [
+      "मनाऔं",
+      "आज साँझ तपाईं फ्री हुनुहुन्छ?",
+      "भोलि भेटौंला",
+      "तपाईंको योजना के छ?"
+    ],
+    "answer": "मनाऔं"
+  }
+]

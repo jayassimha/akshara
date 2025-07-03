@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'a'?",
+    "options": [
+      "ا",
+      "اِ",
+      "ای",
+      "آ"
+    ],
+    "answer": "ا"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'aa'?",
+    "options": [
+      "آ",
+      "اِ",
+      "ای",
+      "اُ"
+    ],
+    "answer": "آ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'i'?",
+    "options": [
+      "اُ",
+      "او",
+      "اِ",
+      "ای"
+    ],
+    "answer": "اِ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'ee'?",
+    "options": [
+      "او",
+      "ے",
+      "اُ",
+      "ای"
+    ],
+    "answer": "ای"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'u'?",
+    "options": [
+      "ے",
+      "اُ",
+      "او",
+      "ائی"
+    ],
+    "answer": "اُ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'oo'?",
+    "options": [
+      "ے",
+      "او",
+      "ائی",
+      "او"
+    ],
+    "answer": "او"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'e'?",
+    "options": [
+      "او",
+      "ے",
+      "ائی",
+      "اؤ"
+    ],
+    "answer": "ے"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'ai'?",
+    "options": [
+      "او",
+      "ا",
+      "ائی",
+      "اؤ"
+    ],
+    "answer": "ائی"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'o'?",
+    "options": [
+      "او",
+      "ا",
+      "اؤ",
+      "آ"
+    ],
+    "answer": "او"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Sindhi vowel for 'au'?",
+    "options": [
+      "اِ",
+      "ا",
+      "اؤ",
+      "آ"
+    ],
+    "answer": "اؤ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'ka'?",
+    "options": [
+      "ڪ",
+      "گ",
+      "گھ",
+      "کھ"
+    ],
+    "answer": "ڪ"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'kha'?",
+    "options": [
+      "کھ",
+      "چ",
+      "گ",
+      "گھ"
+    ],
+    "answer": "کھ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'ga'?",
+    "options": [
+      "گھ",
+      "گ",
+      "ڇ",
+      "چ"
+    ],
+    "answer": "گ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'gha'?",
+    "options": [
+      "چ",
+      "گھ",
+      "ڇ",
+      "ج"
+    ],
+    "answer": "گھ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'cha'?",
+    "options": [
+      "جھ",
+      "ج",
+      "ڇ",
+      "چ"
+    ],
+    "answer": "چ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'chha'?",
+    "options": [
+      "ڇ",
+      "جھ",
+      "ج",
+      "ٽ"
+    ],
+    "answer": "ڇ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'ja'?",
+    "options": [
+      "ٽ",
+      "ٿ",
+      "ج",
+      "جھ"
+    ],
+    "answer": "ج"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'jha'?",
+    "options": [
+      "ڪ",
+      "ٽ",
+      "ٿ",
+      "جھ"
+    ],
+    "answer": "جھ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'ta'?",
+    "options": [
+      "ٿ",
+      "کھ",
+      "ٽ",
+      "ڪ"
+    ],
+    "answer": "ٽ"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Sindhi consonant for 'tha'?",
+    "options": [
+      "کھ",
+      "ٿ",
+      "گ",
+      "ڪ"
+    ],
+    "answer": "ٿ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ڪ' + 'ا'?",
+    "options": [
+      "ڪا",
+      "تے",
+      "مِ",
+      "پُ"
+    ],
+    "answer": "ڪا"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'پ' + 'ُ'?",
+    "options": [
+      "پُ",
+      "سُو",
+      "مِ",
+      "تے"
+    ],
+    "answer": "پُ"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'م' + 'ِ'?",
+    "options": [
+      "نو",
+      "سُو",
+      "تے",
+      "مِ"
+    ],
+    "answer": "مِ"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ت' + 'ے'?",
+    "options": [
+      "را",
+      "تے",
+      "سُو",
+      "نو"
+    ],
+    "answer": "تے"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'س' + 'ُو'?",
+    "options": [
+      "سُو",
+      "نو",
+      "لے",
+      "را"
+    ],
+    "answer": "سُو"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ن' + 'و'?",
+    "options": [
+      "لے",
+      "نو",
+      "را",
+      "دِ"
+    ],
+    "answer": "نو"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ر' + 'ا'?",
+    "options": [
+      "لے",
+      "را",
+      "دِ",
+      "وُ"
+    ],
+    "answer": "را"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ل' + 'ے'?",
+    "options": [
+      "دِ",
+      "وُ",
+      "ڪا",
+      "لے"
+    ],
+    "answer": "لے"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'د' + 'ِ'?",
+    "options": [
+      "پُ",
+      "دِ",
+      "وُ",
+      "ڪا"
+    ],
+    "answer": "دِ"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'و' + 'ُ'?",
+    "options": [
+      "مِ",
+      "وُ",
+      "پُ",
+      "ڪا"
+    ],
+    "answer": "وُ"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ڪتاب'? (in Sindhi)",
+    "options": [
+      "School",
+      "Hand",
+      "Book",
+      "Pen"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'قلم'? (in Sindhi)",
+    "options": [
+      "School",
+      "Fruit",
+      "Hand",
+      "Pen"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'اسڪول'? (in Sindhi)",
+    "options": [
+      "Fruit",
+      "School",
+      "Flowers",
+      "Hand"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'هٿ'? (in Sindhi)",
+    "options": [
+      "Flowers",
+      "Tree",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ميوو'? (in Sindhi)",
+    "options": [
+      "Fruit",
+      "Flowers",
+      "Tree",
+      "Slate"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'گل'? (in Sindhi)",
+    "options": [
+      "Flowers",
+      "Slate",
+      "Tree",
+      "Speak"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'وڻ'? (in Sindhi)",
+    "options": [
+      "Speak",
+      "Tree",
+      "Speech",
+      "Slate"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'تختي'? (in Sindhi)",
+    "options": [
+      "Book",
+      "Slate",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ڳالهائڻ'? (in Sindhi)",
+    "options": [
+      "Pen",
+      "Speak",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ڳالهه'? (in Sindhi)",
+    "options": [
+      "School",
+      "Pen",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'book'?",
+    "options": [
+      "اسڪول",
+      "قلم",
+      "ڪتاب",
+      "ٿيلهو"
+    ],
+    "answer": "ڪتاب"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'pen'?",
+    "options": [
+      "ڪرسي",
+      "قلم",
+      "اسڪول",
+      "ٿيلهو"
+    ],
+    "answer": "قلم"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'school'?",
+    "options": [
+      "ڪرسي",
+      "ميز",
+      "ٿيلهو",
+      "اسڪول"
+    ],
+    "answer": "اسڪول"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'bag'?",
+    "options": [
+      "ڪرسي",
+      "تختي",
+      "ٿيلهو",
+      "ميز"
+    ],
+    "answer": "ٿيلهو"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'chair'?",
+    "options": [
+      "دري",
+      "ڪرسي",
+      "تختي",
+      "ميز"
+    ],
+    "answer": "ڪرسي"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'table'?",
+    "options": [
+      "ميز",
+      "دروازو",
+      "دري",
+      "تختي"
+    ],
+    "answer": "ميز"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'slate'?",
+    "options": [
+      "دري",
+      "پنکهو",
+      "تختي",
+      "دروازو"
+    ],
+    "answer": "تختي"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'window'?",
+    "options": [
+      "ڪتاب",
+      "دروازو",
+      "پنکهو",
+      "دري"
+    ],
+    "answer": "دري"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'door'?",
+    "options": [
+      "دروازو",
+      "قلم",
+      "پنکهو",
+      "ڪتاب"
+    ],
+    "answer": "دروازو"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Sindhi word for 'fan'?",
+    "options": [
+      "پنکهو",
+      "اسڪول",
+      "قلم",
+      "ڪتاب"
+    ],
+    "answer": "پنکهو"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'rice'?",
+    "options": [
+      "ميوو",
+      "کير",
+      "ڀاجي",
+      "چانور"
+    ],
+    "answer": "چانور"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'milk'?",
+    "options": [
+      "ڀاجي",
+      "کير",
+      "پاڻي",
+      "ميوو"
+    ],
+    "answer": "کير"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'fruit'?",
+    "options": [
+      "پاڻي",
+      "ڀاجي",
+      "دهي",
+      "ميوو"
+    ],
+    "answer": "ميوو"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'vegetable'?",
+    "options": [
+      "پاڻي",
+      "ماني",
+      "ڀاجي",
+      "دهي"
+    ],
+    "answer": "ڀاجي"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'water'?",
+    "options": [
+      "آنڊو",
+      "ماني",
+      "پاڻي",
+      "دهي"
+    ],
+    "answer": "پاڻي"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'curd'?",
+    "options": [
+      "ماني",
+      "مڇي",
+      "دهي",
+      "آنڊو"
+    ],
+    "answer": "دهي"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'bread'?",
+    "options": [
+      "مڇي",
+      "ماني",
+      "مٺو",
+      "آنڊو"
+    ],
+    "answer": "ماني"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'egg'?",
+    "options": [
+      "چانور",
+      "مٺو",
+      "آنڊو",
+      "مڇي"
+    ],
+    "answer": "آنڊو"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'fish'?",
+    "options": [
+      "مڇي",
+      "کير",
+      "چانور",
+      "مٺو"
+    ],
+    "answer": "مڇي"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'sweet'?",
+    "options": [
+      "ميوو",
+      "کير",
+      "مٺو",
+      "چانور"
+    ],
+    "answer": "مٺو"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'mother'?",
+    "options": [
+      "ڀاءُ",
+      "ڀيڻ",
+      "ماءُ",
+      "پيءُ"
+    ],
+    "answer": "ماءُ"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'father'?",
+    "options": [
+      "ڀيڻ",
+      "پيءُ",
+      "ڀاءُ",
+      "نانگ"
+    ],
+    "answer": "پيءُ"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'sister'?",
+    "options": [
+      "نانو",
+      "نانگ",
+      "ڀيڻ",
+      "ڀاءُ"
+    ],
+    "answer": "ڀيڻ"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'brother'?",
+    "options": [
+      "نانگ",
+      "چاچو",
+      "نانو",
+      "ڀاءُ"
+    ],
+    "answer": "ڀاءُ"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'grandmother'?",
+    "options": [
+      "چاچي",
+      "نانگ",
+      "چاچو",
+      "نانو"
+    ],
+    "answer": "نانگ"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'grandfather'?",
+    "options": [
+      "چاچو",
+      "پٽ",
+      "نانو",
+      "چاچي"
+    ],
+    "answer": "نانو"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'uncle'?",
+    "options": [
+      "پٽ",
+      "چاچي",
+      "ڌيءَ",
+      "چاچو"
+    ],
+    "answer": "چاچو"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'aunt'?",
+    "options": [
+      "چاچي",
+      "پٽ",
+      "ڌيءَ",
+      "ماءُ"
+    ],
+    "answer": "چاچي"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'son'?",
+    "options": [
+      "پٽ",
+      "ڌيءَ",
+      "ماءُ",
+      "پيءُ"
+    ],
+    "answer": "پٽ"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Sindhi word for 'daughter'?",
+    "options": [
+      "ڀيڻ",
+      "ماءُ",
+      "پيءُ",
+      "ڌيءَ"
+    ],
+    "answer": "ڌيءَ"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'tree'?",
+    "options": [
+      "گل",
+      "وڻ",
+      "جبل",
+      "درياهه"
+    ],
+    "answer": "وڻ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'flower'?",
+    "options": [
+      "پن",
+      "گل",
+      "جبل",
+      "درياهه"
+    ],
+    "answer": "گل"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'river'?",
+    "options": [
+      "درياهه",
+      "جبل",
+      "پن",
+      "آسمان"
+    ],
+    "answer": "درياهه"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'mountain'?",
+    "options": [
+      "پن",
+      "مينهن",
+      "آسمان",
+      "جبل"
+    ],
+    "answer": "جبل"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'leaf'?",
+    "options": [
+      "آسمان",
+      "سج",
+      "مينهن",
+      "پن"
+    ],
+    "answer": "پن"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'sky'?",
+    "options": [
+      "چنڊ",
+      "آسمان",
+      "مينهن",
+      "سج"
+    ],
+    "answer": "آسمان"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'rain'?",
+    "options": [
+      "تارو",
+      "سج",
+      "مينهن",
+      "چنڊ"
+    ],
+    "answer": "مينهن"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'sun'?",
+    "options": [
+      "وڻ",
+      "چنڊ",
+      "سج",
+      "تارو"
+    ],
+    "answer": "سج"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'moon'?",
+    "options": [
+      "تارو",
+      "گل",
+      "چنڊ",
+      "وڻ"
+    ],
+    "answer": "چنڊ"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Sindhi word for 'star'?",
+    "options": [
+      "گل",
+      "وڻ",
+      "درياهه",
+      "تارو"
+    ],
+    "answer": "تارو"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Sindhi?",
+    "options": [
+      "صبح جو سلام",
+      "ڀليڪار",
+      "رات جو سلام",
+      "سلام"
+    ],
+    "answer": "سلام"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Sindhi?",
+    "options": [
+      "صبح جو سلام",
+      "رات جو سلام",
+      "ڀليڪار",
+      "توهان ڪيئن آهيو؟"
+    ],
+    "answer": "صبح جو سلام"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Sindhi?",
+    "options": [
+      "رات جو سلام",
+      "ٺيڪ",
+      "توهان ڪيئن آهيو؟",
+      "ڀليڪار"
+    ],
+    "answer": "رات جو سلام"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Sindhi?",
+    "options": [
+      "ٺيڪ",
+      "توهان ڪيئن آهيو؟",
+      "ڀليڪار",
+      "ملنداسين"
+    ],
+    "answer": "ڀليڪار"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Sindhi?",
+    "options": [
+      "ٺيڪ",
+      "توهان ڪيئن آهيو؟",
+      "ملنداسين",
+      "الوداع"
+    ],
+    "answer": "توهان ڪيئن آهيو؟"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Sindhi?",
+    "options": [
+      "ٺيڪ",
+      "خيال رکجو",
+      "الوداع",
+      "ملنداسين"
+    ],
+    "answer": "ٺيڪ"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Sindhi?",
+    "options": [
+      "ملنداسين",
+      "الوداع",
+      "خيال رکجو",
+      "مهرباني"
+    ],
+    "answer": "ملنداسين"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Sindhi?",
+    "options": [
+      "الوداع",
+      "سلام",
+      "مهرباني",
+      "خيال رکجو"
+    ],
+    "answer": "الوداع"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Sindhi?",
+    "options": [
+      "مهرباني",
+      "خيال رکجو",
+      "صبح جو سلام",
+      "سلام"
+    ],
+    "answer": "خيال رکجو"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Sindhi?",
+    "options": [
+      "رات جو سلام",
+      "سلام",
+      "صبح جو سلام",
+      "مهرباني"
+    ],
+    "answer": "مهرباني"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Sindhi?",
+    "options": [
+      "مان ... مان آهيان",
+      "مان هڪ استاد آهيان",
+      "مان هڪ شاگرد آهيان",
+      "منهنجو نالو ... آهي"
+    ],
+    "answer": "منهنجو نالو ... آهي"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Sindhi?",
+    "options": [
+      "مان هڪ شاگرد آهيان",
+      "توهان سان ملي خوشي ٿي",
+      "مان ... مان آهيان",
+      "مان هڪ استاد آهيان"
+    ],
+    "answer": "مان ... مان آهيان"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Sindhi?",
+    "options": [
+      "مان هڪ استاد آهيان",
+      "توهان سان ملي خوشي ٿي",
+      "مان ... ۾ رهان ٿو",
+      "مان هڪ شاگرد آهيان"
+    ],
+    "answer": "مان هڪ شاگرد آهيان"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Sindhi?",
+    "options": [
+      "مان ... ۾ رهان ٿو",
+      "مان هڪ استاد آهيان",
+      "توهان سان ملي خوشي ٿي",
+      "مان سنڌي سکي رهيو آهيان"
+    ],
+    "answer": "مان هڪ استاد آهيان"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Sindhi?",
+    "options": [
+      "توهان جو نالو ڇا آهي؟",
+      "مان ... ۾ رهان ٿو",
+      "توهان سان ملي خوشي ٿي",
+      "مان سنڌي سکي رهيو آهيان"
+    ],
+    "answer": "توهان سان ملي خوشي ٿي"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Sindhi?",
+    "options": [
+      "مان سنڌي سکي رهيو آهيان",
+      "توهان جو نالو ڇا آهي؟",
+      "توهان ڪٿان آهيو؟",
+      "مان ... ۾ رهان ٿو"
+    ],
+    "answer": "مان ... ۾ رهان ٿو"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Sindhi' in Sindhi?",
+    "options": [
+      "توهان جو نالو ڇا آهي؟",
+      "توهان ڪٿان آهيو؟",
+      "مان سنڌي سکي رهيو آهيان",
+      "توهان جي عمر ڪيتري آهي؟"
+    ],
+    "answer": "مان سنڌي سکي رهيو آهيان"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Sindhi?",
+    "options": [
+      "توهان جي عمر ڪيتري آهي؟",
+      "توهان ڪٿان آهيو؟",
+      "توهان جو نالو ڇا آهي؟",
+      "منهنجو نالو ... آهي"
+    ],
+    "answer": "توهان جو نالو ڇا آهي؟"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Sindhi?",
+    "options": [
+      "توهان جي عمر ڪيتري آهي؟",
+      "توهان ڪٿان آهيو؟",
+      "منهنجو نالو ... آهي",
+      "مان ... مان آهيان"
+    ],
+    "answer": "توهان ڪٿان آهيو؟"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Sindhi?",
+    "options": [
+      "منهنجو نالو ... آهي",
+      "مان ... مان آهيان",
+      "توهان جي عمر ڪيتري آهي؟",
+      "مان هڪ شاگرد آهيان"
+    ],
+    "answer": "توهان جي عمر ڪيتري آهي؟"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Sindhi?",
+    "options": [
+      "ها",
+      "ضرور",
+      "نه",
+      "شايد"
+    ],
+    "answer": "ها"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Sindhi?",
+    "options": [
+      "شايد",
+      "ڪڏهن نه",
+      "ضرور",
+      "نه"
+    ],
+    "answer": "نه"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Sindhi?",
+    "options": [
+      "ڪڏهن ڪڏهن",
+      "شايد",
+      "ڪڏهن نه",
+      "ضرور"
+    ],
+    "answer": "شايد"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Sindhi?",
+    "options": [
+      "ڪڏهن نه",
+      "هميشه",
+      "ضرور",
+      "ڪڏهن ڪڏهن"
+    ],
+    "answer": "ضرور"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Sindhi?",
+    "options": [
+      "هميشه",
+      "بلڪل نه",
+      "ڪڏهن نه",
+      "ڪڏهن ڪڏهن"
+    ],
+    "answer": "ڪڏهن نه"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Sindhi?",
+    "options": [
+      "يقيناً",
+      "بلڪل نه",
+      "ڪڏهن ڪڏهن",
+      "هميشه"
+    ],
+    "answer": "ڪڏهن ڪڏهن"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Sindhi?",
+    "options": [
+      "مون کي خبر ناهي",
+      "بلڪل نه",
+      "يقيناً",
+      "هميشه"
+    ],
+    "answer": "هميشه"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Sindhi?",
+    "options": [
+      "ها",
+      "بلڪل نه",
+      "يقيناً",
+      "مون کي خبر ناهي"
+    ],
+    "answer": "بلڪل نه"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Sindhi?",
+    "options": [
+      "مون کي خبر ناهي",
+      "يقيناً",
+      "ها",
+      "نه"
+    ],
+    "answer": "يقيناً"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Sindhi?",
+    "options": [
+      "شايد",
+      "ها",
+      "مون کي خبر ناهي",
+      "نه"
+    ],
+    "answer": "مون کي خبر ناهي"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Sindhi?",
+    "options": [
+      "معاف ڪجو",
+      "معاف ڪجو",
+      "مهرباني ڪري",
+      "مهرباني"
+    ],
+    "answer": "مهرباني"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Sindhi?",
+    "options": [
+      "ڪا ڳالهه ناهي",
+      "مهرباني ڪري",
+      "معاف ڪجو",
+      "معاف ڪجو"
+    ],
+    "answer": "معاف ڪجو"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Sindhi?",
+    "options": [
+      "مهرباني ڪري",
+      "ڪا ڳالهه ناهي",
+      "ڪو مسئلو ناهي",
+      "معاف ڪجو"
+    ],
+    "answer": "مهرباني ڪري"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Sindhi?",
+    "options": [
+      "ڪا ڳالهه ناهي",
+      "مبارڪ",
+      "معاف ڪجو",
+      "ڪو مسئلو ناهي"
+    ],
+    "answer": "معاف ڪجو"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Sindhi?",
+    "options": [
+      "مبارڪ",
+      "خدا توهان کي برڪت ڏي",
+      "ڪا ڳالهه ناهي",
+      "ڪو مسئلو ناهي"
+    ],
+    "answer": "ڪا ڳالهه ناهي"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Sindhi?",
+    "options": [
+      "ڪو مسئلو ناهي",
+      "مبارڪ",
+      "خدا توهان کي برڪت ڏي",
+      "نيڪ قسمت"
+    ],
+    "answer": "ڪو مسئلو ناهي"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Sindhi?",
+    "options": [
+      "نيڪ قسمت",
+      "مبارڪ",
+      "خدا توهان کي برڪت ڏي",
+      "سالگره مبارڪ"
+    ],
+    "answer": "مبارڪ"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Sindhi?",
+    "options": [
+      "نيڪ قسمت",
+      "سالگره مبارڪ",
+      "مهرباني",
+      "خدا توهان کي برڪت ڏي"
+    ],
+    "answer": "خدا توهان کي برڪت ڏي"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Sindhi?",
+    "options": [
+      "مهرباني",
+      "سالگره مبارڪ",
+      "معاف ڪجو",
+      "نيڪ قسمت"
+    ],
+    "answer": "نيڪ قسمت"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Sindhi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Sindhi?",
+    "options": [
+      "مهرباني ڪري",
+      "معاف ڪجو",
+      "مهرباني",
+      "سالگره مبارڪ"
+    ],
+    "answer": "سالگره مبارڪ"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'ki'?",
+    "options": [
+      "ڪو",
+      "ڪے",
+      "ڪي",
+      "ڪُ"
+    ],
+    "answer": "ڪي"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'ku'?",
+    "options": [
+      "ڪو",
+      "گي",
+      "ڪے",
+      "ڪُ"
+    ],
+    "answer": "ڪُ"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'ke'?",
+    "options": [
+      "گُ",
+      "ڪے",
+      "ڪو",
+      "گي"
+    ],
+    "answer": "ڪے"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'ko'?",
+    "options": [
+      "گي",
+      "گے",
+      "گُ",
+      "ڪو"
+    ],
+    "answer": "ڪو"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'gi'?",
+    "options": [
+      "گے",
+      "گُ",
+      "گو",
+      "گي"
+    ],
+    "answer": "گي"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'gu'?",
+    "options": [
+      "گو",
+      "گُ",
+      "چي",
+      "گے"
+    ],
+    "answer": "گُ"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'ge'?",
+    "options": [
+      "چي",
+      "چُ",
+      "گے",
+      "گو"
+    ],
+    "answer": "گے"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'go'?",
+    "options": [
+      "چي",
+      "ڪي",
+      "چُ",
+      "گو"
+    ],
+    "answer": "گو"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'chi'?",
+    "options": [
+      "ڪي",
+      "چي",
+      "ڪُ",
+      "چُ"
+    ],
+    "answer": "چي"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Sindhi syllable for 'chu'?",
+    "options": [
+      "ڪي",
+      "چُ",
+      "ڪُ",
+      "ڪے"
+    ],
+    "answer": "چُ"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'ksh'?",
+    "options": [
+      "جن",
+      "شر",
+      "کش",
+      "تر"
+    ],
+    "answer": "کش"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'tr'?",
+    "options": [
+      "ڪر",
+      "جن",
+      "شر",
+      "تر"
+    ],
+    "answer": "تر"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'jn'?",
+    "options": [
+      "شر",
+      "جن",
+      "پر",
+      "ڪر"
+    ],
+    "answer": "جن"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'shr'?",
+    "options": [
+      "شر",
+      "سر",
+      "پر",
+      "ڪر"
+    ],
+    "answer": "شر"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'kr'?",
+    "options": [
+      "ڪر",
+      "پر",
+      "گر",
+      "سر"
+    ],
+    "answer": "ڪر"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'pr'?",
+    "options": [
+      "سر",
+      "پر",
+      "در",
+      "گر"
+    ],
+    "answer": "پر"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'sr'?",
+    "options": [
+      "نت",
+      "گر",
+      "سر",
+      "در"
+    ],
+    "answer": "سر"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'gr'?",
+    "options": [
+      "گر",
+      "نت",
+      "در",
+      "کش"
+    ],
+    "answer": "گر"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'dr'?",
+    "options": [
+      "در",
+      "تر",
+      "نت",
+      "کش"
+    ],
+    "answer": "در"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Sindhi ligature for 'nt'?",
+    "options": [
+      "جن",
+      "تر",
+      "کش",
+      "نت"
+    ],
+    "answer": "نت"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'sh'?",
+    "options": [
+      "س",
+      "ل",
+      "ش",
+      "ه"
+    ],
+    "answer": "ش"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 's'?",
+    "options": [
+      "ل",
+      "س",
+      "ر",
+      "ه"
+    ],
+    "answer": "س"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'h'?",
+    "options": [
+      "و",
+      "ه",
+      "ل",
+      "ر"
+    ],
+    "answer": "ه"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'l'?",
+    "options": [
+      "و",
+      "ل",
+      "ي",
+      "ر"
+    ],
+    "answer": "ل"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'r'?",
+    "options": [
+      "ي",
+      "و",
+      "ر",
+      "ف"
+    ],
+    "answer": "ر"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'v'?",
+    "options": [
+      "ز",
+      "و",
+      "ي",
+      "ف"
+    ],
+    "answer": "و"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'y'?",
+    "options": [
+      "ق",
+      "ز",
+      "ي",
+      "ف"
+    ],
+    "answer": "ي"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'f'?",
+    "options": [
+      "ش",
+      "ف",
+      "ز",
+      "ق"
+    ],
+    "answer": "ف"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'z'?",
+    "options": [
+      "س",
+      "ز",
+      "ق",
+      "ش"
+    ],
+    "answer": "ز"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Sindhi letter for 'q'?",
+    "options": [
+      "ه",
+      "ش",
+      "س",
+      "ق"
+    ],
+    "answer": "ق"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'شير'?",
+    "options": [
+      "شر",
+      "ش",
+      "جن",
+      "تر"
+    ],
+    "answer": "ش"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'جنت'?",
+    "options": [
+      "گر",
+      "شر",
+      "تر",
+      "جن"
+    ],
+    "answer": "جن"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'ترقي'?",
+    "options": [
+      "پر",
+      "گر",
+      "شر",
+      "تر"
+    ],
+    "answer": "تر"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'شراب'?",
+    "options": [
+      "سر",
+      "گر",
+      "پر",
+      "شر"
+    ],
+    "answer": "شر"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'گرم'?",
+    "options": [
+      "سر",
+      "گر",
+      "پر",
+      "در"
+    ],
+    "answer": "گر"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'پرواز'?",
+    "options": [
+      "سر",
+      "پر",
+      "ف",
+      "در"
+    ],
+    "answer": "پر"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'سرخ'?",
+    "options": [
+      "ه",
+      "سر",
+      "در",
+      "ف"
+    ],
+    "answer": "سر"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'درياهه'?",
+    "options": [
+      "ه",
+      "ف",
+      "ش",
+      "در"
+    ],
+    "answer": "در"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'فائدو'?",
+    "options": [
+      "جن",
+      "ش",
+      "ه",
+      "ف"
+    ],
+    "answer": "ف"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Sindhi letter is used in the word 'هوا'?",
+    "options": [
+      "ش",
+      "ه",
+      "تر",
+      "جن"
+    ],
+    "answer": "ه"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Sunday'?",
+    "options": [
+      "سومر",
+      "اربع",
+      "آچر",
+      "منگل"
+    ],
+    "answer": "آچر"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Monday'?",
+    "options": [
+      "سومر",
+      "خميس",
+      "منگل",
+      "اربع"
+    ],
+    "answer": "سومر"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Tuesday'?",
+    "options": [
+      "اربع",
+      "منگل",
+      "جمعو",
+      "خميس"
+    ],
+    "answer": "منگل"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Wednesday'?",
+    "options": [
+      "ڇنڇر",
+      "خميس",
+      "اربع",
+      "جمعو"
+    ],
+    "answer": "اربع"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Thursday'?",
+    "options": [
+      "جمعو",
+      "ڇنڇر",
+      "اڄ",
+      "خميس"
+    ],
+    "answer": "خميس"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Friday'?",
+    "options": [
+      "سڀاڻي",
+      "جمعو",
+      "اڄ",
+      "ڇنڇر"
+    ],
+    "answer": "جمعو"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Saturday'?",
+    "options": [
+      "ڪالهه",
+      "سڀاڻي",
+      "اڄ",
+      "ڇنڇر"
+    ],
+    "answer": "ڇنڇر"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Today'?",
+    "options": [
+      "اڄ",
+      "ڪالهه",
+      "سڀاڻي",
+      "آچر"
+    ],
+    "answer": "اڄ"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Tomorrow'?",
+    "options": [
+      "سڀاڻي",
+      "آچر",
+      "ڪالهه",
+      "سومر"
+    ],
+    "answer": "سڀاڻي"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Sindhi word for 'Yesterday'?",
+    "options": [
+      "ڪالهه",
+      "سومر",
+      "منگل",
+      "آچر"
+    ],
+    "answer": "ڪالهه"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'red'?",
+    "options": [
+      "ڳاڙهو",
+      "پيلو",
+      "سائو",
+      "نيرو"
+    ],
+    "answer": "ڳاڙهو"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'blue'?",
+    "options": [
+      "نيرو",
+      "سائو",
+      "پيلو",
+      "ڪارو"
+    ],
+    "answer": "نيرو"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'green'?",
+    "options": [
+      "اڇو",
+      "سائو",
+      "پيلو",
+      "ڪارو"
+    ],
+    "answer": "سائو"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'yellow'?",
+    "options": [
+      "اڇو",
+      "پيلو",
+      "ڪارو",
+      "نارنگي"
+    ],
+    "answer": "پيلو"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'black'?",
+    "options": [
+      "اڇو",
+      "نارنگي",
+      "ڪارو",
+      "گلابي"
+    ],
+    "answer": "ڪارو"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'white'?",
+    "options": [
+      "نارنگي",
+      "گلابي",
+      "اڇو",
+      "جامني"
+    ],
+    "answer": "اڇو"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'orange'?",
+    "options": [
+      "گلابي",
+      "جامني",
+      "ڀورو",
+      "نارنگي"
+    ],
+    "answer": "نارنگي"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'pink'?",
+    "options": [
+      "گلابي",
+      "ڳاڙهو",
+      "جامني",
+      "ڀورو"
+    ],
+    "answer": "گلابي"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'purple'?",
+    "options": [
+      "نيرو",
+      "جامني",
+      "ڀورو",
+      "ڳاڙهو"
+    ],
+    "answer": "جامني"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Sindhi word for 'brown'?",
+    "options": [
+      "ڀورو",
+      "ڳاڙهو",
+      "سائو",
+      "نيرو"
+    ],
+    "answer": "ڀورو"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'one'?",
+    "options": [
+      "هڪ",
+      "ٽي",
+      "چار",
+      "ٻه"
+    ],
+    "answer": "هڪ"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'two'?",
+    "options": [
+      "پنج",
+      "ٽي",
+      "چار",
+      "ٻه"
+    ],
+    "answer": "ٻه"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'three'?",
+    "options": [
+      "چار",
+      "پنج",
+      "ڇهه",
+      "ٽي"
+    ],
+    "answer": "ٽي"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'four'?",
+    "options": [
+      "چار",
+      "ست",
+      "پنج",
+      "ڇهه"
+    ],
+    "answer": "چار"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'five'?",
+    "options": [
+      "ست",
+      "پنج",
+      "ڇهه",
+      "اٺ"
+    ],
+    "answer": "پنج"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'six'?",
+    "options": [
+      "ست",
+      "اٺ",
+      "نو",
+      "ڇهه"
+    ],
+    "answer": "ڇهه"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'seven'?",
+    "options": [
+      "ست",
+      "اٺ",
+      "ڏهه",
+      "نو"
+    ],
+    "answer": "ست"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'eight'?",
+    "options": [
+      "ڏهه",
+      "اٺ",
+      "نو",
+      "هڪ"
+    ],
+    "answer": "اٺ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'nine'?",
+    "options": [
+      "ڏهه",
+      "هڪ",
+      "نو",
+      "ٻه"
+    ],
+    "answer": "نو"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Sindhi word for 'ten'?",
+    "options": [
+      "ٻه",
+      "ٽي",
+      "ڏهه",
+      "هڪ"
+    ],
+    "answer": "ڏهه"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'breakfast'?",
+    "options": [
+      "ناشتو",
+      "رات جو کاڌو",
+      "ناشتو",
+      "منجهند جو کاڌو"
+    ],
+    "answer": "ناشتو"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'lunch'?",
+    "options": [
+      "ناشتو",
+      "رات جو کاڌو",
+      "مٺايون",
+      "منجهند جو کاڌو"
+    ],
+    "answer": "منجهند جو کاڌو"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'dinner'?",
+    "options": [
+      "تيز",
+      "ناشتو",
+      "مٺايون",
+      "رات جو کاڌو"
+    ],
+    "answer": "رات جو کاڌو"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'snacks'?",
+    "options": [
+      "ڀاجي خور",
+      "ناشتو",
+      "مٺايون",
+      "تيز"
+    ],
+    "answer": "ناشتو"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'sweets'?",
+    "options": [
+      "مٺايون",
+      "ڀاجي خور",
+      "تيز",
+      "گوشت خور"
+    ],
+    "answer": "مٺايون"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'spicy'?",
+    "options": [
+      "ڀاجي خور",
+      "گوشت خور",
+      "رس",
+      "تيز"
+    ],
+    "answer": "تيز"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'vegetarian'?",
+    "options": [
+      "ڪافي",
+      "گوشت خور",
+      "رس",
+      "ڀاجي خور"
+    ],
+    "answer": "ڀاجي خور"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'non-vegetarian'?",
+    "options": [
+      "رس",
+      "ڪافي",
+      "ناشتو",
+      "گوشت خور"
+    ],
+    "answer": "گوشت خور"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'juice'?",
+    "options": [
+      "رس",
+      "ناشتو",
+      "منجهند جو کاڌو",
+      "ڪافي"
+    ],
+    "answer": "رس"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Sindhi word for 'coffee'?",
+    "options": [
+      "ڪافي",
+      "ناشتو",
+      "رات جو کاڌو",
+      "منجهند جو کاڌو"
+    ],
+    "answer": "ڪافي"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Sindhi?",
+    "options": [
+      "توهان جو نالو ڇا آهي؟",
+      "توهان ڪٿان آهيو؟",
+      "توهان ڪيئن آهيو؟",
+      "توهان جي عمر ڪيتري آهي؟"
+    ],
+    "answer": "توهان ڪيئن آهيو؟"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Sindhi?",
+    "options": [
+      "توهان ڪٿان آهيو؟",
+      "توهان جي عمر ڪيتري آهي؟",
+      "توهان جو نالو ڇا آهي؟",
+      "ڇا توهان سنڌي ڳالهايو ٿا؟"
+    ],
+    "answer": "توهان جو نالو ڇا آهي؟"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Sindhi?",
+    "options": [
+      "توهان جي عمر ڪيتري آهي؟",
+      "توهان ڪٿان آهيو؟",
+      "ڇا مان توهان جي مدد ڪري سگهان ٿو؟",
+      "ڇا توهان سنڌي ڳالهايو ٿا؟"
+    ],
+    "answer": "توهان ڪٿان آهيو؟"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Sindhi?",
+    "options": [
+      "غسل خانو ڪٿي آهي؟",
+      "ڇا مان توهان جي مدد ڪري سگهان ٿو؟",
+      "توهان جي عمر ڪيتري آهي؟",
+      "ڇا توهان سنڌي ڳالهايو ٿا؟"
+    ],
+    "answer": "توهان جي عمر ڪيتري آهي؟"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Sindhi?' in Sindhi?",
+    "options": [
+      "ڇا مان توهان جي مدد ڪري سگهان ٿو؟",
+      "هي ڪيترو آهي؟",
+      "ڇا توهان سنڌي ڳالهايو ٿا؟",
+      "غسل خانو ڪٿي آهي؟"
+    ],
+    "answer": "ڇا توهان سنڌي ڳالهايو ٿا؟"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Sindhi?",
+    "options": [
+      "ڇا مان توهان جي مدد ڪري سگهان ٿو؟",
+      "غسل خانو ڪٿي آهي؟",
+      "هي ڪيترو آهي؟",
+      "ڪهڙو وقت آهي؟"
+    ],
+    "answer": "ڇا مان توهان جي مدد ڪري سگهان ٿو؟"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Sindhi?",
+    "options": [
+      "توهان ڪٿي رهو ٿا؟",
+      "هي ڪيترو آهي؟",
+      "ڪهڙو وقت آهي؟",
+      "غسل خانو ڪٿي آهي؟"
+    ],
+    "answer": "غسل خانو ڪٿي آهي؟"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Sindhi?",
+    "options": [
+      "توهان ڪٿي رهو ٿا؟",
+      "توهان ڪيئن آهيو؟",
+      "هي ڪيترو آهي؟",
+      "ڪهڙو وقت آهي؟"
+    ],
+    "answer": "هي ڪيترو آهي؟"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Sindhi?",
+    "options": [
+      "توهان ڪٿي رهو ٿا؟",
+      "توهان جو نالو ڇا آهي؟",
+      "توهان ڪيئن آهيو؟",
+      "ڪهڙو وقت آهي؟"
+    ],
+    "answer": "ڪهڙو وقت آهي؟"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Sindhi?",
+    "options": [
+      "توهان ڪٿان آهيو؟",
+      "توهان جو نالو ڇا آهي؟",
+      "توهان ڪيئن آهيو؟",
+      "توهان ڪٿي رهو ٿا؟"
+    ],
+    "answer": "توهان ڪٿي رهو ٿا؟"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Sindhi?",
+    "options": [
+      "مهرباني ڪري ويهو",
+      "مهرباني ڪري انتظار ڪجو",
+      "مهرباني ڪري منهنجي مدد ڪجو",
+      "مهرباني ڪري هتي اچو"
+    ],
+    "answer": "مهرباني ڪري منهنجي مدد ڪجو"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Sindhi?",
+    "options": [
+      "مهرباني ڪري انتظار ڪجو",
+      "مهرباني ڪري ويهو",
+      "مهرباني ڪري هتي اچو",
+      "مهرباني ڪري آهستگي سان ڳالهايو"
+    ],
+    "answer": "مهرباني ڪري انتظار ڪجو"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Sindhi?",
+    "options": [
+      "مهرباني ڪري هتي اچو",
+      "مهرباني ڪري ويهو",
+      "مهرباني ڪري آهستگي سان ڳالهايو",
+      "مهرباني ڪري لکو"
+    ],
+    "answer": "مهرباني ڪري هتي اچو"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Sindhi?",
+    "options": [
+      "مهرباني ڪري آهستگي سان ڳالهايو",
+      "مهرباني ڪري ويهو",
+      "مهرباني ڪري ٻيهر چئو",
+      "مهرباني ڪري لکو"
+    ],
+    "answer": "مهرباني ڪري ويهو"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Sindhi?",
+    "options": [
+      "مهرباني ڪري لکو",
+      "مهرباني ڪري ٻيهر چئو",
+      "مهرباني ڪري مون کي ڏيکاريو",
+      "مهرباني ڪري آهستگي سان ڳالهايو"
+    ],
+    "answer": "مهرباني ڪري آهستگي سان ڳالهايو"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Sindhi?",
+    "options": [
+      "مهرباني ڪري ٻيهر چئو",
+      "مهرباني ڪري لکو",
+      "مهرباني ڪري دروازو کوليو",
+      "مهرباني ڪري مون کي ڏيکاريو"
+    ],
+    "answer": "مهرباني ڪري لکو"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Sindhi?",
+    "options": [
+      "مهرباني ڪري دروازو کوليو",
+      "مهرباني ڪري دري بند ڪجو",
+      "مهرباني ڪري مون کي ڏيکاريو",
+      "مهرباني ڪري ٻيهر چئو"
+    ],
+    "answer": "مهرباني ڪري ٻيهر چئو"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Sindhi?",
+    "options": [
+      "مهرباني ڪري منهنجي مدد ڪجو",
+      "مهرباني ڪري دري بند ڪجو",
+      "مهرباني ڪري دروازو کوليو",
+      "مهرباني ڪري مون کي ڏيکاريو"
+    ],
+    "answer": "مهرباني ڪري مون کي ڏيکاريو"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Sindhi?",
+    "options": [
+      "مهرباني ڪري دري بند ڪجو",
+      "مهرباني ڪري انتظار ڪجو",
+      "مهرباني ڪري دروازو کوليو",
+      "مهرباني ڪري منهنجي مدد ڪجو"
+    ],
+    "answer": "مهرباني ڪري دروازو کوليو"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Sindhi?",
+    "options": [
+      "مهرباني ڪري دري بند ڪجو",
+      "مهرباني ڪري منهنجي مدد ڪجو",
+      "مهرباني ڪري هتي اچو",
+      "مهرباني ڪري انتظار ڪجو"
+    ],
+    "answer": "مهرباني ڪري دري بند ڪجو"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Sindhi?",
+    "options": [
+      "هي ڪيترو آهي؟",
+      "ڇا مان هي آزمائي سگهان ٿو؟",
+      "ڇا رعايت آهي؟",
+      "مان هي خريد ڪرڻ چاهيان ٿو"
+    ],
+    "answer": "هي ڪيترو آهي؟"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Sindhi?",
+    "options": [
+      "ڇا مان هي آزمائي سگهان ٿو؟",
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "ڇا رعايت آهي؟",
+      "مان هي خريد ڪرڻ چاهيان ٿو"
+    ],
+    "answer": "ڇا رعايت آهي؟"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Sindhi?",
+    "options": [
+      "ڪائونٽر ڪٿي آهي؟",
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "ڇا مان هي آزمائي سگهان ٿو؟",
+      "مان هي خريد ڪرڻ چاهيان ٿو"
+    ],
+    "answer": "مان هي خريد ڪرڻ چاهيان ٿو"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Sindhi?",
+    "options": [
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "ڪائونٽر ڪٿي آهي؟",
+      "ڇا اهو موجود آهي؟",
+      "ڇا مان هي آزمائي سگهان ٿو؟"
+    ],
+    "answer": "ڇا مان هي آزمائي سگهان ٿو؟"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Sindhi?",
+    "options": [
+      "مهرباني ڪري هي پيڪ ڪجو",
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "ڇا اهو موجود آهي؟",
+      "ڪائونٽر ڪٿي آهي؟"
+    ],
+    "answer": "ڇا توهان ڪارڊ وٺو ٿا؟"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Sindhi?",
+    "options": [
+      "مهرباني ڪري هي پيڪ ڪجو",
+      "ڪائونٽر ڪٿي آهي؟",
+      "ڇا اهو موجود آهي؟",
+      "مون کي ٿيلهي جي ضرورت آهي"
+    ],
+    "answer": "ڪائونٽر ڪٿي آهي؟"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Sindhi?",
+    "options": [
+      "مهرباني ڪري هي پيڪ ڪجو",
+      "وقت ڇا آهي؟",
+      "ڇا اهو موجود آهي؟",
+      "مون کي ٿيلهي جي ضرورت آهي"
+    ],
+    "answer": "ڇا اهو موجود آهي؟"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Sindhi?",
+    "options": [
+      "مون کي ٿيلهي جي ضرورت آهي",
+      "وقت ڇا آهي؟",
+      "مهرباني ڪري هي پيڪ ڪجو",
+      "هي ڪيترو آهي؟"
+    ],
+    "answer": "مهرباني ڪري هي پيڪ ڪجو"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Sindhi?",
+    "options": [
+      "هي ڪيترو آهي؟",
+      "ڇا رعايت آهي؟",
+      "وقت ڇا آهي؟",
+      "مون کي ٿيلهي جي ضرورت آهي"
+    ],
+    "answer": "مون کي ٿيلهي جي ضرورت آهي"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Sindhi?",
+    "options": [
+      "مان هي خريد ڪرڻ چاهيان ٿو",
+      "ڇا رعايت آهي؟",
+      "وقت ڇا آهي؟",
+      "هي ڪيترو آهي؟"
+    ],
+    "answer": "وقت ڇا آهي؟"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Sindhi?",
+    "options": [
+      "ڇا اهو هتان پري آهي؟",
+      "ريلوي اسٽيشن ڪيئن وڃان؟",
+      "بس اسٽاپ ڪٿي آهي؟",
+      "بازار ڪهڙي طرف آهي؟"
+    ],
+    "answer": "بس اسٽاپ ڪٿي آهي؟"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Sindhi?",
+    "options": [
+      "بازار ڪهڙي طرف آهي؟",
+      "کاٻي طرف مڙو",
+      "ڇا اهو هتان پري آهي؟",
+      "ريلوي اسٽيشن ڪيئن وڃان؟"
+    ],
+    "answer": "ريلوي اسٽيشن ڪيئن وڃان؟"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Sindhi?",
+    "options": [
+      "بازار ڪهڙي طرف آهي؟",
+      "ساڄي طرف مڙو",
+      "کاٻي طرف مڙو",
+      "ڇا اهو هتان پري آهي؟"
+    ],
+    "answer": "بازار ڪهڙي طرف آهي؟"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Sindhi?",
+    "options": [
+      "ساڄي طرف مڙو",
+      "ڇا اهو هتان پري آهي؟",
+      "سڌو وڃو",
+      "کاٻي طرف مڙو"
+    ],
+    "answer": "ڇا اهو هتان پري آهي؟"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Sindhi?",
+    "options": [
+      "کاٻي طرف مڙو",
+      "هتي بيهو",
+      "ساڄي طرف مڙو",
+      "سڌو وڃو"
+    ],
+    "answer": "کاٻي طرف مڙو"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Sindhi?",
+    "options": [
+      "هتي بيهو",
+      "سڌو وڃو",
+      "ڪيترو وقت لڳندو؟",
+      "ساڄي طرف مڙو"
+    ],
+    "answer": "ساڄي طرف مڙو"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Sindhi?",
+    "options": [
+      "ڪيترو وقت لڳندو؟",
+      "سڌو وڃو",
+      "هتي بيهو",
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟"
+    ],
+    "answer": "سڌو وڃو"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Sindhi?",
+    "options": [
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟",
+      "ڪيترو وقت لڳندو؟",
+      "بس اسٽاپ ڪٿي آهي؟",
+      "هتي بيهو"
+    ],
+    "answer": "هتي بيهو"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Sindhi?",
+    "options": [
+      "ريلوي اسٽيشن ڪيئن وڃان؟",
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟",
+      "ڪيترو وقت لڳندو؟",
+      "بس اسٽاپ ڪٿي آهي؟"
+    ],
+    "answer": "ڪيترو وقت لڳندو؟"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Sindhi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Sindhi?",
+    "options": [
+      "ريلوي اسٽيشن ڪيئن وڃان؟",
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟",
+      "بازار ڪهڙي طرف آهي؟",
+      "بس اسٽاپ ڪٿي آهي؟"
+    ],
+    "answer": "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'go'?",
+    "options": [
+      "پڙهيو",
+      "ويو",
+      "کاڌو",
+      "ڏٺو"
+    ],
+    "answer": "ويو"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'eat'?",
+    "options": [
+      "ڏٺو",
+      "کاڌو",
+      "لکيو",
+      "پڙهيو"
+    ],
+    "answer": "کاڌو"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'see'?",
+    "options": [
+      "آيو",
+      "لکيو",
+      "ڏٺو",
+      "پڙهيو"
+    ],
+    "answer": "ڏٺو"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'read'?",
+    "options": [
+      "لکيو",
+      "آيو",
+      "ڏنو",
+      "پڙهيو"
+    ],
+    "answer": "پڙهيو"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'write'?",
+    "options": [
+      "لکيو",
+      "ڏنو",
+      "ورتو",
+      "آيو"
+    ],
+    "answer": "لکيو"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'come'?",
+    "options": [
+      "کيڏيو",
+      "آيو",
+      "ڏنو",
+      "ورتو"
+    ],
+    "answer": "آيو"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'give'?",
+    "options": [
+      "کيڏيو",
+      "ورتو",
+      "سمهيو",
+      "ڏنو"
+    ],
+    "answer": "ڏنو"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'take'?",
+    "options": [
+      "ويو",
+      "سمهيو",
+      "کيڏيو",
+      "ورتو"
+    ],
+    "answer": "ورتو"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'play'?",
+    "options": [
+      "کاڌو",
+      "سمهيو",
+      "کيڏيو",
+      "ويو"
+    ],
+    "answer": "کيڏيو"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Sindhi past tense of 'sleep'?",
+    "options": [
+      "سمهيو",
+      "کاڌو",
+      "ويو",
+      "ڏٺو"
+    ],
+    "answer": "سمهيو"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'book'?",
+    "options": [
+      "ڇوڪرا",
+      "قلم",
+      "ڪتاب",
+      "ڇوڪريون"
+    ],
+    "answer": "ڪتاب"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'pen'?",
+    "options": [
+      "ڇوڪرا",
+      "گل",
+      "قلم",
+      "ڇوڪريون"
+    ],
+    "answer": "قلم"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'boy'?",
+    "options": [
+      "ڇوڪريون",
+      "ڇوڪرا",
+      "پن",
+      "گل"
+    ],
+    "answer": "ڇوڪرا"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'girl'?",
+    "options": [
+      "تارا",
+      "گل",
+      "پن",
+      "ڇوڪريون"
+    ],
+    "answer": "ڇوڪريون"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'flower'?",
+    "options": [
+      "وڻ",
+      "تارا",
+      "پن",
+      "گل"
+    ],
+    "answer": "گل"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'leaf'?",
+    "options": [
+      "درياهه",
+      "پن",
+      "تارا",
+      "وڻ"
+    ],
+    "answer": "پن"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'star'?",
+    "options": [
+      "تارا",
+      "درياهه",
+      "وڻ",
+      "ڪرسيون"
+    ],
+    "answer": "تارا"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'tree'?",
+    "options": [
+      "ڪتاب",
+      "وڻ",
+      "درياهه",
+      "ڪرسيون"
+    ],
+    "answer": "وڻ"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'river'?",
+    "options": [
+      "درياهه",
+      "ڪرسيون",
+      "قلم",
+      "ڪتاب"
+    ],
+    "answer": "درياهه"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Sindhi plural of 'chair'?",
+    "options": [
+      "ڪرسيون",
+      "ڪتاب",
+      "قلم",
+      "ڇوڪرا"
+    ],
+    "answer": "ڪرسيون"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'and'?",
+    "options": [
+      "ڇاڪاڻ ته",
+      "يا",
+      "پر",
+      "۽"
+    ],
+    "answer": "۽"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'but'?",
+    "options": [
+      "پر",
+      "يا",
+      "جيڪڏهن",
+      "ڇاڪاڻ ته"
+    ],
+    "answer": "پر"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'or'?",
+    "options": [
+      "ڇاڪاڻ ته",
+      "جيڪڏهن",
+      "يا",
+      "جڏهن"
+    ],
+    "answer": "يا"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'because'?",
+    "options": [
+      "ڇاڪاڻ ته",
+      "جيڪڏهن",
+      "ڪٿي",
+      "جڏهن"
+    ],
+    "answer": "ڇاڪاڻ ته"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'if'?",
+    "options": [
+      "جڏهن",
+      "ڪٿي",
+      "ڪيئن",
+      "جيڪڏهن"
+    ],
+    "answer": "جيڪڏهن"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'when'?",
+    "options": [
+      "ڪيئن",
+      "جڏهن",
+      "ڇو",
+      "ڪٿي"
+    ],
+    "answer": "جڏهن"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'where'?",
+    "options": [
+      "ڇو",
+      "ڪٿي",
+      "ڪيئن",
+      "سان"
+    ],
+    "answer": "ڪٿي"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'how'?",
+    "options": [
+      "سان",
+      "ڪيئن",
+      "ڇو",
+      "۽"
+    ],
+    "answer": "ڪيئن"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'why'?",
+    "options": [
+      "پر",
+      "۽",
+      "سان",
+      "ڇو"
+    ],
+    "answer": "ڇو"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Sindhi particle for 'with'?",
+    "options": [
+      "يا",
+      "پر",
+      "۽",
+      "سان"
+    ],
+    "answer": "سان"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Sindhi?",
+    "options": [
+      "نه اچڻ",
+      "نه پڙهڻ",
+      "نه وڃڻ",
+      "نه کائڻ"
+    ],
+    "answer": "نه وڃڻ"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Sindhi?",
+    "options": [
+      "نه پڙهڻ",
+      "نه لکڻ",
+      "نه کائڻ",
+      "نه اچڻ"
+    ],
+    "answer": "نه اچڻ"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Sindhi?",
+    "options": [
+      "نه کائڻ",
+      "نه کيڏڻ",
+      "نه پڙهڻ",
+      "نه لکڻ"
+    ],
+    "answer": "نه کائڻ"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Sindhi?",
+    "options": [
+      "نه لکڻ",
+      "نه کيڏڻ",
+      "نه پڙهڻ",
+      "نه سمهڻ"
+    ],
+    "answer": "نه پڙهڻ"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Sindhi?",
+    "options": [
+      "نه لکڻ",
+      "نه ڏسڻ",
+      "نه کيڏڻ",
+      "نه سمهڻ"
+    ],
+    "answer": "نه لکڻ"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Sindhi?",
+    "options": [
+      "نه ڏيڻ",
+      "نه سمهڻ",
+      "نه ڏسڻ",
+      "نه کيڏڻ"
+    ],
+    "answer": "نه کيڏڻ"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Sindhi?",
+    "options": [
+      "نه وٺڻ",
+      "نه ڏسڻ",
+      "نه ڏيڻ",
+      "نه سمهڻ"
+    ],
+    "answer": "نه سمهڻ"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Sindhi?",
+    "options": [
+      "نه ڏيڻ",
+      "نه ڏسڻ",
+      "نه وڃڻ",
+      "نه وٺڻ"
+    ],
+    "answer": "نه ڏسڻ"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Sindhi?",
+    "options": [
+      "نه وٺڻ",
+      "نه ڏيڻ",
+      "نه اچڻ",
+      "نه وڃڻ"
+    ],
+    "answer": "نه ڏيڻ"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Sindhi?",
+    "options": [
+      "نه اچڻ",
+      "نه کائڻ",
+      "نه وٺڻ",
+      "نه وڃڻ"
+    ],
+    "answer": "نه وٺڻ"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'apple'",
+    "options": [
+      "ٻلي",
+      "ڪتو",
+      "ڪيلو",
+      "سيب"
+    ],
+    "answer": "سيب"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'banana'",
+    "options": [
+      "ٻلي",
+      "گاڏي",
+      "ڪتو",
+      "ڪيلو"
+    ],
+    "answer": "ڪيلو"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'cat'",
+    "options": [
+      "ٻلي",
+      "گاڏي",
+      "بس",
+      "ڪتو"
+    ],
+    "answer": "ٻلي"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'dog'",
+    "options": [
+      "ريل",
+      "گاڏي",
+      "بس",
+      "ڪتو"
+    ],
+    "answer": "ڪتو"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'car'",
+    "options": [
+      "گاڏي",
+      "گهر",
+      "ريل",
+      "بس"
+    ],
+    "answer": "گاڏي"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'bus'",
+    "options": [
+      "شهر",
+      "بس",
+      "ريل",
+      "گهر"
+    ],
+    "answer": "بس"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'train'",
+    "options": [
+      "شهر",
+      "گهر",
+      "ريل",
+      "ڳوٺ"
+    ],
+    "answer": "ريل"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'house'",
+    "options": [
+      "گهر",
+      "ڳوٺ",
+      "شهر",
+      "سيب"
+    ],
+    "answer": "گهر"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'city'",
+    "options": [
+      "سيب",
+      "ڳوٺ",
+      "ڪيلو",
+      "شهر"
+    ],
+    "answer": "شهر"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Sindhi word for 'village'",
+    "options": [
+      "سيب",
+      "ٻلي",
+      "ڪيلو",
+      "ڳوٺ"
+    ],
+    "answer": "ڳوٺ"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Good morning'",
+    "options": [
+      "مهرباني",
+      "معاف ڪجو",
+      "توهان ڪيئن آهيو؟",
+      "صبح جو سلام"
+    ],
+    "answer": "صبح جو سلام"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'How are you?'",
+    "options": [
+      "مهرباني",
+      "مهرباني ڪري اندر اچو",
+      "توهان ڪيئن آهيو؟",
+      "معاف ڪجو"
+    ],
+    "answer": "توهان ڪيئن آهيو؟"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Thank you'",
+    "options": [
+      "مهرباني",
+      "مهرباني ڪري اندر اچو",
+      "ويهو",
+      "معاف ڪجو"
+    ],
+    "answer": "مهرباني"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Sorry'",
+    "options": [
+      "معاف ڪجو",
+      "مهرباني ڪري اندر اچو",
+      "اٿو",
+      "ويهو"
+    ],
+    "answer": "معاف ڪجو"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Please come in'",
+    "options": [
+      "اٿو",
+      "ويهو",
+      "مهرباني ڪري اندر اچو",
+      "اڳتي وڃو"
+    ],
+    "answer": "مهرباني ڪري اندر اچو"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Sit down'",
+    "options": [
+      "چڱو ڪيو",
+      "اڳتي وڃو",
+      "اٿو",
+      "ويهو"
+    ],
+    "answer": "ويهو"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Stand up'",
+    "options": [
+      "مبارڪ",
+      "اٿو",
+      "چڱو ڪيو",
+      "اڳتي وڃو"
+    ],
+    "answer": "اٿو"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Go ahead'",
+    "options": [
+      "مبارڪ",
+      "صبح جو سلام",
+      "چڱو ڪيو",
+      "اڳتي وڃو"
+    ],
+    "answer": "اڳتي وڃو"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Well done'",
+    "options": [
+      "مبارڪ",
+      "توهان ڪيئن آهيو؟",
+      "صبح جو سلام",
+      "چڱو ڪيو"
+    ],
+    "answer": "چڱو ڪيو"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Sindhi phrase for 'Congratulations'",
+    "options": [
+      "مهرباني",
+      "صبح جو سلام",
+      "مبارڪ",
+      "توهان ڪيئن آهيو؟"
+    ],
+    "answer": "مبارڪ"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'I am going to school'",
+    "options": [
+      "مان اسڪول وڃي رهيو آهيان",
+      "اهي ڪتاب پڙهي رهيا آهن",
+      "هوءَ چانور کائي رهي آهي",
+      "اسان ڪرڪيٽ کيڏي رهيا آهيون"
+    ],
+    "answer": "مان اسڪول وڃي رهيو آهيان"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'She is eating rice'",
+    "options": [
+      "اهي ڪتاب پڙهي رهيا آهن",
+      "هوءَ چانور کائي رهي آهي",
+      "اسان ڪرڪيٽ کيڏي رهيا آهيون",
+      "هو خط لکي رهيو آهي"
+    ],
+    "answer": "هوءَ چانور کائي رهي آهي"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'We are playing cricket'",
+    "options": [
+      "اسان ڪرڪيٽ کيڏي رهيا آهيون",
+      "تون منهنجو دوست آهين",
+      "هو خط لکي رهيو آهي",
+      "اهي ڪتاب پڙهي رهيا آهن"
+    ],
+    "answer": "اسان ڪرڪيٽ کيڏي رهيا آهيون"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'They are reading books'",
+    "options": [
+      "تون منهنجو دوست آهين",
+      "هو خط لکي رهيو آهي",
+      "اهي ڪتاب پڙهي رهيا آهن",
+      "هاڻي مينهن پئي رهيو آهي"
+    ],
+    "answer": "اهي ڪتاب پڙهي رهيا آهن"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'He is writing a letter'",
+    "options": [
+      "مون کي سنڌي پسند آهي",
+      "هاڻي مينهن پئي رهيو آهي",
+      "تون منهنجو دوست آهين",
+      "هو خط لکي رهيو آهي"
+    ],
+    "answer": "هو خط لکي رهيو آهي"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'You are my friend'",
+    "options": [
+      "اسان سنڌ ۾ رهون ٿا",
+      "مون کي سنڌي پسند آهي",
+      "تون منهنجو دوست آهين",
+      "هاڻي مينهن پئي رهيو آهي"
+    ],
+    "answer": "تون منهنجو دوست آهين"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'It is raining now'",
+    "options": [
+      "هاڻي مينهن پئي رهيو آهي",
+      "مون کي سنڌي پسند آهي",
+      "هوءَ گيت ڳائي رهي آهي",
+      "اسان سنڌ ۾ رهون ٿا"
+    ],
+    "answer": "هاڻي مينهن پئي رهيو آهي"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'I like Sindhi'",
+    "options": [
+      "هوءَ گيت ڳائي رهي آهي",
+      "اسان سنڌ ۾ رهون ٿا",
+      "مون کي سنڌي پسند آهي",
+      "مان اسڪول وڃي رهيو آهيان"
+    ],
+    "answer": "مون کي سنڌي پسند آهي"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'We live in Sindh'",
+    "options": [
+      "هوءَ گيت ڳائي رهي آهي",
+      "هوءَ چانور کائي رهي آهي",
+      "اسان سنڌ ۾ رهون ٿا",
+      "مان اسڪول وڃي رهيو آهيان"
+    ],
+    "answer": "اسان سنڌ ۾ رهون ٿا"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Sindhi sentence for 'She is singing a song'",
+    "options": [
+      "اسان ڪرڪيٽ کيڏي رهيا آهيون",
+      "هوءَ گيت ڳائي رهي آهي",
+      "هوءَ چانور کائي رهي آهي",
+      "مان اسڪول وڃي رهيو آهيان"
+    ],
+    "answer": "هوءَ گيت ڳائي رهي آهي"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "توهان جو نالو ڇا آهي؟ - منهنجو نالو علي آهي",
+      "توهان ڪٿي وڃي رهيا آهيو؟ - بازار",
+      "توهان ڪيئن آهيو؟ - مان ٺيڪ آهيان",
+      "ڇا توهان انگريزي ڳالهايو ٿا؟ - ها، ٿورو"
+    ],
+    "answer": "توهان ڪيئن آهيو؟ - مان ٺيڪ آهيان"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'What is your name? - My name is Ali.'",
+    "options": [
+      "ڇا توهان منهنجي مدد ڪري سگهو ٿا؟ - ضرور",
+      "توهان جو نالو ڇا آهي؟ - منهنجو نالو علي آهي",
+      "توهان ڪٿي وڃي رهيا آهيو؟ - بازار",
+      "ڇا توهان انگريزي ڳالهايو ٿا؟ - ها، ٿورو"
+    ],
+    "answer": "توهان جو نالو ڇا آهي؟ - منهنجو نالو علي آهي"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "توهان ڪٿي وڃي رهيا آهيو؟ - بازار",
+      "ڇا توهان انگريزي ڳالهايو ٿا؟ - ها، ٿورو",
+      "ڪهڙو وقت آهي؟ - پنج وڳا آهن",
+      "ڇا توهان منهنجي مدد ڪري سگهو ٿا؟ - ضرور"
+    ],
+    "answer": "توهان ڪٿي وڃي رهيا آهيو؟ - بازار"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "بس اسٽاپ ڪٿي آهي؟ - اُتي",
+      "ڇا توهان منهنجي مدد ڪري سگهو ٿا؟ - ضرور",
+      "ڪهڙو وقت آهي؟ - پنج وڳا آهن",
+      "ڇا توهان انگريزي ڳالهايو ٿا؟ - ها، ٿورو"
+    ],
+    "answer": "ڇا توهان انگريزي ڳالهايو ٿا؟ - ها، ٿورو"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "بس اسٽاپ ڪٿي آهي؟ - اُتي",
+      "ڪهڙو وقت آهي؟ - پنج وڳا آهن",
+      "هي ڪيترو آهي؟ - 50 رپيا",
+      "ڇا توهان منهنجي مدد ڪري سگهو ٿا؟ - ضرور"
+    ],
+    "answer": "ڇا توهان منهنجي مدد ڪري سگهو ٿا؟ - ضرور"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "هي ڪيترو آهي؟ - 50 رپيا",
+      "بس اسٽاپ ڪٿي آهي؟ - اُتي",
+      "مهرباني ڪري اندر اچو - مهرباني",
+      "ڪهڙو وقت آهي؟ - پنج وڳا آهن"
+    ],
+    "answer": "ڪهڙو وقت آهي؟ - پنج وڳا آهن"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "بس اسٽاپ ڪٿي آهي؟ - اُتي",
+      "مهرباني ڪري اندر اچو - مهرباني",
+      "الوداع - ٻيهر ملنداسين",
+      "هي ڪيترو آهي؟ - 50 رپيا"
+    ],
+    "answer": "بس اسٽاپ ڪٿي آهي؟ - اُتي"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "توهان ڪيئن آهيو؟ - مان ٺيڪ آهيان",
+      "هي ڪيترو آهي؟ - 50 رپيا",
+      "الوداع - ٻيهر ملنداسين",
+      "مهرباني ڪري اندر اچو - مهرباني"
+    ],
+    "answer": "هي ڪيترو آهي؟ - 50 رپيا"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "مهرباني ڪري اندر اچو - مهرباني",
+      "توهان جو نالو ڇا آهي؟ - منهنجو نالو علي آهي",
+      "توهان ڪيئن آهيو؟ - مان ٺيڪ آهيان",
+      "الوداع - ٻيهر ملنداسين"
+    ],
+    "answer": "مهرباني ڪري اندر اچو - مهرباني"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Sindhi dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "توهان ڪٿي وڃي رهيا آهيو؟ - بازار",
+      "توهان ڪيئن آهيو؟ - مان ٺيڪ آهيان",
+      "توهان جو نالو ڇا آهي؟ - منهنجو نالو علي آهي",
+      "الوداع - ٻيهر ملنداسين"
+    ],
+    "answer": "الوداع - ٻيهر ملنداسين"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Sindhi?",
+    "options": [
+      "مان هي خريد ڪرڻ چاهيان ٿو",
+      "ڪائونٽر ڪٿي آهي؟",
+      "هي ڪيترو آهي؟",
+      "ڇا رعايت آهي؟"
+    ],
+    "answer": "مان هي خريد ڪرڻ چاهيان ٿو"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Sindhi?",
+    "options": [
+      "ڪائونٽر ڪٿي آهي؟",
+      "هي ڪيترو آهي؟",
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "ڇا رعايت آهي؟"
+    ],
+    "answer": "هي ڪيترو آهي؟"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Sindhi?",
+    "options": [
+      "ڇا رعايت آهي؟",
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "ڪائونٽر ڪٿي آهي؟",
+      "مهرباني ڪري هي پيڪ ڪجو"
+    ],
+    "answer": "ڇا رعايت آهي؟"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Sindhi?",
+    "options": [
+      "مون کي ٿيلهي جي ضرورت آهي",
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "ڪائونٽر ڪٿي آهي؟",
+      "مهرباني ڪري هي پيڪ ڪجو"
+    ],
+    "answer": "ڪائونٽر ڪٿي آهي؟"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Sindhi?",
+    "options": [
+      "مون کي ٿيلهي جي ضرورت آهي",
+      "ڇا اهو موجود آهي؟",
+      "ڇا توهان ڪارڊ وٺو ٿا؟",
+      "مهرباني ڪري هي پيڪ ڪجو"
+    ],
+    "answer": "ڇا توهان ڪارڊ وٺو ٿا؟"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Sindhi?",
+    "options": [
+      "وقت ڇا آهي؟",
+      "ڇا اهو موجود آهي؟",
+      "مهرباني ڪري هي پيڪ ڪجو",
+      "مون کي ٿيلهي جي ضرورت آهي"
+    ],
+    "answer": "مهرباني ڪري هي پيڪ ڪجو"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Sindhi?",
+    "options": [
+      "مون کي ٿيلهي جي ضرورت آهي",
+      "ڇا مان هي آزمائي سگهان ٿو؟",
+      "ڇا اهو موجود آهي؟",
+      "وقت ڇا آهي؟"
+    ],
+    "answer": "مون کي ٿيلهي جي ضرورت آهي"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Sindhi?",
+    "options": [
+      "مان هي خريد ڪرڻ چاهيان ٿو",
+      "ڇا اهو موجود آهي؟",
+      "ڇا مان هي آزمائي سگهان ٿو؟",
+      "وقت ڇا آهي؟"
+    ],
+    "answer": "ڇا اهو موجود آهي؟"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Sindhi?",
+    "options": [
+      "ڇا مان هي آزمائي سگهان ٿو؟",
+      "وقت ڇا آهي؟",
+      "مان هي خريد ڪرڻ چاهيان ٿو",
+      "هي ڪيترو آهي؟"
+    ],
+    "answer": "وقت ڇا آهي؟"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Sindhi?",
+    "options": [
+      "مان هي خريد ڪرڻ چاهيان ٿو",
+      "ڇا مان هي آزمائي سگهان ٿو؟",
+      "هي ڪيترو آهي؟",
+      "ڇا رعايت آهي؟"
+    ],
+    "answer": "ڇا مان هي آزمائي سگهان ٿو؟"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Sindhi?",
+    "options": [
+      "ريلوي اسٽيشن ڪٿي آهي؟",
+      "ايئرپورٽ ڪيئن وڃان؟",
+      "ڪيترو وقت لڳندو؟",
+      "شهر ڪهڙي بس وڃي ٿي؟"
+    ],
+    "answer": "ريلوي اسٽيشن ڪٿي آهي؟"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Sindhi?",
+    "options": [
+      "شهر ڪهڙي بس وڃي ٿي؟",
+      "ڪيترو وقت لڳندو؟",
+      "ايئرپورٽ ڪيئن وڃان؟",
+      "ڇا اهو هتان پري آهي؟"
+    ],
+    "answer": "ايئرپورٽ ڪيئن وڃان؟"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Sindhi?",
+    "options": [
+      "ڇا اهو هتان پري آهي؟",
+      "شهر ڪهڙي بس وڃي ٿي؟",
+      "ٽيڪسي ڪٿان ملندي؟",
+      "ڪيترو وقت لڳندو؟"
+    ],
+    "answer": "شهر ڪهڙي بس وڃي ٿي؟"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Sindhi?",
+    "options": [
+      "ڪيترو وقت لڳندو؟",
+      "ٽيڪسي ڪٿان ملندي؟",
+      "ڇا اهو هتان پري آهي؟",
+      "هوٽل ڪٿي آهي؟"
+    ],
+    "answer": "ڪيترو وقت لڳندو؟"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Sindhi?",
+    "options": [
+      "ٽيڪسي ڪٿان ملندي؟",
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟",
+      "هوٽل ڪٿي آهي؟",
+      "ڇا اهو هتان پري آهي؟"
+    ],
+    "answer": "ڇا اهو هتان پري آهي؟"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Sindhi?",
+    "options": [
+      "ٽيڪسي ڪٿان ملندي؟",
+      "غسل خانو ڪٿي آهي؟",
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟",
+      "هوٽل ڪٿي آهي؟"
+    ],
+    "answer": "ٽيڪسي ڪٿان ملندي؟"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Sindhi?",
+    "options": [
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟",
+      "مان رستو وڃائي ويٺو آهيان",
+      "غسل خانو ڪٿي آهي؟",
+      "هوٽل ڪٿي آهي؟"
+    ],
+    "answer": "هوٽل ڪٿي آهي؟"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Sindhi?",
+    "options": [
+      "ريلوي اسٽيشن ڪٿي آهي؟",
+      "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟",
+      "مان رستو وڃائي ويٺو آهيان",
+      "غسل خانو ڪٿي آهي؟"
+    ],
+    "answer": "ڇا توهان نقشي تي ڏيکاري سگهو ٿا؟"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Sindhi?",
+    "options": [
+      "ايئرپورٽ ڪيئن وڃان؟",
+      "ريلوي اسٽيشن ڪٿي آهي؟",
+      "مان رستو وڃائي ويٺو آهيان",
+      "غسل خانو ڪٿي آهي؟"
+    ],
+    "answer": "غسل خانو ڪٿي آهي؟"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Sindhi?",
+    "options": [
+      "ايئرپورٽ ڪيئن وڃان؟",
+      "مان رستو وڃائي ويٺو آهيان",
+      "شهر ڪهڙي بس وڃي ٿي؟",
+      "ريلوي اسٽيشن ڪٿي آهي؟"
+    ],
+    "answer": "مان رستو وڃائي ويٺو آهيان"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Sindhi?",
+    "options": [
+      "پوليس کي فون ڪجو",
+      "اسپتال ڪٿي آهي؟",
+      "مون کي ڊاڪٽر جي ضرورت آهي",
+      "مان بيمار آهيان"
+    ],
+    "answer": "پوليس کي فون ڪجو"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Sindhi?",
+    "options": [
+      "مان بيمار آهيان",
+      "مون کي ڊاڪٽر جي ضرورت آهي",
+      "مدد!",
+      "اسپتال ڪٿي آهي؟"
+    ],
+    "answer": "مون کي ڊاڪٽر جي ضرورت آهي"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Sindhi?",
+    "options": [
+      "مان بيمار آهيان",
+      "مدد!",
+      "منهنجو پرس گم ٿي ويو آهي",
+      "اسپتال ڪٿي آهي؟"
+    ],
+    "answer": "اسپتال ڪٿي آهي؟"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Sindhi?",
+    "options": [
+      "اتي باهه آهي",
+      "مان بيمار آهيان",
+      "منهنجو پرس گم ٿي ويو آهي",
+      "مدد!"
+    ],
+    "answer": "مان بيمار آهيان"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Sindhi?",
+    "options": [
+      "منهنجو حادثو ٿيو آهي",
+      "مدد!",
+      "منهنجو پرس گم ٿي ويو آهي",
+      "اتي باهه آهي"
+    ],
+    "answer": "مدد!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Sindhi?",
+    "options": [
+      "منهنجو پرس گم ٿي ويو آهي",
+      "مون کي زخم آهي",
+      "منهنجو حادثو ٿيو آهي",
+      "اتي باهه آهي"
+    ],
+    "answer": "منهنجو پرس گم ٿي ويو آهي"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Sindhi?",
+    "options": [
+      "منهنجو حادثو ٿيو آهي",
+      "مهرباني ڪري منهنجي مدد ڪجو",
+      "اتي باهه آهي",
+      "مون کي زخم آهي"
+    ],
+    "answer": "اتي باهه آهي"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Sindhi?",
+    "options": [
+      "مهرباني ڪري منهنجي مدد ڪجو",
+      "مون کي زخم آهي",
+      "منهنجو حادثو ٿيو آهي",
+      "پوليس کي فون ڪجو"
+    ],
+    "answer": "منهنجو حادثو ٿيو آهي"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Sindhi?",
+    "options": [
+      "مون کي ڊاڪٽر جي ضرورت آهي",
+      "مون کي زخم آهي",
+      "پوليس کي فون ڪجو",
+      "مهرباني ڪري منهنجي مدد ڪجو"
+    ],
+    "answer": "مون کي زخم آهي"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Sindhi?",
+    "options": [
+      "مهرباني ڪري منهنجي مدد ڪجو",
+      "اسپتال ڪٿي آهي؟",
+      "مون کي ڊاڪٽر جي ضرورت آهي",
+      "پوليس کي فون ڪجو"
+    ],
+    "answer": "مهرباني ڪري منهنجي مدد ڪجو"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Sindhi?",
+    "options": [
+      "سڀاڻي ملون ٿا",
+      "توهان جا منصوبا ڇا آهن؟",
+      "فلم ڏسڻ هلون ٿا",
+      "ڇا توهان اڄ شام فارغ آهيو؟"
+    ],
+    "answer": "توهان جا منصوبا ڇا آهن؟"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Sindhi?",
+    "options": [
+      "ڇا توهان اڄ شام فارغ آهيو؟",
+      "سڀاڻي ملون ٿا",
+      "ڇا اسان گڏجي لنچ ڪريون؟",
+      "فلم ڏسڻ هلون ٿا"
+    ],
+    "answer": "سڀاڻي ملون ٿا"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Sindhi?",
+    "options": [
+      "فلم ڏسڻ هلون ٿا",
+      "ڇا توهان اڄ شام فارغ آهيو؟",
+      "ڇا اسان گڏجي لنچ ڪريون؟",
+      "ڇا توهان اسان سان شامل ٿي سگهو ٿا؟"
+    ],
+    "answer": "ڇا توهان اڄ شام فارغ آهيو؟"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Sindhi?",
+    "options": [
+      "مان اڄ مصروف آهيان",
+      "فلم ڏسڻ هلون ٿا",
+      "ڇا اسان گڏجي لنچ ڪريون؟",
+      "ڇا توهان اسان سان شامل ٿي سگهو ٿا؟"
+    ],
+    "answer": "فلم ڏسڻ هلون ٿا"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Sindhi?",
+    "options": [
+      "بعد ۾ ملنداسين",
+      "مان اڄ مصروف آهيان",
+      "ڇا اسان گڏجي لنچ ڪريون؟",
+      "ڇا توهان اسان سان شامل ٿي سگهو ٿا؟"
+    ],
+    "answer": "ڇا اسان گڏجي لنچ ڪريون؟"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Sindhi?",
+    "options": [
+      "بعد ۾ ملنداسين",
+      "ڇا توهان اسان سان شامل ٿي سگهو ٿا؟",
+      "مان اڄ مصروف آهيان",
+      "مان توهان کي فون ڪندس"
+    ],
+    "answer": "ڇا توهان اسان سان شامل ٿي سگهو ٿا؟"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Sindhi?",
+    "options": [
+      "مان اڄ مصروف آهيان",
+      "مان توهان کي فون ڪندس",
+      "جشن ملهايون",
+      "بعد ۾ ملنداسين"
+    ],
+    "answer": "مان اڄ مصروف آهيان"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Sindhi?",
+    "options": [
+      "مان توهان کي فون ڪندس",
+      "جشن ملهايون",
+      "توهان جا منصوبا ڇا آهن؟",
+      "بعد ۾ ملنداسين"
+    ],
+    "answer": "بعد ۾ ملنداسين"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Sindhi?",
+    "options": [
+      "سڀاڻي ملون ٿا",
+      "جشن ملهايون",
+      "مان توهان کي فون ڪندس",
+      "توهان جا منصوبا ڇا آهن؟"
+    ],
+    "answer": "مان توهان کي فون ڪندس"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Sindhi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Sindhi?",
+    "options": [
+      "سڀاڻي ملون ٿا",
+      "توهان جا منصوبا ڇا آهن؟",
+      "ڇا توهان اڄ شام فارغ آهيو؟",
+      "جشن ملهايون"
+    ],
+    "answer": "جشن ملهايون"
+  }
+]

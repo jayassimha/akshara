@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'a'?",
+    "options": [
+      "आ",
+      "अ",
+      "इ",
+      "ई"
+    ],
+    "answer": "अ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'aa'?",
+    "options": [
+      "इ",
+      "आ",
+      "उ",
+      "ई"
+    ],
+    "answer": "आ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'i'?",
+    "options": [
+      "ई",
+      "ऊ",
+      "इ",
+      "उ"
+    ],
+    "answer": "इ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'ee'?",
+    "options": [
+      "ए",
+      "ऊ",
+      "उ",
+      "ई"
+    ],
+    "answer": "ई"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'u'?",
+    "options": [
+      "ऊ",
+      "ए",
+      "उ",
+      "ऐ"
+    ],
+    "answer": "उ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'oo'?",
+    "options": [
+      "ऐ",
+      "ओ",
+      "ऊ",
+      "ए"
+    ],
+    "answer": "ऊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'e'?",
+    "options": [
+      "औ",
+      "ओ",
+      "ए",
+      "ऐ"
+    ],
+    "answer": "ए"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'ai'?",
+    "options": [
+      "औ",
+      "ओ",
+      "ऐ",
+      "अ"
+    ],
+    "answer": "ऐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'o'?",
+    "options": [
+      "औ",
+      "आ",
+      "ओ",
+      "अ"
+    ],
+    "answer": "ओ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Dogri vowel for 'au'?",
+    "options": [
+      "औ",
+      "आ",
+      "अ",
+      "इ"
+    ],
+    "answer": "औ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'ka'?",
+    "options": [
+      "क",
+      "घ",
+      "ख",
+      "ग"
+    ],
+    "answer": "क"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'kha'?",
+    "options": [
+      "ख",
+      "ग",
+      "घ",
+      "च"
+    ],
+    "answer": "ख"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'ga'?",
+    "options": [
+      "घ",
+      "च",
+      "ग",
+      "छ"
+    ],
+    "answer": "ग"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'gha'?",
+    "options": [
+      "ज",
+      "घ",
+      "च",
+      "छ"
+    ],
+    "answer": "घ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'cha'?",
+    "options": [
+      "झ",
+      "ज",
+      "च",
+      "छ"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'chha'?",
+    "options": [
+      "झ",
+      "छ",
+      "ज",
+      "ट"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'ja'?",
+    "options": [
+      "झ",
+      "ज",
+      "ठ",
+      "ट"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'jha'?",
+    "options": [
+      "क",
+      "ठ",
+      "ट",
+      "झ"
+    ],
+    "answer": "झ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'ta'?",
+    "options": [
+      "क",
+      "ट",
+      "ख",
+      "ठ"
+    ],
+    "answer": "ट"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Dogri consonant for 'tha'?",
+    "options": [
+      "ख",
+      "ग",
+      "क",
+      "ठ"
+    ],
+    "answer": "ठ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'क' + 'ा'?",
+    "options": [
+      "ते",
+      "पु",
+      "का",
+      "मि"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'प' + 'ु'?",
+    "options": [
+      "ते",
+      "पु",
+      "मि",
+      "सू"
+    ],
+    "answer": "पु"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'म' + 'ि'?",
+    "options": [
+      "नो",
+      "मि",
+      "ते",
+      "सू"
+    ],
+    "answer": "मि"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'त' + 'े'?",
+    "options": [
+      "नो",
+      "ते",
+      "सू",
+      "रा"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'स' + 'ू'?",
+    "options": [
+      "ले",
+      "रा",
+      "नो",
+      "सू"
+    ],
+    "answer": "सू"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'न' + 'ो'?",
+    "options": [
+      "नो",
+      "दि",
+      "ले",
+      "रा"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'र' + 'ा'?",
+    "options": [
+      "वु",
+      "ले",
+      "रा",
+      "दि"
+    ],
+    "answer": "रा"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ल' + 'े'?",
+    "options": [
+      "वु",
+      "ले",
+      "का",
+      "दि"
+    ],
+    "answer": "ले"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'द' + 'ि'?",
+    "options": [
+      "वु",
+      "का",
+      "पु",
+      "दि"
+    ],
+    "answer": "दि"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'व' + 'ु'?",
+    "options": [
+      "का",
+      "मि",
+      "वु",
+      "पु"
+    ],
+    "answer": "वु"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'किताब'? (in Dogri)",
+    "options": [
+      "Hand",
+      "Pen",
+      "School",
+      "Book"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'कलम'? (in Dogri)",
+    "options": [
+      "Fruit",
+      "School",
+      "Pen",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'स्कूल'? (in Dogri)",
+    "options": [
+      "Fruit",
+      "Flowers",
+      "School",
+      "Hand"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'हत्थ'? (in Dogri)",
+    "options": [
+      "Hand",
+      "Tree",
+      "Fruit",
+      "Flowers"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फल'? (in Dogri)",
+    "options": [
+      "Fruit",
+      "Slate",
+      "Flowers",
+      "Tree"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फुल्ल'? (in Dogri)",
+    "options": [
+      "Slate",
+      "Speak",
+      "Tree",
+      "Flowers"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'रुक्ख'? (in Dogri)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पट्टी'? (in Dogri)",
+    "options": [
+      "Speak",
+      "Speech",
+      "Book",
+      "Slate"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'बोलणा'? (in Dogri)",
+    "options": [
+      "Speak",
+      "Pen",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'भाषा'? (in Dogri)",
+    "options": [
+      "School",
+      "Book",
+      "Speech",
+      "Pen"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'book'?",
+    "options": [
+      "बैग",
+      "स्कूल",
+      "कलम",
+      "किताब"
+    ],
+    "answer": "किताब"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'pen'?",
+    "options": [
+      "कलम",
+      "स्कूल",
+      "कुर्सी",
+      "बैग"
+    ],
+    "answer": "कलम"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'school'?",
+    "options": [
+      "मेज",
+      "स्कूल",
+      "कुर्सी",
+      "बैग"
+    ],
+    "answer": "स्कूल"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'bag'?",
+    "options": [
+      "पट्टी",
+      "मेज",
+      "कुर्सी",
+      "बैग"
+    ],
+    "answer": "बैग"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'chair'?",
+    "options": [
+      "कुर्सी",
+      "पट्टी",
+      "मेज",
+      "खिड़की"
+    ],
+    "answer": "कुर्सी"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'table'?",
+    "options": [
+      "दरवाजा",
+      "मेज",
+      "खिड़की",
+      "पट्टी"
+    ],
+    "answer": "मेज"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'slate'?",
+    "options": [
+      "पट्टी",
+      "पंखा",
+      "खिड़की",
+      "दरवाजा"
+    ],
+    "answer": "पट्टी"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'window'?",
+    "options": [
+      "किताब",
+      "खिड़की",
+      "दरवाजा",
+      "पंखा"
+    ],
+    "answer": "खिड़की"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'door'?",
+    "options": [
+      "दरवाजा",
+      "किताब",
+      "कलम",
+      "पंखा"
+    ],
+    "answer": "दरवाजा"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Dogri word for 'fan'?",
+    "options": [
+      "कलम",
+      "पंखा",
+      "स्कूल",
+      "किताब"
+    ],
+    "answer": "पंखा"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'rice'?",
+    "options": [
+      "फल",
+      "चावल",
+      "सब्जी",
+      "दूध"
+    ],
+    "answer": "चावल"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'milk'?",
+    "options": [
+      "पाणी",
+      "दूध",
+      "फल",
+      "सब्जी"
+    ],
+    "answer": "दूध"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'fruit'?",
+    "options": [
+      "दही",
+      "फल",
+      "सब्जी",
+      "पाणी"
+    ],
+    "answer": "फल"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'vegetable'?",
+    "options": [
+      "रोटी",
+      "पाणी",
+      "दही",
+      "सब्जी"
+    ],
+    "answer": "सब्जी"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'water'?",
+    "options": [
+      "पाणी",
+      "रोटी",
+      "अंडा",
+      "दही"
+    ],
+    "answer": "पाणी"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'curd'?",
+    "options": [
+      "रोटी",
+      "अंडा",
+      "मछली",
+      "दही"
+    ],
+    "answer": "दही"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'bread'?",
+    "options": [
+      "मछली",
+      "रोटी",
+      "मिठाई",
+      "अंडा"
+    ],
+    "answer": "रोटी"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'egg'?",
+    "options": [
+      "अंडा",
+      "मछली",
+      "मिठाई",
+      "चावल"
+    ],
+    "answer": "अंडा"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'fish'?",
+    "options": [
+      "दूध",
+      "चावल",
+      "मछली",
+      "मिठाई"
+    ],
+    "answer": "मछली"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'sweet'?",
+    "options": [
+      "मिठाई",
+      "चावल",
+      "दूध",
+      "फल"
+    ],
+    "answer": "मिठाई"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'mother'?",
+    "options": [
+      "पिता",
+      "भैण",
+      "माता",
+      "भाई"
+    ],
+    "answer": "माता"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'father'?",
+    "options": [
+      "भैण",
+      "पिता",
+      "दादी",
+      "भाई"
+    ],
+    "answer": "पिता"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'sister'?",
+    "options": [
+      "भाई",
+      "दादा",
+      "दादी",
+      "भैण"
+    ],
+    "answer": "भैण"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'brother'?",
+    "options": [
+      "दादी",
+      "दादा",
+      "चाचा",
+      "भाई"
+    ],
+    "answer": "भाई"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'grandmother'?",
+    "options": [
+      "दादा",
+      "दादी",
+      "चाचा",
+      "चाची"
+    ],
+    "answer": "दादी"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'grandfather'?",
+    "options": [
+      "चाची",
+      "पुत्र",
+      "चाचा",
+      "दादा"
+    ],
+    "answer": "दादा"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'uncle'?",
+    "options": [
+      "चाचा",
+      "चाची",
+      "धी",
+      "पुत्र"
+    ],
+    "answer": "चाचा"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'aunt'?",
+    "options": [
+      "पुत्र",
+      "धी",
+      "चाची",
+      "माता"
+    ],
+    "answer": "चाची"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'son'?",
+    "options": [
+      "पुत्र",
+      "माता",
+      "धी",
+      "पिता"
+    ],
+    "answer": "पुत्र"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Dogri word for 'daughter'?",
+    "options": [
+      "धी",
+      "माता",
+      "पिता",
+      "भैण"
+    ],
+    "answer": "धी"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'tree'?",
+    "options": [
+      "नदी",
+      "फुल्ल",
+      "रुक्ख",
+      "पहाड़"
+    ],
+    "answer": "रुक्ख"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'flower'?",
+    "options": [
+      "फुल्ल",
+      "पहाड़",
+      "पत्ता",
+      "नदी"
+    ],
+    "answer": "फुल्ल"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'river'?",
+    "options": [
+      "पत्ता",
+      "अकाश",
+      "नदी",
+      "पहाड़"
+    ],
+    "answer": "नदी"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'mountain'?",
+    "options": [
+      "मेह",
+      "पत्ता",
+      "पहाड़",
+      "अकाश"
+    ],
+    "answer": "पहाड़"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'leaf'?",
+    "options": [
+      "अकाश",
+      "सूरज",
+      "मेह",
+      "पत्ता"
+    ],
+    "answer": "पत्ता"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'sky'?",
+    "options": [
+      "मेह",
+      "सूरज",
+      "चन्द",
+      "अकाश"
+    ],
+    "answer": "अकाश"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'rain'?",
+    "options": [
+      "मेह",
+      "तारा",
+      "सूरज",
+      "चन्द"
+    ],
+    "answer": "मेह"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'sun'?",
+    "options": [
+      "तारा",
+      "सूरज",
+      "रुक्ख",
+      "चन्द"
+    ],
+    "answer": "सूरज"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'moon'?",
+    "options": [
+      "चन्द",
+      "फुल्ल",
+      "रुक्ख",
+      "तारा"
+    ],
+    "answer": "चन्द"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Dogri word for 'star'?",
+    "options": [
+      "रुक्ख",
+      "तारा",
+      "फुल्ल",
+      "नदी"
+    ],
+    "answer": "तारा"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Dogri?",
+    "options": [
+      "सुप्रभात",
+      "स्वागत",
+      "शुभ रात",
+      "नमस्कार"
+    ],
+    "answer": "नमस्कार"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Dogri?",
+    "options": [
+      "शुभ रात",
+      "सुप्रभात",
+      "स्वागत",
+      "तुसीं केह् हाल ऐ?"
+    ],
+    "answer": "सुप्रभात"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Dogri?",
+    "options": [
+      "शुभ रात",
+      "ठीक ऐ",
+      "तुसीं केह् हाल ऐ?",
+      "स्वागत"
+    ],
+    "answer": "शुभ रात"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Dogri?",
+    "options": [
+      "स्वागत",
+      "तुसीं केह् हाल ऐ?",
+      "फिर मिलांगे",
+      "ठीक ऐ"
+    ],
+    "answer": "स्वागत"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Dogri?",
+    "options": [
+      "ठीक ऐ",
+      "तुसीं केह् हाल ऐ?",
+      "विदाई",
+      "फिर मिलांगे"
+    ],
+    "answer": "तुसीं केह् हाल ऐ?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Dogri?",
+    "options": [
+      "ठीक ऐ",
+      "ध्यान रक्खो",
+      "विदाई",
+      "फिर मिलांगे"
+    ],
+    "answer": "ठीक ऐ"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Dogri?",
+    "options": [
+      "विदाई",
+      "ध्यान रक्खो",
+      "धन्यवाद",
+      "फिर मिलांगे"
+    ],
+    "answer": "फिर मिलांगे"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Dogri?",
+    "options": [
+      "धन्यवाद",
+      "ध्यान रक्खो",
+      "नमस्कार",
+      "विदाई"
+    ],
+    "answer": "विदाई"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Dogri?",
+    "options": [
+      "ध्यान रक्खो",
+      "सुप्रभात",
+      "नमस्कार",
+      "धन्यवाद"
+    ],
+    "answer": "ध्यान रक्खो"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Dogri?",
+    "options": [
+      "धन्यवाद",
+      "नमस्कार",
+      "सुप्रभात",
+      "शुभ रात"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Dogri?",
+    "options": [
+      "मैं इक विद्यार्थी ऐ",
+      "मैं ... थमां ऐ",
+      "मेरा नाम ... ऐ",
+      "मैं इक अध्यापक ऐ"
+    ],
+    "answer": "मेरा नाम ... ऐ"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Dogri?",
+    "options": [
+      "मैं ... थमां ऐ",
+      "मैं इक विद्यार्थी ऐ",
+      "मैं इक अध्यापक ऐ",
+      "तुसां गी मिलके खुशी होई"
+    ],
+    "answer": "मैं ... थमां ऐ"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Dogri?",
+    "options": [
+      "मैं ... च रैंदा ऐ",
+      "तुसां गी मिलके खुशी होई",
+      "मैं इक अध्यापक ऐ",
+      "मैं इक विद्यार्थी ऐ"
+    ],
+    "answer": "मैं इक विद्यार्थी ऐ"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Dogri?",
+    "options": [
+      "मैं ... च रैंदा ऐ",
+      "मैं इक अध्यापक ऐ",
+      "तुसां गी मिलके खुशी होई",
+      "मैं डोगरी सिक्खदा ऐ"
+    ],
+    "answer": "मैं इक अध्यापक ऐ"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Dogri?",
+    "options": [
+      "तुंदा नाम केह् ऐ?",
+      "तुसां गी मिलके खुशी होई",
+      "मैं ... च रैंदा ऐ",
+      "मैं डोगरी सिक्खदा ऐ"
+    ],
+    "answer": "तुसां गी मिलके खुशी होई"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Dogri?",
+    "options": [
+      "मैं डोगरी सिक्खदा ऐ",
+      "तुंदा नाम केह् ऐ?",
+      "तुसीं कित्थूं ऐ?",
+      "मैं ... च रैंदा ऐ"
+    ],
+    "answer": "मैं ... च रैंदा ऐ"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Dogri' in Dogri?",
+    "options": [
+      "तुसीं कित्थूं ऐ?",
+      "तुंदा नाम केह् ऐ?",
+      "तुंदी उम्र केह् ऐ?",
+      "मैं डोगरी सिक्खदा ऐ"
+    ],
+    "answer": "मैं डोगरी सिक्खदा ऐ"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Dogri?",
+    "options": [
+      "तुंदी उम्र केह् ऐ?",
+      "मेरा नाम ... ऐ",
+      "तुंदा नाम केह् ऐ?",
+      "तुसीं कित्थूं ऐ?"
+    ],
+    "answer": "तुंदा नाम केह् ऐ?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Dogri?",
+    "options": [
+      "तुसीं कित्थूं ऐ?",
+      "मेरा नाम ... ऐ",
+      "मैं ... थमां ऐ",
+      "तुंदी उम्र केह् ऐ?"
+    ],
+    "answer": "तुसीं कित्थूं ऐ?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Dogri?",
+    "options": [
+      "तुंदी उम्र केह् ऐ?",
+      "मैं ... थमां ऐ",
+      "मेरा नाम ... ऐ",
+      "मैं इक विद्यार्थी ऐ"
+    ],
+    "answer": "तुंदी उम्र केह् ऐ?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Dogri?",
+    "options": [
+      "जरूर",
+      "नईं",
+      "हां",
+      "हो सकदा ऐ"
+    ],
+    "answer": "हां"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Dogri?",
+    "options": [
+      "नईं",
+      "जरूर",
+      "कदे नईं",
+      "हो सकदा ऐ"
+    ],
+    "answer": "नईं"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Dogri?",
+    "options": [
+      "जरूर",
+      "कदे कदे",
+      "कदे नईं",
+      "हो सकदा ऐ"
+    ],
+    "answer": "हो सकदा ऐ"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Dogri?",
+    "options": [
+      "जरूर",
+      "कदे कदे",
+      "कदे नईं",
+      "हमेशा"
+    ],
+    "answer": "जरूर"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Dogri?",
+    "options": [
+      "बिल्कुल नईं",
+      "हमेशा",
+      "कदे नईं",
+      "कदे कदे"
+    ],
+    "answer": "कदे नईं"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Dogri?",
+    "options": [
+      "हमेशा",
+      "कदे कदे",
+      "पक्का",
+      "बिल्कुल नईं"
+    ],
+    "answer": "कदे कदे"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Dogri?",
+    "options": [
+      "बिल्कुल नईं",
+      "हमेशा",
+      "पक्का",
+      "मिगी पता नईं"
+    ],
+    "answer": "हमेशा"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Dogri?",
+    "options": [
+      "बिल्कुल नईं",
+      "मिगी पता नईं",
+      "पक्का",
+      "हां"
+    ],
+    "answer": "बिल्कुल नईं"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Dogri?",
+    "options": [
+      "पक्का",
+      "नईं",
+      "हां",
+      "मिगी पता नईं"
+    ],
+    "answer": "पक्का"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Dogri?",
+    "options": [
+      "हो सकदा ऐ",
+      "मिगी पता नईं",
+      "हां",
+      "नईं"
+    ],
+    "answer": "मिगी पता नईं"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Dogri?",
+    "options": [
+      "कृपा करके",
+      "माफ करो",
+      "धन्यवाद",
+      "माफ करो"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Dogri?",
+    "options": [
+      "स्वागत ऐ",
+      "कृपा करके",
+      "माफ करो",
+      "माफ करो"
+    ],
+    "answer": "माफ करो"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Dogri?",
+    "options": [
+      "माफ करो",
+      "कृपा करके",
+      "स्वागत ऐ",
+      "कोई गल्ल नईं"
+    ],
+    "answer": "कृपा करके"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Dogri?",
+    "options": [
+      "कोई गल्ल नईं",
+      "माफ करो",
+      "स्वागत ऐ",
+      "बधाई"
+    ],
+    "answer": "माफ करो"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Dogri?",
+    "options": [
+      "स्वागत ऐ",
+      "बधाई",
+      "भगवान तुसां दा भला करे",
+      "कोई गल्ल नईं"
+    ],
+    "answer": "स्वागत ऐ"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Dogri?",
+    "options": [
+      "भगवान तुसां दा भला करे",
+      "बधाई",
+      "कोई गल्ल नईं",
+      "शुभकामनाएं"
+    ],
+    "answer": "कोई गल्ल नईं"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Dogri?",
+    "options": [
+      "भगवान तुसां दा भला करे",
+      "शुभकामनाएं",
+      "जन्मदिन मुबारक",
+      "बधाई"
+    ],
+    "answer": "बधाई"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Dogri?",
+    "options": [
+      "शुभकामनाएं",
+      "जन्मदिन मुबारक",
+      "भगवान तुसां दा भला करे",
+      "धन्यवाद"
+    ],
+    "answer": "भगवान तुसां दा भला करे"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Dogri?",
+    "options": [
+      "जन्मदिन मुबारक",
+      "माफ करो",
+      "धन्यवाद",
+      "शुभकामनाएं"
+    ],
+    "answer": "शुभकामनाएं"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Dogri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Dogri?",
+    "options": [
+      "कृपा करके",
+      "माफ करो",
+      "धन्यवाद",
+      "जन्मदिन मुबारक"
+    ],
+    "answer": "जन्मदिन मुबारक"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'ki'?",
+    "options": [
+      "कु",
+      "कि",
+      "के",
+      "को"
+    ],
+    "answer": "कि"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'ku'?",
+    "options": [
+      "को",
+      "कु",
+      "के",
+      "गि"
+    ],
+    "answer": "कु"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'ke'?",
+    "options": [
+      "के",
+      "गु",
+      "को",
+      "गि"
+    ],
+    "answer": "के"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'ko'?",
+    "options": [
+      "गे",
+      "गि",
+      "को",
+      "गु"
+    ],
+    "answer": "को"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'gi'?",
+    "options": [
+      "गो",
+      "गु",
+      "गे",
+      "गि"
+    ],
+    "answer": "गि"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'gu'?",
+    "options": [
+      "चि",
+      "गे",
+      "गो",
+      "गु"
+    ],
+    "answer": "गु"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'ge'?",
+    "options": [
+      "गे",
+      "चि",
+      "चु",
+      "गो"
+    ],
+    "answer": "गे"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'go'?",
+    "options": [
+      "चि",
+      "चु",
+      "गो",
+      "कि"
+    ],
+    "answer": "गो"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'chi'?",
+    "options": [
+      "कि",
+      "चि",
+      "कु",
+      "चु"
+    ],
+    "answer": "चि"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Dogri syllable for 'chu'?",
+    "options": [
+      "चु",
+      "कु",
+      "के",
+      "कि"
+    ],
+    "answer": "चु"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'ksha'?",
+    "options": [
+      "त्र",
+      "क्ष",
+      "श्र",
+      "ज्ञ"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'tra'?",
+    "options": [
+      "ज्ञ",
+      "श्र",
+      "त्र",
+      "क्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'jna'?",
+    "options": [
+      "ज्ञ",
+      "प्र",
+      "श्र",
+      "क्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'shra'?",
+    "options": [
+      "प्र",
+      "श्र",
+      "स्र",
+      "क्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'kra'?",
+    "options": [
+      "प्र",
+      "ग्र",
+      "स्र",
+      "क्र"
+    ],
+    "answer": "क्र"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'pra'?",
+    "options": [
+      "ग्र",
+      "स्र",
+      "द्र",
+      "प्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'sra'?",
+    "options": [
+      "द्र",
+      "स्र",
+      "न्त",
+      "ग्र"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'gra'?",
+    "options": [
+      "क्ष",
+      "ग्र",
+      "द्र",
+      "न्त"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'dra'?",
+    "options": [
+      "क्ष",
+      "न्त",
+      "त्र",
+      "द्र"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Dogri ligature for 'nta'?",
+    "options": [
+      "क्ष",
+      "ज्ञ",
+      "न्त",
+      "त्र"
+    ],
+    "answer": "न्त"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'sha'?",
+    "options": [
+      "स",
+      "ल",
+      "श",
+      "ह"
+    ],
+    "answer": "श"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'sa'?",
+    "options": [
+      "स",
+      "र",
+      "ह",
+      "ल"
+    ],
+    "answer": "स"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'ha'?",
+    "options": [
+      "ल",
+      "व",
+      "ह",
+      "र"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'la'?",
+    "options": [
+      "य",
+      "र",
+      "ल",
+      "व"
+    ],
+    "answer": "ल"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'ra'?",
+    "options": [
+      "व",
+      "य",
+      "फ",
+      "र"
+    ],
+    "answer": "र"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'va'?",
+    "options": [
+      "ज",
+      "व",
+      "फ",
+      "य"
+    ],
+    "answer": "व"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'ya'?",
+    "options": [
+      "क्व",
+      "ज",
+      "फ",
+      "य"
+    ],
+    "answer": "य"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'fa'?",
+    "options": [
+      "श",
+      "फ",
+      "क्व",
+      "ज"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'za'?",
+    "options": [
+      "श",
+      "ज",
+      "स",
+      "क्व"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Dogri letter for 'qwa'?",
+    "options": [
+      "श",
+      "ह",
+      "क्व",
+      "स"
+    ],
+    "answer": "क्व"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'क्षीर'?",
+    "options": [
+      "त्र",
+      "क्ष",
+      "ज्ञ",
+      "श्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'ज्ञान'?",
+    "options": [
+      "त्र",
+      "ग्र",
+      "श्र",
+      "ज्ञ"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'त्रिकोण'?",
+    "options": [
+      "श्र",
+      "प्र",
+      "ग्र",
+      "त्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'श्रद्धा'?",
+    "options": [
+      "प्र",
+      "स्र",
+      "श्र",
+      "ग्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'ग्रन्थ'?",
+    "options": [
+      "ग्र",
+      "द्र",
+      "प्र",
+      "स्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'प्रयत्न'?",
+    "options": [
+      "प्र",
+      "द्र",
+      "फ",
+      "स्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'स्रोत'?",
+    "options": [
+      "स्र",
+      "फ",
+      "ह",
+      "द्र"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'द्रव्य'?",
+    "options": [
+      "ह",
+      "द्र",
+      "क्ष",
+      "फ"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'फल'?",
+    "options": [
+      "ह",
+      "ज्ञ",
+      "फ",
+      "क्ष"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Dogri letter is used in the word 'हरिद्वार'?",
+    "options": [
+      "क्ष",
+      "ह",
+      "ज्ञ",
+      "त्र"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Sunday'?",
+    "options": [
+      "सोमवार",
+      "रविवार",
+      "बुधवार",
+      "मंगलवार"
+    ],
+    "answer": "रविवार"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Monday'?",
+    "options": [
+      "मंगलवार",
+      "बुधवार",
+      "सोमवार",
+      "गुरुवार"
+    ],
+    "answer": "सोमवार"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Tuesday'?",
+    "options": [
+      "शुक्रवार",
+      "मंगलवार",
+      "बुधवार",
+      "गुरुवार"
+    ],
+    "answer": "मंगलवार"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Wednesday'?",
+    "options": [
+      "बुधवार",
+      "शुक्रवार",
+      "गुरुवार",
+      "शनिवार"
+    ],
+    "answer": "बुधवार"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Thursday'?",
+    "options": [
+      "शनिवार",
+      "गुरुवार",
+      "शुक्रवार",
+      "अज्ज"
+    ],
+    "answer": "गुरुवार"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Friday'?",
+    "options": [
+      "शुक्रवार",
+      "कल्ल",
+      "अज्ज",
+      "शनिवार"
+    ],
+    "answer": "शुक्रवार"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Saturday'?",
+    "options": [
+      "कल्ल",
+      "अज्ज",
+      "कल्ल",
+      "शनिवार"
+    ],
+    "answer": "शनिवार"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Today'?",
+    "options": [
+      "कल्ल",
+      "अज्ज",
+      "कल्ल",
+      "रविवार"
+    ],
+    "answer": "अज्ज"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Tomorrow'?",
+    "options": [
+      "कल्ल",
+      "सोमवार",
+      "रविवार",
+      "कल्ल"
+    ],
+    "answer": "कल्ल"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Dogri word for 'Yesterday'?",
+    "options": [
+      "रविवार",
+      "मंगलवार",
+      "सोमवार",
+      "कल्ल"
+    ],
+    "answer": "कल्ल"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'red'?",
+    "options": [
+      "हरा",
+      "पीला",
+      "लाल",
+      "नीला"
+    ],
+    "answer": "लाल"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'blue'?",
+    "options": [
+      "हरा",
+      "काला",
+      "पीला",
+      "नीला"
+    ],
+    "answer": "नीला"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'green'?",
+    "options": [
+      "हरा",
+      "काला",
+      "चिट्टा",
+      "पीला"
+    ],
+    "answer": "हरा"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'yellow'?",
+    "options": [
+      "काला",
+      "चिट्टा",
+      "पीला",
+      "नारंगी"
+    ],
+    "answer": "पीला"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'black'?",
+    "options": [
+      "काला",
+      "नारंगी",
+      "गुलाबी",
+      "चिट्टा"
+    ],
+    "answer": "काला"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'white'?",
+    "options": [
+      "नारंगी",
+      "बैंगनी",
+      "चिट्टा",
+      "गुलाबी"
+    ],
+    "answer": "चिट्टा"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'orange'?",
+    "options": [
+      "गुलाबी",
+      "बैंगनी",
+      "नारंगी",
+      "भूरा"
+    ],
+    "answer": "नारंगी"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'pink'?",
+    "options": [
+      "भूरा",
+      "बैंगनी",
+      "गुलाबी",
+      "लाल"
+    ],
+    "answer": "गुलाबी"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'purple'?",
+    "options": [
+      "भूरा",
+      "लाल",
+      "नीला",
+      "बैंगनी"
+    ],
+    "answer": "बैंगनी"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Dogri word for 'brown'?",
+    "options": [
+      "लाल",
+      "हरा",
+      "नीला",
+      "भूरा"
+    ],
+    "answer": "भूरा"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'one'?",
+    "options": [
+      "दो",
+      "त्रै",
+      "इक",
+      "चार"
+    ],
+    "answer": "इक"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'two'?",
+    "options": [
+      "चार",
+      "त्रै",
+      "दो",
+      "पंज"
+    ],
+    "answer": "दो"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'three'?",
+    "options": [
+      "छै",
+      "त्रै",
+      "चार",
+      "पंज"
+    ],
+    "answer": "त्रै"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'four'?",
+    "options": [
+      "सत्त",
+      "छै",
+      "चार",
+      "पंज"
+    ],
+    "answer": "चार"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'five'?",
+    "options": [
+      "सत्त",
+      "पंज",
+      "अठ",
+      "छै"
+    ],
+    "answer": "पंज"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'six'?",
+    "options": [
+      "छै",
+      "अठ",
+      "सत्त",
+      "नौ"
+    ],
+    "answer": "छै"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'seven'?",
+    "options": [
+      "नौ",
+      "दश",
+      "सत्त",
+      "अठ"
+    ],
+    "answer": "सत्त"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'eight'?",
+    "options": [
+      "नौ",
+      "दश",
+      "इक",
+      "अठ"
+    ],
+    "answer": "अठ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'nine'?",
+    "options": [
+      "दश",
+      "इक",
+      "दो",
+      "नौ"
+    ],
+    "answer": "नौ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Dogri word for 'ten'?",
+    "options": [
+      "दश",
+      "दो",
+      "इक",
+      "त्रै"
+    ],
+    "answer": "दश"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'breakfast'?",
+    "options": [
+      "दुपहर दा खाणा",
+      "रात दा खाणा",
+      "नाश्ता",
+      "नाश्ता"
+    ],
+    "answer": "नाश्ता"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'lunch'?",
+    "options": [
+      "दुपहर दा खाणा",
+      "रात दा खाणा",
+      "मिठाईयां",
+      "नाश्ता"
+    ],
+    "answer": "दुपहर दा खाणा"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'dinner'?",
+    "options": [
+      "मिठाईयां",
+      "तिक्खा",
+      "रात दा खाणा",
+      "नाश्ता"
+    ],
+    "answer": "रात दा खाणा"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'snacks'?",
+    "options": [
+      "मिठाईयां",
+      "नाश्ता",
+      "तिक्खा",
+      "शाकाहारी"
+    ],
+    "answer": "नाश्ता"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'sweets'?",
+    "options": [
+      "शाकाहारी",
+      "मांसाहारी",
+      "तिक्खा",
+      "मिठाईयां"
+    ],
+    "answer": "मिठाईयां"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'spicy'?",
+    "options": [
+      "रस",
+      "तिक्खा",
+      "शाकाहारी",
+      "मांसाहारी"
+    ],
+    "answer": "तिक्खा"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'vegetarian'?",
+    "options": [
+      "रस",
+      "कॉफी",
+      "मांसाहारी",
+      "शाकाहारी"
+    ],
+    "answer": "शाकाहारी"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'non-vegetarian'?",
+    "options": [
+      "कॉफी",
+      "रस",
+      "मांसाहारी",
+      "नाश्ता"
+    ],
+    "answer": "मांसाहारी"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'juice'?",
+    "options": [
+      "रस",
+      "नाश्ता",
+      "कॉफी",
+      "दुपहर दा खाणा"
+    ],
+    "answer": "रस"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Dogri word for 'coffee'?",
+    "options": [
+      "रात दा खाणा",
+      "दुपहर दा खाणा",
+      "कॉफी",
+      "नाश्ता"
+    ],
+    "answer": "कॉफी"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Dogri?",
+    "options": [
+      "तुसीं केह् हाल ऐ?",
+      "तुसीं कित्थूं ऐ?",
+      "तुंदी उम्र केह् ऐ?",
+      "तुंदा नाम केह् ऐ?"
+    ],
+    "answer": "तुसीं केह् हाल ऐ?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Dogri?",
+    "options": [
+      "तुंदी उम्र केह् ऐ?",
+      "तुसीं डोगरी बोलदे ऐ?",
+      "तुसीं कित्थूं ऐ?",
+      "तुंदा नाम केह् ऐ?"
+    ],
+    "answer": "तुंदा नाम केह् ऐ?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Dogri?",
+    "options": [
+      "तुंदी उम्र केह् ऐ?",
+      "तुसीं डोगरी बोलदे ऐ?",
+      "तुसीं कित्थूं ऐ?",
+      "मैं तुंदी मदद करी सकदा ऐ?"
+    ],
+    "answer": "तुसीं कित्थूं ऐ?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Dogri?",
+    "options": [
+      "बाथरूम कित्थे ऐ?",
+      "मैं तुंदी मदद करी सकदा ऐ?",
+      "तुसीं डोगरी बोलदे ऐ?",
+      "तुंदी उम्र केह् ऐ?"
+    ],
+    "answer": "तुंदी उम्र केह् ऐ?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Dogri?' in Dogri?",
+    "options": [
+      "तुसीं डोगरी बोलदे ऐ?",
+      "मैं तुंदी मदद करी सकदा ऐ?",
+      "बाथरूम कित्थे ऐ?",
+      "इह् कित्ता ऐ?"
+    ],
+    "answer": "तुसीं डोगरी बोलदे ऐ?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Dogri?",
+    "options": [
+      "इह् कित्ता ऐ?",
+      "मैं तुंदी मदद करी सकदा ऐ?",
+      "बाथरूम कित्थे ऐ?",
+      "कित्ता बजेया ऐ?"
+    ],
+    "answer": "मैं तुंदी मदद करी सकदा ऐ?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Dogri?",
+    "options": [
+      "बाथरूम कित्थे ऐ?",
+      "इह् कित्ता ऐ?",
+      "कित्ता बजेया ऐ?",
+      "तुसीं कित्थे रैंदे ऐ?"
+    ],
+    "answer": "बाथरूम कित्थे ऐ?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Dogri?",
+    "options": [
+      "कित्ता बजेया ऐ?",
+      "तुसीं केह् हाल ऐ?",
+      "तुसीं कित्थे रैंदे ऐ?",
+      "इह् कित्ता ऐ?"
+    ],
+    "answer": "इह् कित्ता ऐ?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Dogri?",
+    "options": [
+      "तुसीं केह् हाल ऐ?",
+      "कित्ता बजेया ऐ?",
+      "तुंदा नाम केह् ऐ?",
+      "तुसीं कित्थे रैंदे ऐ?"
+    ],
+    "answer": "कित्ता बजेया ऐ?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Dogri?",
+    "options": [
+      "तुसीं कित्थे रैंदे ऐ?",
+      "तुसीं कित्थूं ऐ?",
+      "तुसीं केह् हाल ऐ?",
+      "तुंदा नाम केह् ऐ?"
+    ],
+    "answer": "तुसीं कित्थे रैंदे ऐ?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Dogri?",
+    "options": [
+      "कृपा करके बैठो",
+      "कृपा करके मेरी मदद करो",
+      "कृपा करके इंतजार करो",
+      "कृपा करके इत्थे आओ"
+    ],
+    "answer": "कृपा करके मेरी मदद करो"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Dogri?",
+    "options": [
+      "कृपा करके धीरे बोलो",
+      "कृपा करके बैठो",
+      "कृपा करके इत्थे आओ",
+      "कृपा करके इंतजार करो"
+    ],
+    "answer": "कृपा करके इंतजार करो"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Dogri?",
+    "options": [
+      "कृपा करके इत्थे आओ",
+      "कृपा करके लिखो",
+      "कृपा करके बैठो",
+      "कृपा करके धीरे बोलो"
+    ],
+    "answer": "कृपा करके इत्थे आओ"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Dogri?",
+    "options": [
+      "कृपा करके लिखो",
+      "कृपा करके धीरे बोलो",
+      "कृपा करके बैठो",
+      "कृपा करके दोहराओ"
+    ],
+    "answer": "कृपा करके बैठो"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Dogri?",
+    "options": [
+      "कृपा करके मिगी दिखाओ",
+      "कृपा करके लिखो",
+      "कृपा करके दोहराओ",
+      "कृपा करके धीरे बोलो"
+    ],
+    "answer": "कृपा करके धीरे बोलो"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Dogri?",
+    "options": [
+      "कृपा करके मिगी दिखाओ",
+      "कृपा करके दोहराओ",
+      "कृपा करके दरवाजा खोलो",
+      "कृपा करके लिखो"
+    ],
+    "answer": "कृपा करके लिखो"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Dogri?",
+    "options": [
+      "कृपा करके खिड़की बंद करो",
+      "कृपा करके दोहराओ",
+      "कृपा करके मिगी दिखाओ",
+      "कृपा करके दरवाजा खोलो"
+    ],
+    "answer": "कृपा करके दोहराओ"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Dogri?",
+    "options": [
+      "कृपा करके मिगी दिखाओ",
+      "कृपा करके मेरी मदद करो",
+      "कृपा करके दरवाजा खोलो",
+      "कृपा करके खिड़की बंद करो"
+    ],
+    "answer": "कृपा करके मिगी दिखाओ"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Dogri?",
+    "options": [
+      "कृपा करके दरवाजा खोलो",
+      "कृपा करके मेरी मदद करो",
+      "कृपा करके इंतजार करो",
+      "कृपा करके खिड़की बंद करो"
+    ],
+    "answer": "कृपा करके दरवाजा खोलो"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Dogri?",
+    "options": [
+      "कृपा करके इंतजार करो",
+      "कृपा करके मेरी मदद करो",
+      "कृपा करके इत्थे आओ",
+      "कृपा करके खिड़की बंद करो"
+    ],
+    "answer": "कृपा करके खिड़की बंद करो"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Dogri?",
+    "options": [
+      "मैं इह् पहिन के देख सकदा ऐ?",
+      "कोई छूट ऐ?",
+      "इह् कित्ता ऐ?",
+      "मैं इह् खरीदणा चांदा ऐ"
+    ],
+    "answer": "इह् कित्ता ऐ?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Dogri?",
+    "options": [
+      "मैं इह् खरीदणा चांदा ऐ",
+      "कोई छूट ऐ?",
+      "मैं इह् पहिन के देख सकदा ऐ?",
+      "तुसीं कार्ड लैंदे ऐ?"
+    ],
+    "answer": "कोई छूट ऐ?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Dogri?",
+    "options": [
+      "काउंटर कित्थे ऐ?",
+      "मैं इह् खरीदणा चांदा ऐ",
+      "मैं इह् पहिन के देख सकदा ऐ?",
+      "तुसीं कार्ड लैंदे ऐ?"
+    ],
+    "answer": "मैं इह् खरीदणा चांदा ऐ"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Dogri?",
+    "options": [
+      "तुसीं कार्ड लैंदे ऐ?",
+      "काउंटर कित्थे ऐ?",
+      "इह् उपलब्ध ऐ?",
+      "मैं इह् पहिन के देख सकदा ऐ?"
+    ],
+    "answer": "मैं इह् पहिन के देख सकदा ऐ?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Dogri?",
+    "options": [
+      "कृपा करके इसगी पैक करो",
+      "इह् उपलब्ध ऐ?",
+      "काउंटर कित्थे ऐ?",
+      "तुसीं कार्ड लैंदे ऐ?"
+    ],
+    "answer": "तुसीं कार्ड लैंदे ऐ?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Dogri?",
+    "options": [
+      "कृपा करके इसगी पैक करो",
+      "इह् उपलब्ध ऐ?",
+      "मिगी इक बैग चाहिदा ऐ",
+      "काउंटर कित्थे ऐ?"
+    ],
+    "answer": "काउंटर कित्थे ऐ?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Dogri?",
+    "options": [
+      "मिगी इक बैग चाहिदा ऐ",
+      "इह् उपलब्ध ऐ?",
+      "कृपा करके इसगी पैक करो",
+      "समां केह् ऐ?"
+    ],
+    "answer": "इह् उपलब्ध ऐ?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Dogri?",
+    "options": [
+      "मिगी इक बैग चाहिदा ऐ",
+      "समां केह् ऐ?",
+      "कृपा करके इसगी पैक करो",
+      "इह् कित्ता ऐ?"
+    ],
+    "answer": "कृपा करके इसगी पैक करो"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Dogri?",
+    "options": [
+      "कोई छूट ऐ?",
+      "इह् कित्ता ऐ?",
+      "मिगी इक बैग चाहिदा ऐ",
+      "समां केह् ऐ?"
+    ],
+    "answer": "मिगी इक बैग चाहिदा ऐ"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Dogri?",
+    "options": [
+      "कोई छूट ऐ?",
+      "समां केह् ऐ?",
+      "इह् कित्ता ऐ?",
+      "मैं इह् खरीदणा चांदा ऐ"
+    ],
+    "answer": "समां केह् ऐ?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Dogri?",
+    "options": [
+      "बाजार दा रस्ता कित्थे ऐ?",
+      "इत्थूं दूर ऐ?",
+      "बस स्टॉप कित्थे ऐ?",
+      "रेलवे स्टेशन कियां जाणा ऐ?"
+    ],
+    "answer": "बस स्टॉप कित्थे ऐ?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Dogri?",
+    "options": [
+      "रेलवे स्टेशन कियां जाणा ऐ?",
+      "इत्थूं दूर ऐ?",
+      "खब्बे पासे मुड़ो",
+      "बाजार दा रस्ता कित्थे ऐ?"
+    ],
+    "answer": "रेलवे स्टेशन कियां जाणा ऐ?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Dogri?",
+    "options": [
+      "खब्बे पासे मुड़ो",
+      "सज्जे पासे मुड़ो",
+      "इत्थूं दूर ऐ?",
+      "बाजार दा रस्ता कित्थे ऐ?"
+    ],
+    "answer": "बाजार दा रस्ता कित्थे ऐ?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Dogri?",
+    "options": [
+      "सज्जे पासे मुड़ो",
+      "इत्थूं दूर ऐ?",
+      "खब्बे पासे मुड़ो",
+      "सीधा जाओ"
+    ],
+    "answer": "इत्थूं दूर ऐ?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Dogri?",
+    "options": [
+      "सज्जे पासे मुड़ो",
+      "सीधा जाओ",
+      "इत्थे रुको",
+      "खब्बे पासे मुड़ो"
+    ],
+    "answer": "खब्बे पासे मुड़ो"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Dogri?",
+    "options": [
+      "सीधा जाओ",
+      "इत्थे रुको",
+      "कित्ता समां लगेगा?",
+      "सज्जे पासे मुड़ो"
+    ],
+    "answer": "सज्जे पासे मुड़ो"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Dogri?",
+    "options": [
+      "कित्ता समां लगेगा?",
+      "नक्शे च दिखाई सकदे ऐ?",
+      "सीधा जाओ",
+      "इत्थे रुको"
+    ],
+    "answer": "सीधा जाओ"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Dogri?",
+    "options": [
+      "नक्शे च दिखाई सकदे ऐ?",
+      "इत्थे रुको",
+      "कित्ता समां लगेगा?",
+      "बस स्टॉप कित्थे ऐ?"
+    ],
+    "answer": "इत्थे रुको"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Dogri?",
+    "options": [
+      "कित्ता समां लगेगा?",
+      "बस स्टॉप कित्थे ऐ?",
+      "नक्शे च दिखाई सकदे ऐ?",
+      "रेलवे स्टेशन कियां जाणा ऐ?"
+    ],
+    "answer": "कित्ता समां लगेगा?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Dogri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Dogri?",
+    "options": [
+      "बाजार दा रस्ता कित्थे ऐ?",
+      "बस स्टॉप कित्थे ऐ?",
+      "नक्शे च दिखाई सकदे ऐ?",
+      "रेलवे स्टेशन कियां जाणा ऐ?"
+    ],
+    "answer": "नक्शे च दिखाई सकदे ऐ?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'go'?",
+    "options": [
+      "देखेया",
+      "पढ़ेया",
+      "खाधा",
+      "गेया"
+    ],
+    "answer": "गेया"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'eat'?",
+    "options": [
+      "लिखेया",
+      "पढ़ेया",
+      "देखेया",
+      "खाधा"
+    ],
+    "answer": "खाधा"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'see'?",
+    "options": [
+      "पढ़ेया",
+      "आया",
+      "देखेया",
+      "लिखेया"
+    ],
+    "answer": "देखेया"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'read'?",
+    "options": [
+      "दित्ता",
+      "आया",
+      "पढ़ेया",
+      "लिखेया"
+    ],
+    "answer": "पढ़ेया"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'write'?",
+    "options": [
+      "आया",
+      "लेया",
+      "लिखेया",
+      "दित्ता"
+    ],
+    "answer": "लिखेया"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'come'?",
+    "options": [
+      "खेडेया",
+      "दित्ता",
+      "आया",
+      "लेया"
+    ],
+    "answer": "आया"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'give'?",
+    "options": [
+      "दित्ता",
+      "खेडेया",
+      "लेया",
+      "सुत्ता"
+    ],
+    "answer": "दित्ता"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'take'?",
+    "options": [
+      "लेया",
+      "गेया",
+      "खेडेया",
+      "सुत्ता"
+    ],
+    "answer": "लेया"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'play'?",
+    "options": [
+      "खेडेया",
+      "खाधा",
+      "गेया",
+      "सुत्ता"
+    ],
+    "answer": "खेडेया"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Dogri past tense of 'sleep'?",
+    "options": [
+      "देखेया",
+      "खाधा",
+      "सुत्ता",
+      "गेया"
+    ],
+    "answer": "सुत्ता"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'book'?",
+    "options": [
+      "कलमां",
+      "कुड़ियां",
+      "मुंडे",
+      "किताबां"
+    ],
+    "answer": "किताबां"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'pen'?",
+    "options": [
+      "फुल्ल",
+      "मुंडे",
+      "कलमां",
+      "कुड़ियां"
+    ],
+    "answer": "कलमां"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'boy'?",
+    "options": [
+      "पत्ते",
+      "कुड़ियां",
+      "मुंडे",
+      "फुल्ल"
+    ],
+    "answer": "मुंडे"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'girl'?",
+    "options": [
+      "कुड़ियां",
+      "फुल्ल",
+      "तारे",
+      "पत्ते"
+    ],
+    "answer": "कुड़ियां"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'flower'?",
+    "options": [
+      "रुक्ख",
+      "फुल्ल",
+      "तारे",
+      "पत्ते"
+    ],
+    "answer": "फुल्ल"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'leaf'?",
+    "options": [
+      "रुक्ख",
+      "तारे",
+      "नदियां",
+      "पत्ते"
+    ],
+    "answer": "पत्ते"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'star'?",
+    "options": [
+      "तारे",
+      "रुक्ख",
+      "नदियां",
+      "कुर्सियां"
+    ],
+    "answer": "तारे"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'tree'?",
+    "options": [
+      "कुर्सियां",
+      "रुक्ख",
+      "किताबां",
+      "नदियां"
+    ],
+    "answer": "रुक्ख"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'river'?",
+    "options": [
+      "नदियां",
+      "किताबां",
+      "कुर्सियां",
+      "कलमां"
+    ],
+    "answer": "नदियां"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Dogri plural of 'chair'?",
+    "options": [
+      "कुर्सियां",
+      "मुंडे",
+      "किताबां",
+      "कलमां"
+    ],
+    "answer": "कुर्सियां"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'and'?",
+    "options": [
+      "क्योंकि",
+      "ते",
+      "या",
+      "पर"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'but'?",
+    "options": [
+      "या",
+      "जे",
+      "क्योंकि",
+      "पर"
+    ],
+    "answer": "पर"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'or'?",
+    "options": [
+      "जदूं",
+      "जे",
+      "या",
+      "क्योंकि"
+    ],
+    "answer": "या"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'because'?",
+    "options": [
+      "जे",
+      "क्योंकि",
+      "कित्थे",
+      "जदूं"
+    ],
+    "answer": "क्योंकि"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'if'?",
+    "options": [
+      "जदूं",
+      "कियां",
+      "जे",
+      "कित्थे"
+    ],
+    "answer": "जे"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'when'?",
+    "options": [
+      "क्यों",
+      "जदूं",
+      "कित्थे",
+      "कियां"
+    ],
+    "answer": "जदूं"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'where'?",
+    "options": [
+      "कियां",
+      "कित्थे",
+      "क्यों",
+      "नाल"
+    ],
+    "answer": "कित्थे"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'how'?",
+    "options": [
+      "ते",
+      "नाल",
+      "कियां",
+      "क्यों"
+    ],
+    "answer": "कियां"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'why'?",
+    "options": [
+      "पर",
+      "क्यों",
+      "नाल",
+      "ते"
+    ],
+    "answer": "क्यों"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Dogri particle for 'with'?",
+    "options": [
+      "ते",
+      "पर",
+      "नाल",
+      "या"
+    ],
+    "answer": "नाल"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Dogri?",
+    "options": [
+      "नईं आंदा",
+      "नईं पढ़दा",
+      "नईं खांदा",
+      "नईं जांदा"
+    ],
+    "answer": "नईं जांदा"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Dogri?",
+    "options": [
+      "नईं लिखदा",
+      "नईं खांदा",
+      "नईं पढ़दा",
+      "नईं आंदा"
+    ],
+    "answer": "नईं आंदा"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Dogri?",
+    "options": [
+      "नईं खांदा",
+      "नईं खेडदा",
+      "नईं पढ़दा",
+      "नईं लिखदा"
+    ],
+    "answer": "नईं खांदा"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Dogri?",
+    "options": [
+      "नईं लिखदा",
+      "नईं खेडदा",
+      "नईं पढ़दा",
+      "नईं सुत्तदा"
+    ],
+    "answer": "नईं पढ़दा"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Dogri?",
+    "options": [
+      "नईं देखदा",
+      "नईं सुत्तदा",
+      "नईं खेडदा",
+      "नईं लिखदा"
+    ],
+    "answer": "नईं लिखदा"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Dogri?",
+    "options": [
+      "नईं खेडदा",
+      "नईं दिंदा",
+      "नईं सुत्तदा",
+      "नईं देखदा"
+    ],
+    "answer": "नईं खेडदा"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Dogri?",
+    "options": [
+      "नईं देखदा",
+      "नईं सुत्तदा",
+      "नईं दिंदा",
+      "नईं लैंदा"
+    ],
+    "answer": "नईं सुत्तदा"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Dogri?",
+    "options": [
+      "नईं दिंदा",
+      "नईं देखदा",
+      "नईं लैंदा",
+      "नईं जांदा"
+    ],
+    "answer": "नईं देखदा"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Dogri?",
+    "options": [
+      "नईं जांदा",
+      "नईं लैंदा",
+      "नईं दिंदा",
+      "नईं आंदा"
+    ],
+    "answer": "नईं दिंदा"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Dogri?",
+    "options": [
+      "नईं जांदा",
+      "नईं खांदा",
+      "नईं आंदा",
+      "नईं लैंदा"
+    ],
+    "answer": "नईं लैंदा"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'apple'",
+    "options": [
+      "केला",
+      "सेब",
+      "कुत्ता",
+      "बिल्ली"
+    ],
+    "answer": "सेब"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'banana'",
+    "options": [
+      "गड्डी",
+      "कुत्ता",
+      "बिल्ली",
+      "केला"
+    ],
+    "answer": "केला"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'cat'",
+    "options": [
+      "गड्डी",
+      "बिल्ली",
+      "कुत्ता",
+      "बस"
+    ],
+    "answer": "बिल्ली"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'dog'",
+    "options": [
+      "बस",
+      "गड्डी",
+      "कुत्ता",
+      "रेल"
+    ],
+    "answer": "कुत्ता"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'car'",
+    "options": [
+      "घर",
+      "बस",
+      "रेल",
+      "गड्डी"
+    ],
+    "answer": "गड्डी"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'bus'",
+    "options": [
+      "बस",
+      "शहर",
+      "घर",
+      "रेल"
+    ],
+    "answer": "बस"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'train'",
+    "options": [
+      "शहर",
+      "घर",
+      "रेल",
+      "पिंड"
+    ],
+    "answer": "रेल"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'house'",
+    "options": [
+      "सेब",
+      "पिंड",
+      "घर",
+      "शहर"
+    ],
+    "answer": "घर"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'city'",
+    "options": [
+      "शहर",
+      "सेब",
+      "केला",
+      "पिंड"
+    ],
+    "answer": "शहर"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Dogri word for 'village'",
+    "options": [
+      "पिंड",
+      "सेब",
+      "केला",
+      "बिल्ली"
+    ],
+    "answer": "पिंड"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Good morning'",
+    "options": [
+      "माफ करो",
+      "सुप्रभात",
+      "तुसीं केह् हाल ऐ?",
+      "धन्यवाद"
+    ],
+    "answer": "सुप्रभात"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'How are you?'",
+    "options": [
+      "तुसीं केह् हाल ऐ?",
+      "कृपा करके अंदर आओ",
+      "धन्यवाद",
+      "माफ करो"
+    ],
+    "answer": "तुसीं केह् हाल ऐ?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Thank you'",
+    "options": [
+      "धन्यवाद",
+      "बैठो",
+      "कृपा करके अंदर आओ",
+      "माफ करो"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Sorry'",
+    "options": [
+      "बैठो",
+      "खड़े होओ",
+      "माफ करो",
+      "कृपा करके अंदर आओ"
+    ],
+    "answer": "माफ करो"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Please come in'",
+    "options": [
+      "आगे जाओ",
+      "खड़े होओ",
+      "कृपा करके अंदर आओ",
+      "बैठो"
+    ],
+    "answer": "कृपा करके अंदर आओ"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Sit down'",
+    "options": [
+      "बैठो",
+      "बहुत बढ़िया",
+      "आगे जाओ",
+      "खड़े होओ"
+    ],
+    "answer": "बैठो"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Stand up'",
+    "options": [
+      "बहुत बढ़िया",
+      "आगे जाओ",
+      "बधाई",
+      "खड़े होओ"
+    ],
+    "answer": "खड़े होओ"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Go ahead'",
+    "options": [
+      "आगे जाओ",
+      "बधाई",
+      "सुप्रभात",
+      "बहुत बढ़िया"
+    ],
+    "answer": "आगे जाओ"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Well done'",
+    "options": [
+      "तुसीं केह् हाल ऐ?",
+      "बहुत बढ़िया",
+      "सुप्रभात",
+      "बधाई"
+    ],
+    "answer": "बहुत बढ़िया"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Dogri phrase for 'Congratulations'",
+    "options": [
+      "तुसीं केह् हाल ऐ?",
+      "सुप्रभात",
+      "धन्यवाद",
+      "बधाई"
+    ],
+    "answer": "बधाई"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'I am going to school'",
+    "options": [
+      "उह् चावल खांदी ऐ",
+      "मैं स्कूल जांदा ऐ",
+      "अस क्रिकेट खेडदे ऐ",
+      "उह् किताबां पढ़दे ऐ"
+    ],
+    "answer": "मैं स्कूल जांदा ऐ"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'She is eating rice'",
+    "options": [
+      "उह् चिट्ठी लिखदा ऐ",
+      "उह् किताबां पढ़दे ऐ",
+      "उह् चावल खांदी ऐ",
+      "अस क्रिकेट खेडदे ऐ"
+    ],
+    "answer": "उह् चावल खांदी ऐ"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'We are playing cricket'",
+    "options": [
+      "उह् चिट्ठी लिखदा ऐ",
+      "अस क्रिकेट खेडदे ऐ",
+      "तुसीं मेरे दोस्त ऐ",
+      "उह् किताबां पढ़दे ऐ"
+    ],
+    "answer": "अस क्रिकेट खेडदे ऐ"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'They are reading books'",
+    "options": [
+      "उह् किताबां पढ़दे ऐ",
+      "तुसीं मेरे दोस्त ऐ",
+      "अज्ज मेह पैंदा ऐ",
+      "उह् चिट्ठी लिखदा ऐ"
+    ],
+    "answer": "उह् किताबां पढ़दे ऐ"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'He is writing a letter'",
+    "options": [
+      "उह् चिट्ठी लिखदा ऐ",
+      "अज्ज मेह पैंदा ऐ",
+      "तुसीं मेरे दोस्त ऐ",
+      "मिगी डोगरी पसंद ऐ"
+    ],
+    "answer": "उह् चिट्ठी लिखदा ऐ"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'You are my friend'",
+    "options": [
+      "अस जम्मू च रैंदे ऐ",
+      "अज्ज मेह पैंदा ऐ",
+      "मिगी डोगरी पसंद ऐ",
+      "तुसीं मेरे दोस्त ऐ"
+    ],
+    "answer": "तुसीं मेरे दोस्त ऐ"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'It is raining now'",
+    "options": [
+      "अज्ज मेह पैंदा ऐ",
+      "मिगी डोगरी पसंद ऐ",
+      "अस जम्मू च रैंदे ऐ",
+      "उह् गाणा गांदी ऐ"
+    ],
+    "answer": "अज्ज मेह पैंदा ऐ"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'I like Dogri'",
+    "options": [
+      "उह् गाणा गांदी ऐ",
+      "मिगी डोगरी पसंद ऐ",
+      "अस जम्मू च रैंदे ऐ",
+      "मैं स्कूल जांदा ऐ"
+    ],
+    "answer": "मिगी डोगरी पसंद ऐ"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'We live in Jammu'",
+    "options": [
+      "मैं स्कूल जांदा ऐ",
+      "उह् चावल खांदी ऐ",
+      "उह् गाणा गांदी ऐ",
+      "अस जम्मू च रैंदे ऐ"
+    ],
+    "answer": "अस जम्मू च रैंदे ऐ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Dogri sentence for 'She is singing a song'",
+    "options": [
+      "उह् गाणा गांदी ऐ",
+      "मैं स्कूल जांदा ऐ",
+      "अस क्रिकेट खेडदे ऐ",
+      "उह् चावल खांदी ऐ"
+    ],
+    "answer": "उह् गाणा गांदी ऐ"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "तुसीं केह् हाल ऐ? - मैं ठीक ऐ",
+      "तुसीं अंग्रेजी बोलदे ऐ? - हां, थोड़ी जेही",
+      "तुंदा नाम केह् ऐ? - मेरा नाम रवि ऐ",
+      "तुसीं कित्थे जांदे ऐ? - बाजार"
+    ],
+    "answer": "तुसीं केह् हाल ऐ? - मैं ठीक ऐ"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "तुसीं मेरी मदद करी सकदे ऐ? - जरूर",
+      "तुंदा नाम केह् ऐ? - मेरा नाम रवि ऐ",
+      "तुसीं कित्थे जांदे ऐ? - बाजार",
+      "तुसीं अंग्रेजी बोलदे ऐ? - हां, थोड़ी जेही"
+    ],
+    "answer": "तुंदा नाम केह् ऐ? - मेरा नाम रवि ऐ"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "कित्ता बजेया ऐ? - पंज बजे ऐ",
+      "तुसीं कित्थे जांदे ऐ? - बाजार",
+      "तुसीं अंग्रेजी बोलदे ऐ? - हां, थोड़ी जेही",
+      "तुसीं मेरी मदद करी सकदे ऐ? - जरूर"
+    ],
+    "answer": "तुसीं कित्थे जांदे ऐ? - बाजार"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "कित्ता बजेया ऐ? - पंज बजे ऐ",
+      "तुसीं मेरी मदद करी सकदे ऐ? - जरूर",
+      "तुसीं अंग्रेजी बोलदे ऐ? - हां, थोड़ी जेही",
+      "बस स्टॉप कित्थे ऐ? - उत्थे"
+    ],
+    "answer": "तुसीं अंग्रेजी बोलदे ऐ? - हां, थोड़ी जेही"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "इह् कित्ता ऐ? - पचास रुपये",
+      "बस स्टॉप कित्थे ऐ? - उत्थे",
+      "कित्ता बजेया ऐ? - पंज बजे ऐ",
+      "तुसीं मेरी मदद करी सकदे ऐ? - जरूर"
+    ],
+    "answer": "तुसीं मेरी मदद करी सकदे ऐ? - जरूर"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "कित्ता बजेया ऐ? - पंज बजे ऐ",
+      "कृपा करके अंदर आओ। - धन्यवाद",
+      "इह् कित्ता ऐ? - पचास रुपये",
+      "बस स्टॉप कित्थे ऐ? - उत्थे"
+    ],
+    "answer": "कित्ता बजेया ऐ? - पंज बजे ऐ"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "इह् कित्ता ऐ? - पचास रुपये",
+      "बस स्टॉप कित्थे ऐ? - उत्थे",
+      "कृपा करके अंदर आओ। - धन्यवाद",
+      "विदाई। - फिर मिलांगे"
+    ],
+    "answer": "बस स्टॉप कित्थे ऐ? - उत्थे"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "तुसीं केह् हाल ऐ? - मैं ठीक ऐ",
+      "इह् कित्ता ऐ? - पचास रुपये",
+      "विदाई। - फिर मिलांगे",
+      "कृपा करके अंदर आओ। - धन्यवाद"
+    ],
+    "answer": "इह् कित्ता ऐ? - पचास रुपये"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "तुंदा नाम केह् ऐ? - मेरा नाम रवि ऐ",
+      "तुसीं केह् हाल ऐ? - मैं ठीक ऐ",
+      "कृपा करके अंदर आओ। - धन्यवाद",
+      "विदाई। - फिर मिलांगे"
+    ],
+    "answer": "कृपा करके अंदर आओ। - धन्यवाद"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Dogri dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "तुंदा नाम केह् ऐ? - मेरा नाम रवि ऐ",
+      "तुसीं केह् हाल ऐ? - मैं ठीक ऐ",
+      "विदाई। - फिर मिलांगे",
+      "तुसीं कित्थे जांदे ऐ? - बाजार"
+    ],
+    "answer": "विदाई। - फिर मिलांगे"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Dogri?",
+    "options": [
+      "कोई छूट ऐ?",
+      "मैं इह् खरीदणा चांदा ऐ",
+      "काउंटर कित्थे ऐ?",
+      "इह् कित्ता ऐ?"
+    ],
+    "answer": "मैं इह् खरीदणा चांदा ऐ"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Dogri?",
+    "options": [
+      "काउंटर कित्थे ऐ?",
+      "इह् कित्ता ऐ?",
+      "तुसीं कार्ड लैंदे ऐ?",
+      "कोई छूट ऐ?"
+    ],
+    "answer": "इह् कित्ता ऐ?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Dogri?",
+    "options": [
+      "कोई छूट ऐ?",
+      "काउंटर कित्थे ऐ?",
+      "तुसीं कार्ड लैंदे ऐ?",
+      "कृपा करके इसगी पैक करो"
+    ],
+    "answer": "कोई छूट ऐ?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Dogri?",
+    "options": [
+      "मिगी इक बैग चाहिदा ऐ",
+      "तुसीं कार्ड लैंदे ऐ?",
+      "काउंटर कित्थे ऐ?",
+      "कृपा करके इसगी पैक करो"
+    ],
+    "answer": "काउंटर कित्थे ऐ?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Dogri?",
+    "options": [
+      "तुसीं कार्ड लैंदे ऐ?",
+      "कृपा करके इसगी पैक करो",
+      "मिगी इक बैग चाहिदा ऐ",
+      "इह् उपलब्ध ऐ?"
+    ],
+    "answer": "तुसीं कार्ड लैंदे ऐ?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Dogri?",
+    "options": [
+      "मिगी इक बैग चाहिदा ऐ",
+      "कृपा करके इसगी पैक करो",
+      "इह् उपलब्ध ऐ?",
+      "समां केह् ऐ?"
+    ],
+    "answer": "कृपा करके इसगी पैक करो"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Dogri?",
+    "options": [
+      "मिगी इक बैग चाहिदा ऐ",
+      "इह् उपलब्ध ऐ?",
+      "समां केह् ऐ?",
+      "मैं इह् पहिन के देख सकदा ऐ?"
+    ],
+    "answer": "मिगी इक बैग चाहिदा ऐ"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Dogri?",
+    "options": [
+      "इह् उपलब्ध ऐ?",
+      "समां केह् ऐ?",
+      "मैं इह् पहिन के देख सकदा ऐ?",
+      "मैं इह् खरीदणा चांदा ऐ"
+    ],
+    "answer": "इह् उपलब्ध ऐ?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Dogri?",
+    "options": [
+      "इह् कित्ता ऐ?",
+      "मैं इह् खरीदणा चांदा ऐ",
+      "समां केह् ऐ?",
+      "मैं इह् पहिन के देख सकदा ऐ?"
+    ],
+    "answer": "समां केह् ऐ?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Dogri?",
+    "options": [
+      "मैं इह् पहिन के देख सकदा ऐ?",
+      "इह् कित्ता ऐ?",
+      "कोई छूट ऐ?",
+      "मैं इह् खरीदणा चांदा ऐ"
+    ],
+    "answer": "मैं इह् पहिन के देख सकदा ऐ?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Dogri?",
+    "options": [
+      "शहर कुन्नी बस जांदी ऐ?",
+      "एयरपोर्ट कियां जाणा ऐ?",
+      "रेलवे स्टेशन कित्थे ऐ?",
+      "कित्ता समां लगेगा?"
+    ],
+    "answer": "रेलवे स्टेशन कित्थे ऐ?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Dogri?",
+    "options": [
+      "इत्थूं दूर ऐ?",
+      "कित्ता समां लगेगा?",
+      "शहर कुन्नी बस जांदी ऐ?",
+      "एयरपोर्ट कियां जाणा ऐ?"
+    ],
+    "answer": "एयरपोर्ट कियां जाणा ऐ?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Dogri?",
+    "options": [
+      "शहर कुन्नी बस जांदी ऐ?",
+      "कित्ता समां लगेगा?",
+      "इत्थूं दूर ऐ?",
+      "टैक्सी कित्थे मिलेगी?"
+    ],
+    "answer": "शहर कुन्नी बस जांदी ऐ?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Dogri?",
+    "options": [
+      "इत्थूं दूर ऐ?",
+      "कित्ता समां लगेगा?",
+      "होटल कित्थे ऐ?",
+      "टैक्सी कित्थे मिलेगी?"
+    ],
+    "answer": "कित्ता समां लगेगा?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Dogri?",
+    "options": [
+      "टैक्सी कित्थे मिलेगी?",
+      "होटल कित्थे ऐ?",
+      "नक्शे च दिखाई सकदे ऐ?",
+      "इत्थूं दूर ऐ?"
+    ],
+    "answer": "इत्थूं दूर ऐ?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Dogri?",
+    "options": [
+      "होटल कित्थे ऐ?",
+      "बाथरूम कित्थे ऐ?",
+      "नक्शे च दिखाई सकदे ऐ?",
+      "टैक्सी कित्थे मिलेगी?"
+    ],
+    "answer": "टैक्सी कित्थे मिलेगी?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Dogri?",
+    "options": [
+      "मैं रस्ता भुल्ल गेया ऐ",
+      "बाथरूम कित्थे ऐ?",
+      "नक्शे च दिखाई सकदे ऐ?",
+      "होटल कित्थे ऐ?"
+    ],
+    "answer": "होटल कित्थे ऐ?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Dogri?",
+    "options": [
+      "रेलवे स्टेशन कित्थे ऐ?",
+      "मैं रस्ता भुल्ल गेया ऐ",
+      "नक्शे च दिखाई सकदे ऐ?",
+      "बाथरूम कित्थे ऐ?"
+    ],
+    "answer": "नक्शे च दिखाई सकदे ऐ?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Dogri?",
+    "options": [
+      "रेलवे स्टेशन कित्थे ऐ?",
+      "मैं रस्ता भुल्ल गेया ऐ",
+      "एयरपोर्ट कियां जाणा ऐ?",
+      "बाथरूम कित्थे ऐ?"
+    ],
+    "answer": "बाथरूम कित्थे ऐ?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Dogri?",
+    "options": [
+      "शहर कुन्नी बस जांदी ऐ?",
+      "एयरपोर्ट कियां जाणा ऐ?",
+      "रेलवे स्टेशन कित्थे ऐ?",
+      "मैं रस्ता भुल्ल गेया ऐ"
+    ],
+    "answer": "मैं रस्ता भुल्ल गेया ऐ"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Dogri?",
+    "options": [
+      "पुलिस गी फोन करो",
+      "मिगी डॉक्टर चाहिदा ऐ",
+      "मैं बीमार ऐ",
+      "अस्पताल कित्थे ऐ?"
+    ],
+    "answer": "पुलिस गी फोन करो"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Dogri?",
+    "options": [
+      "मदद!",
+      "अस्पताल कित्थे ऐ?",
+      "मैं बीमार ऐ",
+      "मिगी डॉक्टर चाहिदा ऐ"
+    ],
+    "answer": "मिगी डॉक्टर चाहिदा ऐ"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Dogri?",
+    "options": [
+      "मदद!",
+      "अस्पताल कित्थे ऐ?",
+      "मेरा बटुआ गुम्म होई गेया",
+      "मैं बीमार ऐ"
+    ],
+    "answer": "अस्पताल कित्थे ऐ?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Dogri?",
+    "options": [
+      "मदद!",
+      "मेरा बटुआ गुम्म होई गेया",
+      "अग्ग लग्गी ऐ",
+      "मैं बीमार ऐ"
+    ],
+    "answer": "मैं बीमार ऐ"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Dogri?",
+    "options": [
+      "मदद!",
+      "अग्ग लग्गी ऐ",
+      "मेरा हादसा होई गेया",
+      "मेरा बटुआ गुम्म होई गेया"
+    ],
+    "answer": "मदद!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Dogri?",
+    "options": [
+      "अग्ग लग्गी ऐ",
+      "मेरा हादसा होई गेया",
+      "मिगी चोट लग्गी ऐ",
+      "मेरा बटुआ गुम्म होई गेया"
+    ],
+    "answer": "मेरा बटुआ गुम्म होई गेया"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Dogri?",
+    "options": [
+      "मेरा हादसा होई गेया",
+      "मिगी चोट लग्गी ऐ",
+      "अग्ग लग्गी ऐ",
+      "कृपा करके मेरी मदद करो"
+    ],
+    "answer": "अग्ग लग्गी ऐ"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Dogri?",
+    "options": [
+      "कृपा करके मेरी मदद करो",
+      "मिगी चोट लग्गी ऐ",
+      "पुलिस गी फोन करो",
+      "मेरा हादसा होई गेया"
+    ],
+    "answer": "मेरा हादसा होई गेया"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Dogri?",
+    "options": [
+      "मिगी डॉक्टर चाहिदा ऐ",
+      "पुलिस गी फोन करो",
+      "कृपा करके मेरी मदद करो",
+      "मिगी चोट लग्गी ऐ"
+    ],
+    "answer": "मिगी चोट लग्गी ऐ"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Dogri?",
+    "options": [
+      "पुलिस गी फोन करो",
+      "अस्पताल कित्थे ऐ?",
+      "कृपा करके मेरी मदद करो",
+      "मिगी डॉक्टर चाहिदा ऐ"
+    ],
+    "answer": "कृपा करके मेरी मदद करो"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Dogri?",
+    "options": [
+      "तुंदे केह् प्लान ऐ?",
+      "अज्ज शाम गी तुसीं फ्री ऐ?",
+      "फिल्म देखणे चलदे ऐ",
+      "कल्ल मिलदे ऐ"
+    ],
+    "answer": "तुंदे केह् प्लान ऐ?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Dogri?",
+    "options": [
+      "इकट्ठे खाणा खांदे ऐ?",
+      "अज्ज शाम गी तुसीं फ्री ऐ?",
+      "फिल्म देखणे चलदे ऐ",
+      "कल्ल मिलदे ऐ"
+    ],
+    "answer": "कल्ल मिलदे ऐ"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Dogri?",
+    "options": [
+      "अज्ज शाम गी तुसीं फ्री ऐ?",
+      "फिल्म देखणे चलदे ऐ",
+      "इकट्ठे खाणा खांदे ऐ?",
+      "तुसीं साडे नाल आई सकदे ऐ?"
+    ],
+    "answer": "अज्ज शाम गी तुसीं फ्री ऐ?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Dogri?",
+    "options": [
+      "मैं अज्ज व्यस्त ऐ",
+      "फिल्म देखणे चलदे ऐ",
+      "इकट्ठे खाणा खांदे ऐ?",
+      "तुसीं साडे नाल आई सकदे ऐ?"
+    ],
+    "answer": "फिल्म देखणे चलदे ऐ"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Dogri?",
+    "options": [
+      "तुसीं साडे नाल आई सकदे ऐ?",
+      "इकट्ठे खाणा खांदे ऐ?",
+      "मैं अज्ज व्यस्त ऐ",
+      "बाद च मिलदे ऐ"
+    ],
+    "answer": "इकट्ठे खाणा खांदे ऐ?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Dogri?",
+    "options": [
+      "तुसीं साडे नाल आई सकदे ऐ?",
+      "मैं अज्ज व्यस्त ऐ",
+      "मैं तुसां गी फोन करांगा",
+      "बाद च मिलदे ऐ"
+    ],
+    "answer": "तुसीं साडे नाल आई सकदे ऐ?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Dogri?",
+    "options": [
+      "मैं अज्ज व्यस्त ऐ",
+      "जश्न मनांदे ऐ",
+      "बाद च मिलदे ऐ",
+      "मैं तुसां गी फोन करांगा"
+    ],
+    "answer": "मैं अज्ज व्यस्त ऐ"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Dogri?",
+    "options": [
+      "मैं तुसां गी फोन करांगा",
+      "बाद च मिलदे ऐ",
+      "तुंदे केह् प्लान ऐ?",
+      "जश्न मनांदे ऐ"
+    ],
+    "answer": "बाद च मिलदे ऐ"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Dogri?",
+    "options": [
+      "जश्न मनांदे ऐ",
+      "कल्ल मिलदे ऐ",
+      "तुंदे केह् प्लान ऐ?",
+      "मैं तुसां गी फोन करांगा"
+    ],
+    "answer": "मैं तुसां गी फोन करांगा"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Dogri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Dogri?",
+    "options": [
+      "कल्ल मिलदे ऐ",
+      "तुंदे केह् प्लान ऐ?",
+      "अज्ज शाम गी तुसीं फ्री ऐ?",
+      "जश्न मनांदे ऐ"
+    ],
+    "answer": "जश्न मनांदे ऐ"
+  }
+]

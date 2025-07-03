@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'a'?",
+    "options": [
+      "অ",
+      "ঈ",
+      "ই",
+      "আ"
+    ],
+    "answer": "অ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'aa'?",
+    "options": [
+      "ই",
+      "আ",
+      "উ",
+      "ঈ"
+    ],
+    "answer": "আ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'i'?",
+    "options": [
+      "ঊ",
+      "ঈ",
+      "উ",
+      "ই"
+    ],
+    "answer": "ই"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'ee'?",
+    "options": [
+      "ঈ",
+      "উ",
+      "এ",
+      "ঊ"
+    ],
+    "answer": "ঈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'u'?",
+    "options": [
+      "এ",
+      "উ",
+      "ঐ",
+      "ঊ"
+    ],
+    "answer": "উ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'oo'?",
+    "options": [
+      "ঐ",
+      "এ",
+      "ও",
+      "ঊ"
+    ],
+    "answer": "ঊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'e'?",
+    "options": [
+      "ঔ",
+      "এ",
+      "ঐ",
+      "ও"
+    ],
+    "answer": "এ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'ai'?",
+    "options": [
+      "ঐ",
+      "ঔ",
+      "ও",
+      "অ"
+    ],
+    "answer": "ঐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'o'?",
+    "options": [
+      "ও",
+      "অ",
+      "ঔ",
+      "আ"
+    ],
+    "answer": "ও"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Assamese vowel for 'au'?",
+    "options": [
+      "অ",
+      "ই",
+      "আ",
+      "ঔ"
+    ],
+    "answer": "ঔ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'ka'?",
+    "options": [
+      "ঘ",
+      "গ",
+      "খ",
+      "ক"
+    ],
+    "answer": "ক"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'kha'?",
+    "options": [
+      "ঘ",
+      "গ",
+      "খ",
+      "চ"
+    ],
+    "answer": "খ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'ga'?",
+    "options": [
+      "চ",
+      "ঘ",
+      "গ",
+      "ছ"
+    ],
+    "answer": "গ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'gha'?",
+    "options": [
+      "ঘ",
+      "জ",
+      "চ",
+      "ছ"
+    ],
+    "answer": "ঘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'cha'?",
+    "options": [
+      "ঝ",
+      "জ",
+      "চ",
+      "ছ"
+    ],
+    "answer": "চ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'chha'?",
+    "options": [
+      "ঝ",
+      "জ",
+      "ট",
+      "ছ"
+    ],
+    "answer": "ছ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'ja'?",
+    "options": [
+      "ঠ",
+      "ঝ",
+      "জ",
+      "ট"
+    ],
+    "answer": "জ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'jha'?",
+    "options": [
+      "ঠ",
+      "ঝ",
+      "ট",
+      "ক"
+    ],
+    "answer": "ঝ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'ta'?",
+    "options": [
+      "ক",
+      "খ",
+      "ট",
+      "ঠ"
+    ],
+    "answer": "ট"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Assamese consonant for 'tha'?",
+    "options": [
+      "ক",
+      "গ",
+      "খ",
+      "ঠ"
+    ],
+    "answer": "ঠ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ক' + 'া'?",
+    "options": [
+      "কা",
+      "তে",
+      "পু",
+      "মি"
+    ],
+    "answer": "কা"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'প' + 'ু'?",
+    "options": [
+      "সূ",
+      "পু",
+      "তে",
+      "মি"
+    ],
+    "answer": "পু"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ম' + 'ি'?",
+    "options": [
+      "সূ",
+      "নো",
+      "তে",
+      "মি"
+    ],
+    "answer": "মি"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ত' + 'ে'?",
+    "options": [
+      "রা",
+      "তে",
+      "সূ",
+      "নো"
+    ],
+    "answer": "তে"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'স' + 'ূ'?",
+    "options": [
+      "লে",
+      "নো",
+      "রা",
+      "সূ"
+    ],
+    "answer": "সূ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ন' + 'ো'?",
+    "options": [
+      "লে",
+      "রা",
+      "দি",
+      "নো"
+    ],
+    "answer": "নো"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'র' + 'া'?",
+    "options": [
+      "লে",
+      "রা",
+      "বু",
+      "দি"
+    ],
+    "answer": "রা"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ল' + 'ে'?",
+    "options": [
+      "লে",
+      "দি",
+      "বু",
+      "কা"
+    ],
+    "answer": "লে"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'দ' + 'ি'?",
+    "options": [
+      "কা",
+      "বু",
+      "পু",
+      "দি"
+    ],
+    "answer": "দি"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ব' + 'ু'?",
+    "options": [
+      "বু",
+      "পু",
+      "কা",
+      "মি"
+    ],
+    "answer": "বু"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'কিতাপ'? (in Assamese)",
+    "options": [
+      "Pen",
+      "School",
+      "Book",
+      "Hand"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'কলম'? (in Assamese)",
+    "options": [
+      "Fruit",
+      "School",
+      "Pen",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'স্কুল'? (in Assamese)",
+    "options": [
+      "Flowers",
+      "Hand",
+      "School",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'হাত'? (in Assamese)",
+    "options": [
+      "Flowers",
+      "Fruit",
+      "Tree",
+      "Hand"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ফল'? (in Assamese)",
+    "options": [
+      "Fruit",
+      "Tree",
+      "Slate",
+      "Flowers"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ফুল'? (in Assamese)",
+    "options": [
+      "Speak",
+      "Flowers",
+      "Slate",
+      "Tree"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'গছ'? (in Assamese)",
+    "options": [
+      "Slate",
+      "Speech",
+      "Speak",
+      "Tree"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ফলক'? (in Assamese)",
+    "options": [
+      "Speech",
+      "Speak",
+      "Slate",
+      "Book"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'কোৱা'? (in Assamese)",
+    "options": [
+      "Speak",
+      "Pen",
+      "Speech",
+      "Book"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ভাষা'? (in Assamese)",
+    "options": [
+      "School",
+      "Pen",
+      "Speech",
+      "Book"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'book'?",
+    "options": [
+      "স্কুল",
+      "কিতাপ",
+      "বেগ",
+      "কলম"
+    ],
+    "answer": "কিতাপ"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'pen'?",
+    "options": [
+      "চকী",
+      "বেগ",
+      "স্কুল",
+      "কলম"
+    ],
+    "answer": "কলম"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'school'?",
+    "options": [
+      "টেবুল",
+      "চকী",
+      "স্কুল",
+      "বেগ"
+    ],
+    "answer": "স্কুল"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'bag'?",
+    "options": [
+      "ফলক",
+      "চকী",
+      "বেগ",
+      "টেবুল"
+    ],
+    "answer": "বেগ"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'chair'?",
+    "options": [
+      "খিৰিকী",
+      "চকী",
+      "টেবুল",
+      "ফলক"
+    ],
+    "answer": "চকী"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'table'?",
+    "options": [
+      "দুৱাৰ",
+      "খিৰিকী",
+      "ফলক",
+      "টেবুল"
+    ],
+    "answer": "টেবুল"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'slate'?",
+    "options": [
+      "ফলক",
+      "পাংখা",
+      "খিৰিকী",
+      "দুৱাৰ"
+    ],
+    "answer": "ফলক"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'window'?",
+    "options": [
+      "পাংখা",
+      "দুৱাৰ",
+      "খিৰিকী",
+      "কিতাপ"
+    ],
+    "answer": "খিৰিকী"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'door'?",
+    "options": [
+      "কলম",
+      "পাংখা",
+      "কিতাপ",
+      "দুৱাৰ"
+    ],
+    "answer": "দুৱাৰ"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Assamese word for 'fan'?",
+    "options": [
+      "স্কুল",
+      "কলম",
+      "পাংখা",
+      "কিতাপ"
+    ],
+    "answer": "পাংখা"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'rice'?",
+    "options": [
+      "ভাত",
+      "ফল",
+      "গাখীৰ",
+      "পাচলি"
+    ],
+    "answer": "ভাত"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'milk'?",
+    "options": [
+      "গাখীৰ",
+      "পানী",
+      "পাচলি",
+      "ফল"
+    ],
+    "answer": "গাখীৰ"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'fruit'?",
+    "options": [
+      "ফল",
+      "পাচলি",
+      "দৈ",
+      "পানী"
+    ],
+    "answer": "ফল"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'vegetable'?",
+    "options": [
+      "পাচলি",
+      "দৈ",
+      "পাউৰুটি",
+      "পানী"
+    ],
+    "answer": "পাচলি"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'water'?",
+    "options": [
+      "পাউৰুটি",
+      "পানী",
+      "দৈ",
+      "কণী"
+    ],
+    "answer": "পানী"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'curd'?",
+    "options": [
+      "দৈ",
+      "মাছ",
+      "পাউৰুটি",
+      "কণী"
+    ],
+    "answer": "দৈ"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'bread'?",
+    "options": [
+      "পাউৰুটি",
+      "কণী",
+      "মাছ",
+      "মিঠা"
+    ],
+    "answer": "পাউৰুটি"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'egg'?",
+    "options": [
+      "ভাত",
+      "কণী",
+      "মিঠা",
+      "মাছ"
+    ],
+    "answer": "কণী"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'fish'?",
+    "options": [
+      "ভাত",
+      "মাছ",
+      "গাখীৰ",
+      "মিঠা"
+    ],
+    "answer": "মাছ"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'sweet'?",
+    "options": [
+      "মিঠা",
+      "গাখীৰ",
+      "ভাত",
+      "ফল"
+    ],
+    "answer": "মিঠা"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'mother'?",
+    "options": [
+      "মা",
+      "ভাই",
+      "দেউতা",
+      "ভনী"
+    ],
+    "answer": "মা"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'father'?",
+    "options": [
+      "দেউতা",
+      "ভনী",
+      "ভাই",
+      "আইতা"
+    ],
+    "answer": "দেউতা"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'sister'?",
+    "options": [
+      "ভাই",
+      "আইতা",
+      "ভনী",
+      "আইতা"
+    ],
+    "answer": "ভনী"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'brother'?",
+    "options": [
+      "ভাই",
+      "কাকা",
+      "আইতা",
+      "আইতা"
+    ],
+    "answer": "ভাই"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'grandmother'?",
+    "options": [
+      "আইতা",
+      "কাকা",
+      "আইতা",
+      "পেহী"
+    ],
+    "answer": "আইতা"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'grandfather'?",
+    "options": [
+      "কাকা",
+      "পেহী",
+      "আইতা",
+      "পুত্ৰ"
+    ],
+    "answer": "আইতা"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'uncle'?",
+    "options": [
+      "জীয়েক",
+      "কাকা",
+      "পুত্ৰ",
+      "পেহী"
+    ],
+    "answer": "কাকা"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'aunt'?",
+    "options": [
+      "জীয়েক",
+      "পুত্ৰ",
+      "মা",
+      "পেহী"
+    ],
+    "answer": "পেহী"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'son'?",
+    "options": [
+      "মা",
+      "দেউতা",
+      "পুত্ৰ",
+      "জীয়েক"
+    ],
+    "answer": "পুত্ৰ"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Assamese word for 'daughter'?",
+    "options": [
+      "ভনী",
+      "মা",
+      "জীয়েক",
+      "দেউতা"
+    ],
+    "answer": "জীয়েক"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'tree'?",
+    "options": [
+      "গছ",
+      "পৰ্বত",
+      "ফুল",
+      "নদী"
+    ],
+    "answer": "গছ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'flower'?",
+    "options": [
+      "নদী",
+      "পৰ্বত",
+      "পাত",
+      "ফুল"
+    ],
+    "answer": "ফুল"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'river'?",
+    "options": [
+      "পৰ্বত",
+      "নদী",
+      "পাত",
+      "আকাশ"
+    ],
+    "answer": "নদী"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'mountain'?",
+    "options": [
+      "বৰষুণ",
+      "পৰ্বত",
+      "আকাশ",
+      "পাত"
+    ],
+    "answer": "পৰ্বত"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'leaf'?",
+    "options": [
+      "পাত",
+      "আকাশ",
+      "সূৰ্য",
+      "বৰষুণ"
+    ],
+    "answer": "পাত"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'sky'?",
+    "options": [
+      "সূৰ্য",
+      "বৰষুণ",
+      "চন্দ্ৰ",
+      "আকাশ"
+    ],
+    "answer": "আকাশ"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'rain'?",
+    "options": [
+      "বৰষুণ",
+      "চন্দ্ৰ",
+      "সূৰ্য",
+      "তৰা"
+    ],
+    "answer": "বৰষুণ"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'sun'?",
+    "options": [
+      "গছ",
+      "সূৰ্য",
+      "চন্দ্ৰ",
+      "তৰা"
+    ],
+    "answer": "সূৰ্য"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'moon'?",
+    "options": [
+      "তৰা",
+      "গছ",
+      "ফুল",
+      "চন্দ্ৰ"
+    ],
+    "answer": "চন্দ্ৰ"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Assamese word for 'star'?",
+    "options": [
+      "গছ",
+      "ফুল",
+      "নদী",
+      "তৰা"
+    ],
+    "answer": "তৰা"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Assamese?",
+    "options": [
+      "শুভ ৰাতি",
+      "শুভ ৰাতিপুৱা",
+      "স্বাগতম",
+      "নমস্কাৰ"
+    ],
+    "answer": "নমস্কাৰ"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Assamese?",
+    "options": [
+      "শুভ ৰাতিপুৱা",
+      "শুভ ৰাতি",
+      "স্বাগতম",
+      "আপুনি কেনে আছে?"
+    ],
+    "answer": "শুভ ৰাতিপুৱা"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Assamese?",
+    "options": [
+      "ভাল আছোঁ",
+      "আপুনি কেনে আছে?",
+      "স্বাগতম",
+      "শুভ ৰাতি"
+    ],
+    "answer": "শুভ ৰাতি"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Assamese?",
+    "options": [
+      "আপুনি কেনে আছে?",
+      "পাছত লগ পাম",
+      "ভাল আছোঁ",
+      "স্বাগতম"
+    ],
+    "answer": "স্বাগতম"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Assamese?",
+    "options": [
+      "পাছত লগ পাম",
+      "বিদায়",
+      "আপুনি কেনে আছে?",
+      "ভাল আছোঁ"
+    ],
+    "answer": "আপুনি কেনে আছে?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Assamese?",
+    "options": [
+      "যত্ন লওক",
+      "পাছত লগ পাম",
+      "ভাল আছোঁ",
+      "বিদায়"
+    ],
+    "answer": "ভাল আছোঁ"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Assamese?",
+    "options": [
+      "ধন্যবাদ",
+      "যত্ন লওক",
+      "পাছত লগ পাম",
+      "বিদায়"
+    ],
+    "answer": "পাছত লগ পাম"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Assamese?",
+    "options": [
+      "বিদায়",
+      "ধন্যবাদ",
+      "নমস্কাৰ",
+      "যত্ন লওক"
+    ],
+    "answer": "বিদায়"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Assamese?",
+    "options": [
+      "যত্ন লওক",
+      "ধন্যবাদ",
+      "শুভ ৰাতিপুৱা",
+      "নমস্কাৰ"
+    ],
+    "answer": "যত্ন লওক"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Assamese?",
+    "options": [
+      "শুভ ৰাতিপুৱা",
+      "নমস্কাৰ",
+      "শুভ ৰাতি",
+      "ধন্যবাদ"
+    ],
+    "answer": "ধন্যবাদ"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Assamese?",
+    "options": [
+      "মই এজন ছাত্ৰ",
+      "মই ... ৰ পৰা আহিছোঁ",
+      "মই এজন শিক্ষক",
+      "মোৰ নাম ..."
+    ],
+    "answer": "মোৰ নাম ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Assamese?",
+    "options": [
+      "মই এজন শিক্ষক",
+      "আপোনাক লগ পাই ভাল লাগিল",
+      "মই এজন ছাত্ৰ",
+      "মই ... ৰ পৰা আহিছোঁ"
+    ],
+    "answer": "মই ... ৰ পৰা আহিছোঁ"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Assamese?",
+    "options": [
+      "মই এজন ছাত্ৰ",
+      "আপোনাক লগ পাই ভাল লাগিল",
+      "মই এজন শিক্ষক",
+      "মই ... ত থাকোঁ"
+    ],
+    "answer": "মই এজন ছাত্ৰ"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Assamese?",
+    "options": [
+      "মই ... ত থাকোঁ",
+      "আপোনাক লগ পাই ভাল লাগিল",
+      "মই এজন শিক্ষক",
+      "মই অসমীয়া শিকি আছোঁ"
+    ],
+    "answer": "মই এজন শিক্ষক"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Assamese?",
+    "options": [
+      "মই অসমীয়া শিকি আছোঁ",
+      "আপোনাৰ নাম কি?",
+      "আপোনাক লগ পাই ভাল লাগিল",
+      "মই ... ত থাকোঁ"
+    ],
+    "answer": "আপোনাক লগ পাই ভাল লাগিল"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Assamese?",
+    "options": [
+      "মই অসমীয়া শিকি আছোঁ",
+      "আপোনাৰ নাম কি?",
+      "আপুনি ক'ৰ পৰা আহিছে?",
+      "মই ... ত থাকোঁ"
+    ],
+    "answer": "মই ... ত থাকোঁ"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Assamese' in Assamese?",
+    "options": [
+      "আপোনাৰ নাম কি?",
+      "আপোনাৰ বয়স কিমান?",
+      "মই অসমীয়া শিকি আছোঁ",
+      "আপুনি ক'ৰ পৰা আহিছে?"
+    ],
+    "answer": "মই অসমীয়া শিকি আছোঁ"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Assamese?",
+    "options": [
+      "আপোনাৰ নাম কি?",
+      "মোৰ নাম ...",
+      "আপুনি ক'ৰ পৰা আহিছে?",
+      "আপোনাৰ বয়স কিমান?"
+    ],
+    "answer": "আপোনাৰ নাম কি?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Assamese?",
+    "options": [
+      "আপোনাৰ বয়স কিমান?",
+      "মই ... ৰ পৰা আহিছোঁ",
+      "মোৰ নাম ...",
+      "আপুনি ক'ৰ পৰা আহিছে?"
+    ],
+    "answer": "আপুনি ক'ৰ পৰা আহিছে?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Assamese?",
+    "options": [
+      "আপোনাৰ বয়স কিমান?",
+      "মোৰ নাম ...",
+      "মই এজন ছাত্ৰ",
+      "মই ... ৰ পৰা আহিছোঁ"
+    ],
+    "answer": "আপোনাৰ বয়স কিমান?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Assamese?",
+    "options": [
+      "নহয়",
+      "হয়",
+      "হ'ব পাৰে",
+      "নিশ্চয়"
+    ],
+    "answer": "হয়"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Assamese?",
+    "options": [
+      "কেতিয়াও নহয়",
+      "হ'ব পাৰে",
+      "নহয়",
+      "নিশ্চয়"
+    ],
+    "answer": "নহয়"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Assamese?",
+    "options": [
+      "কেতিয়াবা",
+      "হ'ব পাৰে",
+      "কেতিয়াও নহয়",
+      "নিশ্চয়"
+    ],
+    "answer": "হ'ব পাৰে"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Assamese?",
+    "options": [
+      "নিশ্চয়",
+      "কেতিয়াও নহয়",
+      "সদায়",
+      "কেতিয়াবা"
+    ],
+    "answer": "নিশ্চয়"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Assamese?",
+    "options": [
+      "কেতিয়াও নহয়",
+      "কেতিয়াবা",
+      "সদায়",
+      "একেবাৰেই নহয়"
+    ],
+    "answer": "কেতিয়াও নহয়"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Assamese?",
+    "options": [
+      "সদায়",
+      "কেতিয়াবা",
+      "একেবাৰেই নহয়",
+      "নিশ্চিত"
+    ],
+    "answer": "কেতিয়াবা"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Assamese?",
+    "options": [
+      "মই নাজানো",
+      "সদায়",
+      "নিশ্চিত",
+      "একেবাৰেই নহয়"
+    ],
+    "answer": "সদায়"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Assamese?",
+    "options": [
+      "মই নাজানো",
+      "নিশ্চিত",
+      "হয়",
+      "একেবাৰেই নহয়"
+    ],
+    "answer": "একেবাৰেই নহয়"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Assamese?",
+    "options": [
+      "নিশ্চিত",
+      "হয়",
+      "নহয়",
+      "মই নাজানো"
+    ],
+    "answer": "নিশ্চিত"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Assamese?",
+    "options": [
+      "নহয়",
+      "হ'ব পাৰে",
+      "হয়",
+      "মই নাজানো"
+    ],
+    "answer": "মই নাজানো"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Assamese?",
+    "options": [
+      "ধন্যবাদ",
+      "অনুগ্ৰহ কৰি",
+      "ক্ষমা কৰিব",
+      "ক্ষমা কৰিব"
+    ],
+    "answer": "ধন্যবাদ"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Assamese?",
+    "options": [
+      "ক্ষমা কৰিব",
+      "স্বাগতম",
+      "অনুগ্ৰহ কৰি",
+      "ক্ষমা কৰিব"
+    ],
+    "answer": "ক্ষমা কৰিব"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি",
+      "ক্ষমা কৰিব",
+      "কোনো সমস্যা নাই",
+      "স্বাগতম"
+    ],
+    "answer": "অনুগ্ৰহ কৰি"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Assamese?",
+    "options": [
+      "কোনো সমস্যা নাই",
+      "অভিনন্দন",
+      "ক্ষমা কৰিব",
+      "স্বাগতম"
+    ],
+    "answer": "ক্ষমা কৰিব"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Assamese?",
+    "options": [
+      "অভিনন্দন",
+      "স্বাগতম",
+      "কোনো সমস্যা নাই",
+      "ঈশ্বৰে আশীৰ্বাদ দিয়ক"
+    ],
+    "answer": "স্বাগতম"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Assamese?",
+    "options": [
+      "কোনো সমস্যা নাই",
+      "অভিনন্দন",
+      "শুভকামনা",
+      "ঈশ্বৰে আশীৰ্বাদ দিয়ক"
+    ],
+    "answer": "কোনো সমস্যা নাই"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Assamese?",
+    "options": [
+      "অভিনন্দন",
+      "ঈশ্বৰে আশীৰ্বাদ দিয়ক",
+      "শুভকামনা",
+      "জন্মদিনৰ শুভেচ্ছা"
+    ],
+    "answer": "অভিনন্দন"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Assamese?",
+    "options": [
+      "জন্মদিনৰ শুভেচ্ছা",
+      "ধন্যবাদ",
+      "ঈশ্বৰে আশীৰ্বাদ দিয়ক",
+      "শুভকামনা"
+    ],
+    "answer": "ঈশ্বৰে আশীৰ্বাদ দিয়ক"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Assamese?",
+    "options": [
+      "জন্মদিনৰ শুভেচ্ছা",
+      "শুভকামনা",
+      "ধন্যবাদ",
+      "ক্ষমা কৰিব"
+    ],
+    "answer": "শুভকামনা"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Assamese",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি",
+      "জন্মদিনৰ শুভেচ্ছা",
+      "ক্ষমা কৰিব",
+      "ধন্যবাদ"
+    ],
+    "answer": "জন্মদিনৰ শুভেচ্ছা"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'ki'?",
+    "options": [
+      "কু",
+      "কে",
+      "কি",
+      "কো"
+    ],
+    "answer": "কি"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'ku'?",
+    "options": [
+      "কো",
+      "গি",
+      "কু",
+      "কে"
+    ],
+    "answer": "কু"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'ke'?",
+    "options": [
+      "গি",
+      "কে",
+      "গু",
+      "কো"
+    ],
+    "answer": "কে"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'ko'?",
+    "options": [
+      "কো",
+      "গি",
+      "গে",
+      "গু"
+    ],
+    "answer": "কো"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'gi'?",
+    "options": [
+      "গো",
+      "গু",
+      "গে",
+      "গি"
+    ],
+    "answer": "গি"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'gu'?",
+    "options": [
+      "গু",
+      "গো",
+      "চি",
+      "গে"
+    ],
+    "answer": "গু"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'ge'?",
+    "options": [
+      "গে",
+      "চি",
+      "চু",
+      "গো"
+    ],
+    "answer": "গে"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'go'?",
+    "options": [
+      "চু",
+      "গো",
+      "চি",
+      "কি"
+    ],
+    "answer": "গো"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'chi'?",
+    "options": [
+      "কু",
+      "কি",
+      "চু",
+      "চি"
+    ],
+    "answer": "চি"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Assamese syllable for 'chu'?",
+    "options": [
+      "কি",
+      "কে",
+      "কু",
+      "চু"
+    ],
+    "answer": "চু"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'ksha'?",
+    "options": [
+      "ক্ষ",
+      "শ্ৰ",
+      "ত্ৰ",
+      "জ্ঞ"
+    ],
+    "answer": "ক্ষ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'tra'?",
+    "options": [
+      "জ্ঞ",
+      "ক্ৰ",
+      "শ্ৰ",
+      "ত্ৰ"
+    ],
+    "answer": "ত্ৰ"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'jna'?",
+    "options": [
+      "শ্ৰ",
+      "ক্ৰ",
+      "প্ৰ",
+      "জ্ঞ"
+    ],
+    "answer": "জ্ঞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'shra'?",
+    "options": [
+      "স্ৰ",
+      "শ্ৰ",
+      "প্ৰ",
+      "ক্ৰ"
+    ],
+    "answer": "শ্ৰ"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'kra'?",
+    "options": [
+      "প্ৰ",
+      "ক্ৰ",
+      "গ্ৰ",
+      "স্ৰ"
+    ],
+    "answer": "ক্ৰ"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'pra'?",
+    "options": [
+      "দ্ৰ",
+      "গ্ৰ",
+      "প্ৰ",
+      "স্ৰ"
+    ],
+    "answer": "প্ৰ"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'sra'?",
+    "options": [
+      "গ্ৰ",
+      "ন্ত",
+      "দ্ৰ",
+      "স্ৰ"
+    ],
+    "answer": "স্ৰ"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'gra'?",
+    "options": [
+      "দ্ৰ",
+      "ন্ত",
+      "গ্ৰ",
+      "ক্ষ"
+    ],
+    "answer": "গ্ৰ"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'dra'?",
+    "options": [
+      "ন্ত",
+      "ক্ষ",
+      "দ্ৰ",
+      "ত্ৰ"
+    ],
+    "answer": "দ্ৰ"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Assamese ligature for 'nta'?",
+    "options": [
+      "ন্ত",
+      "ত্ৰ",
+      "ক্ষ",
+      "জ্ঞ"
+    ],
+    "answer": "ন্ত"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'sha'?",
+    "options": [
+      "ল",
+      "শ",
+      "হ",
+      "স"
+    ],
+    "answer": "শ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'sa'?",
+    "options": [
+      "হ",
+      "স",
+      "ৰ",
+      "ল"
+    ],
+    "answer": "স"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'ha'?",
+    "options": [
+      "ৱ",
+      "ৰ",
+      "হ",
+      "ল"
+    ],
+    "answer": "হ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'la'?",
+    "options": [
+      "ল",
+      "ৱ",
+      "ৰ",
+      "য"
+    ],
+    "answer": "ল"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'ra'?",
+    "options": [
+      "ৱ",
+      "ফ",
+      "ৰ",
+      "য"
+    ],
+    "answer": "ৰ"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'va'?",
+    "options": [
+      "ফ",
+      "য",
+      "ৱ",
+      "জ"
+    ],
+    "answer": "ৱ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'ya'?",
+    "options": [
+      "য",
+      "ফ",
+      "জ",
+      "ক্ব"
+    ],
+    "answer": "য"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'fa'?",
+    "options": [
+      "ক্ব",
+      "জ",
+      "ফ",
+      "শ"
+    ],
+    "answer": "ফ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'za'?",
+    "options": [
+      "ক্ব",
+      "শ",
+      "স",
+      "জ"
+    ],
+    "answer": "জ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Assamese letter for 'qwa'?",
+    "options": [
+      "ক্ব",
+      "হ",
+      "শ",
+      "স"
+    ],
+    "answer": "ক্ব"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'ক্ষীৰ'?",
+    "options": [
+      "ত্ৰ",
+      "ক্ষ",
+      "শ্ৰ",
+      "জ্ঞ"
+    ],
+    "answer": "ক্ষ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'জ্ঞান'?",
+    "options": [
+      "জ্ঞ",
+      "ত্ৰ",
+      "শ্ৰ",
+      "গ্ৰ"
+    ],
+    "answer": "জ্ঞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'ত্ৰিকোণ'?",
+    "options": [
+      "গ্ৰ",
+      "শ্ৰ",
+      "প্ৰ",
+      "ত্ৰ"
+    ],
+    "answer": "ত্ৰ"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'শ্ৰদ্ধা'?",
+    "options": [
+      "স্ৰ",
+      "প্ৰ",
+      "গ্ৰ",
+      "শ্ৰ"
+    ],
+    "answer": "শ্ৰ"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'গ্ৰন্থ'?",
+    "options": [
+      "প্ৰ",
+      "গ্ৰ",
+      "দ্ৰ",
+      "স্ৰ"
+    ],
+    "answer": "গ্ৰ"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'প্ৰযত্ন'?",
+    "options": [
+      "স্ৰ",
+      "প্ৰ",
+      "দ্ৰ",
+      "ফ"
+    ],
+    "answer": "প্ৰ"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'স্ৰোত'?",
+    "options": [
+      "দ্ৰ",
+      "হ",
+      "ফ",
+      "স্ৰ"
+    ],
+    "answer": "স্ৰ"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'দ্ৰব্য'?",
+    "options": [
+      "ফ",
+      "হ",
+      "ক্ষ",
+      "দ্ৰ"
+    ],
+    "answer": "দ্ৰ"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'ফল'?",
+    "options": [
+      "হ",
+      "ফ",
+      "জ্ঞ",
+      "ক্ষ"
+    ],
+    "answer": "ফ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Assamese letter is used in the word 'হৰিদ্বাৰ'?",
+    "options": [
+      "ত্ৰ",
+      "ক্ষ",
+      "হ",
+      "জ্ঞ"
+    ],
+    "answer": "হ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Sunday'?",
+    "options": [
+      "মঙ্গলবাৰ",
+      "সোমবাৰ",
+      "দেওবাৰ",
+      "বুধবাৰ"
+    ],
+    "answer": "দেওবাৰ"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Monday'?",
+    "options": [
+      "সোমবাৰ",
+      "বৃহস্পতিবাৰ",
+      "মঙ্গলবাৰ",
+      "বুধবাৰ"
+    ],
+    "answer": "সোমবাৰ"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Tuesday'?",
+    "options": [
+      "বৃহস্পতিবাৰ",
+      "শুক্ৰবাৰ",
+      "বুধবাৰ",
+      "মঙ্গলবাৰ"
+    ],
+    "answer": "মঙ্গলবাৰ"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Wednesday'?",
+    "options": [
+      "শনিবাৰ",
+      "বুধবাৰ",
+      "শুক্ৰবাৰ",
+      "বৃহস্পতিবাৰ"
+    ],
+    "answer": "বুধবাৰ"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Thursday'?",
+    "options": [
+      "আজি",
+      "শুক্ৰবাৰ",
+      "বৃহস্পতিবাৰ",
+      "শনিবাৰ"
+    ],
+    "answer": "বৃহস্পতিবাৰ"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Friday'?",
+    "options": [
+      "শনিবাৰ",
+      "কাইলৈ",
+      "আজি",
+      "শুক্ৰবাৰ"
+    ],
+    "answer": "শুক্ৰবাৰ"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Saturday'?",
+    "options": [
+      "কাইলৈ",
+      "কালি",
+      "শনিবাৰ",
+      "আজি"
+    ],
+    "answer": "শনিবাৰ"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Today'?",
+    "options": [
+      "আজি",
+      "দেওবাৰ",
+      "কালি",
+      "কাইলৈ"
+    ],
+    "answer": "আজি"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Tomorrow'?",
+    "options": [
+      "কালি",
+      "সোমবাৰ",
+      "দেওবাৰ",
+      "কাইলৈ"
+    ],
+    "answer": "কাইলৈ"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Assamese word for 'Yesterday'?",
+    "options": [
+      "দেওবাৰ",
+      "সোমবাৰ",
+      "মঙ্গলবাৰ",
+      "কালি"
+    ],
+    "answer": "কালি"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'red'?",
+    "options": [
+      "সেউজীয়া",
+      "ৰঙা",
+      "হালধীয়া",
+      "নীলা"
+    ],
+    "answer": "ৰঙা"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'blue'?",
+    "options": [
+      "হালধীয়া",
+      "নীলা",
+      "ক'লা",
+      "সেউজীয়া"
+    ],
+    "answer": "নীলা"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'green'?",
+    "options": [
+      "হালধীয়া",
+      "সেউজীয়া",
+      "ক'লা",
+      "বগা"
+    ],
+    "answer": "সেউজীয়া"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'yellow'?",
+    "options": [
+      "বগা",
+      "কমলা",
+      "হালধীয়া",
+      "ক'লা"
+    ],
+    "answer": "হালধীয়া"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'black'?",
+    "options": [
+      "গুলপীয়া",
+      "কমলা",
+      "বগা",
+      "ক'লা"
+    ],
+    "answer": "ক'লা"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'white'?",
+    "options": [
+      "গুলপীয়া",
+      "বগা",
+      "কমলা",
+      "বেঙুনীয়া"
+    ],
+    "answer": "বগা"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'orange'?",
+    "options": [
+      "কমলা",
+      "গুলপীয়া",
+      "মুগা",
+      "বেঙুনীয়া"
+    ],
+    "answer": "কমলা"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'pink'?",
+    "options": [
+      "গুলপীয়া",
+      "মুগা",
+      "ৰঙা",
+      "বেঙুনীয়া"
+    ],
+    "answer": "গুলপীয়া"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'purple'?",
+    "options": [
+      "বেঙুনীয়া",
+      "ৰঙা",
+      "নীলা",
+      "মুগা"
+    ],
+    "answer": "বেঙুনীয়া"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Assamese word for 'brown'?",
+    "options": [
+      "নীলা",
+      "মুগা",
+      "সেউজীয়া",
+      "ৰঙা"
+    ],
+    "answer": "মুগা"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'one'?",
+    "options": [
+      "তিনি",
+      "দুই",
+      "চাৰি",
+      "এক"
+    ],
+    "answer": "এক"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'two'?",
+    "options": [
+      "তিনি",
+      "দুই",
+      "চাৰি",
+      "পাঁচ"
+    ],
+    "answer": "দুই"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'three'?",
+    "options": [
+      "ছয়",
+      "পাঁচ",
+      "চাৰি",
+      "তিনি"
+    ],
+    "answer": "তিনি"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'four'?",
+    "options": [
+      "পাঁচ",
+      "সাত",
+      "ছয়",
+      "চাৰি"
+    ],
+    "answer": "চাৰি"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'five'?",
+    "options": [
+      "ছয়",
+      "পাঁচ",
+      "সাত",
+      "আঠ"
+    ],
+    "answer": "পাঁচ"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'six'?",
+    "options": [
+      "আঠ",
+      "সাত",
+      "ন'",
+      "ছয়"
+    ],
+    "answer": "ছয়"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'seven'?",
+    "options": [
+      "সাত",
+      "আঠ",
+      "ন'",
+      "দহ"
+    ],
+    "answer": "সাত"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'eight'?",
+    "options": [
+      "দহ",
+      "ন'",
+      "এক",
+      "আঠ"
+    ],
+    "answer": "আঠ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'nine'?",
+    "options": [
+      "ন'",
+      "দুই",
+      "এক",
+      "দহ"
+    ],
+    "answer": "ন'"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Assamese word for 'ten'?",
+    "options": [
+      "দহ",
+      "এক",
+      "তিনি",
+      "দুই"
+    ],
+    "answer": "দহ"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'breakfast'?",
+    "options": [
+      "জলপান",
+      "ৰাতিৰ আহাৰ",
+      "দুপৰীয়াৰ আহাৰ",
+      "ৰাতিপুৱাৰ আহাৰ"
+    ],
+    "answer": "ৰাতিপুৱাৰ আহাৰ"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'lunch'?",
+    "options": [
+      "ৰাতিৰ আহাৰ",
+      "জলপান",
+      "মিঠাই",
+      "দুপৰীয়াৰ আহাৰ"
+    ],
+    "answer": "দুপৰীয়াৰ আহাৰ"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'dinner'?",
+    "options": [
+      "জলা",
+      "ৰাতিৰ আহাৰ",
+      "মিঠাই",
+      "জলপান"
+    ],
+    "answer": "ৰাতিৰ আহাৰ"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'snacks'?",
+    "options": [
+      "জলপান",
+      "জলা",
+      "মিঠাই",
+      "নিৰামিষভোজী"
+    ],
+    "answer": "জলপান"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'sweets'?",
+    "options": [
+      "মিঠাই",
+      "আমিষভোজী",
+      "নিৰামিষভোজী",
+      "জলা"
+    ],
+    "answer": "মিঠাই"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'spicy'?",
+    "options": [
+      "নিৰামিষভোজী",
+      "ৰস",
+      "জলা",
+      "আমিষভোজী"
+    ],
+    "answer": "জলা"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'vegetarian'?",
+    "options": [
+      "নিৰামিষভোজী",
+      "কফি",
+      "আমিষভোজী",
+      "ৰস"
+    ],
+    "answer": "নিৰামিষভোজী"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'non-vegetarian'?",
+    "options": [
+      "ৰাতিপুৱাৰ আহাৰ",
+      "ৰস",
+      "কফি",
+      "আমিষভোজী"
+    ],
+    "answer": "আমিষভোজী"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'juice'?",
+    "options": [
+      "ৰস",
+      "ৰাতিপুৱাৰ আহাৰ",
+      "কফি",
+      "দুপৰীয়াৰ আহাৰ"
+    ],
+    "answer": "ৰস"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Assamese word for 'coffee'?",
+    "options": [
+      "ৰাতিপুৱাৰ আহাৰ",
+      "ৰাতিৰ আহাৰ",
+      "দুপৰীয়াৰ আহাৰ",
+      "কফি"
+    ],
+    "answer": "কফি"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Assamese?",
+    "options": [
+      "আপুনি ক'ৰ পৰা আহিছে?",
+      "আপুনি কেনে আছে?",
+      "আপোনাৰ নাম কি?",
+      "আপোনাৰ বয়স কিমান?"
+    ],
+    "answer": "আপুনি কেনে আছে?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Assamese?",
+    "options": [
+      "আপুনি ক'ৰ পৰা আহিছে?",
+      "আপুনি অসমীয়া কয় নেকি?",
+      "আপোনাৰ নাম কি?",
+      "আপোনাৰ বয়স কিমান?"
+    ],
+    "answer": "আপোনাৰ নাম কি?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Assamese?",
+    "options": [
+      "আপুনি অসমীয়া কয় নেকি?",
+      "মই আপোনাক সহায় কৰিব পাৰোঁ নেকি?",
+      "আপুনি ক'ৰ পৰা আহিছে?",
+      "আপোনাৰ বয়স কিমান?"
+    ],
+    "answer": "আপুনি ক'ৰ পৰা আহিছে?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Assamese?",
+    "options": [
+      "মই আপোনাক সহায় কৰিব পাৰোঁ নেকি?",
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "আপোনাৰ বয়স কিমান?",
+      "আপুনি অসমীয়া কয় নেকি?"
+    ],
+    "answer": "আপোনাৰ বয়স কিমান?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Assamese?' in Assamese?",
+    "options": [
+      "আপুনি অসমীয়া কয় নেকি?",
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "মই আপোনাক সহায় কৰিব পাৰোঁ নেকি?",
+      "ইয়াৰ দাম কিমান?"
+    ],
+    "answer": "আপুনি অসমীয়া কয় নেকি?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Assamese?",
+    "options": [
+      "ইয়াৰ দাম কিমান?",
+      "এতিয়া কিমান বাজিছে?",
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "মই আপোনাক সহায় কৰিব পাৰোঁ নেকি?"
+    ],
+    "answer": "মই আপোনাক সহায় কৰিব পাৰোঁ নেকি?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Assamese?",
+    "options": [
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "ইয়াৰ দাম কিমান?",
+      "আপুনি ক'ত থাকে?",
+      "এতিয়া কিমান বাজিছে?"
+    ],
+    "answer": "গা ধোৱা কোঠাটো ক'ত?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Assamese?",
+    "options": [
+      "আপুনি কেনে আছে?",
+      "ইয়াৰ দাম কিমান?",
+      "এতিয়া কিমান বাজিছে?",
+      "আপুনি ক'ত থাকে?"
+    ],
+    "answer": "ইয়াৰ দাম কিমান?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Assamese?",
+    "options": [
+      "এতিয়া কিমান বাজিছে?",
+      "আপুনি কেনে আছে?",
+      "আপোনাৰ নাম কি?",
+      "আপুনি ক'ত থাকে?"
+    ],
+    "answer": "এতিয়া কিমান বাজিছে?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Assamese?",
+    "options": [
+      "আপোনাৰ নাম কি?",
+      "আপুনি ক'ত থাকে?",
+      "আপুনি কেনে আছে?",
+      "আপুনি ক'ৰ পৰা আহিছে?"
+    ],
+    "answer": "আপুনি ক'ত থাকে?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি ইয়ালৈ আহক",
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক",
+      "অনুগ্ৰহ কৰি বহক",
+      "অনুগ্ৰহ কৰি অপেক্ষা কৰক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি মোক সহায় কৰক"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি বহক",
+      "অনুগ্ৰহ কৰি লাহে লাহে কওক",
+      "অনুগ্ৰহ কৰি অপেক্ষা কৰক",
+      "অনুগ্ৰহ কৰি ইয়ালৈ আহক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি অপেক্ষা কৰক"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি লিখক",
+      "অনুগ্ৰহ কৰি বহক",
+      "অনুগ্ৰহ কৰি লাহে লাহে কওক",
+      "অনুগ্ৰহ কৰি ইয়ালৈ আহক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি ইয়ালৈ আহক"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি লিখক",
+      "অনুগ্ৰহ কৰি পুনৰ কওক",
+      "অনুগ্ৰহ কৰি বহক",
+      "অনুগ্ৰহ কৰি লাহে লাহে কওক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি বহক"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি পুনৰ কওক",
+      "অনুগ্ৰহ কৰি লিখক",
+      "অনুগ্ৰহ কৰি লাহে লাহে কওক",
+      "অনুগ্ৰহ কৰি মোক দেখুৱাওক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি লাহে লাহে কওক"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি লিখক",
+      "অনুগ্ৰহ কৰি মোক দেখুৱাওক",
+      "অনুগ্ৰহ কৰি দুৱাৰখন খোলক",
+      "অনুগ্ৰহ কৰি পুনৰ কওক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি লিখক"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি মোক দেখুৱাওক",
+      "অনুগ্ৰহ কৰি দুৱাৰখন খোলক",
+      "অনুগ্ৰহ কৰি খিৰিকীখন বন্ধ কৰক",
+      "অনুগ্ৰহ কৰি পুনৰ কওক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি পুনৰ কওক"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি মোক দেখুৱাওক",
+      "অনুগ্ৰহ কৰি খিৰিকীখন বন্ধ কৰক",
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক",
+      "অনুগ্ৰহ কৰি দুৱাৰখন খোলক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি মোক দেখুৱাওক"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি খিৰিকীখন বন্ধ কৰক",
+      "অনুগ্ৰহ কৰি দুৱাৰখন খোলক",
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক",
+      "অনুগ্ৰহ কৰি অপেক্ষা কৰক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি দুৱাৰখন খোলক"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি অপেক্ষা কৰক",
+      "অনুগ্ৰহ কৰি ইয়ালৈ আহক",
+      "অনুগ্ৰহ কৰি খিৰিকীখন বন্ধ কৰক",
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি খিৰিকীখন বন্ধ কৰক"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Assamese?",
+    "options": [
+      "ইয়াৰ দাম কিমান?",
+      "মই ইয়াক কিনিব বিচাৰোঁ",
+      "কোনো ছাৰ আছে নেকি?",
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?"
+    ],
+    "answer": "ইয়াৰ দাম কিমান?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Assamese?",
+    "options": [
+      "কোনো ছাৰ আছে নেকি?",
+      "মই ইয়াক কিনিব বিচাৰোঁ",
+      "আপুনি কাৰ্ড লয় নেকি?",
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?"
+    ],
+    "answer": "কোনো ছাৰ আছে নেকি?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Assamese?",
+    "options": [
+      "কাউণ্টাৰটো ক'ত?",
+      "মই ইয়াক কিনিব বিচাৰোঁ",
+      "আপুনি কাৰ্ড লয় নেকি?",
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?"
+    ],
+    "answer": "মই ইয়াক কিনিব বিচাৰোঁ"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Assamese?",
+    "options": [
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?",
+      "আপুনি কাৰ্ড লয় নেকি?",
+      "কাউণ্টাৰটো ক'ত?",
+      "ই উপলব্ধ নেকি?"
+    ],
+    "answer": "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Assamese?",
+    "options": [
+      "আপুনি কাৰ্ড লয় নেকি?",
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক",
+      "ই উপলব্ধ নেকি?",
+      "কাউণ্টাৰটো ক'ত?"
+    ],
+    "answer": "আপুনি কাৰ্ড লয় নেকি?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Assamese?",
+    "options": [
+      "মোৰ এটা বেগ লাগে",
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক",
+      "কাউণ্টাৰটো ক'ত?",
+      "ই উপলব্ধ নেকি?"
+    ],
+    "answer": "কাউণ্টাৰটো ক'ত?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Assamese?",
+    "options": [
+      "ই উপলব্ধ নেকি?",
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক",
+      "সময় কি?",
+      "মোৰ এটা বেগ লাগে"
+    ],
+    "answer": "ই উপলব্ধ নেকি?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Assamese?",
+    "options": [
+      "সময় কি?",
+      "ইয়াৰ দাম কিমান?",
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক",
+      "মোৰ এটা বেগ লাগে"
+    ],
+    "answer": "অনুগ্ৰহ কৰি ইয়াক পেক কৰক"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Assamese?",
+    "options": [
+      "সময় কি?",
+      "মোৰ এটা বেগ লাগে",
+      "কোনো ছাৰ আছে নেকি?",
+      "ইয়াৰ দাম কিমান?"
+    ],
+    "answer": "মোৰ এটা বেগ লাগে"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Assamese?",
+    "options": [
+      "কোনো ছাৰ আছে নেকি?",
+      "সময় কি?",
+      "ইয়াৰ দাম কিমান?",
+      "মই ইয়াক কিনিব বিচাৰোঁ"
+    ],
+    "answer": "সময় কি?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Assamese?",
+    "options": [
+      "ই ইয়াৰ পৰা দূৰ নেকি?",
+      "ৰেল ষ্টেচনলৈ কেনেকৈ যাম?",
+      "বজাৰলৈ কোন বাটেৰে?",
+      "বাছ ষ্টপটো ক'ত?"
+    ],
+    "answer": "বাছ ষ্টপটো ক'ত?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Assamese?",
+    "options": [
+      "বাওঁফালে ঘূৰক",
+      "ৰেল ষ্টেচনলৈ কেনেকৈ যাম?",
+      "ই ইয়াৰ পৰা দূৰ নেকি?",
+      "বজাৰলৈ কোন বাটেৰে?"
+    ],
+    "answer": "ৰেল ষ্টেচনলৈ কেনেকৈ যাম?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Assamese?",
+    "options": [
+      "সোঁফালে ঘূৰক",
+      "বজাৰলৈ কোন বাটেৰে?",
+      "ই ইয়াৰ পৰা দূৰ নেকি?",
+      "বাওঁফালে ঘূৰক"
+    ],
+    "answer": "বজাৰলৈ কোন বাটেৰে?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Assamese?",
+    "options": [
+      "ই ইয়াৰ পৰা দূৰ নেকি?",
+      "সোঁফালে ঘূৰক",
+      "পোনে পোনে যাওক",
+      "বাওঁফালে ঘূৰক"
+    ],
+    "answer": "ই ইয়াৰ পৰা দূৰ নেকি?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Assamese?",
+    "options": [
+      "পোনে পোনে যাওক",
+      "বাওঁফালে ঘূৰক",
+      "ইয়াতে ৰ'ক",
+      "সোঁফালে ঘূৰক"
+    ],
+    "answer": "বাওঁফালে ঘূৰক"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Assamese?",
+    "options": [
+      "সোঁফালে ঘূৰক",
+      "ইয়াতে ৰ'ক",
+      "পোনে পোনে যাওক",
+      "কিমান সময় লাগিব?"
+    ],
+    "answer": "সোঁফালে ঘূৰক"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Assamese?",
+    "options": [
+      "ইয়াতে ৰ'ক",
+      "কিমান সময় লাগিব?",
+      "মেপত দেখুৱাব পাৰিব নেকি?",
+      "পোনে পোনে যাওক"
+    ],
+    "answer": "পোনে পোনে যাওক"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Assamese?",
+    "options": [
+      "বাছ ষ্টপটো ক'ত?",
+      "কিমান সময় লাগিব?",
+      "মেপত দেখুৱাব পাৰিব নেকি?",
+      "ইয়াতে ৰ'ক"
+    ],
+    "answer": "ইয়াতে ৰ'ক"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Assamese?",
+    "options": [
+      "বাছ ষ্টপটো ক'ত?",
+      "ৰেল ষ্টেচনলৈ কেনেকৈ যাম?",
+      "কিমান সময় লাগিব?",
+      "মেপত দেখুৱাব পাৰিব নেকি?"
+    ],
+    "answer": "কিমান সময় লাগিব?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Assamese",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Assamese?",
+    "options": [
+      "বজাৰলৈ কোন বাটেৰে?",
+      "বাছ ষ্টপটো ক'ত?",
+      "ৰেল ষ্টেচনলৈ কেনেকৈ যাম?",
+      "মেপত দেখুৱাব পাৰিব নেকি?"
+    ],
+    "answer": "মেপত দেখুৱাব পাৰিব নেকি?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'go'?",
+    "options": [
+      "খালোঁ",
+      "গ'লোঁ",
+      "দেখিলোঁ",
+      "পঢ়িলোঁ"
+    ],
+    "answer": "গ'লোঁ"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'eat'?",
+    "options": [
+      "পঢ়িলোঁ",
+      "দেখিলোঁ",
+      "খালোঁ",
+      "লিখিলোঁ"
+    ],
+    "answer": "খালোঁ"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'see'?",
+    "options": [
+      "আহিলোঁ",
+      "পঢ়িলোঁ",
+      "দেখিলোঁ",
+      "লিখিলোঁ"
+    ],
+    "answer": "দেখিলোঁ"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'read'?",
+    "options": [
+      "পঢ়িলোঁ",
+      "আহিলোঁ",
+      "লিখিলোঁ",
+      "দিলোঁ"
+    ],
+    "answer": "পঢ়িলোঁ"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'write'?",
+    "options": [
+      "ল'লোঁ",
+      "লিখিলোঁ",
+      "দিলোঁ",
+      "আহিলোঁ"
+    ],
+    "answer": "লিখিলোঁ"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'come'?",
+    "options": [
+      "আহিলোঁ",
+      "দিলোঁ",
+      "খেলিলোঁ",
+      "ল'লোঁ"
+    ],
+    "answer": "আহিলোঁ"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'give'?",
+    "options": [
+      "খেলিলোঁ",
+      "শুলোঁ",
+      "দিলোঁ",
+      "ল'লোঁ"
+    ],
+    "answer": "দিলোঁ"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'take'?",
+    "options": [
+      "ল'লোঁ",
+      "গ'লোঁ",
+      "শুলোঁ",
+      "খেলিলোঁ"
+    ],
+    "answer": "ল'লোঁ"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'play'?",
+    "options": [
+      "শুলোঁ",
+      "খেলিলোঁ",
+      "গ'লোঁ",
+      "খালোঁ"
+    ],
+    "answer": "খেলিলোঁ"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Assamese past tense of 'sleep'?",
+    "options": [
+      "দেখিলোঁ",
+      "শুলোঁ",
+      "খালোঁ",
+      "গ'লোঁ"
+    ],
+    "answer": "শুলোঁ"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'book'?",
+    "options": [
+      "কিতাপবোৰ",
+      "ছোৱালীবোৰ",
+      "ল'ৰাবোৰ",
+      "কলমবোৰ"
+    ],
+    "answer": "কিতাপবোৰ"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'pen'?",
+    "options": [
+      "ফুলবোৰ",
+      "কলমবোৰ",
+      "ছোৱালীবোৰ",
+      "ল'ৰাবোৰ"
+    ],
+    "answer": "কলমবোৰ"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'boy'?",
+    "options": [
+      "ছোৱালীবোৰ",
+      "পাতবোৰ",
+      "ফুলবোৰ",
+      "ল'ৰাবোৰ"
+    ],
+    "answer": "ল'ৰাবোৰ"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'girl'?",
+    "options": [
+      "তৰাবোৰ",
+      "পাতবোৰ",
+      "ছোৱালীবোৰ",
+      "ফুলবোৰ"
+    ],
+    "answer": "ছোৱালীবোৰ"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'flower'?",
+    "options": [
+      "গছবোৰ",
+      "তৰাবোৰ",
+      "ফুলবোৰ",
+      "পাতবোৰ"
+    ],
+    "answer": "ফুলবোৰ"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'leaf'?",
+    "options": [
+      "নদীবোৰ",
+      "পাতবোৰ",
+      "গছবোৰ",
+      "তৰাবোৰ"
+    ],
+    "answer": "পাতবোৰ"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'star'?",
+    "options": [
+      "তৰাবোৰ",
+      "গছবোৰ",
+      "চকীবোৰ",
+      "নদীবোৰ"
+    ],
+    "answer": "তৰাবোৰ"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'tree'?",
+    "options": [
+      "নদীবোৰ",
+      "গছবোৰ",
+      "কিতাপবোৰ",
+      "চকীবোৰ"
+    ],
+    "answer": "গছবোৰ"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'river'?",
+    "options": [
+      "নদীবোৰ",
+      "চকীবোৰ",
+      "কিতাপবোৰ",
+      "কলমবোৰ"
+    ],
+    "answer": "নদীবোৰ"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Assamese plural of 'chair'?",
+    "options": [
+      "কলমবোৰ",
+      "ল'ৰাবোৰ",
+      "কিতাপবোৰ",
+      "চকীবোৰ"
+    ],
+    "answer": "চকীবোৰ"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'and'?",
+    "options": [
+      "কাৰণ",
+      "নাইবা",
+      "আৰু",
+      "কিন্তু"
+    ],
+    "answer": "আৰু"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'but'?",
+    "options": [
+      "নাইবা",
+      "যদি",
+      "কাৰণ",
+      "কিন্তু"
+    ],
+    "answer": "কিন্তু"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'or'?",
+    "options": [
+      "যেতিয়া",
+      "নাইবা",
+      "কাৰণ",
+      "যদি"
+    ],
+    "answer": "নাইবা"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'because'?",
+    "options": [
+      "কাৰণ",
+      "ক'ত",
+      "যেতিয়া",
+      "যদি"
+    ],
+    "answer": "কাৰণ"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'if'?",
+    "options": [
+      "ক'ত",
+      "কেনেকৈ",
+      "যদি",
+      "যেতিয়া"
+    ],
+    "answer": "যদি"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'when'?",
+    "options": [
+      "ক'ত",
+      "যেতিয়া",
+      "কেনেকৈ",
+      "কিয়"
+    ],
+    "answer": "যেতিয়া"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'where'?",
+    "options": [
+      "লগত",
+      "কেনেকৈ",
+      "কিয়",
+      "ক'ত"
+    ],
+    "answer": "ক'ত"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'how'?",
+    "options": [
+      "আৰু",
+      "কিয়",
+      "কেনেকৈ",
+      "লগত"
+    ],
+    "answer": "কেনেকৈ"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'why'?",
+    "options": [
+      "কিন্তু",
+      "লগত",
+      "কিয়",
+      "আৰু"
+    ],
+    "answer": "কিয়"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Assamese particle for 'with'?",
+    "options": [
+      "লগত",
+      "নাইবা",
+      "কিন্তু",
+      "আৰু"
+    ],
+    "answer": "লগত"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Assamese?",
+    "options": [
+      "নপঢ়োঁ",
+      "নাহোঁ",
+      "নাখাওঁ",
+      "নাযাওঁ"
+    ],
+    "answer": "নাযাওঁ"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Assamese?",
+    "options": [
+      "নাহোঁ",
+      "নপঢ়োঁ",
+      "নাখাওঁ",
+      "নিলিখোঁ"
+    ],
+    "answer": "নাহোঁ"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Assamese?",
+    "options": [
+      "নপঢ়োঁ",
+      "নিলিখোঁ",
+      "নাখাওঁ",
+      "নেখেলোঁ"
+    ],
+    "answer": "নাখাওঁ"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Assamese?",
+    "options": [
+      "নপঢ়োঁ",
+      "নেখেলোঁ",
+      "নিলিখোঁ",
+      "নুশুওঁ"
+    ],
+    "answer": "নপঢ়োঁ"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Assamese?",
+    "options": [
+      "নিলিখোঁ",
+      "নেখেলোঁ",
+      "নেদেখোঁ",
+      "নুশুওঁ"
+    ],
+    "answer": "নিলিখোঁ"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Assamese?",
+    "options": [
+      "নিদিওঁ",
+      "নেদেখোঁ",
+      "নুশুওঁ",
+      "নেখেলোঁ"
+    ],
+    "answer": "নেখেলোঁ"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Assamese?",
+    "options": [
+      "নলওঁ",
+      "নেদেখোঁ",
+      "নিদিওঁ",
+      "নুশুওঁ"
+    ],
+    "answer": "নুশুওঁ"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Assamese?",
+    "options": [
+      "নিদিওঁ",
+      "নাযাওঁ",
+      "নেদেখোঁ",
+      "নলওঁ"
+    ],
+    "answer": "নেদেখোঁ"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Assamese?",
+    "options": [
+      "নাহোঁ",
+      "নাযাওঁ",
+      "নলওঁ",
+      "নিদিওঁ"
+    ],
+    "answer": "নিদিওঁ"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Assamese?",
+    "options": [
+      "নাখাওঁ",
+      "নাহোঁ",
+      "নাযাওঁ",
+      "নলওঁ"
+    ],
+    "answer": "নলওঁ"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'apple'",
+    "options": [
+      "কুকুৰ",
+      "আপেল",
+      "কল",
+      "মেকুৰী"
+    ],
+    "answer": "আপেল"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'banana'",
+    "options": [
+      "কুকুৰ",
+      "মেকুৰী",
+      "কল",
+      "গাড়ী"
+    ],
+    "answer": "কল"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'cat'",
+    "options": [
+      "কুকুৰ",
+      "মেকুৰী",
+      "গাড়ী",
+      "বাছ"
+    ],
+    "answer": "মেকুৰী"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'dog'",
+    "options": [
+      "ৰেল",
+      "গাড়ী",
+      "বাছ",
+      "কুকুৰ"
+    ],
+    "answer": "কুকুৰ"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'car'",
+    "options": [
+      "ৰেল",
+      "গাড়ী",
+      "ঘৰ",
+      "বাছ"
+    ],
+    "answer": "গাড়ী"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'bus'",
+    "options": [
+      "ঘৰ",
+      "বাছ",
+      "ৰেল",
+      "চহৰ"
+    ],
+    "answer": "বাছ"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'train'",
+    "options": [
+      "চহৰ",
+      "ঘৰ",
+      "ৰেল",
+      "গাঁও"
+    ],
+    "answer": "ৰেল"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'house'",
+    "options": [
+      "গাঁও",
+      "ঘৰ",
+      "আপেল",
+      "চহৰ"
+    ],
+    "answer": "ঘৰ"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'city'",
+    "options": [
+      "কল",
+      "চহৰ",
+      "গাঁও",
+      "আপেল"
+    ],
+    "answer": "চহৰ"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Assamese word for 'village'",
+    "options": [
+      "গাঁও",
+      "কল",
+      "আপেল",
+      "মেকুৰী"
+    ],
+    "answer": "গাঁও"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Good morning'",
+    "options": [
+      "শুভ ৰাতিপুৱা",
+      "আপুনি কেনে আছে?",
+      "ক্ষমা কৰিব",
+      "ধন্যবাদ"
+    ],
+    "answer": "শুভ ৰাতিপুৱা"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'How are you?'",
+    "options": [
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক",
+      "ক্ষমা কৰিব",
+      "আপুনি কেনে আছে?",
+      "ধন্যবাদ"
+    ],
+    "answer": "আপুনি কেনে আছে?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Thank you'",
+    "options": [
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক",
+      "বহক",
+      "ধন্যবাদ",
+      "ক্ষমা কৰিব"
+    ],
+    "answer": "ধন্যবাদ"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Sorry'",
+    "options": [
+      "বহক",
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক",
+      "থিয় হওক",
+      "ক্ষমা কৰিব"
+    ],
+    "answer": "ক্ষমা কৰিব"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Please come in'",
+    "options": [
+      "আগবাঢ়ক",
+      "থিয় হওক",
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক",
+      "বহক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি ভিতৰলৈ আহক"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Sit down'",
+    "options": [
+      "আগবাঢ়ক",
+      "বহক",
+      "বৰ ভাল",
+      "থিয় হওক"
+    ],
+    "answer": "বহক"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Stand up'",
+    "options": [
+      "অভিনন্দন",
+      "আগবাঢ়ক",
+      "বৰ ভাল",
+      "থিয় হওক"
+    ],
+    "answer": "থিয় হওক"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Go ahead'",
+    "options": [
+      "বৰ ভাল",
+      "অভিনন্দন",
+      "আগবাঢ়ক",
+      "শুভ ৰাতিপুৱা"
+    ],
+    "answer": "আগবাঢ়ক"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Well done'",
+    "options": [
+      "আপুনি কেনে আছে?",
+      "শুভ ৰাতিপুৱা",
+      "অভিনন্দন",
+      "বৰ ভাল"
+    ],
+    "answer": "বৰ ভাল"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Assamese phrase for 'Congratulations'",
+    "options": [
+      "আপুনি কেনে আছে?",
+      "শুভ ৰাতিপুৱা",
+      "অভিনন্দন",
+      "ধন্যবাদ"
+    ],
+    "answer": "অভিনন্দন"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'I am going to school'",
+    "options": [
+      "তাই ভাত খাই আছে",
+      "তেওঁলোকে কিতাপ পঢ়ি আছে",
+      "মই স্কুললৈ যাওঁ",
+      "আমি ক্ৰিকেট খেলি আছোঁ"
+    ],
+    "answer": "মই স্কুললৈ যাওঁ"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'She is eating rice'",
+    "options": [
+      "তেওঁ চিঠি লিখি আছে",
+      "আমি ক্ৰিকেট খেলি আছোঁ",
+      "তেওঁলোকে কিতাপ পঢ়ি আছে",
+      "তাই ভাত খাই আছে"
+    ],
+    "answer": "তাই ভাত খাই আছে"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'We are playing cricket'",
+    "options": [
+      "তেওঁলোকে কিতাপ পঢ়ি আছে",
+      "তুমি মোৰ বন্ধু",
+      "তেওঁ চিঠি লিখি আছে",
+      "আমি ক্ৰিকেট খেলি আছোঁ"
+    ],
+    "answer": "আমি ক্ৰিকেট খেলি আছোঁ"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'They are reading books'",
+    "options": [
+      "এতিয়া বৰষুণ হৈ আছে",
+      "তুমি মোৰ বন্ধু",
+      "তেওঁ চিঠি লিখি আছে",
+      "তেওঁলোকে কিতাপ পঢ়ি আছে"
+    ],
+    "answer": "তেওঁলোকে কিতাপ পঢ়ি আছে"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'He is writing a letter'",
+    "options": [
+      "তুমি মোৰ বন্ধু",
+      "মোৰ অসমীয়া ভাল লাগে",
+      "এতিয়া বৰষুণ হৈ আছে",
+      "তেওঁ চিঠি লিখি আছে"
+    ],
+    "answer": "তেওঁ চিঠি লিখি আছে"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'You are my friend'",
+    "options": [
+      "এতিয়া বৰষুণ হৈ আছে",
+      "মোৰ অসমীয়া ভাল লাগে",
+      "তুমি মোৰ বন্ধু",
+      "আমি গুৱাহাটীত থাকোঁ"
+    ],
+    "answer": "তুমি মোৰ বন্ধু"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'It is raining now'",
+    "options": [
+      "মোৰ অসমীয়া ভাল লাগে",
+      "আমি গুৱাহাটীত থাকোঁ",
+      "তাই গীত গাই আছে",
+      "এতিয়া বৰষুণ হৈ আছে"
+    ],
+    "answer": "এতিয়া বৰষুণ হৈ আছে"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'I like Assamese'",
+    "options": [
+      "তাই গীত গাই আছে",
+      "আমি গুৱাহাটীত থাকোঁ",
+      "মই স্কুললৈ যাওঁ",
+      "মোৰ অসমীয়া ভাল লাগে"
+    ],
+    "answer": "মোৰ অসমীয়া ভাল লাগে"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'We live in Guwahati'",
+    "options": [
+      "তাই গীত গাই আছে",
+      "আমি গুৱাহাটীত থাকোঁ",
+      "তাই ভাত খাই আছে",
+      "মই স্কুললৈ যাওঁ"
+    ],
+    "answer": "আমি গুৱাহাটীত থাকোঁ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Assamese sentence for 'She is singing a song'",
+    "options": [
+      "মই স্কুললৈ যাওঁ",
+      "তাই গীত গাই আছে",
+      "তাই ভাত খাই আছে",
+      "আমি ক্ৰিকেট খেলি আছোঁ"
+    ],
+    "answer": "তাই গীত গাই আছে"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "আপুনি কেনে আছে? - মই ভাল আছোঁ",
+      "আপুনি ক'লৈ যাই আছে? - বজাৰলৈ",
+      "আপুনি ইংৰাজী কয় নেকি? - হয়, অলপ",
+      "আপোনাৰ নাম কি? - মোৰ নাম ৰবি"
+    ],
+    "answer": "আপুনি কেনে আছে? - মই ভাল আছোঁ"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "আপোনাৰ নাম কি? - মোৰ নাম ৰবি",
+      "আপুনি ক'লৈ যাই আছে? - বজাৰলৈ",
+      "আপুনি মোক সহায় কৰিব পাৰে নেকি? - নিশ্চয়",
+      "আপুনি ইংৰাজী কয় নেকি? - হয়, অলপ"
+    ],
+    "answer": "আপোনাৰ নাম কি? - মোৰ নাম ৰবি"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "এতিয়া কিমান বাজিছে? - পাঁচটা বাজিছে",
+      "আপুনি মোক সহায় কৰিব পাৰে নেকি? - নিশ্চয়",
+      "আপুনি ইংৰাজী কয় নেকি? - হয়, অলপ",
+      "আপুনি ক'লৈ যাই আছে? - বজাৰলৈ"
+    ],
+    "answer": "আপুনি ক'লৈ যাই আছে? - বজাৰলৈ"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "বাছ ষ্টপটো ক'ত? - তাতে",
+      "আপুনি মোক সহায় কৰিব পাৰে নেকি? - নিশ্চয়",
+      "এতিয়া কিমান বাজিছে? - পাঁচটা বাজিছে",
+      "আপুনি ইংৰাজী কয় নেকি? - হয়, অলপ"
+    ],
+    "answer": "আপুনি ইংৰাজী কয় নেকি? - হয়, অলপ"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "বাছ ষ্টপটো ক'ত? - তাতে",
+      "ইয়াৰ দাম কিমান? - পঞ্চাশ টকা",
+      "এতিয়া কিমান বাজিছে? - পাঁচটা বাজিছে",
+      "আপুনি মোক সহায় কৰিব পাৰে নেকি? - নিশ্চয়"
+    ],
+    "answer": "আপুনি মোক সহায় কৰিব পাৰে নেকি? - নিশ্চয়"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক। - ধন্যবাদ",
+      "ইয়াৰ দাম কিমান? - পঞ্চাশ টকা",
+      "এতিয়া কিমান বাজিছে? - পাঁচটা বাজিছে",
+      "বাছ ষ্টপটো ক'ত? - তাতে"
+    ],
+    "answer": "এতিয়া কিমান বাজিছে? - পাঁচটা বাজিছে"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "বাছ ষ্টপটো ক'ত? - তাতে",
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক। - ধন্যবাদ",
+      "ইয়াৰ দাম কিমান? - পঞ্চাশ টকা",
+      "বিদায়। - পাছত লগ পাম"
+    ],
+    "answer": "বাছ ষ্টপটো ক'ত? - তাতে"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "বিদায়। - পাছত লগ পাম",
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক। - ধন্যবাদ",
+      "ইয়াৰ দাম কিমান? - পঞ্চাশ টকা",
+      "আপুনি কেনে আছে? - মই ভাল আছোঁ"
+    ],
+    "answer": "ইয়াৰ দাম কিমান? - পঞ্চাশ টকা"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "আপুনি কেনে আছে? - মই ভাল আছোঁ",
+      "অনুগ্ৰহ কৰি ভিতৰলৈ আহক। - ধন্যবাদ",
+      "আপোনাৰ নাম কি? - মোৰ নাম ৰবি",
+      "বিদায়। - পাছত লগ পাম"
+    ],
+    "answer": "অনুগ্ৰহ কৰি ভিতৰলৈ আহক। - ধন্যবাদ"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Assamese dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "আপুনি কেনে আছে? - মই ভাল আছোঁ",
+      "বিদায়। - পাছত লগ পাম",
+      "আপোনাৰ নাম কি? - মোৰ নাম ৰবি",
+      "আপুনি ক'লৈ যাই আছে? - বজাৰলৈ"
+    ],
+    "answer": "বিদায়। - পাছত লগ পাম"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Assamese?",
+    "options": [
+      "ইয়াৰ দাম কিমান?",
+      "কোনো ছাৰ আছে নেকি?",
+      "কাউণ্টাৰটো ক'ত?",
+      "মই ইয়াক কিনিব বিচাৰোঁ"
+    ],
+    "answer": "মই ইয়াক কিনিব বিচাৰোঁ"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Assamese?",
+    "options": [
+      "কোনো ছাৰ আছে নেকি?",
+      "ইয়াৰ দাম কিমান?",
+      "কাউণ্টাৰটো ক'ত?",
+      "আপুনি কাৰ্ড লয় নেকি?"
+    ],
+    "answer": "ইয়াৰ দাম কিমান?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Assamese?",
+    "options": [
+      "কাউণ্টাৰটো ক'ত?",
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক",
+      "কোনো ছাৰ আছে নেকি?",
+      "আপুনি কাৰ্ড লয় নেকি?"
+    ],
+    "answer": "কোনো ছাৰ আছে নেকি?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Assamese?",
+    "options": [
+      "মোৰ এটা বেগ লাগে",
+      "কাউণ্টাৰটো ক'ত?",
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক",
+      "আপুনি কাৰ্ড লয় নেকি?"
+    ],
+    "answer": "কাউণ্টাৰটো ক'ত?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক",
+      "মোৰ এটা বেগ লাগে",
+      "ই উপলব্ধ নেকি?",
+      "আপুনি কাৰ্ড লয় নেকি?"
+    ],
+    "answer": "আপুনি কাৰ্ড লয় নেকি?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Assamese?",
+    "options": [
+      "ই উপলব্ধ নেকি?",
+      "মোৰ এটা বেগ লাগে",
+      "সময় কি?",
+      "অনুগ্ৰহ কৰি ইয়াক পেক কৰক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি ইয়াক পেক কৰক"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Assamese?",
+    "options": [
+      "ই উপলব্ধ নেকি?",
+      "সময় কি?",
+      "মোৰ এটা বেগ লাগে",
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?"
+    ],
+    "answer": "মোৰ এটা বেগ লাগে"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Assamese?",
+    "options": [
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?",
+      "সময় কি?",
+      "ই উপলব্ধ নেকি?",
+      "মই ইয়াক কিনিব বিচাৰোঁ"
+    ],
+    "answer": "ই উপলব্ধ নেকি?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Assamese?",
+    "options": [
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?",
+      "ইয়াৰ দাম কিমান?",
+      "সময় কি?",
+      "মই ইয়াক কিনিব বিচাৰোঁ"
+    ],
+    "answer": "সময় কি?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Assamese?",
+    "options": [
+      "মই ইয়াক কিনিব বিচাৰোঁ",
+      "ইয়াৰ দাম কিমান?",
+      "কোনো ছাৰ আছে নেকি?",
+      "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?"
+    ],
+    "answer": "মই ইয়াক পৰীক্ষা কৰিব পাৰোঁ নেকি?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Assamese?",
+    "options": [
+      "কিমান সময় লাগিব?",
+      "চহৰলৈ কোনটো বাছ যায়?",
+      "বিমানবন্দৰলৈ কেনেকৈ যাম?",
+      "ৰেল ষ্টেচনটো ক'ত?"
+    ],
+    "answer": "ৰেল ষ্টেচনটো ক'ত?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Assamese?",
+    "options": [
+      "ই ইয়াৰ পৰা দূৰ নেকি?",
+      "চহৰলৈ কোনটো বাছ যায়?",
+      "কিমান সময় লাগিব?",
+      "বিমানবন্দৰলৈ কেনেকৈ যাম?"
+    ],
+    "answer": "বিমানবন্দৰলৈ কেনেকৈ যাম?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Assamese?",
+    "options": [
+      "কিমান সময় লাগিব?",
+      "ই ইয়াৰ পৰা দূৰ নেকি?",
+      "চহৰলৈ কোনটো বাছ যায়?",
+      "টেক্সী ক'ত পাম?"
+    ],
+    "answer": "চহৰলৈ কোনটো বাছ যায়?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Assamese?",
+    "options": [
+      "কিমান সময় লাগিব?",
+      "হোটেলটো ক'ত?",
+      "টেক্সী ক'ত পাম?",
+      "ই ইয়াৰ পৰা দূৰ নেকি?"
+    ],
+    "answer": "কিমান সময় লাগিব?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Assamese?",
+    "options": [
+      "হোটেলটো ক'ত?",
+      "মেপত দেখুৱাব পাৰিব নেকি?",
+      "টেক্সী ক'ত পাম?",
+      "ই ইয়াৰ পৰা দূৰ নেকি?"
+    ],
+    "answer": "ই ইয়াৰ পৰা দূৰ নেকি?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Assamese?",
+    "options": [
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "টেক্সী ক'ত পাম?",
+      "হোটেলটো ক'ত?",
+      "মেপত দেখুৱাব পাৰিব নেকি?"
+    ],
+    "answer": "টেক্সী ক'ত পাম?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Assamese?",
+    "options": [
+      "হোটেলটো ক'ত?",
+      "মই হেৰাই গৈছোঁ",
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "মেপত দেখুৱাব পাৰিব নেকি?"
+    ],
+    "answer": "হোটেলটো ক'ত?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Assamese?",
+    "options": [
+      "মই হেৰাই গৈছোঁ",
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "মেপত দেখুৱাব পাৰিব নেকি?",
+      "ৰেল ষ্টেচনটো ক'ত?"
+    ],
+    "answer": "মেপত দেখুৱাব পাৰিব নেকি?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Assamese?",
+    "options": [
+      "বিমানবন্দৰলৈ কেনেকৈ যাম?",
+      "ৰেল ষ্টেচনটো ক'ত?",
+      "গা ধোৱা কোঠাটো ক'ত?",
+      "মই হেৰাই গৈছোঁ"
+    ],
+    "answer": "গা ধোৱা কোঠাটো ক'ত?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Assamese?",
+    "options": [
+      "বিমানবন্দৰলৈ কেনেকৈ যাম?",
+      "মই হেৰাই গৈছোঁ",
+      "ৰেল ষ্টেচনটো ক'ত?",
+      "চহৰলৈ কোনটো বাছ যায়?"
+    ],
+    "answer": "মই হেৰাই গৈছোঁ"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Assamese?",
+    "options": [
+      "মই অসুস্থ",
+      "মোৰ এজন চিকিৎসক লাগে",
+      "চিকিৎসালয়টো ক'ত?",
+      "আৰক্ষীক ফোন কৰক"
+    ],
+    "answer": "আৰক্ষীক ফোন কৰক"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Assamese?",
+    "options": [
+      "মই অসুস্থ",
+      "মোৰ এজন চিকিৎসক লাগে",
+      "চিকিৎসালয়টো ক'ত?",
+      "সহায়!"
+    ],
+    "answer": "মোৰ এজন চিকিৎসক লাগে"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Assamese?",
+    "options": [
+      "মোৰ পৰ্চটো হেৰাই গৈছে",
+      "মই অসুস্থ",
+      "চিকিৎসালয়টো ক'ত?",
+      "সহায়!"
+    ],
+    "answer": "চিকিৎসালয়টো ক'ত?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Assamese?",
+    "options": [
+      "সহায়!",
+      "জুই লাগিছে",
+      "মই অসুস্থ",
+      "মোৰ পৰ্চটো হেৰাই গৈছে"
+    ],
+    "answer": "মই অসুস্থ"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Assamese?",
+    "options": [
+      "জুই লাগিছে",
+      "মোৰ পৰ্চটো হেৰাই গৈছে",
+      "সহায়!",
+      "মোৰ দুৰ্ঘটনা হৈছে"
+    ],
+    "answer": "সহায়!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Assamese?",
+    "options": [
+      "মোৰ পৰ্চটো হেৰাই গৈছে",
+      "মোৰ আঘাত লাগিছে",
+      "মোৰ দুৰ্ঘটনা হৈছে",
+      "জুই লাগিছে"
+    ],
+    "answer": "মোৰ পৰ্চটো হেৰাই গৈছে"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Assamese?",
+    "options": [
+      "জুই লাগিছে",
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক",
+      "মোৰ দুৰ্ঘটনা হৈছে",
+      "মোৰ আঘাত লাগিছে"
+    ],
+    "answer": "জুই লাগিছে"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Assamese?",
+    "options": [
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক",
+      "আৰক্ষীক ফোন কৰক",
+      "মোৰ দুৰ্ঘটনা হৈছে",
+      "মোৰ আঘাত লাগিছে"
+    ],
+    "answer": "মোৰ দুৰ্ঘটনা হৈছে"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Assamese?",
+    "options": [
+      "আৰক্ষীক ফোন কৰক",
+      "মোৰ এজন চিকিৎসক লাগে",
+      "মোৰ আঘাত লাগিছে",
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক"
+    ],
+    "answer": "মোৰ আঘাত লাগিছে"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Assamese?",
+    "options": [
+      "মোৰ এজন চিকিৎসক লাগে",
+      "চিকিৎসালয়টো ক'ত?",
+      "আৰক্ষীক ফোন কৰক",
+      "অনুগ্ৰহ কৰি মোক সহায় কৰক"
+    ],
+    "answer": "অনুগ্ৰহ কৰি মোক সহায় কৰক"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Assamese?",
+    "options": [
+      "আপোনাৰ পৰিকল্পনা কি?",
+      "আজি সন্ধিয়া আপুনি মুক্ত নেকি?",
+      "কাইলৈ লগ হওঁ",
+      "চিনেমা চাবলৈ যাওঁ"
+    ],
+    "answer": "আপোনাৰ পৰিকল্পনা কি?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Assamese?",
+    "options": [
+      "আমি একেলগে দুপৰীয়াৰ আহাৰ খাওঁ নেকি?",
+      "আজি সন্ধিয়া আপুনি মুক্ত নেকি?",
+      "কাইলৈ লগ হওঁ",
+      "চিনেমা চাবলৈ যাওঁ"
+    ],
+    "answer": "কাইলৈ লগ হওঁ"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Assamese?",
+    "options": [
+      "চিনেমা চাবলৈ যাওঁ",
+      "আপুনি আমাৰ লগত যোগ দিব পাৰে নেকি?",
+      "আমি একেলগে দুপৰীয়াৰ আহাৰ খাওঁ নেকি?",
+      "আজি সন্ধিয়া আপুনি মুক্ত নেকি?"
+    ],
+    "answer": "আজি সন্ধিয়া আপুনি মুক্ত নেকি?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Assamese?",
+    "options": [
+      "চিনেমা চাবলৈ যাওঁ",
+      "আপুনি আমাৰ লগত যোগ দিব পাৰে নেকি?",
+      "মই আজি ব্যস্ত",
+      "আমি একেলগে দুপৰীয়াৰ আহাৰ খাওঁ নেকি?"
+    ],
+    "answer": "চিনেমা চাবলৈ যাওঁ"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Assamese?",
+    "options": [
+      "পাছত লগ পাম",
+      "মই আজি ব্যস্ত",
+      "আমি একেলগে দুপৰীয়াৰ আহাৰ খাওঁ নেকি?",
+      "আপুনি আমাৰ লগত যোগ দিব পাৰে নেকি?"
+    ],
+    "answer": "আমি একেলগে দুপৰীয়াৰ আহাৰ খাওঁ নেকি?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Assamese?",
+    "options": [
+      "আপুনি আমাৰ লগত যোগ দিব পাৰে নেকি?",
+      "মই আপোনাক ফোন কৰিম",
+      "মই আজি ব্যস্ত",
+      "পাছত লগ পাম"
+    ],
+    "answer": "আপুনি আমাৰ লগত যোগ দিব পাৰে নেকি?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Assamese?",
+    "options": [
+      "পাছত লগ পাম",
+      "মই আপোনাক ফোন কৰিম",
+      "উদযাপন কৰোঁ",
+      "মই আজি ব্যস্ত"
+    ],
+    "answer": "মই আজি ব্যস্ত"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Assamese?",
+    "options": [
+      "মই আপোনাক ফোন কৰিম",
+      "উদযাপন কৰোঁ",
+      "পাছত লগ পাম",
+      "আপোনাৰ পৰিকল্পনা কি?"
+    ],
+    "answer": "পাছত লগ পাম"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Assamese?",
+    "options": [
+      "উদযাপন কৰোঁ",
+      "মই আপোনাক ফোন কৰিম",
+      "কাইলৈ লগ হওঁ",
+      "আপোনাৰ পৰিকল্পনা কি?"
+    ],
+    "answer": "মই আপোনাক ফোন কৰিম"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Assamese",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Assamese?",
+    "options": [
+      "উদযাপন কৰোঁ",
+      "আজি সন্ধিয়া আপুনি মুক্ত নেকি?",
+      "আপোনাৰ পৰিকল্পনা কি?",
+      "কাইলৈ লগ হওঁ"
+    ],
+    "answer": "উদযাপন কৰোঁ"
+  }
+]

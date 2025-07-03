@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'a'?",
+    "options": [
+      "ᱟᱟ",
+      "ᱤᱤ",
+      "ᱟ",
+      "ᱤ"
+    ],
+    "answer": "ᱟ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'aa'?",
+    "options": [
+      "ᱩ",
+      "ᱟᱟ",
+      "ᱤ",
+      "ᱤᱤ"
+    ],
+    "answer": "ᱟᱟ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'i'?",
+    "options": [
+      "ᱤᱤ",
+      "ᱩᱩ",
+      "ᱤ",
+      "ᱩ"
+    ],
+    "answer": "ᱤ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'ee'?",
+    "options": [
+      "ᱩ",
+      "ᱩᱩ",
+      "ᱮ",
+      "ᱤᱤ"
+    ],
+    "answer": "ᱤᱤ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'u'?",
+    "options": [
+      "ᱮ",
+      "ᱩ",
+      "ᱮᱭ",
+      "ᱩᱩ"
+    ],
+    "answer": "ᱩ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'oo'?",
+    "options": [
+      "ᱩᱩ",
+      "ᱮ",
+      "ᱚ",
+      "ᱮᱭ"
+    ],
+    "answer": "ᱩᱩ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'e'?",
+    "options": [
+      "ᱚ",
+      "ᱮᱭ",
+      "ᱚᱣ",
+      "ᱮ"
+    ],
+    "answer": "ᱮ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'ai'?",
+    "options": [
+      "ᱚᱣ",
+      "ᱟ",
+      "ᱚ",
+      "ᱮᱭ"
+    ],
+    "answer": "ᱮᱭ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'o'?",
+    "options": [
+      "ᱚ",
+      "ᱚᱣ",
+      "ᱟᱟ",
+      "ᱟ"
+    ],
+    "answer": "ᱚ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Santali vowel for 'au'?",
+    "options": [
+      "ᱚᱣ",
+      "ᱟᱟ",
+      "ᱟ",
+      "ᱤ"
+    ],
+    "answer": "ᱚᱣ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'ka'?",
+    "options": [
+      "ᱜ",
+      "ᱜᱷ",
+      "ᱠ",
+      "ᱠᱷ"
+    ],
+    "answer": "ᱠ"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'kha'?",
+    "options": [
+      "ᱜᱷ",
+      "ᱜ",
+      "ᱠᱷ",
+      "ᱪ"
+    ],
+    "answer": "ᱠᱷ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'ga'?",
+    "options": [
+      "ᱜᱷ",
+      "ᱜ",
+      "ᱪ",
+      "ᱪᱷ"
+    ],
+    "answer": "ᱜ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'gha'?",
+    "options": [
+      "ᱜᱷ",
+      "ᱪᱷ",
+      "ᱪ",
+      "ᱡ"
+    ],
+    "answer": "ᱜᱷ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'cha'?",
+    "options": [
+      "ᱡᱷ",
+      "ᱪ",
+      "ᱪᱷ",
+      "ᱡ"
+    ],
+    "answer": "ᱪ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'chha'?",
+    "options": [
+      "ᱡ",
+      "ᱡᱷ",
+      "ᱪᱷ",
+      "ᱛ"
+    ],
+    "answer": "ᱪᱷ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'ja'?",
+    "options": [
+      "ᱛ",
+      "ᱛᱷ",
+      "ᱡ",
+      "ᱡᱷ"
+    ],
+    "answer": "ᱡ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'jha'?",
+    "options": [
+      "ᱛ",
+      "ᱠ",
+      "ᱛᱷ",
+      "ᱡᱷ"
+    ],
+    "answer": "ᱡᱷ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'ta'?",
+    "options": [
+      "ᱛ",
+      "ᱠ",
+      "ᱠᱷ",
+      "ᱛᱷ"
+    ],
+    "answer": "ᱛ"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Santali consonant for 'tha'?",
+    "options": [
+      "ᱛᱷ",
+      "ᱜ",
+      "ᱠ",
+      "ᱠᱷ"
+    ],
+    "answer": "ᱛᱷ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱠ' + 'ᱟ'?",
+    "options": [
+      "ᱢᱤ",
+      "ᱯᱩ",
+      "ᱛᱮ",
+      "ᱠᱟ"
+    ],
+    "answer": "ᱠᱟ"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱯ' + 'ᱩ'?",
+    "options": [
+      "ᱯᱩ",
+      "ᱛᱮ",
+      "ᱥᱩ",
+      "ᱢᱤ"
+    ],
+    "answer": "ᱯᱩ"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱢ' + 'ᱤ'?",
+    "options": [
+      "ᱛᱮ",
+      "ᱢᱤ",
+      "ᱥᱩ",
+      "ᱱᱚ"
+    ],
+    "answer": "ᱢᱤ"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱛ' + 'ᱮ'?",
+    "options": [
+      "ᱱᱚ",
+      "ᱛᱮ",
+      "ᱨᱟ",
+      "ᱥᱩ"
+    ],
+    "answer": "ᱛᱮ"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱥ' + 'ᱩ'?",
+    "options": [
+      "ᱥᱩ",
+      "ᱨᱟ",
+      "ᱱᱚ",
+      "ᱞᱮ"
+    ],
+    "answer": "ᱥᱩ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱱ' + 'ᱚ'?",
+    "options": [
+      "ᱱᱚ",
+      "ᱫᱤ",
+      "ᱞᱮ",
+      "ᱨᱟ"
+    ],
+    "answer": "ᱱᱚ"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱨ' + 'ᱟ'?",
+    "options": [
+      "ᱞᱮ",
+      "ᱨᱟ",
+      "ᱫᱤ",
+      "ᱵᱩ"
+    ],
+    "answer": "ᱨᱟ"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱞ' + 'ᱮ'?",
+    "options": [
+      "ᱠᱟ",
+      "ᱵᱩ",
+      "ᱫᱤ",
+      "ᱞᱮ"
+    ],
+    "answer": "ᱞᱮ"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱫ' + 'ᱤ'?",
+    "options": [
+      "ᱠᱟ",
+      "ᱵᱩ",
+      "ᱫᱤ",
+      "ᱯᱩ"
+    ],
+    "answer": "ᱫᱤ"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ᱵ' + 'ᱩ'?",
+    "options": [
+      "ᱠᱟ",
+      "ᱢᱤ",
+      "ᱯᱩ",
+      "ᱵᱩ"
+    ],
+    "answer": "ᱵᱩ"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱯᱚᱛᱚᱵ'? (in Santali)",
+    "options": [
+      "School",
+      "Pen",
+      "Book",
+      "Hand"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱠᱚᱞᱚᱢ'? (in Santali)",
+    "options": [
+      "Pen",
+      "Hand",
+      "School",
+      "Fruit"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱤᱥᱠᱩᱞ'? (in Santali)",
+    "options": [
+      "Fruit",
+      "School",
+      "Hand",
+      "Flowers"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱛᱤ'? (in Santali)",
+    "options": [
+      "Fruit",
+      "Flowers",
+      "Tree",
+      "Hand"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱡᱚ'? (in Santali)",
+    "options": [
+      "Tree",
+      "Fruit",
+      "Flowers",
+      "Slate"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱵᱟᱦᱟ'? (in Santali)",
+    "options": [
+      "Tree",
+      "Slate",
+      "Flowers",
+      "Speak"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱫᱟᱨᱮ'? (in Santali)",
+    "options": [
+      "Speak",
+      "Tree",
+      "Speech",
+      "Slate"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱯᱟᱴᱤ'? (in Santali)",
+    "options": [
+      "Speech",
+      "Book",
+      "Speak",
+      "Slate"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱨᱚᱲ'? (in Santali)",
+    "options": [
+      "Pen",
+      "Speech",
+      "Speak",
+      "Book"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Santali",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ᱯᱟᱹᱨᱥᱤ'? (in Santali)",
+    "options": [
+      "School",
+      "Pen",
+      "Speech",
+      "Book"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'book'?",
+    "options": [
+      "ᱯᱚᱛᱚᱵ",
+      "ᱤᱥᱠᱩᱞ",
+      "ᱡᱷᱚᱞᱟ",
+      "ᱠᱚᱞᱚᱢ"
+    ],
+    "answer": "ᱯᱚᱛᱚᱵ"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'pen'?",
+    "options": [
+      "ᱡᱷᱚᱞᱟ",
+      "ᱠᱚᱞᱚᱢ",
+      "ᱤᱥᱠᱩᱞ",
+      "ᱠᱩᱨᱥᱤ"
+    ],
+    "answer": "ᱠᱚᱞᱚᱢ"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'school'?",
+    "options": [
+      "ᱡᱷᱚᱞᱟ",
+      "ᱤᱥᱠᱩᱞ",
+      "ᱠᱩᱨᱥᱤ",
+      "ᱢᱮᱡᱽ"
+    ],
+    "answer": "ᱤᱥᱠᱩᱞ"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'bag'?",
+    "options": [
+      "ᱯᱟᱴᱤ",
+      "ᱢᱮᱡᱽ",
+      "ᱡᱷᱚᱞᱟ",
+      "ᱠᱩᱨᱥᱤ"
+    ],
+    "answer": "ᱡᱷᱚᱞᱟ"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'chair'?",
+    "options": [
+      "ᱢᱮᱡᱽ",
+      "ᱡᱷᱤᱞᱤᱧ",
+      "ᱠᱩᱨᱥᱤ",
+      "ᱯᱟᱴᱤ"
+    ],
+    "answer": "ᱠᱩᱨᱥᱤ"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'table'?",
+    "options": [
+      "ᱢᱮᱡᱽ",
+      "ᱫᱚᱨᱣᱟᱡᱟ",
+      "ᱡᱷᱤᱞᱤᱧ",
+      "ᱯᱟᱴᱤ"
+    ],
+    "answer": "ᱢᱮᱡᱽ"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'slate'?",
+    "options": [
+      "ᱯᱚᱸᱠᱷᱟ",
+      "ᱡᱷᱤᱞᱤᱧ",
+      "ᱫᱚᱨᱣᱟᱡᱟ",
+      "ᱯᱟᱴᱤ"
+    ],
+    "answer": "ᱯᱟᱴᱤ"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'window'?",
+    "options": [
+      "ᱯᱚᱛᱚᱵ",
+      "ᱯᱚᱸᱠᱷᱟ",
+      "ᱫᱚᱨᱣᱟᱡᱟ",
+      "ᱡᱷᱤᱞᱤᱧ"
+    ],
+    "answer": "ᱡᱷᱤᱞᱤᱧ"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'door'?",
+    "options": [
+      "ᱯᱚᱸᱠᱷᱟ",
+      "ᱯᱚᱛᱚᱵ",
+      "ᱠᱚᱞᱚᱢ",
+      "ᱫᱚᱨᱣᱟᱡᱟ"
+    ],
+    "answer": "ᱫᱚᱨᱣᱟᱡᱟ"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Santali word for 'fan'?",
+    "options": [
+      "ᱠᱚᱞᱚᱢ",
+      "ᱯᱚᱸᱠᱷᱟ",
+      "ᱯᱚᱛᱚᱵ",
+      "ᱤᱥᱠᱩᱞ"
+    ],
+    "answer": "ᱯᱚᱸᱠᱷᱟ"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'rice'?",
+    "options": [
+      "ᱵᱟᱥ",
+      "ᱡᱚ",
+      "ᱥᱟᱠᱟᱢ",
+      "ᱫᱩᱫᱷ"
+    ],
+    "answer": "ᱵᱟᱥ"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'milk'?",
+    "options": [
+      "ᱫᱩᱫᱷ",
+      "ᱡᱚ",
+      "ᱥᱟᱠᱟᱢ",
+      "ᱫᱟᱜ"
+    ],
+    "answer": "ᱫᱩᱫᱷ"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'fruit'?",
+    "options": [
+      "ᱫᱚᱦᱤ",
+      "ᱫᱟᱜ",
+      "ᱥᱟᱠᱟᱢ",
+      "ᱡᱚ"
+    ],
+    "answer": "ᱡᱚ"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'vegetable'?",
+    "options": [
+      "ᱥᱟᱠᱟᱢ",
+      "ᱫᱟᱜ",
+      "ᱫᱚᱦᱤ",
+      "ᱨᱚᱴᱤ"
+    ],
+    "answer": "ᱥᱟᱠᱟᱢ"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'water'?",
+    "options": [
+      "ᱟᱱᱰᱟ",
+      "ᱫᱟᱜ",
+      "ᱫᱚᱦᱤ",
+      "ᱨᱚᱴᱤ"
+    ],
+    "answer": "ᱫᱟᱜ"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'curd'?",
+    "options": [
+      "ᱫᱚᱦᱤ",
+      "ᱨᱚᱴᱤ",
+      "ᱦᱟᱹᱠᱩ",
+      "ᱟᱱᱰᱟ"
+    ],
+    "answer": "ᱫᱚᱦᱤ"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'bread'?",
+    "options": [
+      "ᱨᱚᱴᱤ",
+      "ᱢᱤᱴᱷᱟᱹ",
+      "ᱦᱟᱹᱠᱩ",
+      "ᱟᱱᱰᱟ"
+    ],
+    "answer": "ᱨᱚᱴᱤ"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'egg'?",
+    "options": [
+      "ᱦᱟᱹᱠᱩ",
+      "ᱢᱤᱴᱷᱟᱹ",
+      "ᱵᱟᱥ",
+      "ᱟᱱᱰᱟ"
+    ],
+    "answer": "ᱟᱱᱰᱟ"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'fish'?",
+    "options": [
+      "ᱵᱟᱥ",
+      "ᱢᱤᱴᱷᱟᱹ",
+      "ᱫᱩᱫᱷ",
+      "ᱦᱟᱹᱠᱩ"
+    ],
+    "answer": "ᱦᱟᱹᱠᱩ"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'sweet'?",
+    "options": [
+      "ᱫᱩᱫᱷ",
+      "ᱡᱚ",
+      "ᱢᱤᱴᱷᱟᱹ",
+      "ᱵᱟᱥ"
+    ],
+    "answer": "ᱢᱤᱴᱷᱟᱹ"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'mother'?",
+    "options": [
+      "ᱢᱤᱥᱨᱟ",
+      "ᱟᱭᱚ",
+      "ᱵᱟᱵᱟ",
+      "ᱵᱚᱭᱦᱟ"
+    ],
+    "answer": "ᱟᱭᱚ"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'father'?",
+    "options": [
+      "ᱟᱡᱤ",
+      "ᱵᱚᱭᱦᱟ",
+      "ᱢᱤᱥᱨᱟ",
+      "ᱵᱟᱵᱟ"
+    ],
+    "answer": "ᱵᱟᱵᱟ"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'sister'?",
+    "options": [
+      "ᱟᱡᱟ",
+      "ᱟᱡᱤ",
+      "ᱵᱚᱭᱦᱟ",
+      "ᱢᱤᱥᱨᱟ"
+    ],
+    "answer": "ᱢᱤᱥᱨᱟ"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'brother'?",
+    "options": [
+      "ᱵᱚᱭᱦᱟ",
+      "ᱟᱡᱟ",
+      "ᱟᱡᱤ",
+      "ᱠᱟᱠᱟ"
+    ],
+    "answer": "ᱵᱚᱭᱦᱟ"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'grandmother'?",
+    "options": [
+      "ᱟᱡᱤ",
+      "ᱟᱡᱟ",
+      "ᱠᱟᱠᱟ",
+      "ᱠᱟᱠᱤ"
+    ],
+    "answer": "ᱟᱡᱤ"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'grandfather'?",
+    "options": [
+      "ᱟᱡᱟ",
+      "ᱠᱟᱠᱤ",
+      "ᱠᱟᱠᱟ",
+      "ᱦᱚᱯᱚᱱ"
+    ],
+    "answer": "ᱟᱡᱟ"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'uncle'?",
+    "options": [
+      "ᱦᱚᱯᱚᱱ",
+      "ᱦᱚᱯᱚᱱ ᱠᱩᱲᱤ",
+      "ᱠᱟᱠᱟ",
+      "ᱠᱟᱠᱤ"
+    ],
+    "answer": "ᱠᱟᱠᱟ"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'aunt'?",
+    "options": [
+      "ᱟᱭᱚ",
+      "ᱠᱟᱠᱤ",
+      "ᱦᱚᱯᱚᱱ ᱠᱩᱲᱤ",
+      "ᱦᱚᱯᱚᱱ"
+    ],
+    "answer": "ᱠᱟᱠᱤ"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'son'?",
+    "options": [
+      "ᱦᱚᱯᱚᱱ",
+      "ᱦᱚᱯᱚᱱ ᱠᱩᱲᱤ",
+      "ᱵᱟᱵᱟ",
+      "ᱟᱭᱚ"
+    ],
+    "answer": "ᱦᱚᱯᱚᱱ"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Santali word for 'daughter'?",
+    "options": [
+      "ᱢᱤᱥᱨᱟ",
+      "ᱵᱟᱵᱟ",
+      "ᱟᱭᱚ",
+      "ᱦᱚᱯᱚᱱ ᱠᱩᱲᱤ"
+    ],
+    "answer": "ᱦᱚᱯᱚᱱ ᱠᱩᱲᱤ"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'tree'?",
+    "options": [
+      "ᱫᱟᱨᱮ",
+      "ᱵᱩᱨᱩ",
+      "ᱵᱟᱦᱟ",
+      "ᱜᱟᱰᱟ"
+    ],
+    "answer": "ᱫᱟᱨᱮ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'flower'?",
+    "options": [
+      "ᱵᱟᱦᱟ",
+      "ᱵᱩᱨᱩ",
+      "ᱥᱟᱠᱟᱢ",
+      "ᱜᱟᱰᱟ"
+    ],
+    "answer": "ᱵᱟᱦᱟ"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'river'?",
+    "options": [
+      "ᱜᱟᱰᱟ",
+      "ᱟᱠᱟᱥ",
+      "ᱥᱟᱠᱟᱢ",
+      "ᱵᱩᱨᱩ"
+    ],
+    "answer": "ᱜᱟᱰᱟ"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'mountain'?",
+    "options": [
+      "ᱫᱟᱜ",
+      "ᱟᱠᱟᱥ",
+      "ᱥᱟᱠᱟᱢ",
+      "ᱵᱩᱨᱩ"
+    ],
+    "answer": "ᱵᱩᱨᱩ"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'leaf'?",
+    "options": [
+      "ᱟᱠᱟᱥ",
+      "ᱫᱟᱜ",
+      "ᱥᱤᱧᱚᱛ",
+      "ᱥᱟᱠᱟᱢ"
+    ],
+    "answer": "ᱥᱟᱠᱟᱢ"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'sky'?",
+    "options": [
+      "ᱪᱟᱸᱫᱚ",
+      "ᱥᱤᱧᱚᱛ",
+      "ᱟᱠᱟᱥ",
+      "ᱫᱟᱜ"
+    ],
+    "answer": "ᱟᱠᱟᱥ"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'rain'?",
+    "options": [
+      "ᱤᱯᱤᱞ",
+      "ᱪᱟᱸᱫᱚ",
+      "ᱫᱟᱜ",
+      "ᱥᱤᱧᱚᱛ"
+    ],
+    "answer": "ᱫᱟᱜ"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'sun'?",
+    "options": [
+      "ᱥᱤᱧᱚᱛ",
+      "ᱫᱟᱨᱮ",
+      "ᱪᱟᱸᱫᱚ",
+      "ᱤᱯᱤᱞ"
+    ],
+    "answer": "ᱥᱤᱧᱚᱛ"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'moon'?",
+    "options": [
+      "ᱪᱟᱸᱫᱚ",
+      "ᱤᱯᱤᱞ",
+      "ᱵᱟᱦᱟ",
+      "ᱫᱟᱨᱮ"
+    ],
+    "answer": "ᱪᱟᱸᱫᱚ"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Santali",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Santali word for 'star'?",
+    "options": [
+      "ᱵᱟᱦᱟ",
+      "ᱫᱟᱨᱮ",
+      "ᱜᱟᱰᱟ",
+      "ᱤᱯᱤᱞ"
+    ],
+    "answer": "ᱤᱯᱤᱞ"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Santali?",
+    "options": [
+      "ᱡᱚᱦᱟᱨ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ",
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱦᱟᱨ",
+      "ᱡᱚᱦᱟᱨ ᱢᱟᱱᱟᱣ"
+    ],
+    "answer": "ᱡᱚᱦᱟᱨ"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Santali?",
+    "options": [
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ",
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱦᱟᱨ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱡᱚᱦᱟᱨ ᱢᱟᱱᱟᱣ"
+    ],
+    "answer": "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Santali?",
+    "options": [
+      "ᱡᱚᱦᱟᱨ ᱢᱟᱱᱟᱣ",
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱦᱟᱨ"
+    ],
+    "answer": "ᱧᱤᱫᱟᱹ ᱡᱚᱦᱟᱨ"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Santali?",
+    "options": [
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱡᱚᱦᱟᱨ ᱢᱟᱱᱟᱣ",
+      "ᱫᱚᱦᱲᱟ ᱧᱮᱞ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱡᱚᱦᱟᱨ ᱢᱟᱱᱟᱣ"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Santali?",
+    "options": [
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱫᱚᱦᱲᱟ ᱧᱮᱞ",
+      "ᱵᱤᱫᱟᱹᱭ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Santali?",
+    "options": [
+      "ᱡᱚᱛᱚᱱ",
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱵᱤᱫᱟᱹᱭ",
+      "ᱫᱚᱦᱲᱟ ᱧᱮᱞ"
+    ],
+    "answer": "ᱵᱷᱟᱹᱞᱤ"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Santali?",
+    "options": [
+      "ᱫᱚᱦᱲᱟ ᱧᱮᱞ",
+      "ᱵᱤᱫᱟᱹᱭ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱡᱚᱛᱚᱱ"
+    ],
+    "answer": "ᱫᱚᱦᱲᱟ ᱧᱮᱞ"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Santali?",
+    "options": [
+      "ᱡᱚᱛᱚᱱ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱵᱤᱫᱟᱹᱭ",
+      "ᱡᱚᱦᱟᱨ"
+    ],
+    "answer": "ᱵᱤᱫᱟᱹᱭ"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Santali?",
+    "options": [
+      "ᱡᱚᱦᱟᱨ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ",
+      "ᱡᱚᱛᱚᱱ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ"
+    ],
+    "answer": "ᱡᱚᱛᱚᱱ"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Santali?",
+    "options": [
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ",
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱦᱟᱨ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱡᱚᱦᱟᱨ"
+    ],
+    "answer": "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Santali?",
+    "options": [
+      "ᱤᱧ ᱢᱤᱫ ᱪᱟᱹᱛᱨᱤ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ᱢᱤᱫ ᱢᱟᱪᱮᱛ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ...",
+      "ᱤᱧ ... ᱠᱷᱚᱱ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Santali?",
+    "options": [
+      "ᱤᱧ ᱢᱤᱫ ᱢᱟᱪᱮᱛ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ᱢᱤᱫ ᱪᱟᱹᱛᱨᱤ ᱠᱟᱱᱟᱧ",
+      "ᱟᱢᱟᱜ ᱧᱮᱞ ᱵᱷᱟᱹᱞᱤ ᱞᱟᱜᱟᱣ",
+      "ᱤᱧ ... ᱠᱷᱚᱱ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧ ... ᱠᱷᱚᱱ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Santali?",
+    "options": [
+      "ᱤᱧ ... ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟᱧ",
+      "ᱟᱢᱟᱜ ᱧᱮᱞ ᱵᱷᱟᱹᱞᱤ ᱞᱟᱜᱟᱣ",
+      "ᱤᱧ ᱢᱤᱫ ᱪᱟᱹᱛᱨᱤ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ᱢᱤᱫ ᱢᱟᱪᱮᱛ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧ ᱢᱤᱫ ᱪᱟᱹᱛᱨᱤ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Santali?",
+    "options": [
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ᱢᱤᱫ ᱢᱟᱪᱮᱛ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ... ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟᱧ",
+      "ᱟᱢᱟᱜ ᱧᱮᱞ ᱵᱷᱟᱹᱞᱤ ᱞᱟᱜᱟᱣ"
+    ],
+    "answer": "ᱤᱧ ᱢᱤᱫ ᱢᱟᱪᱮᱛ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Santali?",
+    "options": [
+      "ᱟᱢᱟᱜ ᱧᱮᱞ ᱵᱷᱟᱹᱞᱤ ᱞᱟᱜᱟᱣ",
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ... ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟᱧ",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?"
+    ],
+    "answer": "ᱟᱢᱟᱜ ᱧᱮᱞ ᱵᱷᱟᱹᱞᱤ ᱞᱟᱜᱟᱣ"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Santali?",
+    "options": [
+      "ᱤᱧ ... ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟᱧ",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?",
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?"
+    ],
+    "answer": "ᱤᱧ ... ᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Santali' in Santali?",
+    "options": [
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?",
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?",
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?",
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱪᱮᱫᱚᱜ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Santali?",
+    "options": [
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?",
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?",
+      "ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ..."
+    ],
+    "answer": "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Santali?",
+    "options": [
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?",
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?",
+      "ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ...",
+      "ᱤᱧ ... ᱠᱷᱚᱱ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Santali?",
+    "options": [
+      "ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ...",
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?",
+      "ᱤᱧ ᱢᱤᱫ ᱪᱟᱹᱛᱨᱤ ᱠᱟᱱᱟᱧ",
+      "ᱤᱧ ... ᱠᱷᱚᱱ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Santali?",
+    "options": [
+      "ᱦᱮᱸ",
+      "ᱵᱟᱝ",
+      "ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ",
+      "ᱴᱷᱤᱠ"
+    ],
+    "answer": "ᱦᱮᱸ"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Santali?",
+    "options": [
+      "ᱡᱟᱦᱟᱸᱱ ᱵᱟᱝ",
+      "ᱴᱷᱤᱠ",
+      "ᱵᱟᱝ",
+      "ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ"
+    ],
+    "answer": "ᱵᱟᱝ"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Santali?",
+    "options": [
+      "ᱴᱷᱤᱠ",
+      "ᱡᱟᱦᱟᱸᱱ ᱵᱟᱝ",
+      "ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ",
+      "ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ"
+    ],
+    "answer": "ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Santali?",
+    "options": [
+      "ᱡᱟᱦᱟᱸᱱ",
+      "ᱴᱷᱤᱠ",
+      "ᱡᱟᱦᱟᱸᱱ ᱵᱟᱝ",
+      "ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ"
+    ],
+    "answer": "ᱴᱷᱤᱠ"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Santali?",
+    "options": [
+      "ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ",
+      "ᱡᱟᱦᱟᱸᱱ ᱵᱟᱝ",
+      "ᱡᱟᱦᱟᱸᱱ",
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ"
+    ],
+    "answer": "ᱡᱟᱦᱟᱸᱱ ᱵᱟᱝ"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Santali?",
+    "options": [
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ",
+      "ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ",
+      "ᱡᱟᱦᱟᱸᱱ",
+      "ᱴᱷᱤᱠ"
+    ],
+    "answer": "ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Santali?",
+    "options": [
+      "ᱴᱷᱤᱠ",
+      "ᱤᱧ ᱵᱟᱝ ᱵᱟᱰᱟᱭᱟ",
+      "ᱡᱟᱦᱟᱸᱱ",
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ"
+    ],
+    "answer": "ᱡᱟᱦᱟᱸᱱ"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Santali?",
+    "options": [
+      "ᱤᱧ ᱵᱟᱝ ᱵᱟᱰᱟᱭᱟ",
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ",
+      "ᱦᱮᱸ",
+      "ᱴᱷᱤᱠ"
+    ],
+    "answer": "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Santali?",
+    "options": [
+      "ᱤᱧ ᱵᱟᱝ ᱵᱟᱰᱟᱭᱟ",
+      "ᱴᱷᱤᱠ",
+      "ᱵᱟᱝ",
+      "ᱦᱮᱸ"
+    ],
+    "answer": "ᱴᱷᱤᱠ"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Santali?",
+    "options": [
+      "ᱵᱟᱝ",
+      "ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ",
+      "ᱤᱧ ᱵᱟᱝ ᱵᱟᱰᱟᱭᱟ",
+      "ᱦᱮᱸ"
+    ],
+    "answer": "ᱤᱧ ᱵᱟᱝ ᱵᱟᱰᱟᱭᱟ"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Santali?",
+    "options": [
+      "ᱢᱟᱯᱷ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱢᱟᱯᱷ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ"
+    ],
+    "answer": "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ",
+      "ᱢᱟᱯᱷ",
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱢᱟᱯᱷ"
+    ],
+    "answer": "ᱢᱟᱯᱷ"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Santali?",
+    "options": [
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ",
+      "ᱢᱟᱯᱷ",
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Santali?",
+    "options": [
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ",
+      "ᱢᱟᱯᱷ",
+      "ᱵᱟᱫᱷᱟᱭ"
+    ],
+    "answer": "ᱢᱟᱯᱷ"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Santali?",
+    "options": [
+      "ᱵᱷᱟᱹᱞᱤ",
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ",
+      "ᱵᱟᱫᱷᱟᱭ",
+      "ᱵᱷᱟᱜᱚᱵᱟᱱ ᱟᱥᱤᱥ"
+    ],
+    "answer": "ᱵᱷᱟᱹᱞᱤ"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Santali?",
+    "options": [
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱤᱥᱢᱚᱛ",
+      "ᱵᱟᱫᱷᱟᱭ",
+      "ᱵᱷᱟᱜᱚᱵᱟᱱ ᱟᱥᱤᱥ",
+      "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ"
+    ],
+    "answer": "ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Santali?",
+    "options": [
+      "ᱵᱟᱫᱷᱟᱭ",
+      "ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱨᱟᱹᱥᱠᱟᱹ",
+      "ᱵᱷᱟᱜᱚᱵᱟᱱ ᱟᱥᱤᱥ",
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱤᱥᱢᱚᱛ"
+    ],
+    "answer": "ᱵᱟᱫᱷᱟᱭ"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Santali?",
+    "options": [
+      "ᱵᱷᱟᱜᱚᱵᱟᱱ ᱟᱥᱤᱥ",
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱤᱥᱢᱚᱛ",
+      "ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱨᱟᱹᱥᱠᱟᱹ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ"
+    ],
+    "answer": "ᱵᱷᱟᱜᱚᱵᱟᱱ ᱟᱥᱤᱥ"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Santali?",
+    "options": [
+      "ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱨᱟᱹᱥᱠᱟᱹ",
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱤᱥᱢᱚᱛ",
+      "ᱢᱟᱯᱷ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ"
+    ],
+    "answer": "ᱵᱷᱟᱹᱞᱤ ᱠᱤᱥᱢᱚᱛ"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Santali",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Santali?",
+    "options": [
+      "ᱢᱟᱯᱷ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱨᱟᱹᱥᱠᱟᱹ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ"
+    ],
+    "answer": "ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱨᱟᱹᱥᱠᱟᱹ"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'ki'?",
+    "options": [
+      "ᱠᱤ",
+      "ᱠᱚ",
+      "ᱠᱩ",
+      "ᱠᱮ"
+    ],
+    "answer": "ᱠᱤ"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'ku'?",
+    "options": [
+      "ᱠᱚ",
+      "ᱜᱤ",
+      "ᱠᱮ",
+      "ᱠᱩ"
+    ],
+    "answer": "ᱠᱩ"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'ke'?",
+    "options": [
+      "ᱠᱚ",
+      "ᱠᱮ",
+      "ᱜᱤ",
+      "ᱜᱩ"
+    ],
+    "answer": "ᱠᱮ"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'ko'?",
+    "options": [
+      "ᱜᱮ",
+      "ᱠᱚ",
+      "ᱜᱩ",
+      "ᱜᱤ"
+    ],
+    "answer": "ᱠᱚ"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'gi'?",
+    "options": [
+      "ᱜᱩ",
+      "ᱜᱚ",
+      "ᱜᱮ",
+      "ᱜᱤ"
+    ],
+    "answer": "ᱜᱤ"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'gu'?",
+    "options": [
+      "ᱜᱮ",
+      "ᱪᱤ",
+      "ᱜᱚ",
+      "ᱜᱩ"
+    ],
+    "answer": "ᱜᱩ"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'ge'?",
+    "options": [
+      "ᱪᱩ",
+      "ᱪᱤ",
+      "ᱜᱮ",
+      "ᱜᱚ"
+    ],
+    "answer": "ᱜᱮ"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'go'?",
+    "options": [
+      "ᱜᱚ",
+      "ᱪᱩ",
+      "ᱪᱤ",
+      "ᱠᱤ"
+    ],
+    "answer": "ᱜᱚ"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'chi'?",
+    "options": [
+      "ᱠᱩ",
+      "ᱠᱤ",
+      "ᱪᱩ",
+      "ᱪᱤ"
+    ],
+    "answer": "ᱪᱤ"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Santali syllable for 'chu'?",
+    "options": [
+      "ᱠᱮ",
+      "ᱠᱩ",
+      "ᱪᱩ",
+      "ᱠᱤ"
+    ],
+    "answer": "ᱪᱩ"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'ksha'?",
+    "options": [
+      "ᱡᱷ",
+      "ᱥᱨ",
+      "ᱠᱷ",
+      "ᱛᱨ"
+    ],
+    "answer": "ᱠᱷ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'tra'?",
+    "options": [
+      "ᱛᱨ",
+      "ᱡᱷ",
+      "ᱠᱨ",
+      "ᱥᱨ"
+    ],
+    "answer": "ᱛᱨ"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'jna'?",
+    "options": [
+      "ᱠᱨ",
+      "ᱯᱨ",
+      "ᱡᱷ",
+      "ᱥᱨ"
+    ],
+    "answer": "ᱡᱷ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'shra'?",
+    "options": [
+      "ᱠᱨ",
+      "ᱥᱨ",
+      "ᱯᱨ",
+      "ᱥᱨ"
+    ],
+    "answer": "ᱥᱨ"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'kra'?",
+    "options": [
+      "ᱠᱨ",
+      "ᱯᱨ",
+      "ᱥᱨ",
+      "ᱜᱨ"
+    ],
+    "answer": "ᱠᱨ"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'pra'?",
+    "options": [
+      "ᱫᱨ",
+      "ᱯᱨ",
+      "ᱥᱨ",
+      "ᱜᱨ"
+    ],
+    "answer": "ᱯᱨ"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'sra'?",
+    "options": [
+      "ᱱᱛ",
+      "ᱫᱨ",
+      "ᱥᱨ",
+      "ᱜᱨ"
+    ],
+    "answer": "ᱥᱨ"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'gra'?",
+    "options": [
+      "ᱠᱷ",
+      "ᱜᱨ",
+      "ᱫᱨ",
+      "ᱱᱛ"
+    ],
+    "answer": "ᱜᱨ"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'dra'?",
+    "options": [
+      "ᱛᱨ",
+      "ᱫᱨ",
+      "ᱠᱷ",
+      "ᱱᱛ"
+    ],
+    "answer": "ᱫᱨ"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Santali ligature for 'nta'?",
+    "options": [
+      "ᱡᱷ",
+      "ᱱᱛ",
+      "ᱛᱨ",
+      "ᱠᱷ"
+    ],
+    "answer": "ᱱᱛ"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'sha'?",
+    "options": [
+      "ᱦ",
+      "ᱞ",
+      "ᱥ",
+      "ᱥ"
+    ],
+    "answer": "ᱥ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'sa'?",
+    "options": [
+      "ᱞ",
+      "ᱨ",
+      "ᱦ",
+      "ᱥ"
+    ],
+    "answer": "ᱥ"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'ha'?",
+    "options": [
+      "ᱦ",
+      "ᱞ",
+      "ᱵ",
+      "ᱨ"
+    ],
+    "answer": "ᱦ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'la'?",
+    "options": [
+      "ᱞ",
+      "ᱨ",
+      "ᱵ",
+      "ᱭ"
+    ],
+    "answer": "ᱞ"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'ra'?",
+    "options": [
+      "ᱵ",
+      "ᱯ",
+      "ᱨ",
+      "ᱭ"
+    ],
+    "answer": "ᱨ"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'va'?",
+    "options": [
+      "ᱯ",
+      "ᱡ",
+      "ᱵ",
+      "ᱭ"
+    ],
+    "answer": "ᱵ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'ya'?",
+    "options": [
+      "ᱯ",
+      "ᱭ",
+      "ᱠᱣ",
+      "ᱡ"
+    ],
+    "answer": "ᱭ"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'fa'?",
+    "options": [
+      "ᱠᱣ",
+      "ᱥ",
+      "ᱯ",
+      "ᱡ"
+    ],
+    "answer": "ᱯ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'za'?",
+    "options": [
+      "ᱥ",
+      "ᱥ",
+      "ᱠᱣ",
+      "ᱡ"
+    ],
+    "answer": "ᱡ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Santali letter for 'qwa'?",
+    "options": [
+      "ᱠᱣ",
+      "ᱥ",
+      "ᱥ",
+      "ᱦ"
+    ],
+    "answer": "ᱠᱣ"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱠᱷᱤᱨ'?",
+    "options": [
+      "ᱠᱷ",
+      "ᱛᱨ",
+      "ᱡᱷ",
+      "ᱥᱨ"
+    ],
+    "answer": "ᱠᱷ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱡᱷᱟᱱ'?",
+    "options": [
+      "ᱡᱷ",
+      "ᱛᱨ",
+      "ᱥᱨ",
+      "ᱜᱨ"
+    ],
+    "answer": "ᱡᱷ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱛᱨᱤᱠᱚᱬ'?",
+    "options": [
+      "ᱛᱨ",
+      "ᱯᱨ",
+      "ᱜᱨ",
+      "ᱥᱨ"
+    ],
+    "answer": "ᱛᱨ"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱥᱨᱚᱫᱷᱟ'?",
+    "options": [
+      "ᱥᱨ",
+      "ᱥᱨ",
+      "ᱜᱨ",
+      "ᱯᱨ"
+    ],
+    "answer": "ᱥᱨ"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱜᱨᱚᱱᱛᱷ'?",
+    "options": [
+      "ᱥᱨ",
+      "ᱯᱨ",
+      "ᱫᱨ",
+      "ᱜᱨ"
+    ],
+    "answer": "ᱜᱨ"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱯᱨᱚᱭᱚᱛᱱ'?",
+    "options": [
+      "ᱯᱨ",
+      "ᱫᱨ",
+      "ᱥᱨ",
+      "ᱯ"
+    ],
+    "answer": "ᱯᱨ"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱥᱨᱚᱛ'?",
+    "options": [
+      "ᱥᱨ",
+      "ᱫᱨ",
+      "ᱯ",
+      "ᱦ"
+    ],
+    "answer": "ᱥᱨ"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱫᱨᱚᱵᱭᱚ'?",
+    "options": [
+      "ᱫᱨ",
+      "ᱠᱷ",
+      "ᱯ",
+      "ᱦ"
+    ],
+    "answer": "ᱫᱨ"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱯᱷᱚᱞ'?",
+    "options": [
+      "ᱡᱷ",
+      "ᱠᱷ",
+      "ᱯ",
+      "ᱦ"
+    ],
+    "answer": "ᱯ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Santali",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Santali letter is used in the word 'ᱦᱚᱨᱤᱫᱣᱟᱨ'?",
+    "options": [
+      "ᱠᱷ",
+      "ᱦ",
+      "ᱛᱨ",
+      "ᱡᱷ"
+    ],
+    "answer": "ᱦ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Sunday'?",
+    "options": [
+      "ᱢᱚᱸᱜᱚᱞᱵᱟᱨ",
+      "ᱵᱩᱫᱷᱵᱟᱨ",
+      "ᱥᱚᱢᱵᱟᱨ",
+      "ᱟᱫᱤᱛᱵᱟᱨ"
+    ],
+    "answer": "ᱟᱫᱤᱛᱵᱟᱨ"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Monday'?",
+    "options": [
+      "ᱵᱩᱫᱷᱵᱟᱨ",
+      "ᱜᱩᱨᱩᱵᱟᱨ",
+      "ᱥᱚᱢᱵᱟᱨ",
+      "ᱢᱚᱸᱜᱚᱞᱵᱟᱨ"
+    ],
+    "answer": "ᱥᱚᱢᱵᱟᱨ"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Tuesday'?",
+    "options": [
+      "ᱵᱩᱫᱷᱵᱟᱨ",
+      "ᱜᱩᱨᱩᱵᱟᱨ",
+      "ᱢᱚᱸᱜᱚᱞᱵᱟᱨ",
+      "ᱥᱩᱠᱨᱚᱵᱟᱨ"
+    ],
+    "answer": "ᱢᱚᱸᱜᱚᱞᱵᱟᱨ"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Wednesday'?",
+    "options": [
+      "ᱥᱚᱱᱤᱵᱟᱨ",
+      "ᱜᱩᱨᱩᱵᱟᱨ",
+      "ᱵᱩᱫᱷᱵᱟᱨ",
+      "ᱥᱩᱠᱨᱚᱵᱟᱨ"
+    ],
+    "answer": "ᱵᱩᱫᱷᱵᱟᱨ"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Thursday'?",
+    "options": [
+      "ᱛᱮᱦᱮᱸ",
+      "ᱜᱩᱨᱩᱵᱟᱨ",
+      "ᱥᱩᱠᱨᱚᱵᱟᱨ",
+      "ᱥᱚᱱᱤᱵᱟᱨ"
+    ],
+    "answer": "ᱜᱩᱨᱩᱵᱟᱨ"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Friday'?",
+    "options": [
+      "ᱛᱮᱦᱮᱸ",
+      "ᱜᱟᱯᱟ",
+      "ᱥᱩᱠᱨᱚᱵᱟᱨ",
+      "ᱥᱚᱱᱤᱵᱟᱨ"
+    ],
+    "answer": "ᱥᱩᱠᱨᱚᱵᱟᱨ"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Saturday'?",
+    "options": [
+      "ᱛᱮᱦᱮᱸ",
+      "ᱦᱚᱞᱟ",
+      "ᱜᱟᱯᱟ",
+      "ᱥᱚᱱᱤᱵᱟᱨ"
+    ],
+    "answer": "ᱥᱚᱱᱤᱵᱟᱨ"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Today'?",
+    "options": [
+      "ᱜᱟᱯᱟ",
+      "ᱦᱚᱞᱟ",
+      "ᱛᱮᱦᱮᱸ",
+      "ᱟᱫᱤᱛᱵᱟᱨ"
+    ],
+    "answer": "ᱛᱮᱦᱮᱸ"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Tomorrow'?",
+    "options": [
+      "ᱟᱫᱤᱛᱵᱟᱨ",
+      "ᱦᱚᱞᱟ",
+      "ᱥᱚᱢᱵᱟᱨ",
+      "ᱜᱟᱯᱟ"
+    ],
+    "answer": "ᱜᱟᱯᱟ"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Santali word for 'Yesterday'?",
+    "options": [
+      "ᱦᱚᱞᱟ",
+      "ᱥᱚᱢᱵᱟᱨ",
+      "ᱢᱚᱸᱜᱚᱞᱵᱟᱨ",
+      "ᱟᱫᱤᱛᱵᱟᱨ"
+    ],
+    "answer": "ᱦᱚᱞᱟ"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'red'?",
+    "options": [
+      "ᱟᱨᱟᱜ",
+      "ᱦᱟᱹᱨᱤᱭᱟᱹᱲ",
+      "ᱦᱟᱞᱟᱫᱤᱭᱟᱹ",
+      "ᱱᱤᱞ"
+    ],
+    "answer": "ᱟᱨᱟᱜ"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'blue'?",
+    "options": [
+      "ᱦᱟᱞᱟᱫᱤᱭᱟᱹ",
+      "ᱦᱟᱹᱨᱤᱭᱟᱹᱲ",
+      "ᱱᱤᱞ",
+      "ᱦᱮᱸᱫᱮ"
+    ],
+    "answer": "ᱱᱤᱞ"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'green'?",
+    "options": [
+      "ᱯᱩᱸᱰ",
+      "ᱦᱮᱸᱫᱮ",
+      "ᱦᱟᱹᱨᱤᱭᱟᱹᱲ",
+      "ᱦᱟᱞᱟᱫᱤᱭᱟᱹ"
+    ],
+    "answer": "ᱦᱟᱹᱨᱤᱭᱟᱹᱲ"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'yellow'?",
+    "options": [
+      "ᱯᱩᱸᱰ",
+      "ᱦᱮᱸᱫᱮ",
+      "ᱠᱚᱢᱞᱟ",
+      "ᱦᱟᱞᱟᱫᱤᱭᱟᱹ"
+    ],
+    "answer": "ᱦᱟᱞᱟᱫᱤᱭᱟᱹ"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'black'?",
+    "options": [
+      "ᱦᱮᱸᱫᱮ",
+      "ᱠᱚᱢᱞᱟ",
+      "ᱜᱩᱞᱟᱯᱤ",
+      "ᱯᱩᱸᱰ"
+    ],
+    "answer": "ᱦᱮᱸᱫᱮ"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'white'?",
+    "options": [
+      "ᱵᱮᱸᱜᱩᱱᱤ",
+      "ᱠᱚᱢᱞᱟ",
+      "ᱯᱩᱸᱰ",
+      "ᱜᱩᱞᱟᱯᱤ"
+    ],
+    "answer": "ᱯᱩᱸᱰ"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'orange'?",
+    "options": [
+      "ᱠᱚᱢᱞᱟ",
+      "ᱢᱟᱴᱤᱭᱟᱹ",
+      "ᱜᱩᱞᱟᱯᱤ",
+      "ᱵᱮᱸᱜᱩᱱᱤ"
+    ],
+    "answer": "ᱠᱚᱢᱞᱟ"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'pink'?",
+    "options": [
+      "ᱵᱮᱸᱜᱩᱱᱤ",
+      "ᱜᱩᱞᱟᱯᱤ",
+      "ᱢᱟᱴᱤᱭᱟᱹ",
+      "ᱟᱨᱟᱜ"
+    ],
+    "answer": "ᱜᱩᱞᱟᱯᱤ"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'purple'?",
+    "options": [
+      "ᱱᱤᱞ",
+      "ᱵᱮᱸᱜᱩᱱᱤ",
+      "ᱟᱨᱟᱜ",
+      "ᱢᱟᱴᱤᱭᱟᱹ"
+    ],
+    "answer": "ᱵᱮᱸᱜᱩᱱᱤ"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Santali word for 'brown'?",
+    "options": [
+      "ᱱᱤᱞ",
+      "ᱢᱟᱴᱤᱭᱟᱹ",
+      "ᱟᱨᱟᱜ",
+      "ᱦᱟᱹᱨᱤᱭᱟᱹᱲ"
+    ],
+    "answer": "ᱢᱟᱴᱤᱭᱟᱹ"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'one'?",
+    "options": [
+      "ᱯᱚᱱ",
+      "ᱢᱤᱫ",
+      "ᱯᱮ",
+      "ᱵᱟᱨ"
+    ],
+    "answer": "ᱢᱤᱫ"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'two'?",
+    "options": [
+      "ᱢᱚᱬᱮ",
+      "ᱯᱚᱱ",
+      "ᱵᱟᱨ",
+      "ᱯᱮ"
+    ],
+    "answer": "ᱵᱟᱨ"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'three'?",
+    "options": [
+      "ᱢᱚᱬᱮ",
+      "ᱛᱩᱨᱩᱭ",
+      "ᱯᱚᱱ",
+      "ᱯᱮ"
+    ],
+    "answer": "ᱯᱮ"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'four'?",
+    "options": [
+      "ᱮᱭᱟᱭ",
+      "ᱛᱩᱨᱩᱭ",
+      "ᱯᱚᱱ",
+      "ᱢᱚᱬᱮ"
+    ],
+    "answer": "ᱯᱚᱱ"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'five'?",
+    "options": [
+      "ᱮᱭᱟᱭ",
+      "ᱤᱨᱟᱹᱞ",
+      "ᱛᱩᱨᱩᱭ",
+      "ᱢᱚᱬᱮ"
+    ],
+    "answer": "ᱢᱚᱬᱮ"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'six'?",
+    "options": [
+      "ᱮᱭᱟᱭ",
+      "ᱤᱨᱟᱹᱞ",
+      "ᱛᱩᱨᱩᱭ",
+      "ᱟᱨᱮ"
+    ],
+    "answer": "ᱛᱩᱨᱩᱭ"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'seven'?",
+    "options": [
+      "ᱜᱮᱞ",
+      "ᱮᱭᱟᱭ",
+      "ᱟᱨᱮ",
+      "ᱤᱨᱟᱹᱞ"
+    ],
+    "answer": "ᱮᱭᱟᱭ"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'eight'?",
+    "options": [
+      "ᱟᱨᱮ",
+      "ᱢᱤᱫ",
+      "ᱜᱮᱞ",
+      "ᱤᱨᱟᱹᱞ"
+    ],
+    "answer": "ᱤᱨᱟᱹᱞ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'nine'?",
+    "options": [
+      "ᱜᱮᱞ",
+      "ᱵᱟᱨ",
+      "ᱟᱨᱮ",
+      "ᱢᱤᱫ"
+    ],
+    "answer": "ᱟᱨᱮ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Santali word for 'ten'?",
+    "options": [
+      "ᱜᱮᱞ",
+      "ᱯᱮ",
+      "ᱢᱤᱫ",
+      "ᱵᱟᱨ"
+    ],
+    "answer": "ᱜᱮᱞ"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'breakfast'?",
+    "options": [
+      "ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ",
+      "ᱦᱩᱰᱤᱧ ᱡᱚᱢ",
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱢ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱢ"
+    ],
+    "answer": "ᱥᱮᱛᱟᱜ ᱡᱚᱢ"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'lunch'?",
+    "options": [
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱢ",
+      "ᱦᱩᱰᱤᱧ ᱡᱚᱢ",
+      "ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ",
+      "ᱢᱤᱴᱷᱟᱹ"
+    ],
+    "answer": "ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'dinner'?",
+    "options": [
+      "ᱢᱤᱴᱷᱟᱹ",
+      "ᱦᱩᱰᱤᱧ ᱡᱚᱢ",
+      "ᱡᱷᱟᱞ",
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱢ"
+    ],
+    "answer": "ᱧᱤᱫᱟᱹ ᱡᱚᱢ"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'snacks'?",
+    "options": [
+      "ᱥᱟᱠᱟᱢ ᱡᱚᱢᱤᱡ",
+      "ᱡᱷᱟᱞ",
+      "ᱦᱩᱰᱤᱧ ᱡᱚᱢ",
+      "ᱢᱤᱴᱷᱟᱹ"
+    ],
+    "answer": "ᱦᱩᱰᱤᱧ ᱡᱚᱢ"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'sweets'?",
+    "options": [
+      "ᱢᱟᱸᱥ ᱡᱚᱢᱤᱡ",
+      "ᱥᱟᱠᱟᱢ ᱡᱚᱢᱤᱡ",
+      "ᱢᱤᱴᱷᱟᱹ",
+      "ᱡᱷᱟᱞ"
+    ],
+    "answer": "ᱢᱤᱴᱷᱟᱹ"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'spicy'?",
+    "options": [
+      "ᱨᱚᱥ",
+      "ᱢᱟᱸᱥ ᱡᱚᱢᱤᱡ",
+      "ᱥᱟᱠᱟᱢ ᱡᱚᱢᱤᱡ",
+      "ᱡᱷᱟᱞ"
+    ],
+    "answer": "ᱡᱷᱟᱞ"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'vegetarian'?",
+    "options": [
+      "ᱢᱟᱸᱥ ᱡᱚᱢᱤᱡ",
+      "ᱥᱟᱠᱟᱢ ᱡᱚᱢᱤᱡ",
+      "ᱨᱚᱥ",
+      "ᱠᱚᱯᱷᱤ"
+    ],
+    "answer": "ᱥᱟᱠᱟᱢ ᱡᱚᱢᱤᱡ"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'non-vegetarian'?",
+    "options": [
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱢ",
+      "ᱢᱟᱸᱥ ᱡᱚᱢᱤᱡ",
+      "ᱠᱚᱯᱷᱤ",
+      "ᱨᱚᱥ"
+    ],
+    "answer": "ᱢᱟᱸᱥ ᱡᱚᱢᱤᱡ"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'juice'?",
+    "options": [
+      "ᱨᱚᱥ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱢ",
+      "ᱠᱚᱯᱷᱤ",
+      "ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ"
+    ],
+    "answer": "ᱨᱚᱥ"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Santali",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Santali word for 'coffee'?",
+    "options": [
+      "ᱧᱤᱫᱟᱹ ᱡᱚᱢ",
+      "ᱠᱚᱯᱷᱤ",
+      "ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱢ"
+    ],
+    "answer": "ᱠᱚᱯᱷᱤ"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Santali?",
+    "options": [
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?",
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?"
+    ],
+    "answer": "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Santali?",
+    "options": [
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?",
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?",
+      "ᱟᱢ ᱥᱟᱱᱛᱟᱲᱤ ᱨᱚᱲᱟ?",
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?"
+    ],
+    "answer": "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Santali?",
+    "options": [
+      "ᱤᱧ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱟᱢ ᱥᱟᱱᱛᱟᱲᱤ ᱨᱚᱲᱟ?",
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?",
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?"
+    ],
+    "answer": "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Santali?",
+    "options": [
+      "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?",
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?",
+      "ᱤᱧ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱟᱢ ᱥᱟᱱᱛᱟᱲᱤ ᱨᱚᱲᱟ?"
+    ],
+    "answer": "ᱟᱢᱟᱜ ᱵᱚᱭᱚᱥ ᱪᱤᱫ?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Santali?' in Santali?",
+    "options": [
+      "ᱟᱢ ᱥᱟᱱᱛᱟᱲᱤ ᱨᱚᱲᱟ?",
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?",
+      "ᱤᱧ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?"
+    ],
+    "answer": "ᱟᱢ ᱥᱟᱱᱛᱟᱲᱤ ᱨᱚᱲᱟ?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Santali?",
+    "options": [
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?",
+      "ᱤᱧ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ?"
+    ],
+    "answer": "ᱤᱧ ᱟᱢᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Santali?",
+    "options": [
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ?",
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?",
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ?"
+    ],
+    "answer": "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Santali?",
+    "options": [
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ?",
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ?",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Santali?",
+    "options": [
+      "ᱪᱤᱫ ᱚᱠᱛᱚ?",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?",
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ?",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱪᱤᱫ ᱚᱠᱛᱚ?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Santali?",
+    "options": [
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ?",
+      "ᱟᱢ ᱚᱠᱟ ᱠᱷᱚᱱ ᱠᱟᱱᱟᱢ?",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ?",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱟᱢ ᱚᱠᱟᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱰᱮ ᱦᱤᱡᱩᱜ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱩᱦᱩᱲ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱦᱤᱞᱚᱜ ᱨᱚᱲ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱰᱮ ᱦᱤᱡᱩᱜ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱩᱦᱩᱲ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱩᱦᱩᱲ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱰᱮ ᱦᱤᱡᱩᱜ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱚᱞ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱦᱤᱞᱚᱜ ᱨᱚᱲ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱰᱮ ᱦᱤᱡᱩᱜ ᱢᱮ"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱦᱤᱞᱚᱜ ᱨᱚᱲ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱦᱲᱟ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱚᱞ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱩᱦᱩᱲ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱩᱦᱩᱲ ᱢᱮ"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱚᱞ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱦᱤᱞᱚᱜ ᱨᱚᱲ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱦᱲᱟ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧ ᱧᱮᱞ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱦᱤᱞᱚᱜ ᱨᱚᱲ ᱢᱮ"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱦᱲᱟ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱨᱣᱟᱡᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧ ᱧᱮᱞ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱚᱞ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱚᱞ ᱢᱮ"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧ ᱧᱮᱞ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱦᱲᱟ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱡᱷᱤᱞᱤᱧ ᱵᱚᱸᱫᱽ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱨᱣᱟᱡᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱦᱲᱟ ᱢᱮ"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱡᱷᱤᱞᱤᱧ ᱵᱚᱸᱫᱽ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱨᱣᱟᱡᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧ ᱧᱮᱞ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧ ᱧᱮᱞ ᱢᱮ"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱨᱣᱟᱡᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱡᱷᱤᱞᱤᱧ ᱵᱚᱸᱫᱽ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱫᱚᱨᱣᱟᱡᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱰᱮ ᱦᱤᱡᱩᱜ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱡᱷᱤᱞᱤᱧ ᱵᱚᱸᱫᱽ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱛᱟᱦᱮᱸᱱ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱡᱷᱤᱞᱤᱧ ᱵᱚᱸᱫᱽ ᱢᱮ"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Santali?",
+    "options": [
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ",
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Santali?",
+    "options": [
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ",
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Santali?",
+    "options": [
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?",
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ"
+    ],
+    "answer": "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Santali?",
+    "options": [
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?",
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ",
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?"
+    ],
+    "answer": "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Santali?",
+    "options": [
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?",
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ"
+    ],
+    "answer": "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Santali?",
+    "options": [
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ",
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ"
+    ],
+    "answer": "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ",
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Santali?",
+    "options": [
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ",
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?",
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?"
+    ],
+    "answer": "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Santali?",
+    "options": [
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?",
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ"
+    ],
+    "answer": "ᱚᱠᱛᱚ ᱪᱤᱫ?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Santali?",
+    "options": [
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?",
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ?",
+      "ᱵᱟᱡᱟᱨ ᱚᱠᱟ ᱦᱚᱨ?",
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?"
+    ],
+    "answer": "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Santali?",
+    "options": [
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?",
+      "ᱵᱟᱡᱟᱨ ᱚᱠᱟ ᱦᱚᱨ?",
+      "ᱞᱮᱸᱜᱟ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ",
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?"
+    ],
+    "answer": "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Santali?",
+    "options": [
+      "ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ",
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?",
+      "ᱵᱟᱡᱟᱨ ᱚᱠᱟ ᱦᱚᱨ?",
+      "ᱞᱮᱸᱜᱟ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ"
+    ],
+    "answer": "ᱵᱟᱡᱟᱨ ᱚᱠᱟ ᱦᱚᱨ?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Santali?",
+    "options": [
+      "ᱥᱤᱫᱷᱟᱹ ᱥᱮᱱᱚᱜ",
+      "ᱞᱮᱸᱜᱟ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ",
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?",
+      "ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ"
+    ],
+    "answer": "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Santali?",
+    "options": [
+      "ᱱᱚᱰᱮ ᱛᱤᱸᱜᱩᱱ",
+      "ᱥᱤᱫᱷᱟᱹ ᱥᱮᱱᱚᱜ",
+      "ᱞᱮᱸᱜᱟ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ",
+      "ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ"
+    ],
+    "answer": "ᱞᱮᱸᱜᱟ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Santali?",
+    "options": [
+      "ᱱᱚᱰᱮ ᱛᱤᱸᱜᱩᱱ",
+      "ᱥᱤᱫᱷᱟᱹ ᱥᱮᱱᱚᱜ",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?",
+      "ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ"
+    ],
+    "answer": "ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱨᱩᱠᱷᱟᱹᱭ"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Santali?",
+    "options": [
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱱᱚᱰᱮ ᱛᱤᱸᱜᱩᱱ",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?",
+      "ᱥᱤᱫᱷᱟᱹ ᱥᱮᱱᱚᱜ"
+    ],
+    "answer": "ᱥᱤᱫᱷᱟᱹ ᱥᱮᱱᱚᱜ"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Santali?",
+    "options": [
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?",
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ?",
+      "ᱱᱚᱰᱮ ᱛᱤᱸᱜᱩᱱ",
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱱᱚᱰᱮ ᱛᱤᱸᱜᱩᱱ"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Santali?",
+    "options": [
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?",
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ?",
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?"
+    ],
+    "answer": "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Santali",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Santali?",
+    "options": [
+      "ᱵᱟᱡᱟᱨ ᱚᱠᱟ ᱦᱚᱨ?",
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?",
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ?"
+    ],
+    "answer": "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'go'?",
+    "options": [
+      "ᱡᱚᱢ ᱞᱮᱫᱟ",
+      "ᱯᱟᱲᱦᱟᱣ ᱞᱮᱫᱟ",
+      "ᱥᱮᱱ ᱞᱮᱱᱟ",
+      "ᱧᱮᱞ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱥᱮᱱ ᱞᱮᱱᱟ"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'eat'?",
+    "options": [
+      "ᱯᱟᱲᱦᱟᱣ ᱞᱮᱫᱟ",
+      "ᱧᱮᱞ ᱞᱮᱫᱟ",
+      "ᱡᱚᱢ ᱞᱮᱫᱟ",
+      "ᱚᱞ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱡᱚᱢ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'see'?",
+    "options": [
+      "ᱯᱟᱲᱦᱟᱣ ᱞᱮᱫᱟ",
+      "ᱚᱞ ᱞᱮᱫᱟ",
+      "ᱧᱮᱞ ᱞᱮᱫᱟ",
+      "ᱦᱤᱡᱩᱜ ᱞᱮᱱᱟ"
+    ],
+    "answer": "ᱧᱮᱞ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'read'?",
+    "options": [
+      "ᱚᱞ ᱞᱮᱫᱟ",
+      "ᱦᱤᱡᱩᱜ ᱞᱮᱱᱟ",
+      "ᱯᱟᱲᱦᱟᱣ ᱞᱮᱫᱟ",
+      "ᱮᱢ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱯᱟᱲᱦᱟᱣ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'write'?",
+    "options": [
+      "ᱮᱢ ᱞᱮᱫᱟ",
+      "ᱦᱤᱡᱩᱜ ᱞᱮᱱᱟ",
+      "ᱚᱞ ᱞᱮᱫᱟ",
+      "ᱦᱟᱛᱟᱣ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱚᱞ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'come'?",
+    "options": [
+      "ᱮᱢ ᱞᱮᱫᱟ",
+      "ᱦᱤᱡᱩᱜ ᱞᱮᱱᱟ",
+      "ᱦᱟᱛᱟᱣ ᱞᱮᱫᱟ",
+      "ᱠᱷᱮᱞ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱦᱤᱡᱩᱜ ᱞᱮᱱᱟ"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'give'?",
+    "options": [
+      "ᱮᱢ ᱞᱮᱫᱟ",
+      "ᱜᱷᱩᱢᱟᱣ ᱞᱮᱫᱟ",
+      "ᱦᱟᱛᱟᱣ ᱞᱮᱫᱟ",
+      "ᱠᱷᱮᱞ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱮᱢ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'take'?",
+    "options": [
+      "ᱥᱮᱱ ᱞᱮᱱᱟ",
+      "ᱜᱷᱩᱢᱟᱣ ᱞᱮᱫᱟ",
+      "ᱦᱟᱛᱟᱣ ᱞᱮᱫᱟ",
+      "ᱠᱷᱮᱞ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱦᱟᱛᱟᱣ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'play'?",
+    "options": [
+      "ᱥᱮᱱ ᱞᱮᱱᱟ",
+      "ᱡᱚᱢ ᱞᱮᱫᱟ",
+      "ᱜᱷᱩᱢᱟᱣ ᱞᱮᱫᱟ",
+      "ᱠᱷᱮᱞ ᱞᱮᱫᱟ"
+    ],
+    "answer": "ᱠᱷᱮᱞ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Santali past tense of 'sleep'?",
+    "options": [
+      "ᱜᱷᱩᱢᱟᱣ ᱞᱮᱫᱟ",
+      "ᱧᱮᱞ ᱞᱮᱫᱟ",
+      "ᱡᱚᱢ ᱞᱮᱫᱟ",
+      "ᱥᱮᱱ ᱞᱮᱱᱟ"
+    ],
+    "answer": "ᱜᱷᱩᱢᱟᱣ ᱞᱮᱫᱟ"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'book'?",
+    "options": [
+      "ᱠᱩᱲᱤ ᱠᱚ",
+      "ᱠᱚᱲᱟ ᱠᱚ",
+      "ᱠᱚᱞᱚᱢ ᱠᱚ",
+      "ᱯᱚᱛᱚᱵ ᱠᱚ"
+    ],
+    "answer": "ᱯᱚᱛᱚᱵ ᱠᱚ"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'pen'?",
+    "options": [
+      "ᱠᱚᱲᱟ ᱠᱚ",
+      "ᱠᱚᱞᱚᱢ ᱠᱚ",
+      "ᱵᱟᱦᱟ ᱠᱚ",
+      "ᱠᱩᱲᱤ ᱠᱚ"
+    ],
+    "answer": "ᱠᱚᱞᱚᱢ ᱠᱚ"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'boy'?",
+    "options": [
+      "ᱵᱟᱦᱟ ᱠᱚ",
+      "ᱥᱟᱠᱟᱢ ᱠᱚ",
+      "ᱠᱚᱲᱟ ᱠᱚ",
+      "ᱠᱩᱲᱤ ᱠᱚ"
+    ],
+    "answer": "ᱠᱚᱲᱟ ᱠᱚ"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'girl'?",
+    "options": [
+      "ᱵᱟᱦᱟ ᱠᱚ",
+      "ᱤᱯᱤᱞ ᱠᱚ",
+      "ᱥᱟᱠᱟᱢ ᱠᱚ",
+      "ᱠᱩᱲᱤ ᱠᱚ"
+    ],
+    "answer": "ᱠᱩᱲᱤ ᱠᱚ"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'flower'?",
+    "options": [
+      "ᱫᱟᱨᱮ ᱠᱚ",
+      "ᱵᱟᱦᱟ ᱠᱚ",
+      "ᱥᱟᱠᱟᱢ ᱠᱚ",
+      "ᱤᱯᱤᱞ ᱠᱚ"
+    ],
+    "answer": "ᱵᱟᱦᱟ ᱠᱚ"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'leaf'?",
+    "options": [
+      "ᱜᱟᱰᱟ ᱠᱚ",
+      "ᱥᱟᱠᱟᱢ ᱠᱚ",
+      "ᱫᱟᱨᱮ ᱠᱚ",
+      "ᱤᱯᱤᱞ ᱠᱚ"
+    ],
+    "answer": "ᱥᱟᱠᱟᱢ ᱠᱚ"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'star'?",
+    "options": [
+      "ᱫᱟᱨᱮ ᱠᱚ",
+      "ᱤᱯᱤᱞ ᱠᱚ",
+      "ᱜᱟᱰᱟ ᱠᱚ",
+      "ᱠᱩᱨᱥᱤ ᱠᱚ"
+    ],
+    "answer": "ᱤᱯᱤᱞ ᱠᱚ"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'tree'?",
+    "options": [
+      "ᱠᱩᱨᱥᱤ ᱠᱚ",
+      "ᱜᱟᱰᱟ ᱠᱚ",
+      "ᱫᱟᱨᱮ ᱠᱚ",
+      "ᱯᱚᱛᱚᱵ ᱠᱚ"
+    ],
+    "answer": "ᱫᱟᱨᱮ ᱠᱚ"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'river'?",
+    "options": [
+      "ᱜᱟᱰᱟ ᱠᱚ",
+      "ᱠᱚᱞᱚᱢ ᱠᱚ",
+      "ᱯᱚᱛᱚᱵ ᱠᱚ",
+      "ᱠᱩᱨᱥᱤ ᱠᱚ"
+    ],
+    "answer": "ᱜᱟᱰᱟ ᱠᱚ"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Santali plural of 'chair'?",
+    "options": [
+      "ᱯᱚᱛᱚᱵ ᱠᱚ",
+      "ᱠᱩᱨᱥᱤ ᱠᱚ",
+      "ᱠᱚᱲᱟ ᱠᱚ",
+      "ᱠᱚᱞᱚᱢ ᱠᱚ"
+    ],
+    "answer": "ᱠᱩᱨᱥᱤ ᱠᱚ"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'and'?",
+    "options": [
+      "ᱟᱨ",
+      "ᱢᱮᱱᱠᱷᱟᱱ",
+      "ᱪᱮᱫᱟᱜ ᱥᱮ",
+      "ᱵᱟᱝᱠᱷᱟᱱ"
+    ],
+    "answer": "ᱟᱨ"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'but'?",
+    "options": [
+      "ᱢᱮᱱᱠᱷᱟᱱ",
+      "ᱵᱟᱝᱠᱷᱟᱱ",
+      "ᱡᱩᱫᱤ",
+      "ᱪᱮᱫᱟᱜ ᱥᱮ"
+    ],
+    "answer": "ᱢᱮᱱᱠᱷᱟᱱ"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'or'?",
+    "options": [
+      "ᱡᱚᱠᱷᱚᱱ",
+      "ᱪᱮᱫᱟᱜ ᱥᱮ",
+      "ᱵᱟᱝᱠᱷᱟᱱ",
+      "ᱡᱩᱫᱤ"
+    ],
+    "answer": "ᱵᱟᱝᱠᱷᱟᱱ"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'because'?",
+    "options": [
+      "ᱪᱮᱫᱟᱜ ᱥᱮ",
+      "ᱡᱩᱫᱤ",
+      "ᱚᱠᱟᱨᱮ",
+      "ᱡᱚᱠᱷᱚᱱ"
+    ],
+    "answer": "ᱪᱮᱫᱟᱜ ᱥᱮ"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'if'?",
+    "options": [
+      "ᱡᱚᱠᱷᱚᱱ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ",
+      "ᱡᱩᱫᱤ",
+      "ᱚᱠᱟᱨᱮ"
+    ],
+    "answer": "ᱡᱩᱫᱤ"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'when'?",
+    "options": [
+      "ᱚᱠᱟᱨᱮ",
+      "ᱡᱚᱠᱷᱚᱱ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ",
+      "ᱪᱮᱫᱟᱜ ᱛᱮ"
+    ],
+    "answer": "ᱡᱚᱠᱷᱚᱱ"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'where'?",
+    "options": [
+      "ᱥᱟᱶ",
+      "ᱚᱠᱟᱨᱮ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ",
+      "ᱪᱮᱫᱟᱜ ᱛᱮ"
+    ],
+    "answer": "ᱚᱠᱟᱨᱮ"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'how'?",
+    "options": [
+      "ᱥᱟᱶ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ",
+      "ᱪᱮᱫᱟᱜ ᱛᱮ",
+      "ᱟᱨ"
+    ],
+    "answer": "ᱪᱮᱫ ᱞᱮᱠᱟ"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'why'?",
+    "options": [
+      "ᱪᱮᱫᱟᱜ ᱛᱮ",
+      "ᱢᱮᱱᱠᱷᱟᱱ",
+      "ᱟᱨ",
+      "ᱥᱟᱶ"
+    ],
+    "answer": "ᱪᱮᱫᱟᱜ ᱛᱮ"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Santali particle for 'with'?",
+    "options": [
+      "ᱢᱮᱱᱠᱷᱟᱱ",
+      "ᱵᱟᱝᱠᱷᱟᱱ",
+      "ᱟᱨ",
+      "ᱥᱟᱶ"
+    ],
+    "answer": "ᱥᱟᱶ"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱡᱚᱢᱚᱜ",
+      "ᱵᱟᱝ ᱥᱮᱱᱚᱜ",
+      "ᱵᱟᱝ ᱦᱤᱡᱩᱜ",
+      "ᱵᱟᱝ ᱯᱟᱲᱦᱟᱣ"
+    ],
+    "answer": "ᱵᱟᱝ ᱥᱮᱱᱚᱜ"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱦᱤᱡᱩᱜ",
+      "ᱵᱟᱝ ᱯᱟᱲᱦᱟᱣ",
+      "ᱵᱟᱝ ᱚᱞᱚᱜ",
+      "ᱵᱟᱝ ᱡᱚᱢᱚᱜ"
+    ],
+    "answer": "ᱵᱟᱝ ᱦᱤᱡᱩᱜ"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱡᱚᱢᱚᱜ",
+      "ᱵᱟᱝ ᱯᱟᱲᱦᱟᱣ",
+      "ᱵᱟᱝ ᱠᱷᱮᱞᱚᱜ",
+      "ᱵᱟᱝ ᱚᱞᱚᱜ"
+    ],
+    "answer": "ᱵᱟᱝ ᱡᱚᱢᱚᱜ"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱜᱷᱩᱢᱟᱣ",
+      "ᱵᱟᱝ ᱚᱞᱚᱜ",
+      "ᱵᱟᱝ ᱠᱷᱮᱞᱚᱜ",
+      "ᱵᱟᱝ ᱯᱟᱲᱦᱟᱣ"
+    ],
+    "answer": "ᱵᱟᱝ ᱯᱟᱲᱦᱟᱣ"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱠᱷᱮᱞᱚᱜ",
+      "ᱵᱟᱝ ᱚᱞᱚᱜ",
+      "ᱵᱟᱝ ᱜᱷᱩᱢᱟᱣ",
+      "ᱵᱟᱝ ᱧᱮᱞᱚᱜ"
+    ],
+    "answer": "ᱵᱟᱝ ᱚᱞᱚᱜ"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱠᱷᱮᱞᱚᱜ",
+      "ᱵᱟᱝ ᱧᱮᱞᱚᱜ",
+      "ᱵᱟᱝ ᱮᱢᱚᱜ",
+      "ᱵᱟᱝ ᱜᱷᱩᱢᱟᱣ"
+    ],
+    "answer": "ᱵᱟᱝ ᱠᱷᱮᱞᱚᱜ"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱮᱢᱚᱜ",
+      "ᱵᱟᱝ ᱜᱷᱩᱢᱟᱣ",
+      "ᱵᱟᱝ ᱧᱮᱞᱚᱜ",
+      "ᱵᱟᱝ ᱦᱟᱛᱟᱣ"
+    ],
+    "answer": "ᱵᱟᱝ ᱜᱷᱩᱢᱟᱣ"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱥᱮᱱᱚᱜ",
+      "ᱵᱟᱝ ᱧᱮᱞᱚᱜ",
+      "ᱵᱟᱝ ᱮᱢᱚᱜ",
+      "ᱵᱟᱝ ᱦᱟᱛᱟᱣ"
+    ],
+    "answer": "ᱵᱟᱝ ᱧᱮᱞᱚᱜ"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱦᱤᱡᱩᱜ",
+      "ᱵᱟᱝ ᱥᱮᱱᱚᱜ",
+      "ᱵᱟᱝ ᱮᱢᱚᱜ",
+      "ᱵᱟᱝ ᱦᱟᱛᱟᱣ"
+    ],
+    "answer": "ᱵᱟᱝ ᱮᱢᱚᱜ"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Santali",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Santali?",
+    "options": [
+      "ᱵᱟᱝ ᱦᱟᱛᱟᱣ",
+      "ᱵᱟᱝ ᱡᱚᱢᱚᱜ",
+      "ᱵᱟᱝ ᱥᱮᱱᱚᱜ",
+      "ᱵᱟᱝ ᱦᱤᱡᱩᱜ"
+    ],
+    "answer": "ᱵᱟᱝ ᱦᱟᱛᱟᱣ"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'apple'",
+    "options": [
+      "ᱠᱚᱫᱟᱞᱤ",
+      "ᱵᱤᱞᱟᱹᱭ",
+      "ᱥᱮᱛᱟ",
+      "ᱟᱯᱮᱞ"
+    ],
+    "answer": "ᱟᱯᱮᱞ"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'banana'",
+    "options": [
+      "ᱜᱟᱹᱰᱤ",
+      "ᱠᱚᱫᱟᱞᱤ",
+      "ᱥᱮᱛᱟ",
+      "ᱵᱤᱞᱟᱹᱭ"
+    ],
+    "answer": "ᱠᱚᱫᱟᱞᱤ"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'cat'",
+    "options": [
+      "ᱜᱟᱹᱰᱤ",
+      "ᱵᱟᱥ",
+      "ᱵᱤᱞᱟᱹᱭ",
+      "ᱥᱮᱛᱟ"
+    ],
+    "answer": "ᱵᱤᱞᱟᱹᱭ"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'dog'",
+    "options": [
+      "ᱜᱟᱹᱰᱤ",
+      "ᱥᱮᱛᱟ",
+      "ᱵᱟᱥ",
+      "ᱨᱮᱞ"
+    ],
+    "answer": "ᱥᱮᱛᱟ"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'car'",
+    "options": [
+      "ᱚᱲᱟᱜ",
+      "ᱨᱮᱞ",
+      "ᱜᱟᱹᱰᱤ",
+      "ᱵᱟᱥ"
+    ],
+    "answer": "ᱜᱟᱹᱰᱤ"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'bus'",
+    "options": [
+      "ᱨᱮᱞ",
+      "ᱵᱟᱥ",
+      "ᱚᱲᱟᱜ",
+      "ᱥᱚᱦᱚᱨ"
+    ],
+    "answer": "ᱵᱟᱥ"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'train'",
+    "options": [
+      "ᱚᱲᱟᱜ",
+      "ᱟᱹᱛᱩ",
+      "ᱥᱚᱦᱚᱨ",
+      "ᱨᱮᱞ"
+    ],
+    "answer": "ᱨᱮᱞ"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'house'",
+    "options": [
+      "ᱟᱯᱮᱞ",
+      "ᱟᱹᱛᱩ",
+      "ᱚᱲᱟᱜ",
+      "ᱥᱚᱦᱚᱨ"
+    ],
+    "answer": "ᱚᱲᱟᱜ"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'city'",
+    "options": [
+      "ᱟᱯᱮᱞ",
+      "ᱟᱹᱛᱩ",
+      "ᱥᱚᱦᱚᱨ",
+      "ᱠᱚᱫᱟᱞᱤ"
+    ],
+    "answer": "ᱥᱚᱦᱚᱨ"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Santali word for 'village'",
+    "options": [
+      "ᱟᱯᱮᱞ",
+      "ᱵᱤᱞᱟᱹᱭ",
+      "ᱠᱚᱫᱟᱞᱤ",
+      "ᱟᱹᱛᱩ"
+    ],
+    "answer": "ᱟᱹᱛᱩ"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Good morning'",
+    "options": [
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱢᱟᱯᱷ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'How are you?'",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ",
+      "ᱢᱟᱯᱷ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Thank you'",
+    "options": [
+      "ᱫᱩᱦᱩᱲ ᱢᱮ",
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱢᱟᱯᱷ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ"
+    ],
+    "answer": "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Sorry'",
+    "options": [
+      "ᱛᱤᱸᱜᱩᱱ ᱢᱮ",
+      "ᱢᱟᱯᱷ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ",
+      "ᱫᱩᱦᱩᱲ ᱢᱮ"
+    ],
+    "answer": "ᱢᱟᱯᱷ"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Please come in'",
+    "options": [
+      "ᱛᱤᱸᱜᱩᱱ ᱢᱮ",
+      "ᱫᱩᱦᱩᱲ ᱢᱮ",
+      "ᱞᱟᱦᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Sit down'",
+    "options": [
+      "ᱛᱤᱸᱜᱩᱱ ᱢᱮ",
+      "ᱫᱩᱦᱩᱲ ᱢᱮ",
+      "ᱞᱟᱦᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱢᱮ",
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱟᱹᱢᱤ"
+    ],
+    "answer": "ᱫᱩᱦᱩᱲ ᱢᱮ"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Stand up'",
+    "options": [
+      "ᱛᱤᱸᱜᱩᱱ ᱢᱮ",
+      "ᱵᱟᱫᱷᱟᱭ",
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱟᱹᱢᱤ",
+      "ᱞᱟᱦᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱢᱮ"
+    ],
+    "answer": "ᱛᱤᱸᱜᱩᱱ ᱢᱮ"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Go ahead'",
+    "options": [
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱟᱹᱢᱤ",
+      "ᱞᱟᱦᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱢᱮ",
+      "ᱵᱟᱫᱷᱟᱭ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ"
+    ],
+    "answer": "ᱞᱟᱦᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱢᱮ"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Well done'",
+    "options": [
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱵᱷᱟᱹᱞᱤ ᱠᱟᱹᱢᱤ",
+      "ᱵᱟᱫᱷᱟᱭ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ"
+    ],
+    "answer": "ᱵᱷᱟᱹᱞᱤ ᱠᱟᱹᱢᱤ"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Santali phrase for 'Congratulations'",
+    "options": [
+      "ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱥᱮᱛᱟᱜ ᱡᱚᱦᱟᱨ",
+      "ᱵᱟᱫᱷᱟᱭ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱵᱟᱫᱷᱟᱭ"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'I am going to school'",
+    "options": [
+      "ᱤᱧ ᱤᱥᱠᱩᱞ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱧ",
+      "ᱟᱞᱮ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞᱚᱜ ᱠᱟᱱᱟ",
+      "ᱩᱱᱠᱩ ᱯᱚᱛᱚᱵ ᱯᱟᱲᱦᱟᱣᱚᱜ ᱠᱟᱱᱟ",
+      "ᱩᱱᱤ ᱵᱟᱥ ᱡᱚᱢᱚᱜ ᱠᱟᱱᱟᱭ"
+    ],
+    "answer": "ᱤᱧ ᱤᱥᱠᱩᱞ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'She is eating rice'",
+    "options": [
+      "ᱟᱞᱮ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞᱚᱜ ᱠᱟᱱᱟ",
+      "ᱩᱱᱤ ᱪᱤᱴᱷᱤ ᱚᱞᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱩᱱᱤ ᱵᱟᱥ ᱡᱚᱢᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱩᱱᱠᱩ ᱯᱚᱛᱚᱵ ᱯᱟᱲᱦᱟᱣᱚᱜ ᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱩᱱᱤ ᱵᱟᱥ ᱡᱚᱢᱚᱜ ᱠᱟᱱᱟᱭ"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'We are playing cricket'",
+    "options": [
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱟᱛᱮ",
+      "ᱟᱞᱮ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞᱚᱜ ᱠᱟᱱᱟ",
+      "ᱩᱱᱤ ᱪᱤᱴᱷᱤ ᱚᱞᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱩᱱᱠᱩ ᱯᱚᱛᱚᱵ ᱯᱟᱲᱦᱟᱣᱚᱜ ᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱟᱞᱮ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞᱚᱜ ᱠᱟᱱᱟ"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'They are reading books'",
+    "options": [
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱟᱛᱮ",
+      "ᱩᱱᱠᱩ ᱯᱚᱛᱚᱵ ᱯᱟᱲᱦᱟᱣᱚᱜ ᱠᱟᱱᱟ",
+      "ᱱᱤᱛᱚᱜ ᱫᱟᱜ ᱡᱟᱹᱨᱩᱜ ᱠᱟᱱᱟ",
+      "ᱩᱱᱤ ᱪᱤᱴᱷᱤ ᱚᱞᱚᱜ ᱠᱟᱱᱟᱭ"
+    ],
+    "answer": "ᱩᱱᱠᱩ ᱯᱚᱛᱚᱵ ᱯᱟᱲᱦᱟᱣᱚᱜ ᱠᱟᱱᱟ"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'He is writing a letter'",
+    "options": [
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱠᱩᱥᱤᱭᱟᱜ-ᱟ",
+      "ᱩᱱᱤ ᱪᱤᱴᱷᱤ ᱚᱞᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱱᱤᱛᱚᱜ ᱫᱟᱜ ᱡᱟᱹᱨᱩᱜ ᱠᱟᱱᱟ",
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱟᱛᱮ"
+    ],
+    "answer": "ᱩᱱᱤ ᱪᱤᱴᱷᱤ ᱚᱞᱚᱜ ᱠᱟᱱᱟᱭ"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'You are my friend'",
+    "options": [
+      "ᱱᱤᱛᱚᱜ ᱫᱟᱜ ᱡᱟᱹᱨᱩᱜ ᱠᱟᱱᱟ",
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱟᱛᱮ",
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱠᱩᱥᱤᱭᱟᱜ-ᱟ",
+      "ᱟᱞᱮ ᱟᱹᱛᱩᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱟᱢ ᱤᱧᱟᱜ ᱜᱟᱛᱮ"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'It is raining now'",
+    "options": [
+      "ᱱᱤᱛᱚᱜ ᱫᱟᱜ ᱡᱟᱹᱨᱩᱜ ᱠᱟᱱᱟ",
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱠᱩᱥᱤᱭᱟᱜ-ᱟ",
+      "ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱟᱞᱮ ᱟᱹᱛᱩᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱱᱤᱛᱚᱜ ᱫᱟᱜ ᱡᱟᱹᱨᱩᱜ ᱠᱟᱱᱟ"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'I like Santali'",
+    "options": [
+      "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱠᱩᱥᱤᱭᱟᱜ-ᱟ",
+      "ᱟᱞᱮ ᱟᱹᱛᱩᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ",
+      "ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱤᱧ ᱤᱥᱠᱩᱞ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧ ᱥᱟᱱᱛᱟᱲᱤ ᱠᱩᱥᱤᱭᱟᱜ-ᱟ"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'We live in village'",
+    "options": [
+      "ᱤᱧ ᱤᱥᱠᱩᱞ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱧ",
+      "ᱩᱱᱤ ᱵᱟᱥ ᱡᱚᱢᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱟᱞᱮ ᱟᱹᱛᱩᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱟᱞᱮ ᱟᱹᱛᱩᱨᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Santali sentence for 'She is singing a song'",
+    "options": [
+      "ᱤᱧ ᱤᱥᱠᱩᱞ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱧ",
+      "ᱟᱞᱮ ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞᱚᱜ ᱠᱟᱱᱟ",
+      "ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧᱚᱜ ᱠᱟᱱᱟᱭ",
+      "ᱩᱱᱤ ᱵᱟᱥ ᱡᱚᱢᱚᱜ ᱠᱟᱱᱟᱭ"
+    ],
+    "answer": "ᱩᱱᱤ ᱥᱮᱨᱮᱧ ᱥᱮᱨᱮᱧᱚᱜ ᱠᱟᱱᱟᱭ"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱢ? - ᱵᱟᱡᱟᱨ",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ? - ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱨᱚᱵᱤ",
+      "ᱟᱢ ᱤᱝᱞᱤᱥ ᱨᱚᱲᱟ? - ᱦᱮᱸ, ᱦᱩᱰᱤᱧ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ? - ᱤᱧ ᱵᱷᱟᱹᱞᱤ ᱢᱮᱱᱟᱧ"
+    ],
+    "answer": "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ? - ᱤᱧ ᱵᱷᱟᱹᱞᱤ ᱢᱮᱱᱟᱧ"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "ᱟᱢ ᱤᱝᱞᱤᱥ ᱨᱚᱲᱟ? - ᱦᱮᱸ, ᱦᱩᱰᱤᱧ",
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ? - ᱴᱷᱤᱠ",
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱢ? - ᱵᱟᱡᱟᱨ",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ? - ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱨᱚᱵᱤ"
+    ],
+    "answer": "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ? - ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱨᱚᱵᱤ"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱢ? - ᱵᱟᱡᱟᱨ",
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ? - ᱴᱷᱤᱠ",
+      "ᱟᱢ ᱤᱝᱞᱤᱥ ᱨᱚᱲᱟ? - ᱦᱮᱸ, ᱦᱩᱰᱤᱧ",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ? - ᱢᱚᱬᱮ ᱴᱟᱲᱟᱝ"
+    ],
+    "answer": "ᱟᱢ ᱚᱠᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱢ? - ᱵᱟᱡᱟᱨ"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "ᱪᱤᱫ ᱚᱠᱛᱚ? - ᱢᱚᱬᱮ ᱴᱟᱲᱟᱝ",
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ? - ᱚᱱᱰᱮ",
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ? - ᱴᱷᱤᱠ",
+      "ᱟᱢ ᱤᱝᱞᱤᱥ ᱨᱚᱲᱟ? - ᱦᱮᱸ, ᱦᱩᱰᱤᱧ"
+    ],
+    "answer": "ᱟᱢ ᱤᱝᱞᱤᱥ ᱨᱚᱲᱟ? - ᱦᱮᱸ, ᱦᱩᱰᱤᱧ"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ? - ᱢᱚᱬᱮ ᱜᱮᱞ ᱴᱟᱠᱟ",
+      "ᱟᱢ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ? - ᱴᱷᱤᱠ",
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ? - ᱚᱱᱰᱮ",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ? - ᱢᱚᱬᱮ ᱴᱟᱲᱟᱝ"
+    ],
+    "answer": "ᱟᱢ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ? - ᱴᱷᱤᱠ"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ? - ᱚᱱᱰᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ। - ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ? - ᱢᱚᱬᱮ ᱜᱮᱞ ᱴᱟᱠᱟ",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ? - ᱢᱚᱬᱮ ᱴᱟᱲᱟᱝ"
+    ],
+    "answer": "ᱪᱤᱫ ᱚᱠᱛᱚ? - ᱢᱚᱬᱮ ᱴᱟᱲᱟᱝ"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ। - ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ? - ᱚᱱᱰᱮ",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ? - ᱢᱚᱬᱮ ᱜᱮᱞ ᱴᱟᱠᱟ",
+      "ᱵᱤᱫᱟᱹᱭ। - ᱫᱚᱦᱲᱟ ᱧᱮᱞ"
+    ],
+    "answer": "ᱵᱟᱥ ᱥᱴᱚᱯ ᱚᱠᱟᱨᱮ? - ᱚᱱᱰᱮ"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "ᱵᱤᱫᱟᱹᱭ। - ᱫᱚᱦᱲᱟ ᱧᱮᱞ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ। - ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ? - ᱢᱚᱬᱮ ᱜᱮᱞ ᱴᱟᱠᱟ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ? - ᱤᱧ ᱵᱷᱟᱹᱞᱤ ᱢᱮᱱᱟᱧ"
+    ],
+    "answer": "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ? - ᱢᱚᱬᱮ ᱜᱮᱞ ᱴᱟᱠᱟ"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ। - ᱫᱷᱚᱱᱚᱵᱟᱫᱽ",
+      "ᱵᱤᱫᱟᱹᱭ। - ᱫᱚᱦᱲᱟ ᱧᱮᱞ",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ? - ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱨᱚᱵᱤ",
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ? - ᱤᱧ ᱵᱷᱟᱹᱞᱤ ᱢᱮᱱᱟᱧ"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱵᱷᱤᱛᱤᱨ ᱦᱤᱡᱩᱜ ᱢᱮ। - ᱫᱷᱚᱱᱚᱵᱟᱫᱽ"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Santali",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Santali dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "ᱪᱮᱫ ᱞᱮᱠᱟ ᱢᱮᱱᱟᱜ-ᱟ? - ᱤᱧ ᱵᱷᱟᱹᱞᱤ ᱢᱮᱱᱟᱧ",
+      "ᱟᱢ ᱚᱠᱟᱨᱮ ᱥᱮᱱᱚᱜ ᱠᱟᱱᱟᱢ? - ᱵᱟᱡᱟᱨ",
+      "ᱵᱤᱫᱟᱹᱭ। - ᱫᱚᱦᱲᱟ ᱧᱮᱞ",
+      "ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱪᱤᱫ? - ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱨᱚᱵᱤ"
+    ],
+    "answer": "ᱵᱤᱫᱟᱹᱭ। - ᱫᱚᱦᱲᱟ ᱧᱮᱞ"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Santali?",
+    "options": [
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ",
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?"
+    ],
+    "answer": "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Santali?",
+    "options": [
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?",
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Santali?",
+    "options": [
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ",
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?",
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Santali?",
+    "options": [
+      "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ",
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ"
+    ],
+    "answer": "ᱠᱟᱣᱩᱱᱴᱚᱨ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Santali?",
+    "options": [
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ",
+      "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?",
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ"
+    ],
+    "answer": "ᱟᱢ ᱠᱟᱨᱰ ᱦᱟᱛᱟᱣᱟ?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ",
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ",
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱯᱮᱠ ᱢᱮ"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Santali?",
+    "options": [
+      "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ",
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?"
+    ],
+    "answer": "ᱤᱧᱟᱜ ᱡᱷᱚᱞᱟ ᱞᱟᱹᱠᱛᱤ"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Santali?",
+    "options": [
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ",
+      "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?"
+    ],
+    "answer": "ᱱᱚᱶᱟ ᱧᱟᱢᱚᱜ-ᱟ?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Santali?",
+    "options": [
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱚᱠᱛᱚ ᱪᱤᱫ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ"
+    ],
+    "answer": "ᱚᱠᱛᱚ ᱪᱤᱫ?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Santali?",
+    "options": [
+      "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱱᱚᱶᱟ ᱪᱤᱫ ᱛᱟᱠᱟ?",
+      "ᱤᱧ ᱱᱚᱶᱟ ᱠᱤᱨᱤᱧ ᱥᱟᱱᱟᱢᱟ",
+      "ᱪᱷᱟᱰᱽ ᱢᱮᱱᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱤᱧ ᱱᱚᱶᱟ ᱯᱟᱨᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Santali?",
+    "options": [
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱚᱠᱟᱨᱮ?",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?",
+      "ᱥᱚᱦᱚᱨ ᱚᱠᱟ ᱵᱟᱥ ᱥᱮᱱᱚᱜ-ᱟ?",
+      "ᱦᱚᱭ ᱰᱟᱦᱟᱨ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?"
+    ],
+    "answer": "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Santali?",
+    "options": [
+      "ᱦᱚᱭ ᱰᱟᱦᱟᱨ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?",
+      "ᱥᱚᱦᱚᱨ ᱚᱠᱟ ᱵᱟᱥ ᱥᱮᱱᱚᱜ-ᱟ?",
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱦᱚᱭ ᱰᱟᱦᱟᱨ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Santali?",
+    "options": [
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?",
+      "ᱥᱚᱦᱚᱨ ᱚᱠᱟ ᱵᱟᱥ ᱥᱮᱱᱚᱜ-ᱟ?",
+      "ᱴᱮᱠᱥᱤ ᱚᱠᱟᱨᱮ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?"
+    ],
+    "answer": "ᱥᱚᱦᱚᱨ ᱚᱠᱟ ᱵᱟᱥ ᱥᱮᱱᱚᱜ-ᱟ?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Santali?",
+    "options": [
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?",
+      "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?",
+      "ᱦᱚᱴᱮᱞ ᱚᱠᱟᱨᱮ?",
+      "ᱴᱮᱠᱥᱤ ᱚᱠᱟᱨᱮ ᱧᱟᱢᱚᱜ-ᱟ?"
+    ],
+    "answer": "ᱪᱤᱫ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Santali?",
+    "options": [
+      "ᱴᱮᱠᱥᱤ ᱚᱠᱟᱨᱮ ᱧᱟᱢᱚᱜ-ᱟ?",
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?",
+      "ᱦᱚᱴᱮᱞ ᱚᱠᱟᱨᱮ?"
+    ],
+    "answer": "ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱺᱜᱤᱧ?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Santali?",
+    "options": [
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?",
+      "ᱦᱚᱴᱮᱞ ᱚᱠᱟᱨᱮ?",
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱴᱮᱠᱥᱤ ᱚᱠᱟᱨᱮ ᱧᱟᱢᱚᱜ-ᱟ?"
+    ],
+    "answer": "ᱴᱮᱠᱥᱤ ᱚᱠᱟᱨᱮ ᱧᱟᱢᱚᱜ-ᱟ?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Santali?",
+    "options": [
+      "ᱦᱚᱴᱮᱞ ᱚᱠᱟᱨᱮ?",
+      "ᱤᱧ ᱦᱚᱨ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ",
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?"
+    ],
+    "answer": "ᱦᱚᱴᱮᱞ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Santali?",
+    "options": [
+      "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?",
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱚᱠᱟᱨᱮ?",
+      "ᱤᱧ ᱦᱚᱨ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱱᱚᱠᱥᱟᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Santali?",
+    "options": [
+      "ᱤᱧ ᱦᱚᱨ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ",
+      "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?",
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱚᱠᱟᱨᱮ?",
+      "ᱦᱚᱭ ᱰᱟᱦᱟᱨ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?"
+    ],
+    "answer": "ᱵᱟᱛᱷᱨᱩᱢ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Santali?",
+    "options": [
+      "ᱦᱚᱭ ᱰᱟᱦᱟᱨ ᱪᱮᱫ ᱞᱮᱠᱟ ᱥᱮᱱᱚᱜ?",
+      "ᱤᱧ ᱦᱚᱨ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ",
+      "ᱥᱚᱦᱚᱨ ᱚᱠᱟ ᱵᱟᱥ ᱥᱮᱱᱚᱜ-ᱟ?",
+      "ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ ᱚᱠᱟᱨᱮ?"
+    ],
+    "answer": "ᱤᱧ ᱦᱚᱨ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Santali?",
+    "options": [
+      "ᱤᱧᱟᱜ ᱰᱟᱠᱛᱚᱨ ᱞᱟᱹᱠᱛᱤ",
+      "ᱦᱟᱥᱯᱟᱛᱟᱞ ᱚᱠᱟᱨᱮ?",
+      "ᱯᱩᱞᱤᱥ ᱠᱚ ᱦᱚᱦᱚ ᱢᱮ",
+      "ᱤᱧ ᱟᱡᱟᱨᱟᱱ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱯᱩᱞᱤᱥ ᱠᱚ ᱦᱚᱦᱚ ᱢᱮ"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Santali?",
+    "options": [
+      "ᱦᱟᱥᱯᱟᱛᱟᱞ ᱚᱠᱟᱨᱮ?",
+      "ᱤᱧᱟᱜ ᱰᱟᱠᱛᱚᱨ ᱞᱟᱹᱠᱛᱤ",
+      "ᱜᱚᱲᱚ!",
+      "ᱤᱧ ᱟᱡᱟᱨᱟᱱ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧᱟᱜ ᱰᱟᱠᱛᱚᱨ ᱞᱟᱹᱠᱛᱤ"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Santali?",
+    "options": [
+      "ᱤᱧᱟᱜ ᱵᱟᱴᱩᱣᱟ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ",
+      "ᱜᱚᱲᱚ!",
+      "ᱤᱧ ᱟᱡᱟᱨᱟᱱ ᱠᱟᱱᱟᱧ",
+      "ᱦᱟᱥᱯᱟᱛᱟᱞ ᱚᱠᱟᱨᱮ?"
+    ],
+    "answer": "ᱦᱟᱥᱯᱟᱛᱟᱞ ᱚᱠᱟᱨᱮ?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Santali?",
+    "options": [
+      "ᱥᱮᱸᱜᱮᱞ ᱢᱮᱱᱟᱜ-ᱟ",
+      "ᱜᱚᱲᱚ!",
+      "ᱤᱧᱟᱜ ᱵᱟᱴᱩᱣᱟ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ",
+      "ᱤᱧ ᱟᱡᱟᱨᱟᱱ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧ ᱟᱡᱟᱨᱟᱱ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Santali?",
+    "options": [
+      "ᱜᱚᱲᱚ!",
+      "ᱤᱧᱟᱜ ᱫᱩᱨᱜᱚᱴᱚᱱᱟ ᱦᱩᱭ ᱟᱠᱟᱱᱟ",
+      "ᱤᱧᱟᱜ ᱵᱟᱴᱩᱣᱟ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ",
+      "ᱥᱮᱸᱜᱮᱞ ᱢᱮᱱᱟᱜ-ᱟ"
+    ],
+    "answer": "ᱜᱚᱲᱚ!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Santali?",
+    "options": [
+      "ᱤᱧ ᱜᱷᱟᱹᱭᱚᱞ ᱟᱠᱟᱱᱟᱧ",
+      "ᱤᱧᱟᱜ ᱫᱩᱨᱜᱚᱴᱚᱱᱟ ᱦᱩᱭ ᱟᱠᱟᱱᱟ",
+      "ᱥᱮᱸᱜᱮᱞ ᱢᱮᱱᱟᱜ-ᱟ",
+      "ᱤᱧᱟᱜ ᱵᱟᱴᱩᱣᱟ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱤᱧᱟᱜ ᱵᱟᱴᱩᱣᱟ ᱦᱟᱹᱨᱭᱟᱹᱣ ᱟᱠᱟᱱᱟ"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ",
+      "ᱥᱮᱸᱜᱮᱞ ᱢᱮᱱᱟᱜ-ᱟ",
+      "ᱤᱧ ᱜᱷᱟᱹᱭᱚᱞ ᱟᱠᱟᱱᱟᱧ",
+      "ᱤᱧᱟᱜ ᱫᱩᱨᱜᱚᱴᱚᱱᱟ ᱦᱩᱭ ᱟᱠᱟᱱᱟ"
+    ],
+    "answer": "ᱥᱮᱸᱜᱮᱞ ᱢᱮᱱᱟᱜ-ᱟ"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Santali?",
+    "options": [
+      "ᱤᱧ ᱜᱷᱟᱹᱭᱚᱞ ᱟᱠᱟᱱᱟᱧ",
+      "ᱯᱩᱞᱤᱥ ᱠᱚ ᱦᱚᱦᱚ ᱢᱮ",
+      "ᱤᱧᱟᱜ ᱫᱩᱨᱜᱚᱴᱚᱱᱟ ᱦᱩᱭ ᱟᱠᱟᱱᱟ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ"
+    ],
+    "answer": "ᱤᱧᱟᱜ ᱫᱩᱨᱜᱚᱴᱚᱱᱟ ᱦᱩᱭ ᱟᱠᱟᱱᱟ"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Santali?",
+    "options": [
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ",
+      "ᱤᱧᱟᱜ ᱰᱟᱠᱛᱚᱨ ᱞᱟᱹᱠᱛᱤ",
+      "ᱤᱧ ᱜᱷᱟᱹᱭᱚᱞ ᱟᱠᱟᱱᱟᱧ",
+      "ᱯᱩᱞᱤᱥ ᱠᱚ ᱦᱚᱦᱚ ᱢᱮ"
+    ],
+    "answer": "ᱤᱧ ᱜᱷᱟᱹᱭᱚᱞ ᱟᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Santali?",
+    "options": [
+      "ᱯᱩᱞᱤᱥ ᱠᱚ ᱦᱚᱦᱚ ᱢᱮ",
+      "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ",
+      "ᱤᱧᱟᱜ ᱰᱟᱠᱛᱚᱨ ᱞᱟᱹᱠᱛᱤ",
+      "ᱦᱟᱥᱯᱟᱛᱟᱞ ᱚᱠᱟᱨᱮ?"
+    ],
+    "answer": "ᱫᱚᱭᱟ ᱠᱟᱛᱮ ᱤᱧᱟᱜ ᱜᱚᱲᱚ ᱢᱮ"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Santali?",
+    "options": [
+      "ᱛᱮᱦᱮᱸ ᱧᱤᱫᱟᱹ ᱟᱢ ᱯᱷᱟᱨᱟᱜ ᱢᱮᱱᱟᱢ?",
+      "ᱯᱷᱤᱞᱢ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱞᱟᱜ",
+      "ᱟᱢᱟᱜ ᱯᱞᱟᱱ ᱪᱤᱫ?",
+      "ᱜᱟᱯᱟ ᱧᱮᱞᱚᱜ ᱞᱟᱹᱜᱤᱫ"
+    ],
+    "answer": "ᱟᱢᱟᱜ ᱯᱞᱟᱱ ᱪᱤᱫ?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Santali?",
+    "options": [
+      "ᱛᱮᱦᱮᱸ ᱧᱤᱫᱟᱹ ᱟᱢ ᱯᱷᱟᱨᱟᱜ ᱢᱮᱱᱟᱢ?",
+      "ᱯᱷᱤᱞᱢ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱞᱟᱜ",
+      "ᱜᱟᱯᱟ ᱧᱮᱞᱚᱜ ᱞᱟᱹᱜᱤᱫ",
+      "ᱟᱞᱮ ᱢᱤᱫ ᱛᱮ ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ?"
+    ],
+    "answer": "ᱜᱟᱯᱟ ᱧᱮᱞᱚᱜ ᱞᱟᱹᱜᱤᱫ"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Santali?",
+    "options": [
+      "ᱯᱷᱤᱞᱢ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱞᱟᱜ",
+      "ᱟᱞᱮ ᱢᱤᱫ ᱛᱮ ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ?",
+      "ᱟᱢ ᱟᱞᱮ ᱥᱟᱶ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱛᱮᱦᱮᱸ ᱧᱤᱫᱟᱹ ᱟᱢ ᱯᱷᱟᱨᱟᱜ ᱢᱮᱱᱟᱢ?"
+    ],
+    "answer": "ᱛᱮᱦᱮᱸ ᱧᱤᱫᱟᱹ ᱟᱢ ᱯᱷᱟᱨᱟᱜ ᱢᱮᱱᱟᱢ?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Santali?",
+    "options": [
+      "ᱤᱧ ᱛᱮᱦᱮᱸ ᱵᱤᱡᱤ ᱠᱟᱱᱟᱧ",
+      "ᱟᱞᱮ ᱢᱤᱫ ᱛᱮ ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ?",
+      "ᱯᱷᱤᱞᱢ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱞᱟᱜ",
+      "ᱟᱢ ᱟᱞᱮ ᱥᱟᱶ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱯᱷᱤᱞᱢ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱞᱟᱜ"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Santali?",
+    "options": [
+      "ᱟᱞᱮ ᱢᱤᱫ ᱛᱮ ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ?",
+      "ᱤᱧ ᱛᱮᱦᱮᱸ ᱵᱤᱡᱤ ᱠᱟᱱᱟᱧ",
+      "ᱛᱟᱭᱚᱢ ᱧᱮᱞᱚᱜ",
+      "ᱟᱢ ᱟᱞᱮ ᱥᱟᱶ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+    ],
+    "answer": "ᱟᱞᱮ ᱢᱤᱫ ᱛᱮ ᱫᱩᱯᱩᱞᱟᱹᱝ ᱡᱚᱢ ᱞᱟᱹᱜᱤᱫ?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Santali?",
+    "options": [
+      "ᱤᱧ ᱛᱮᱦᱮᱸ ᱵᱤᱡᱤ ᱠᱟᱱᱟᱧ",
+      "ᱟᱢ ᱟᱞᱮ ᱥᱟᱶ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?",
+      "ᱤᱧ ᱟᱢ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ",
+      "ᱛᱟᱭᱚᱢ ᱧᱮᱞᱚᱜ"
+    ],
+    "answer": "ᱟᱢ ᱟᱞᱮ ᱥᱟᱶ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Santali?",
+    "options": [
+      "ᱛᱟᱭᱚᱢ ᱧᱮᱞᱚᱜ",
+      "ᱤᱧ ᱟᱢ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ",
+      "ᱟᱞᱮ ᱢᱟᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+      "ᱤᱧ ᱛᱮᱦᱮᱸ ᱵᱤᱡᱤ ᱠᱟᱱᱟᱧ"
+    ],
+    "answer": "ᱤᱧ ᱛᱮᱦᱮᱸ ᱵᱤᱡᱤ ᱠᱟᱱᱟᱧ"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Santali?",
+    "options": [
+      "ᱤᱧ ᱟᱢ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ",
+      "ᱟᱢᱟᱜ ᱯᱞᱟᱱ ᱪᱤᱫ?",
+      "ᱟᱞᱮ ᱢᱟᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+      "ᱛᱟᱭᱚᱢ ᱧᱮᱞᱚᱜ"
+    ],
+    "answer": "ᱛᱟᱭᱚᱢ ᱧᱮᱞᱚᱜ"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Santali?",
+    "options": [
+      "ᱜᱟᱯᱟ ᱧᱮᱞᱚᱜ ᱞᱟᱹᱜᱤᱫ",
+      "ᱟᱞᱮ ᱢᱟᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ",
+      "ᱤᱧ ᱟᱢ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ",
+      "ᱟᱢᱟᱜ ᱯᱞᱟᱱ ᱪᱤᱫ?"
+    ],
+    "answer": "ᱤᱧ ᱟᱢ ᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Santali",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Santali?",
+    "options": [
+      "ᱟᱢᱟᱜ ᱯᱞᱟᱱ ᱪᱤᱫ?",
+      "ᱛᱮᱦᱮᱸ ᱧᱤᱫᱟᱹ ᱟᱢ ᱯᱷᱟᱨᱟᱜ ᱢᱮᱱᱟᱢ?",
+      "ᱜᱟᱯᱟ ᱧᱮᱞᱚᱜ ᱞᱟᱹᱜᱤᱫ",
+      "ᱟᱞᱮ ᱢᱟᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ"
+    ],
+    "answer": "ᱟᱞᱮ ᱢᱟᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ"
+  }
+]

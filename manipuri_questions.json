@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'a'?",
+    "options": [
+      "আ",
+      "ই",
+      "ঈ",
+      "অ"
+    ],
+    "answer": "অ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'aa'?",
+    "options": [
+      "ই",
+      "ঈ",
+      "আ",
+      "উ"
+    ],
+    "answer": "আ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'i'?",
+    "options": [
+      "ঊ",
+      "ই",
+      "উ",
+      "ঈ"
+    ],
+    "answer": "ই"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'ee'?",
+    "options": [
+      "ঊ",
+      "ঈ",
+      "উ",
+      "এ"
+    ],
+    "answer": "ঈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'u'?",
+    "options": [
+      "এ",
+      "ঊ",
+      "ঐ",
+      "উ"
+    ],
+    "answer": "উ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'oo'?",
+    "options": [
+      "ও",
+      "ঊ",
+      "এ",
+      "ঐ"
+    ],
+    "answer": "ঊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'e'?",
+    "options": [
+      "ও",
+      "এ",
+      "ঔ",
+      "ঐ"
+    ],
+    "answer": "এ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'ai'?",
+    "options": [
+      "ও",
+      "ঔ",
+      "ঐ",
+      "অ"
+    ],
+    "answer": "ঐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'o'?",
+    "options": [
+      "ঔ",
+      "অ",
+      "আ",
+      "ও"
+    ],
+    "answer": "ও"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Manipuri vowel for 'au'?",
+    "options": [
+      "ই",
+      "অ",
+      "ঔ",
+      "আ"
+    ],
+    "answer": "ঔ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'ka'?",
+    "options": [
+      "গ",
+      "ঘ",
+      "খ",
+      "ক"
+    ],
+    "answer": "ক"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'kha'?",
+    "options": [
+      "ঘ",
+      "চ",
+      "খ",
+      "গ"
+    ],
+    "answer": "খ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'ga'?",
+    "options": [
+      "ছ",
+      "চ",
+      "ঘ",
+      "গ"
+    ],
+    "answer": "গ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'gha'?",
+    "options": [
+      "জ",
+      "ছ",
+      "ঘ",
+      "চ"
+    ],
+    "answer": "ঘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'cha'?",
+    "options": [
+      "ছ",
+      "চ",
+      "ঝ",
+      "জ"
+    ],
+    "answer": "চ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'chha'?",
+    "options": [
+      "জ",
+      "ঝ",
+      "ছ",
+      "ত"
+    ],
+    "answer": "ছ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'ja'?",
+    "options": [
+      "থ",
+      "ত",
+      "ঝ",
+      "জ"
+    ],
+    "answer": "জ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'jha'?",
+    "options": [
+      "ঝ",
+      "ত",
+      "ক",
+      "থ"
+    ],
+    "answer": "ঝ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'ta'?",
+    "options": [
+      "থ",
+      "খ",
+      "ক",
+      "ত"
+    ],
+    "answer": "ত"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Manipuri consonant for 'tha'?",
+    "options": [
+      "খ",
+      "থ",
+      "ক",
+      "গ"
+    ],
+    "answer": "থ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ক' + 'া'?",
+    "options": [
+      "কা",
+      "তে",
+      "পু",
+      "মি"
+    ],
+    "answer": "কা"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'প' + 'ু'?",
+    "options": [
+      "সূ",
+      "পু",
+      "তে",
+      "মি"
+    ],
+    "answer": "পু"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ম' + 'ি'?",
+    "options": [
+      "তে",
+      "মি",
+      "নো",
+      "সূ"
+    ],
+    "answer": "মি"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ত' + 'ে'?",
+    "options": [
+      "নো",
+      "তে",
+      "সূ",
+      "রা"
+    ],
+    "answer": "তে"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'স' + 'ূ'?",
+    "options": [
+      "লে",
+      "নো",
+      "রা",
+      "সূ"
+    ],
+    "answer": "সূ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ন' + 'ো'?",
+    "options": [
+      "রা",
+      "লে",
+      "দি",
+      "নো"
+    ],
+    "answer": "নো"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'র' + 'া'?",
+    "options": [
+      "বু",
+      "লে",
+      "রা",
+      "দি"
+    ],
+    "answer": "রা"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ল' + 'ে'?",
+    "options": [
+      "দি",
+      "কা",
+      "বু",
+      "লে"
+    ],
+    "answer": "লে"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'দ' + 'ি'?",
+    "options": [
+      "পু",
+      "কা",
+      "বু",
+      "দি"
+    ],
+    "answer": "দি"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ব' + 'ু'?",
+    "options": [
+      "বু",
+      "মি",
+      "কা",
+      "পু"
+    ],
+    "answer": "বু"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'লৈরিক'? (in Manipuri)",
+    "options": [
+      "Hand",
+      "Book",
+      "School",
+      "Pen"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'মযেক'? (in Manipuri)",
+    "options": [
+      "Pen",
+      "School",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'স্কুল'? (in Manipuri)",
+    "options": [
+      "Hand",
+      "School",
+      "Flowers",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'খুৎ'? (in Manipuri)",
+    "options": [
+      "Flowers",
+      "Tree",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'মহৈং'? (in Manipuri)",
+    "options": [
+      "Tree",
+      "Slate",
+      "Fruit",
+      "Flowers"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'লৈ'? (in Manipuri)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Speak",
+      "Flowers"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'উ'? (in Manipuri)",
+    "options": [
+      "Tree",
+      "Speech",
+      "Slate",
+      "Speak"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ফম'? (in Manipuri)",
+    "options": [
+      "Book",
+      "Speech",
+      "Slate",
+      "Speak"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ৱা'? (in Manipuri)",
+    "options": [
+      "Speak",
+      "Pen",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'লোল'? (in Manipuri)",
+    "options": [
+      "Speech",
+      "Pen",
+      "School",
+      "Book"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'book'?",
+    "options": [
+      "লৈরিক",
+      "বেগ",
+      "স্কুল",
+      "মযেক"
+    ],
+    "answer": "লৈরিক"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'pen'?",
+    "options": [
+      "মযেক",
+      "ফমুং",
+      "স্কুল",
+      "বেগ"
+    ],
+    "answer": "মযেক"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'school'?",
+    "options": [
+      "তেবল",
+      "ফমুং",
+      "স্কুল",
+      "বেগ"
+    ],
+    "answer": "স্কুল"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'bag'?",
+    "options": [
+      "ফম",
+      "বেগ",
+      "ফমুং",
+      "তেবল"
+    ],
+    "answer": "বেগ"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'chair'?",
+    "options": [
+      "থোংবাল",
+      "ফমুং",
+      "ফম",
+      "তেবল"
+    ],
+    "answer": "ফমুং"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'table'?",
+    "options": [
+      "থোং",
+      "তেবল",
+      "ফম",
+      "থোংবাল"
+    ],
+    "answer": "তেবল"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'slate'?",
+    "options": [
+      "থোং",
+      "ফম",
+      "পাংখা",
+      "থোংবাল"
+    ],
+    "answer": "ফম"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'window'?",
+    "options": [
+      "লৈরিক",
+      "পাংখা",
+      "থোং",
+      "থোংবাল"
+    ],
+    "answer": "থোংবাল"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'door'?",
+    "options": [
+      "লৈরিক",
+      "পাংখা",
+      "থোং",
+      "মযেক"
+    ],
+    "answer": "থোং"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Manipuri word for 'fan'?",
+    "options": [
+      "পাংখা",
+      "লৈরিক",
+      "মযেক",
+      "স্কুল"
+    ],
+    "answer": "পাংখা"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'rice'?",
+    "options": [
+      "শিং",
+      "মহৈং",
+      "হাৱাই",
+      "চেং"
+    ],
+    "answer": "চেং"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'milk'?",
+    "options": [
+      "শিং",
+      "ইশিং",
+      "মহৈং",
+      "হাৱাই"
+    ],
+    "answer": "শিং"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'fruit'?",
+    "options": [
+      "হাৱাই",
+      "ইশিং",
+      "মহৈং",
+      "শো"
+    ],
+    "answer": "মহৈং"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'vegetable'?",
+    "options": [
+      "তাউ",
+      "শো",
+      "ইশিং",
+      "হাৱাই"
+    ],
+    "answer": "হাৱাই"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'water'?",
+    "options": [
+      "আঙ্গোম",
+      "ইশিং",
+      "তাউ",
+      "শো"
+    ],
+    "answer": "ইশিং"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'curd'?",
+    "options": [
+      "তাউ",
+      "আঙ্গোম",
+      "ঙা",
+      "শো"
+    ],
+    "answer": "শো"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'bread'?",
+    "options": [
+      "ঙা",
+      "আঙ্গোম",
+      "খীর",
+      "তাউ"
+    ],
+    "answer": "তাউ"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'egg'?",
+    "options": [
+      "খীর",
+      "ঙা",
+      "আঙ্গোম",
+      "চেং"
+    ],
+    "answer": "আঙ্গোম"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'fish'?",
+    "options": [
+      "ঙা",
+      "খীর",
+      "শিং",
+      "চেং"
+    ],
+    "answer": "ঙা"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'sweet'?",
+    "options": [
+      "খীর",
+      "চেং",
+      "মহৈং",
+      "শিং"
+    ],
+    "answer": "খীর"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'mother'?",
+    "options": [
+      "ইচিল নুপা",
+      "ইপা",
+      "ইচিল নুপী",
+      "ইমা"
+    ],
+    "answer": "ইমা"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'father'?",
+    "options": [
+      "ইপা",
+      "ইবেমা",
+      "ইচিল নুপা",
+      "ইচিল নুপী"
+    ],
+    "answer": "ইপা"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'sister'?",
+    "options": [
+      "ইবুপা",
+      "ইবেমা",
+      "ইচিল নুপা",
+      "ইচিল নুপী"
+    ],
+    "answer": "ইচিল নুপী"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'brother'?",
+    "options": [
+      "ইবেমা",
+      "ইচিল নুপা",
+      "ইবুপা",
+      "ইচা"
+    ],
+    "answer": "ইচিল নুপা"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'grandmother'?",
+    "options": [
+      "ইচা",
+      "ইনে",
+      "ইবুপা",
+      "ইবেমা"
+    ],
+    "answer": "ইবেমা"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'grandfather'?",
+    "options": [
+      "ইবুপা",
+      "ইচা",
+      "চাপা",
+      "ইনে"
+    ],
+    "answer": "ইবুপা"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'uncle'?",
+    "options": [
+      "ইনে",
+      "ইচা",
+      "চানুবী",
+      "চাপা"
+    ],
+    "answer": "ইচা"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'aunt'?",
+    "options": [
+      "ইমা",
+      "চানুবী",
+      "ইনে",
+      "চাপা"
+    ],
+    "answer": "ইনে"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'son'?",
+    "options": [
+      "চাপা",
+      "চানুবী",
+      "ইমা",
+      "ইপা"
+    ],
+    "answer": "চাপা"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Manipuri word for 'daughter'?",
+    "options": [
+      "ইমা",
+      "ইচিল নুপী",
+      "চানুবী",
+      "ইপা"
+    ],
+    "answer": "চানুবী"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'tree'?",
+    "options": [
+      "লৈ",
+      "তুরেল",
+      "চিং",
+      "উ"
+    ],
+    "answer": "উ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'flower'?",
+    "options": [
+      "লৈ",
+      "মপান",
+      "চিং",
+      "তুরেল"
+    ],
+    "answer": "লৈ"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'river'?",
+    "options": [
+      "তুরেল",
+      "মপান",
+      "আতিয়া",
+      "চিং"
+    ],
+    "answer": "তুরেল"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'mountain'?",
+    "options": [
+      "চিং",
+      "আতিয়া",
+      "নোং",
+      "মপান"
+    ],
+    "answer": "চিং"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'leaf'?",
+    "options": [
+      "নুমিৎ",
+      "নোং",
+      "মপান",
+      "আতিয়া"
+    ],
+    "answer": "মপান"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'sky'?",
+    "options": [
+      "আতিয়া",
+      "নোং",
+      "থা",
+      "নুমিৎ"
+    ],
+    "answer": "আতিয়া"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'rain'?",
+    "options": [
+      "থৱান",
+      "নোং",
+      "থা",
+      "নুমিৎ"
+    ],
+    "answer": "নোং"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'sun'?",
+    "options": [
+      "থৱান",
+      "থা",
+      "উ",
+      "নুমিৎ"
+    ],
+    "answer": "নুমিৎ"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'moon'?",
+    "options": [
+      "থা",
+      "লৈ",
+      "থৱান",
+      "উ"
+    ],
+    "answer": "থা"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Manipuri word for 'star'?",
+    "options": [
+      "লৈ",
+      "তুরেল",
+      "থৱান",
+      "উ"
+    ],
+    "answer": "থৱান"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Manipuri?",
+    "options": [
+      "নুমিদাং নুংআইবা",
+      "খুরুমজরী",
+      "নুংশিৎ নুংআইবা",
+      "তরাং খংবা"
+    ],
+    "answer": "খুরুমজরী"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Manipuri?",
+    "options": [
+      "নুমিদাং নুংআইবা",
+      "তরাং খংবা",
+      "করমনা লৈবগে?",
+      "নুংশিৎ নুংআইবা"
+    ],
+    "answer": "নুংশিৎ নুংআইবা"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Manipuri?",
+    "options": [
+      "করমনা লৈবগে?",
+      "তরাং খংবা",
+      "ফবা",
+      "নুমিদাং নুংআইবা"
+    ],
+    "answer": "নুমিদাং নুংআইবা"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Manipuri?",
+    "options": [
+      "ফবা",
+      "করমনা লৈবগে?",
+      "অমুক উনবা",
+      "তরাং খংবা"
+    ],
+    "answer": "তরাং খংবা"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Manipuri?",
+    "options": [
+      "ফবা",
+      "করমনা লৈবগে?",
+      "চৎখ্রবা",
+      "অমুক উনবা"
+    ],
+    "answer": "করমনা লৈবগে?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Manipuri?",
+    "options": [
+      "ফবা",
+      "চেংশিল্লু",
+      "চৎখ্রবা",
+      "অমুক উনবা"
+    ],
+    "answer": "ফবা"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Manipuri?",
+    "options": [
+      "থাগৎচরী",
+      "চেংশিল্লু",
+      "অমুক উনবা",
+      "চৎখ্রবা"
+    ],
+    "answer": "অমুক উনবা"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Manipuri?",
+    "options": [
+      "চৎখ্রবা",
+      "চেংশিল্লু",
+      "থাগৎচরী",
+      "খুরুমজরী"
+    ],
+    "answer": "চৎখ্রবা"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Manipuri?",
+    "options": [
+      "নুংশিৎ নুংআইবা",
+      "চেংশিল্লু",
+      "থাগৎচরী",
+      "খুরুমজরী"
+    ],
+    "answer": "চেংশিল্লু"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Manipuri?",
+    "options": [
+      "থাগৎচরী",
+      "নুংশিৎ নুংআইবা",
+      "খুরুমজরী",
+      "নুমিদাং নুংআইবা"
+    ],
+    "answer": "থাগৎচরী"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Manipuri?",
+    "options": [
+      "ঐ ওজা অমনি",
+      "ঐ ... দগী লাক্লে",
+      "ঐগী মিং ...নি",
+      "ঐ মহৈরোই অমনি"
+    ],
+    "answer": "ঐগী মিং ...নি"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Manipuri?",
+    "options": [
+      "ঐ ... দগী লাক্লে",
+      "নংবু উনবা নুংআইজরে",
+      "ঐ ওজা অমনি",
+      "ঐ মহৈরোই অমনি"
+    ],
+    "answer": "ঐ ... দগী লাক্লে"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Manipuri?",
+    "options": [
+      "ঐ ওজা অমনি",
+      "নংবু উনবা নুংআইজরে",
+      "ঐ ... দা লৈ",
+      "ঐ মহৈরোই অমনি"
+    ],
+    "answer": "ঐ মহৈরোই অমনি"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Manipuri?",
+    "options": [
+      "ঐ ওজা অমনি",
+      "নংবু উনবা নুংআইজরে",
+      "ঐ ... দা লৈ",
+      "ঐ মৈতৈলোন তম্লি"
+    ],
+    "answer": "ঐ ওজা অমনি"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Manipuri?",
+    "options": [
+      "ঐ ... দা লৈ",
+      "নংবু উনবা নুংআইজরে",
+      "ঐ মৈতৈলোন তম্লি",
+      "নংগী মিং করিনো?"
+    ],
+    "answer": "নংবু উনবা নুংআইজরে"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Manipuri?",
+    "options": [
+      "নং কদাইদগী লাক্লগে?",
+      "নংগী মিং করিনো?",
+      "ঐ ... দা লৈ",
+      "ঐ মৈতৈলোন তম্লি"
+    ],
+    "answer": "ঐ ... দা লৈ"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Manipuri' in Manipuri?",
+    "options": [
+      "নং কদাইদগী লাক্লগে?",
+      "নংগী মিং করিনো?",
+      "ঐ মৈতৈলোন তম্লি",
+      "নংগী চহি কয়া ওইবগে?"
+    ],
+    "answer": "ঐ মৈতৈলোন তম্লি"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Manipuri?",
+    "options": [
+      "ঐগী মিং ...নি",
+      "নংগী চহি কয়া ওইবগে?",
+      "নং কদাইদগী লাক্লগে?",
+      "নংগী মিং করিনো?"
+    ],
+    "answer": "নংগী মিং করিনো?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Manipuri?",
+    "options": [
+      "নংগী চহি কয়া ওইবগে?",
+      "ঐ ... দগী লাক্লে",
+      "নং কদাইদগী লাক্লগে?",
+      "ঐগী মিং ...নি"
+    ],
+    "answer": "নং কদাইদগী লাক্লগে?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Manipuri?",
+    "options": [
+      "ঐগী মিং ...নি",
+      "ঐ ... দগী লাক্লে",
+      "নংগী চহি কয়া ওইবগে?",
+      "ঐ মহৈরোই অমনি"
+    ],
+    "answer": "নংগী চহি কয়া ওইবগে?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Manipuri?",
+    "options": [
+      "অদুগুম্বা",
+      "নত্তে",
+      "ওইবা যায়",
+      "হোই"
+    ],
+    "answer": "হোই"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Manipuri?",
+    "options": [
+      "কৈদৌদা নত্তে",
+      "ওইবা যায়",
+      "অদুগুম্বা",
+      "নত্তে"
+    ],
+    "answer": "নত্তে"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Manipuri?",
+    "options": [
+      "ওইবা যায়",
+      "মতম খরদা",
+      "অদুগুম্বা",
+      "কৈদৌদা নত্তে"
+    ],
+    "answer": "ওইবা যায়"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Manipuri?",
+    "options": [
+      "কৈদৌদা নত্তে",
+      "মতম পুম্বদা",
+      "অদুগুম্বা",
+      "মতম খরদা"
+    ],
+    "answer": "অদুগুম্বা"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Manipuri?",
+    "options": [
+      "অমত্তা নত্তে",
+      "মতম পুম্বদা",
+      "মতম খরদা",
+      "কৈদৌদা নত্তে"
+    ],
+    "answer": "কৈদৌদা নত্তে"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Manipuri?",
+    "options": [
+      "মতম খরদা",
+      "অমত্তা নত্তে",
+      "চুম্না",
+      "মতম পুম্বদা"
+    ],
+    "answer": "মতম খরদা"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Manipuri?",
+    "options": [
+      "ঐনা খংদে",
+      "চুম্না",
+      "অমত্তা নত্তে",
+      "মতম পুম্বদা"
+    ],
+    "answer": "মতম পুম্বদা"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Manipuri?",
+    "options": [
+      "চুম্না",
+      "অমত্তা নত্তে",
+      "হোই",
+      "ঐনা খংদে"
+    ],
+    "answer": "অমত্তা নত্তে"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Manipuri?",
+    "options": [
+      "চুম্না",
+      "হোই",
+      "নত্তে",
+      "ঐনা খংদে"
+    ],
+    "answer": "চুম্না"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Manipuri?",
+    "options": [
+      "হোই",
+      "ওইবা যায়",
+      "ঐনা খংদে",
+      "নত্তে"
+    ],
+    "answer": "ঐনা খংদে"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Manipuri?",
+    "options": [
+      "থাগৎচরী",
+      "পুক্নিং চংবীয়ু",
+      "পুক্নিং চংবীয়ু",
+      "চানবীদুনা"
+    ],
+    "answer": "থাগৎচরী"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Manipuri?",
+    "options": [
+      "পুক্নিং চংবীয়ু",
+      "পুক্নিং চংবীয়ু",
+      "তরাং খংবা",
+      "চানবীদুনা"
+    ],
+    "answer": "পুক্নিং চংবীয়ু"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Manipuri?",
+    "options": [
+      "চানবীদুনা",
+      "তরাং খংবা",
+      "পুক্নিং চংবীয়ু",
+      "অশোয়বা অমত্তা লৈতে"
+    ],
+    "answer": "চানবীদুনা"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Manipuri?",
+    "options": [
+      "পুক্নিং চংবীয়ু",
+      "নুংআইবা",
+      "তরাং খংবা",
+      "অশোয়বা অমত্তা লৈতে"
+    ],
+    "answer": "পুক্নিং চংবীয়ু"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Manipuri?",
+    "options": [
+      "ইবুঙ্গো আশীর্বাদ পীবীরসানু",
+      "তরাং খংবা",
+      "নুংআইবা",
+      "অশোয়বা অমত্তা লৈতে"
+    ],
+    "answer": "তরাং খংবা"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Manipuri?",
+    "options": [
+      "অশোয়বা অমত্তা লৈতে",
+      "ইবুঙ্গো আশীর্বাদ পীবীরসানু",
+      "নুংআইবা",
+      "অফবা পোৎশক"
+    ],
+    "answer": "অশোয়বা অমত্তা লৈতে"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Manipuri?",
+    "options": [
+      "নুংআইবা",
+      "অফবা পোৎশক",
+      "ইবুঙ্গো আশীর্বাদ পীবীরসানু",
+      "পোক্পা নুমিৎকী নুংআইবা"
+    ],
+    "answer": "নুংআইবা"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Manipuri?",
+    "options": [
+      "পোক্পা নুমিৎকী নুংআইবা",
+      "অফবা পোৎশক",
+      "থাগৎচরী",
+      "ইবুঙ্গো আশীর্বাদ পীবীরসানু"
+    ],
+    "answer": "ইবুঙ্গো আশীর্বাদ পীবীরসানু"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Manipuri?",
+    "options": [
+      "পুক্নিং চংবীয়ু",
+      "পোক্পা নুমিৎকী নুংআইবা",
+      "অফবা পোৎশক",
+      "থাগৎচরী"
+    ],
+    "answer": "অফবা পোৎশক"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Manipuri",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Manipuri?",
+    "options": [
+      "থাগৎচরী",
+      "পোক্পা নুমিৎকী নুংআইবা",
+      "চানবীদুনা",
+      "পুক্নিং চংবীয়ু"
+    ],
+    "answer": "পোক্পা নুমিৎকী নুংআইবা"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'ki'?",
+    "options": [
+      "কো",
+      "কি",
+      "কে",
+      "কু"
+    ],
+    "answer": "কি"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'ku'?",
+    "options": [
+      "কু",
+      "কো",
+      "গি",
+      "কে"
+    ],
+    "answer": "কু"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'ke'?",
+    "options": [
+      "গি",
+      "গু",
+      "কো",
+      "কে"
+    ],
+    "answer": "কে"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'ko'?",
+    "options": [
+      "গি",
+      "গু",
+      "কো",
+      "গে"
+    ],
+    "answer": "কো"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'gi'?",
+    "options": [
+      "গো",
+      "গি",
+      "গু",
+      "গে"
+    ],
+    "answer": "গি"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'gu'?",
+    "options": [
+      "চি",
+      "গু",
+      "গো",
+      "গে"
+    ],
+    "answer": "গু"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'ge'?",
+    "options": [
+      "গে",
+      "গো",
+      "চু",
+      "চি"
+    ],
+    "answer": "গে"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'go'?",
+    "options": [
+      "গো",
+      "চি",
+      "কি",
+      "চু"
+    ],
+    "answer": "গো"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'chi'?",
+    "options": [
+      "কু",
+      "কি",
+      "চু",
+      "চি"
+    ],
+    "answer": "চি"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Manipuri syllable for 'chu'?",
+    "options": [
+      "কু",
+      "কে",
+      "কি",
+      "চু"
+    ],
+    "answer": "চু"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'ksha'?",
+    "options": [
+      "শ্র",
+      "ক্ষ",
+      "জ্ঞ",
+      "ত্র"
+    ],
+    "answer": "ক্ষ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'tra'?",
+    "options": [
+      "ক্র",
+      "শ্র",
+      "জ্ঞ",
+      "ত্র"
+    ],
+    "answer": "ত্র"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'jna'?",
+    "options": [
+      "ক্র",
+      "শ্র",
+      "জ্ঞ",
+      "প্র"
+    ],
+    "answer": "জ্ঞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'shra'?",
+    "options": [
+      "স্র",
+      "শ্র",
+      "ক্র",
+      "প্র"
+    ],
+    "answer": "শ্র"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'kra'?",
+    "options": [
+      "ক্র",
+      "গ্র",
+      "প্র",
+      "স্র"
+    ],
+    "answer": "ক্র"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'pra'?",
+    "options": [
+      "গ্র",
+      "স্র",
+      "প্র",
+      "দ্র"
+    ],
+    "answer": "প্র"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'sra'?",
+    "options": [
+      "স্র",
+      "ন্ত",
+      "দ্র",
+      "গ্র"
+    ],
+    "answer": "স্র"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'gra'?",
+    "options": [
+      "গ্র",
+      "ন্ত",
+      "দ্র",
+      "ক্ষ"
+    ],
+    "answer": "গ্র"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'dra'?",
+    "options": [
+      "ত্র",
+      "ন্ত",
+      "ক্ষ",
+      "দ্র"
+    ],
+    "answer": "দ্র"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Manipuri ligature for 'nta'?",
+    "options": [
+      "ত্র",
+      "ক্ষ",
+      "ন্ত",
+      "জ্ঞ"
+    ],
+    "answer": "ন্ত"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'sha'?",
+    "options": [
+      "ল",
+      "স",
+      "শ",
+      "হ"
+    ],
+    "answer": "শ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'sa'?",
+    "options": [
+      "হ",
+      "স",
+      "ল",
+      "র"
+    ],
+    "answer": "স"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'ha'?",
+    "options": [
+      "হ",
+      "ৱ",
+      "ল",
+      "র"
+    ],
+    "answer": "হ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'la'?",
+    "options": [
+      "র",
+      "ৱ",
+      "য",
+      "ল"
+    ],
+    "answer": "ল"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'ra'?",
+    "options": [
+      "ৱ",
+      "ফ",
+      "র",
+      "য"
+    ],
+    "answer": "র"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'va'?",
+    "options": [
+      "ফ",
+      "জ",
+      "য",
+      "ৱ"
+    ],
+    "answer": "ৱ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'ya'?",
+    "options": [
+      "য",
+      "জ",
+      "ক্ব",
+      "ফ"
+    ],
+    "answer": "য"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'fa'?",
+    "options": [
+      "জ",
+      "ফ",
+      "ক্ব",
+      "শ"
+    ],
+    "answer": "ফ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'za'?",
+    "options": [
+      "জ",
+      "ক্ব",
+      "স",
+      "শ"
+    ],
+    "answer": "জ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Manipuri letter for 'qwa'?",
+    "options": [
+      "স",
+      "ক্ব",
+      "শ",
+      "হ"
+    ],
+    "answer": "ক্ব"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'ক্ষীর'?",
+    "options": [
+      "জ্ঞ",
+      "শ্র",
+      "ত্র",
+      "ক্ষ"
+    ],
+    "answer": "ক্ষ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'জ্ঞান'?",
+    "options": [
+      "জ্ঞ",
+      "শ্র",
+      "গ্র",
+      "ত্র"
+    ],
+    "answer": "জ্ঞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'ত্রিকোণ'?",
+    "options": [
+      "ত্র",
+      "গ্র",
+      "প্র",
+      "শ্র"
+    ],
+    "answer": "ত্র"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'শ্রদ্ধা'?",
+    "options": [
+      "শ্র",
+      "গ্র",
+      "প্র",
+      "স্র"
+    ],
+    "answer": "শ্র"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'গ্রন্থ'?",
+    "options": [
+      "প্র",
+      "গ্র",
+      "স্র",
+      "দ্র"
+    ],
+    "answer": "গ্র"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'প্রযত্ন'?",
+    "options": [
+      "প্র",
+      "স্র",
+      "ফ",
+      "দ্র"
+    ],
+    "answer": "প্র"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'স্রোত'?",
+    "options": [
+      "স্র",
+      "দ্র",
+      "ফ",
+      "হ"
+    ],
+    "answer": "স্র"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'দ্রব্য'?",
+    "options": [
+      "ক্ষ",
+      "দ্র",
+      "হ",
+      "ফ"
+    ],
+    "answer": "দ্র"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'ফল'?",
+    "options": [
+      "ফ",
+      "ক্ষ",
+      "জ্ঞ",
+      "হ"
+    ],
+    "answer": "ফ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Manipuri letter is used in the word 'হরিদ্বার'?",
+    "options": [
+      "ক্ষ",
+      "হ",
+      "জ্ঞ",
+      "ত্র"
+    ],
+    "answer": "হ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Sunday'?",
+    "options": [
+      "লৈবাকপোকপা",
+      "যেনশকৈবা",
+      "নোংমাইজিং",
+      "নিংথৌকাবা"
+    ],
+    "answer": "নোংমাইজিং"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Monday'?",
+    "options": [
+      "লৈবাকপোকপা",
+      "যেনশকৈবা",
+      "নিংথৌকাবা",
+      "শগোলশেন"
+    ],
+    "answer": "নিংথৌকাবা"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Tuesday'?",
+    "options": [
+      "লৈবাকপোকপা",
+      "যেনশকৈবা",
+      "শগোলশেন",
+      "ইরাই"
+    ],
+    "answer": "লৈবাকপোকপা"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Wednesday'?",
+    "options": [
+      "যেনশকৈবা",
+      "শগোলশেন",
+      "থাং",
+      "ইরাই"
+    ],
+    "answer": "যেনশকৈবা"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Thursday'?",
+    "options": [
+      "থাং",
+      "ঙসি",
+      "শগোলশেন",
+      "ইরাই"
+    ],
+    "answer": "শগোলশেন"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Friday'?",
+    "options": [
+      "হযেং",
+      "থাং",
+      "ইরাই",
+      "ঙসি"
+    ],
+    "answer": "ইরাই"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Saturday'?",
+    "options": [
+      "ঙসি",
+      "থাং",
+      "ঙরাং",
+      "হযেং"
+    ],
+    "answer": "থাং"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Today'?",
+    "options": [
+      "ঙরাং",
+      "নোংমাইজিং",
+      "ঙসি",
+      "হযেং"
+    ],
+    "answer": "ঙসি"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Tomorrow'?",
+    "options": [
+      "নিংথৌকাবা",
+      "নোংমাইজিং",
+      "ঙরাং",
+      "হযেং"
+    ],
+    "answer": "হযেং"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Manipuri word for 'Yesterday'?",
+    "options": [
+      "নিংথৌকাবা",
+      "ঙরাং",
+      "লৈবাকপোকপা",
+      "নোংমাইজিং"
+    ],
+    "answer": "ঙরাং"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'red'?",
+    "options": [
+      "অঙাংবা",
+      "হুদিংবা",
+      "নীলা",
+      "অশেংবা"
+    ],
+    "answer": "অঙাংবা"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'blue'?",
+    "options": [
+      "হুদিংবা",
+      "অমুবা",
+      "অশেংবা",
+      "নীলা"
+    ],
+    "answer": "নীলা"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'green'?",
+    "options": [
+      "অঙৌবা",
+      "অশেংবা",
+      "অমুবা",
+      "হুদিংবা"
+    ],
+    "answer": "অশেংবা"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'yellow'?",
+    "options": [
+      "কমলা",
+      "হুদিংবা",
+      "অমুবা",
+      "অঙৌবা"
+    ],
+    "answer": "হুদিংবা"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'black'?",
+    "options": [
+      "গুলাপী",
+      "অঙৌবা",
+      "কমলা",
+      "অমুবা"
+    ],
+    "answer": "অমুবা"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'white'?",
+    "options": [
+      "গুলাপী",
+      "কমলা",
+      "অঙৌবা",
+      "বেগুনী"
+    ],
+    "answer": "অঙৌবা"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'orange'?",
+    "options": [
+      "গুলাপী",
+      "মরুম",
+      "কমলা",
+      "বেগুনী"
+    ],
+    "answer": "কমলা"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'pink'?",
+    "options": [
+      "মরুম",
+      "অঙাংবা",
+      "গুলাপী",
+      "বেগুনী"
+    ],
+    "answer": "গুলাপী"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'purple'?",
+    "options": [
+      "মরুম",
+      "নীলা",
+      "বেগুনী",
+      "অঙাংবা"
+    ],
+    "answer": "বেগুনী"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Manipuri word for 'brown'?",
+    "options": [
+      "নীলা",
+      "অশেংবা",
+      "মরুম",
+      "অঙাংবা"
+    ],
+    "answer": "মরুম"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'one'?",
+    "options": [
+      "অনী",
+      "অহুম",
+      "অমা",
+      "মরী"
+    ],
+    "answer": "অমা"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'two'?",
+    "options": [
+      "মরী",
+      "মঙা",
+      "অহুম",
+      "অনী"
+    ],
+    "answer": "অনী"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'three'?",
+    "options": [
+      "অহুম",
+      "মঙা",
+      "তরুক",
+      "মরী"
+    ],
+    "answer": "অহুম"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'four'?",
+    "options": [
+      "মঙা",
+      "তরেৎ",
+      "মরী",
+      "তরুক"
+    ],
+    "answer": "মরী"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'five'?",
+    "options": [
+      "নিপান",
+      "তরেৎ",
+      "তরুক",
+      "মঙা"
+    ],
+    "answer": "মঙা"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'six'?",
+    "options": [
+      "নিপান",
+      "তরেৎ",
+      "তরুক",
+      "মাপাল"
+    ],
+    "answer": "তরুক"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'seven'?",
+    "options": [
+      "তরেৎ",
+      "নিপান",
+      "তরা",
+      "মাপাল"
+    ],
+    "answer": "তরেৎ"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'eight'?",
+    "options": [
+      "অমা",
+      "তরা",
+      "মাপাল",
+      "নিপান"
+    ],
+    "answer": "নিপান"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'nine'?",
+    "options": [
+      "মাপাল",
+      "তরা",
+      "অনী",
+      "অমা"
+    ],
+    "answer": "মাপাল"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Manipuri word for 'ten'?",
+    "options": [
+      "অনী",
+      "অহুম",
+      "অমা",
+      "তরা"
+    ],
+    "answer": "তরা"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'breakfast'?",
+    "options": [
+      "নুমিদাংগী চাক",
+      "নুমিদাংগী চাক",
+      "চাক খরা",
+      "নুংশিৎকী চাক"
+    ],
+    "answer": "নুংশিৎকী চাক"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'lunch'?",
+    "options": [
+      "খীর",
+      "নুমিদাংগী চাক",
+      "চাক খরা",
+      "নুমিদাংগী চাক"
+    ],
+    "answer": "নুমিদাংগী চাক"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'dinner'?",
+    "options": [
+      "খীর",
+      "চাক খরা",
+      "অশিংবা",
+      "নুমিদাংগী চাক"
+    ],
+    "answer": "নুমিদাংগী চাক"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'snacks'?",
+    "options": [
+      "খীর",
+      "অশিংবা",
+      "হাৱাই চাবা",
+      "চাক খরা"
+    ],
+    "answer": "চাক খরা"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'sweets'?",
+    "options": [
+      "শা চাবা",
+      "হাৱাই চাবা",
+      "খীর",
+      "অশিংবা"
+    ],
+    "answer": "খীর"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'spicy'?",
+    "options": [
+      "অশিংবা",
+      "শা চাবা",
+      "ইশিং",
+      "হাৱাই চাবা"
+    ],
+    "answer": "অশিংবা"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'vegetarian'?",
+    "options": [
+      "ইশিং",
+      "কফি",
+      "শা চাবা",
+      "হাৱাই চাবা"
+    ],
+    "answer": "হাৱাই চাবা"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'non-vegetarian'?",
+    "options": [
+      "ইশিং",
+      "কফি",
+      "শা চাবা",
+      "নুংশিৎকী চাক"
+    ],
+    "answer": "শা চাবা"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'juice'?",
+    "options": [
+      "ইশিং",
+      "কফি",
+      "নুমিদাংগী চাক",
+      "নুংশিৎকী চাক"
+    ],
+    "answer": "ইশিং"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Manipuri word for 'coffee'?",
+    "options": [
+      "কফি",
+      "নুমিদাংগী চাক",
+      "নুংশিৎকী চাক",
+      "নুমিদাংগী চাক"
+    ],
+    "answer": "কফি"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Manipuri?",
+    "options": [
+      "নংগী চহি কয়া ওইবগে?",
+      "নং কদাইদগী লাক্লগে?",
+      "করমনা লৈবগে?",
+      "নংগী মিং করিনো?"
+    ],
+    "answer": "করমনা লৈবগে?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Manipuri?",
+    "options": [
+      "নংগী মিং করিনো?",
+      "নং মৈতৈলোন ৱা ঙাংবা উবা?",
+      "নং কদাইদগী লাক্লগে?",
+      "নংগী চহি কয়া ওইবগে?"
+    ],
+    "answer": "নংগী মিং করিনো?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Manipuri?",
+    "options": [
+      "নং কদাইদগী লাক্লগে?",
+      "নংগী চহি কয়া ওইবগে?",
+      "নং মৈতৈলোন ৱা ঙাংবা উবা?",
+      "ঐনা নংবু মতেং পাংবা ঙমগদ্রা?"
+    ],
+    "answer": "নং কদাইদগী লাক্লগে?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Manipuri?",
+    "options": [
+      "বাথরুম কদাইদা লৈবগে?",
+      "নংগী চহি কয়া ওইবগে?",
+      "নং মৈতৈলোন ৱা ঙাংবা উবা?",
+      "ঐনা নংবু মতেং পাংবা ঙমগদ্রা?"
+    ],
+    "answer": "নংগী চহি কয়া ওইবগে?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Manipuri?' in Manipuri?",
+    "options": [
+      "বাথরুম কদাইদা লৈবগে?",
+      "ঐনা নংবু মতেং পাংবা ঙমগদ্রা?",
+      "মসি কয়া চংবগে?",
+      "নং মৈতৈলোন ৱা ঙাংবা উবা?"
+    ],
+    "answer": "নং মৈতৈলোন ৱা ঙাংবা উবা?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Manipuri?",
+    "options": [
+      "বাথরুম কদাইদা লৈবগে?",
+      "হৌজিক মতম কয়া ওইবগে?",
+      "ঐনা নংবু মতেং পাংবা ঙমগদ্রা?",
+      "মসি কয়া চংবগে?"
+    ],
+    "answer": "ঐনা নংবু মতেং পাংবা ঙমগদ্রা?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Manipuri?",
+    "options": [
+      "মসি কয়া চংবগে?",
+      "নং কদাইদা লৈবগে?",
+      "হৌজিক মতম কয়া ওইবগে?",
+      "বাথরুম কদাইদা লৈবগে?"
+    ],
+    "answer": "বাথরুম কদাইদা লৈবগে?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Manipuri?",
+    "options": [
+      "মসি কয়া চংবগে?",
+      "করমনা লৈবগে?",
+      "নং কদাইদা লৈবগে?",
+      "হৌজিক মতম কয়া ওইবগে?"
+    ],
+    "answer": "মসি কয়া চংবগে?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Manipuri?",
+    "options": [
+      "হৌজিক মতম কয়া ওইবগে?",
+      "করমনা লৈবগে?",
+      "নং কদাইদা লৈবগে?",
+      "নংগী মিং করিনো?"
+    ],
+    "answer": "হৌজিক মতম কয়া ওইবগে?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Manipuri?",
+    "options": [
+      "নংগী মিং করিনো?",
+      "করমনা লৈবগে?",
+      "নং কদাইদা লৈবগে?",
+      "নং কদাইদগী লাক্লগে?"
+    ],
+    "answer": "নং কদাইদা লৈবগে?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Manipuri?",
+    "options": [
+      "চানবীদুনা ফমউ",
+      "চানবীদুনা ঙাইদুনা লৈয়ু",
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু",
+      "চানবীদুনা মফম লাকউ"
+    ],
+    "answer": "চানবীদুনা ঐবু মতেং পাংবীয়ু"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Manipuri?",
+    "options": [
+      "চানবীদুনা মফম লাকউ",
+      "চানবীদুনা অয়ুক্না ৱা ঙাংবীয়ু",
+      "চানবীদুনা ফমউ",
+      "চানবীদুনা ঙাইদুনা লৈয়ু"
+    ],
+    "answer": "চানবীদুনা ঙাইদুনা লৈয়ু"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Manipuri?",
+    "options": [
+      "চানবীদুনা অয়ুক্না ৱা ঙাংবীয়ু",
+      "চানবীদুনা ইবীয়ু",
+      "চানবীদুনা মফম লাকউ",
+      "চানবীদুনা ফমউ"
+    ],
+    "answer": "চানবীদুনা মফম লাকউ"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Manipuri?",
+    "options": [
+      "চানবীদুনা ইবীয়ু",
+      "চানবীদুনা অয়ুক্না ৱা ঙাংবীয়ু",
+      "চানবীদুনা অমুক হাপচিল্লু",
+      "চানবীদুনা ফমউ"
+    ],
+    "answer": "চানবীদুনা ফমউ"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Manipuri?",
+    "options": [
+      "চানবীদুনা অয়ুক্না ৱা ঙাংবীয়ু",
+      "চানবীদুনা ইবীয়ু",
+      "চানবীদুনা ঐদা উৎবীয়ু",
+      "চানবীদুনা অমুক হাপচিল্লু"
+    ],
+    "answer": "চানবীদুনা অয়ুক্না ৱা ঙাংবীয়ু"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Manipuri?",
+    "options": [
+      "চানবীদুনা অমুক হাপচিল্লু",
+      "চানবীদুনা থোং হাংদোকউ",
+      "চানবীদুনা ইবীয়ু",
+      "চানবীদুনা ঐদা উৎবীয়ু"
+    ],
+    "answer": "চানবীদুনা ইবীয়ু"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Manipuri?",
+    "options": [
+      "চানবীদুনা থোংবাল থিংবীয়ু",
+      "চানবীদুনা ঐদা উৎবীয়ু",
+      "চানবীদুনা অমুক হাপচিল্লু",
+      "চানবীদুনা থোং হাংদোকউ"
+    ],
+    "answer": "চানবীদুনা অমুক হাপচিল্লু"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Manipuri?",
+    "options": [
+      "চানবীদুনা থোং হাংদোকউ",
+      "চানবীদুনা থোংবাল থিংবীয়ু",
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু",
+      "চানবীদুনা ঐদা উৎবীয়ু"
+    ],
+    "answer": "চানবীদুনা ঐদা উৎবীয়ু"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Manipuri?",
+    "options": [
+      "চানবীদুনা থোংবাল থিংবীয়ু",
+      "চানবীদুনা ঙাইদুনা লৈয়ু",
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু",
+      "চানবীদুনা থোং হাংদোকউ"
+    ],
+    "answer": "চানবীদুনা থোং হাংদোকউ"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Manipuri?",
+    "options": [
+      "চানবীদুনা থোংবাল থিংবীয়ু",
+      "চানবীদুনা ঙাইদুনা লৈয়ু",
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু",
+      "চানবীদুনা মফম লাকউ"
+    ],
+    "answer": "চানবীদুনা থোংবাল থিংবীয়ু"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Manipuri?",
+    "options": [
+      "ছাড় লৈবরা?",
+      "মসি কয়া চংবগে?",
+      "ঐনা মসি লৈনিংই",
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?"
+    ],
+    "answer": "মসি কয়া চংবগে?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Manipuri?",
+    "options": [
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?",
+      "ছাড় লৈবরা?",
+      "নখোয়না কার্ড লৌবরা?",
+      "ঐনা মসি লৈনিংই"
+    ],
+    "answer": "ছাড় লৈবরা?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Manipuri?",
+    "options": [
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?",
+      "নখোয়না কার্ড লৌবরা?",
+      "কাউন্টর কদাইদা লৈবগে?",
+      "ঐনা মসি লৈনিংই"
+    ],
+    "answer": "ঐনা মসি লৈনিংই"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Manipuri?",
+    "options": [
+      "মদু ফংবরা?",
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?",
+      "কাউন্টর কদাইদা লৈবগে?",
+      "নখোয়না কার্ড লৌবরা?"
+    ],
+    "answer": "ঐনা মসি হোৎনবা ঙমগদ্রা?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Manipuri?",
+    "options": [
+      "নখোয়না কার্ড লৌবরা?",
+      "কাউন্টর কদাইদা লৈবগে?",
+      "মদু ফংবরা?",
+      "চানবীদুনা মসি পেক তৌবীয়ু"
+    ],
+    "answer": "নখোয়না কার্ড লৌবরা?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Manipuri?",
+    "options": [
+      "মদু ফংবরা?",
+      "চানবীদুনা মসি পেক তৌবীয়ু",
+      "কাউন্টর কদাইদা লৈবগে?",
+      "ঐগী বেগ অমা মথৌ তাই"
+    ],
+    "answer": "কাউন্টর কদাইদা লৈবগে?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Manipuri?",
+    "options": [
+      "চানবীদুনা মসি পেক তৌবীয়ু",
+      "মতম করিনো?",
+      "মদু ফংবরা?",
+      "ঐগী বেগ অমা মথৌ তাই"
+    ],
+    "answer": "মদু ফংবরা?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Manipuri?",
+    "options": [
+      "মসি কয়া চংবগে?",
+      "চানবীদুনা মসি পেক তৌবীয়ু",
+      "ঐগী বেগ অমা মথৌ তাই",
+      "মতম করিনো?"
+    ],
+    "answer": "চানবীদুনা মসি পেক তৌবীয়ু"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Manipuri?",
+    "options": [
+      "ছাড় লৈবরা?",
+      "মসি কয়া চংবগে?",
+      "ঐগী বেগ অমা মথৌ তাই",
+      "মতম করিনো?"
+    ],
+    "answer": "ঐগী বেগ অমা মথৌ তাই"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Manipuri?",
+    "options": [
+      "মতম করিনো?",
+      "ছাড় লৈবরা?",
+      "ঐনা মসি লৈনিংই",
+      "মসি কয়া চংবগে?"
+    ],
+    "answer": "মতম করিনো?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Manipuri?",
+    "options": [
+      "মফমদগী লাপ্পা ওইবরা?",
+      "কৈথেলদা করমক চৎপগে?",
+      "রেল স্টেশনদা করমক চৎপগে?",
+      "বাস স্টপ কদাইদা লৈবগে?"
+    ],
+    "answer": "বাস স্টপ কদাইদা লৈবগে?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Manipuri?",
+    "options": [
+      "কৈথেলদা করমক চৎপগে?",
+      "ওইথোকপদা হনবীয়ু",
+      "রেল স্টেশনদা করমক চৎপগে?",
+      "মফমদগী লাপ্পা ওইবরা?"
+    ],
+    "answer": "রেল স্টেশনদা করমক চৎপগে?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Manipuri?",
+    "options": [
+      "মফমদগী লাপ্পা ওইবরা?",
+      "ওইথোকপদা হনবীয়ু",
+      "কৈথেলদা করমক চৎপগে?",
+      "য়েৎপদা হনবীয়ু"
+    ],
+    "answer": "কৈথেলদা করমক চৎপগে?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Manipuri?",
+    "options": [
+      "ওইথোকপদা হনবীয়ু",
+      "চুম্না চৎলু",
+      "মফমদগী লাপ্পা ওইবরা?",
+      "য়েৎপদা হনবীয়ু"
+    ],
+    "answer": "মফমদগী লাপ্পা ওইবরা?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Manipuri?",
+    "options": [
+      "য়েৎপদা হনবীয়ু",
+      "চুম্না চৎলু",
+      "ওইথোকপদা হনবীয়ু",
+      "মফমদা লেপ্পীয়ু"
+    ],
+    "answer": "ওইথোকপদা হনবীয়ু"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Manipuri?",
+    "options": [
+      "চুম্না চৎলু",
+      "য়েৎপদা হনবীয়ু",
+      "মফমদা লেপ্পীয়ু",
+      "কয়া মতম চংগনি?"
+    ],
+    "answer": "য়েৎপদা হনবীয়ু"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Manipuri?",
+    "options": [
+      "চুম্না চৎলু",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "মফমদা লেপ্পীয়ু",
+      "কয়া মতম চংগনি?"
+    ],
+    "answer": "চুম্না চৎলু"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Manipuri?",
+    "options": [
+      "মফমদা লেপ্পীয়ু",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "বাস স্টপ কদাইদা লৈবগে?",
+      "কয়া মতম চংগনি?"
+    ],
+    "answer": "মফমদা লেপ্পীয়ু"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Manipuri?",
+    "options": [
+      "রেল স্টেশনদা করমক চৎপগে?",
+      "বাস স্টপ কদাইদা লৈবগে?",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "কয়া মতম চংগনি?"
+    ],
+    "answer": "কয়া মতম চংগনি?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Manipuri",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Manipuri?",
+    "options": [
+      "রেল স্টেশনদা করমক চৎপগে?",
+      "কৈথেলদা করমক চৎপগে?",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "বাস স্টপ কদাইদা লৈবগে?"
+    ],
+    "answer": "মেপদা উৎবা ঙমগদ্রা?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'go'?",
+    "options": [
+      "উখি",
+      "চৎখি",
+      "পাবখি",
+      "চাখি"
+    ],
+    "answer": "চৎখি"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'eat'?",
+    "options": [
+      "চাখি",
+      "ইখি",
+      "পাবখি",
+      "উখি"
+    ],
+    "answer": "চাখি"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'see'?",
+    "options": [
+      "পাবখি",
+      "ইখি",
+      "উখি",
+      "লাকখি"
+    ],
+    "answer": "উখি"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'read'?",
+    "options": [
+      "ইখি",
+      "লাকখি",
+      "পাবখি",
+      "পীখি"
+    ],
+    "answer": "পাবখি"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'write'?",
+    "options": [
+      "লাকখি",
+      "লৌখি",
+      "ইখি",
+      "পীখি"
+    ],
+    "answer": "ইখি"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'come'?",
+    "options": [
+      "লাকখি",
+      "শান্নখি",
+      "লৌখি",
+      "পীখি"
+    ],
+    "answer": "লাকখি"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'give'?",
+    "options": [
+      "পীখি",
+      "লৌখি",
+      "তুমখি",
+      "শান্নখি"
+    ],
+    "answer": "পীখি"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'take'?",
+    "options": [
+      "চৎখি",
+      "শান্নখি",
+      "লৌখি",
+      "তুমখি"
+    ],
+    "answer": "লৌখি"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'play'?",
+    "options": [
+      "তুমখি",
+      "চাখি",
+      "শান্নখি",
+      "চৎখি"
+    ],
+    "answer": "শান্নখি"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Manipuri past tense of 'sleep'?",
+    "options": [
+      "চাখি",
+      "তুমখি",
+      "উখি",
+      "চৎখি"
+    ],
+    "answer": "তুমখি"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'book'?",
+    "options": [
+      "নুপাশিং",
+      "মযেকশিং",
+      "নুপীশিং",
+      "লৈরিকশিং"
+    ],
+    "answer": "লৈরিকশিং"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'pen'?",
+    "options": [
+      "নুপাশিং",
+      "মযেকশিং",
+      "লৈশিং",
+      "নুপীশিং"
+    ],
+    "answer": "মযেকশিং"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'boy'?",
+    "options": [
+      "মপানশিং",
+      "লৈশিং",
+      "নুপাশিং",
+      "নুপীশিং"
+    ],
+    "answer": "নুপাশিং"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'girl'?",
+    "options": [
+      "লৈশিং",
+      "নুপীশিং",
+      "থৱানশিং",
+      "মপানশিং"
+    ],
+    "answer": "নুপীশিং"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'flower'?",
+    "options": [
+      "লৈশিং",
+      "উশিং",
+      "থৱানশিং",
+      "মপানশিং"
+    ],
+    "answer": "লৈশিং"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'leaf'?",
+    "options": [
+      "থৱানশিং",
+      "উশিং",
+      "মপানশিং",
+      "তুরেলশিং"
+    ],
+    "answer": "মপানশিং"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'star'?",
+    "options": [
+      "ফমুংশিং",
+      "তুরেলশিং",
+      "উশিং",
+      "থৱানশিং"
+    ],
+    "answer": "থৱানশিং"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'tree'?",
+    "options": [
+      "তুরেলশিং",
+      "উশিং",
+      "ফমুংশিং",
+      "লৈরিকশিং"
+    ],
+    "answer": "উশিং"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'river'?",
+    "options": [
+      "ফমুংশিং",
+      "তুরেলশিং",
+      "মযেকশিং",
+      "লৈরিকশিং"
+    ],
+    "answer": "তুরেলশিং"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Manipuri plural of 'chair'?",
+    "options": [
+      "ফমুংশিং",
+      "মযেকশিং",
+      "নুপাশিং",
+      "লৈরিকশিং"
+    ],
+    "answer": "ফমুংশিং"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'and'?",
+    "options": [
+      "নত্রগা",
+      "অদুবু",
+      "মরমদি",
+      "অমসুং"
+    ],
+    "answer": "অমসুং"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'but'?",
+    "options": [
+      "করিগুম্বা",
+      "মরমদি",
+      "অদুবু",
+      "নত্রগা"
+    ],
+    "answer": "অদুবু"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'or'?",
+    "options": [
+      "মরমদি",
+      "করিগুম্বা",
+      "নত্রগা",
+      "মতমদা"
+    ],
+    "answer": "নত্রগা"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'because'?",
+    "options": [
+      "মতমদা",
+      "কদাইদা",
+      "মরমদি",
+      "করিগুম্বা"
+    ],
+    "answer": "মরমদি"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'if'?",
+    "options": [
+      "করিগুম্বা",
+      "কদাইদা",
+      "করমক",
+      "মতমদা"
+    ],
+    "answer": "করিগুম্বা"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'when'?",
+    "options": [
+      "কদাইদা",
+      "করমক",
+      "মতমদা",
+      "করিগীদমক"
+    ],
+    "answer": "মতমদা"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'where'?",
+    "options": [
+      "কদাইদা",
+      "করমক",
+      "করিগীদমক",
+      "গা লোয়নানা"
+    ],
+    "answer": "কদাইদা"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'how'?",
+    "options": [
+      "করমক",
+      "করিগীদমক",
+      "গা লোয়নানা",
+      "অমসুং"
+    ],
+    "answer": "করমক"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'why'?",
+    "options": [
+      "করিগীদমক",
+      "অমসুং",
+      "অদুবু",
+      "গা লোয়নানা"
+    ],
+    "answer": "করিগীদমক"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Manipuri particle for 'with'?",
+    "options": [
+      "অদুবু",
+      "গা লোয়নানা",
+      "অমসুং",
+      "নত্রগা"
+    ],
+    "answer": "গা লোয়নানা"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Manipuri?",
+    "options": [
+      "চৎপা নত্তে",
+      "চাবা নত্তে",
+      "লাকপা নত্তে",
+      "পাবা নত্তে"
+    ],
+    "answer": "চৎপা নত্তে"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Manipuri?",
+    "options": [
+      "লাকপা নত্তে",
+      "চাবা নত্তে",
+      "ইবা নত্তে",
+      "পাবা নত্তে"
+    ],
+    "answer": "লাকপা নত্তে"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Manipuri?",
+    "options": [
+      "ইবা নত্তে",
+      "চাবা নত্তে",
+      "শান্নবা নত্তে",
+      "পাবা নত্তে"
+    ],
+    "answer": "চাবা নত্তে"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Manipuri?",
+    "options": [
+      "পাবা নত্তে",
+      "শান্নবা নত্তে",
+      "তুমবা নত্তে",
+      "ইবা নত্তে"
+    ],
+    "answer": "পাবা নত্তে"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Manipuri?",
+    "options": [
+      "শান্নবা নত্তে",
+      "তুমবা নত্তে",
+      "উবা নত্তে",
+      "ইবা নত্তে"
+    ],
+    "answer": "ইবা নত্তে"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Manipuri?",
+    "options": [
+      "উবা নত্তে",
+      "শান্নবা নত্তে",
+      "পীবা নত্তে",
+      "তুমবা নত্তে"
+    ],
+    "answer": "শান্নবা নত্তে"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Manipuri?",
+    "options": [
+      "তুমবা নত্তে",
+      "পীবা নত্তে",
+      "লৌবা নত্তে",
+      "উবা নত্তে"
+    ],
+    "answer": "তুমবা নত্তে"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Manipuri?",
+    "options": [
+      "চৎপা নত্তে",
+      "উবা নত্তে",
+      "লৌবা নত্তে",
+      "পীবা নত্তে"
+    ],
+    "answer": "উবা নত্তে"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Manipuri?",
+    "options": [
+      "পীবা নত্তে",
+      "চৎপা নত্তে",
+      "লাকপা নত্তে",
+      "লৌবা নত্তে"
+    ],
+    "answer": "পীবা নত্তে"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Manipuri?",
+    "options": [
+      "লাকপা নত্তে",
+      "লৌবা নত্তে",
+      "চাবা নত্তে",
+      "চৎপা নত্তে"
+    ],
+    "answer": "লৌবা নত্তে"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'apple'",
+    "options": [
+      "আপেল",
+      "শেমু",
+      "হুই",
+      "চাংপোৎ"
+    ],
+    "answer": "আপেল"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'banana'",
+    "options": [
+      "গাড়ী",
+      "শেমু",
+      "চাংপোৎ",
+      "হুই"
+    ],
+    "answer": "চাংপোৎ"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'cat'",
+    "options": [
+      "গাড়ী",
+      "শেমু",
+      "বাস",
+      "হুই"
+    ],
+    "answer": "শেমু"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'dog'",
+    "options": [
+      "হুই",
+      "গাড়ী",
+      "বাস",
+      "রেল"
+    ],
+    "answer": "হুই"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'car'",
+    "options": [
+      "বাস",
+      "রেল",
+      "যুম",
+      "গাড়ী"
+    ],
+    "answer": "গাড়ী"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'bus'",
+    "options": [
+      "যুম",
+      "বাস",
+      "রেল",
+      "শহর"
+    ],
+    "answer": "বাস"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'train'",
+    "options": [
+      "যুম",
+      "রেল",
+      "খুল",
+      "শহর"
+    ],
+    "answer": "রেল"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'house'",
+    "options": [
+      "শহর",
+      "আপেল",
+      "খুল",
+      "যুম"
+    ],
+    "answer": "যুম"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'city'",
+    "options": [
+      "শহর",
+      "খুল",
+      "আপেল",
+      "চাংপোৎ"
+    ],
+    "answer": "শহর"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Manipuri word for 'village'",
+    "options": [
+      "আপেল",
+      "শেমু",
+      "চাংপোৎ",
+      "খুল"
+    ],
+    "answer": "খুল"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Good morning'",
+    "options": [
+      "নুংশিৎ নুংআইবা",
+      "করমনা লৈবগে?",
+      "পুক্নিং চংবীয়ু",
+      "থাগৎচরী"
+    ],
+    "answer": "নুংশিৎ নুংআইবা"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'How are you?'",
+    "options": [
+      "থাগৎচরী",
+      "করমনা লৈবগে?",
+      "পুক্নিং চংবীয়ু",
+      "চানবীদুনা মনুংদা চেংশিল্লু"
+    ],
+    "answer": "করমনা লৈবগে?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Thank you'",
+    "options": [
+      "থাগৎচরী",
+      "চানবীদুনা মনুংদা চেংশিল্লু",
+      "ফমউ",
+      "পুক্নিং চংবীয়ু"
+    ],
+    "answer": "থাগৎচরী"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Sorry'",
+    "options": [
+      "চানবীদুনা মনুংদা চেংশিল্লু",
+      "লেপউ",
+      "ফমউ",
+      "পুক্নিং চংবীয়ু"
+    ],
+    "answer": "পুক্নিং চংবীয়ু"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Please come in'",
+    "options": [
+      "মখাদা চৎলু",
+      "লেপউ",
+      "ফমউ",
+      "চানবীদুনা মনুংদা চেংশিল্লু"
+    ],
+    "answer": "চানবীদুনা মনুংদা চেংশিল্লু"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Sit down'",
+    "options": [
+      "য়াম্না ফজনা তৌখি",
+      "মখাদা চৎলু",
+      "ফমউ",
+      "লেপউ"
+    ],
+    "answer": "ফমউ"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Stand up'",
+    "options": [
+      "মখাদা চৎলু",
+      "নুংআইবা",
+      "য়াম্না ফজনা তৌখি",
+      "লেপউ"
+    ],
+    "answer": "লেপউ"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Go ahead'",
+    "options": [
+      "নুংআইবা",
+      "মখাদা চৎলু",
+      "নুংশিৎ নুংআইবা",
+      "য়াম্না ফজনা তৌখি"
+    ],
+    "answer": "মখাদা চৎলু"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Well done'",
+    "options": [
+      "য়াম্না ফজনা তৌখি",
+      "নুংআইবা",
+      "করমনা লৈবগে?",
+      "নুংশিৎ নুংআইবা"
+    ],
+    "answer": "য়াম্না ফজনা তৌখি"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Manipuri phrase for 'Congratulations'",
+    "options": [
+      "থাগৎচরী",
+      "নুংশিৎ নুংআইবা",
+      "করমনা লৈবগে?",
+      "নুংআইবা"
+    ],
+    "answer": "নুংআইবা"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'I am going to school'",
+    "options": [
+      "ঐ স্কুলদা চৎলি",
+      "মহাকনা চেং চাই",
+      "মখোয়না লৈরিক পারি",
+      "ঐখোয়না ক্রিকেট শান্নরি"
+    ],
+    "answer": "ঐ স্কুলদা চৎলি"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'She is eating rice'",
+    "options": [
+      "ঐখোয়না ক্রিকেট শান্নরি",
+      "মখোয়না লৈরিক পারি",
+      "মহাকনা চিঠি ইরি",
+      "মহাকনা চেং চাই"
+    ],
+    "answer": "মহাকনা চেং চাই"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'We are playing cricket'",
+    "options": [
+      "মহাকনা চিঠি ইরি",
+      "নং ঐগী মরুপনি",
+      "মখোয়না লৈরিক পারি",
+      "ঐখোয়না ক্রিকেট শান্নরি"
+    ],
+    "answer": "ঐখোয়না ক্রিকেট শান্নরি"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'They are reading books'",
+    "options": [
+      "মখোয়না লৈরিক পারি",
+      "মহাকনা চিঠি ইরি",
+      "হৌজিক নোং তাক্লি",
+      "নং ঐগী মরুপনি"
+    ],
+    "answer": "মখোয়না লৈরিক পারি"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'He is writing a letter'",
+    "options": [
+      "নং ঐগী মরুপনি",
+      "ঐনা মৈতৈলোন নুংশি",
+      "হৌজিক নোং তাক্লি",
+      "মহাকনা চিঠি ইরি"
+    ],
+    "answer": "মহাকনা চিঠি ইরি"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'You are my friend'",
+    "options": [
+      "নং ঐগী মরুপনি",
+      "ঐখোয় মণিপুরদা লৈ",
+      "ঐনা মৈতৈলোন নুংশি",
+      "হৌজিক নোং তাক্লি"
+    ],
+    "answer": "নং ঐগী মরুপনি"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'It is raining now'",
+    "options": [
+      "হৌজিক নোং তাক্লি",
+      "ঐখোয় মণিপুরদা লৈ",
+      "ঐনা মৈতৈলোন নুংশি",
+      "মহাকনা ইশৈ শক্লি"
+    ],
+    "answer": "হৌজিক নোং তাক্লি"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'I like Manipuri'",
+    "options": [
+      "ঐখোয় মণিপুরদা লৈ",
+      "ঐনা মৈতৈলোন নুংশি",
+      "মহাকনা ইশৈ শক্লি",
+      "ঐ স্কুলদা চৎলি"
+    ],
+    "answer": "ঐনা মৈতৈলোন নুংশি"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'We live in Manipur'",
+    "options": [
+      "মহাকনা চেং চাই",
+      "ঐখোয় মণিপুরদা লৈ",
+      "ঐ স্কুলদা চৎলি",
+      "মহাকনা ইশৈ শক্লি"
+    ],
+    "answer": "ঐখোয় মণিপুরদা লৈ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Manipuri sentence for 'She is singing a song'",
+    "options": [
+      "মহাকনা চেং চাই",
+      "মহাকনা ইশৈ শক্লি",
+      "ঐ স্কুলদা চৎলি",
+      "ঐখোয়না ক্রিকেট শান্নরি"
+    ],
+    "answer": "মহাকনা ইশৈ শক্লি"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "নং ইংলিশ ৱা ঙাংবা উবা? - হোই, খরা",
+      "নং কদাইদা চৎলিবগে? - কৈথেলদা",
+      "করমনা লৈবগে? - ঐ ফবা লৈ",
+      "নংগী মিং করিনো? - ঐগী মিং রবিনি"
+    ],
+    "answer": "করমনা লৈবগে? - ঐ ফবা লৈ"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "নং ইংলিশ ৱা ঙাংবা উবা? - হোই, খরা",
+      "নং কদাইদা চৎলিবগে? - কৈথেলদা",
+      "নংনা ঐবু মতেং পাংবা ঙমগদ্রা? - চুম্না",
+      "নংগী মিং করিনো? - ঐগী মিং রবিনি"
+    ],
+    "answer": "নংগী মিং করিনো? - ঐগী মিং রবিনি"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "নংনা ঐবু মতেং পাংবা ঙমগদ্রা? - চুম্না",
+      "নং ইংলিশ ৱা ঙাংবা উবা? - হোই, খরা",
+      "নং কদাইদা চৎলিবগে? - কৈথেলদা",
+      "হৌজিক মতম কয়া ওইবগে? - মঙা বজে ওইরি"
+    ],
+    "answer": "নং কদাইদা চৎলিবগে? - কৈথেলদা"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "নং ইংলিশ ৱা ঙাংবা উবা? - হোই, খরা",
+      "বাস স্টপ কদাইদা লৈবগে? - অদুদা",
+      "নংনা ঐবু মতেং পাংবা ঙমগদ্রা? - চুম্না",
+      "হৌজিক মতম কয়া ওইবগে? - মঙা বজে ওইরি"
+    ],
+    "answer": "নং ইংলিশ ৱা ঙাংবা উবা? - হোই, খরা"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "হৌজিক মতম কয়া ওইবগে? - মঙা বজে ওইরি",
+      "বাস স্টপ কদাইদা লৈবগে? - অদুদা",
+      "মসি কয়া চংবগে? - ৫০ রুপী",
+      "নংনা ঐবু মতেং পাংবা ঙমগদ্রা? - চুম্না"
+    ],
+    "answer": "নংনা ঐবু মতেং পাংবা ঙমগদ্রা? - চুম্না"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "বাস স্টপ কদাইদা লৈবগে? - অদুদা",
+      "চানবীদুনা মনুংদা চেংশিল্লু। - থাগৎচরী",
+      "হৌজিক মতম কয়া ওইবগে? - মঙা বজে ওইরি",
+      "মসি কয়া চংবগে? - ৫০ রুপী"
+    ],
+    "answer": "হৌজিক মতম কয়া ওইবগে? - মঙা বজে ওইরি"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "চানবীদুনা মনুংদা চেংশিল্লু। - থাগৎচরী",
+      "চৎখ্রবা। - অমুক উনবা",
+      "বাস স্টপ কদাইদা লৈবগে? - অদুদা",
+      "মসি কয়া চংবগে? - ৫০ রুপী"
+    ],
+    "answer": "বাস স্টপ কদাইদা লৈবগে? - অদুদা"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "চানবীদুনা মনুংদা চেংশিল্লু। - থাগৎচরী",
+      "চৎখ্রবা। - অমুক উনবা",
+      "মসি কয়া চংবগে? - ৫০ রুপী",
+      "করমনা লৈবগে? - ঐ ফবা লৈ"
+    ],
+    "answer": "মসি কয়া চংবগে? - ৫০ রুপী"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "নংগী মিং করিনো? - ঐগী মিং রবিনি",
+      "চানবীদুনা মনুংদা চেংশিল্লু। - থাগৎচরী",
+      "করমনা লৈবগে? - ঐ ফবা লৈ",
+      "চৎখ্রবা। - অমুক উনবা"
+    ],
+    "answer": "চানবীদুনা মনুংদা চেংশিল্লু। - থাগৎচরী"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Manipuri dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "নং কদাইদা চৎলিবগে? - কৈথেলদা",
+      "নংগী মিং করিনো? - ঐগী মিং রবিনি",
+      "চৎখ্রবা। - অমুক উনবা",
+      "করমনা লৈবগে? - ঐ ফবা লৈ"
+    ],
+    "answer": "চৎখ্রবা। - অমুক উনবা"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Manipuri?",
+    "options": [
+      "কাউন্টর কদাইদা লৈবগে?",
+      "মসি কয়া চংবগে?",
+      "ছাড় লৈবরা?",
+      "ঐনা মসি লৈনিংই"
+    ],
+    "answer": "ঐনা মসি লৈনিংই"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Manipuri?",
+    "options": [
+      "নখোয়না কার্ড লৌবরা?",
+      "মসি কয়া চংবগে?",
+      "কাউন্টর কদাইদা লৈবগে?",
+      "ছাড় লৈবরা?"
+    ],
+    "answer": "মসি কয়া চংবগে?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Manipuri?",
+    "options": [
+      "নখোয়না কার্ড লৌবরা?",
+      "ছাড় লৈবরা?",
+      "কাউন্টর কদাইদা লৈবগে?",
+      "চানবীদুনা মসি পেক তৌবীয়ু"
+    ],
+    "answer": "ছাড় লৈবরা?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Manipuri?",
+    "options": [
+      "কাউন্টর কদাইদা লৈবগে?",
+      "চানবীদুনা মসি পেক তৌবীয়ু",
+      "নখোয়না কার্ড লৌবরা?",
+      "ঐগী বেগ অমা মথৌ তাই"
+    ],
+    "answer": "কাউন্টর কদাইদা লৈবগে?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Manipuri?",
+    "options": [
+      "চানবীদুনা মসি পেক তৌবীয়ু",
+      "নখোয়না কার্ড লৌবরা?",
+      "ঐগী বেগ অমা মথৌ তাই",
+      "মদু ফংবরা?"
+    ],
+    "answer": "নখোয়না কার্ড লৌবরা?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Manipuri?",
+    "options": [
+      "ঐগী বেগ অমা মথৌ তাই",
+      "মদু ফংবরা?",
+      "চানবীদুনা মসি পেক তৌবীয়ু",
+      "মতম করিনো?"
+    ],
+    "answer": "চানবীদুনা মসি পেক তৌবীয়ু"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Manipuri?",
+    "options": [
+      "মদু ফংবরা?",
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?",
+      "ঐগী বেগ অমা মথৌ তাই",
+      "মতম করিনো?"
+    ],
+    "answer": "ঐগী বেগ অমা মথৌ তাই"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Manipuri?",
+    "options": [
+      "ঐনা মসি লৈনিংই",
+      "মদু ফংবরা?",
+      "মতম করিনো?",
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?"
+    ],
+    "answer": "মদু ফংবরা?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Manipuri?",
+    "options": [
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?",
+      "ঐনা মসি লৈনিংই",
+      "মসি কয়া চংবগে?",
+      "মতম করিনো?"
+    ],
+    "answer": "মতম করিনো?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Manipuri?",
+    "options": [
+      "ছাড় লৈবরা?",
+      "ঐনা মসি হোৎনবা ঙমগদ্রা?",
+      "ঐনা মসি লৈনিংই",
+      "মসি কয়া চংবগে?"
+    ],
+    "answer": "ঐনা মসি হোৎনবা ঙমগদ্রা?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Manipuri?",
+    "options": [
+      "কয়া মতম চংগনি?",
+      "রেল স্টেশন কদাইদা লৈবগে?",
+      "শহরদা চৎপা বাস কদায়নো?",
+      "এয়ারপোর্টদা করমক চৎপগে?"
+    ],
+    "answer": "রেল স্টেশন কদাইদা লৈবগে?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Manipuri?",
+    "options": [
+      "মফমদগী লাপ্পা ওইবরা?",
+      "কয়া মতম চংগনি?",
+      "এয়ারপোর্টদা করমক চৎপগে?",
+      "শহরদা চৎপা বাস কদায়নো?"
+    ],
+    "answer": "এয়ারপোর্টদা করমক চৎপগে?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Manipuri?",
+    "options": [
+      "শহরদা চৎপা বাস কদায়নো?",
+      "কয়া মতম চংগনি?",
+      "ট্যাক্সি কদাইদা ফংগনি?",
+      "মফমদগী লাপ্পা ওইবরা?"
+    ],
+    "answer": "শহরদা চৎপা বাস কদায়নো?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Manipuri?",
+    "options": [
+      "ট্যাক্সি কদাইদা ফংগনি?",
+      "কয়া মতম চংগনি?",
+      "মফমদগী লাপ্পা ওইবরা?",
+      "হোটেল কদাইদা লৈবগে?"
+    ],
+    "answer": "কয়া মতম চংগনি?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Manipuri?",
+    "options": [
+      "মফমদগী লাপ্পা ওইবরা?",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "ট্যাক্সি কদাইদা ফংগনি?",
+      "হোটেল কদাইদা লৈবগে?"
+    ],
+    "answer": "মফমদগী লাপ্পা ওইবরা?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Manipuri?",
+    "options": [
+      "বাথরুম কদাইদা লৈবগে?",
+      "ট্যাক্সি কদাইদা ফংগনি?",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "হোটেল কদাইদা লৈবগে?"
+    ],
+    "answer": "ট্যাক্সি কদাইদা ফংগনি?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Manipuri?",
+    "options": [
+      "হোটেল কদাইদা লৈবগে?",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "বাথরুম কদাইদা লৈবগে?",
+      "ঐ লম্বী মঙখি"
+    ],
+    "answer": "হোটেল কদাইদা লৈবগে?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Manipuri?",
+    "options": [
+      "রেল স্টেশন কদাইদা লৈবগে?",
+      "বাথরুম কদাইদা লৈবগে?",
+      "মেপদা উৎবা ঙমগদ্রা?",
+      "ঐ লম্বী মঙখি"
+    ],
+    "answer": "মেপদা উৎবা ঙমগদ্রা?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Manipuri?",
+    "options": [
+      "রেল স্টেশন কদাইদা লৈবগে?",
+      "এয়ারপোর্টদা করমক চৎপগে?",
+      "ঐ লম্বী মঙখি",
+      "বাথরুম কদাইদা লৈবগে?"
+    ],
+    "answer": "বাথরুম কদাইদা লৈবগে?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Manipuri?",
+    "options": [
+      "ঐ লম্বী মঙখি",
+      "শহরদা চৎপা বাস কদায়নো?",
+      "রেল স্টেশন কদাইদা লৈবগে?",
+      "এয়ারপোর্টদা করমক চৎপগে?"
+    ],
+    "answer": "ঐ লম্বী মঙখি"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Manipuri?",
+    "options": [
+      "ঐ অনাবা ওইরে",
+      "হসপিতাল কদাইদা লৈবগে?",
+      "পুলিসবু কৌবীয়ু",
+      "ঐগী ডাক্তর অমা মথৌ তাই"
+    ],
+    "answer": "পুলিসবু কৌবীয়ু"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Manipuri?",
+    "options": [
+      "ঐগী ডাক্তর অমা মথৌ তাই",
+      "হসপিতাল কদাইদা লৈবগে?",
+      "ঐ অনাবা ওইরে",
+      "মতেং পাংবীয়ু!"
+    ],
+    "answer": "ঐগী ডাক্তর অমা মথৌ তাই"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Manipuri?",
+    "options": [
+      "ঐগী ৱালেট মঙখি",
+      "ঐ অনাবা ওইরে",
+      "মতেং পাংবীয়ু!",
+      "হসপিতাল কদাইদা লৈবগে?"
+    ],
+    "answer": "হসপিতাল কদাইদা লৈবগে?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Manipuri?",
+    "options": [
+      "ঐগী ৱালেট মঙখি",
+      "মতেং পাংবীয়ু!",
+      "মৈ চাক্লি",
+      "ঐ অনাবা ওইরে"
+    ],
+    "answer": "ঐ অনাবা ওইরে"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Manipuri?",
+    "options": [
+      "মৈ চাক্লি",
+      "মতেং পাংবীয়ু!",
+      "ঐগী এক্সিডেন্ট থোকখি",
+      "ঐগী ৱালেট মঙখি"
+    ],
+    "answer": "মতেং পাংবীয়ু!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Manipuri?",
+    "options": [
+      "মৈ চাক্লি",
+      "ঐগী এক্সিডেন্ট থোকখি",
+      "ঐ চৎনখি",
+      "ঐগী ৱালেট মঙখি"
+    ],
+    "answer": "ঐগী ৱালেট মঙখি"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Manipuri?",
+    "options": [
+      "মৈ চাক্লি",
+      "ঐগী এক্সিডেন্ট থোকখি",
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু",
+      "ঐ চৎনখি"
+    ],
+    "answer": "মৈ চাক্লি"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Manipuri?",
+    "options": [
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু",
+      "পুলিসবু কৌবীয়ু",
+      "ঐগী এক্সিডেন্ট থোকখি",
+      "ঐ চৎনখি"
+    ],
+    "answer": "ঐগী এক্সিডেন্ট থোকখি"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Manipuri?",
+    "options": [
+      "ঐ চৎনখি",
+      "ঐগী ডাক্তর অমা মথৌ তাই",
+      "পুলিসবু কৌবীয়ু",
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু"
+    ],
+    "answer": "ঐ চৎনখি"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Manipuri?",
+    "options": [
+      "হসপিতাল কদাইদা লৈবগে?",
+      "চানবীদুনা ঐবু মতেং পাংবীয়ু",
+      "ঐগী ডাক্তর অমা মথৌ তাই",
+      "পুলিসবু কৌবীয়ু"
+    ],
+    "answer": "চানবীদুনা ঐবু মতেং পাংবীয়ু"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Manipuri?",
+    "options": [
+      "সিনেমা য়েংসি",
+      "ঙসি নুমিদাং নং ফ্রি ওইবরা?",
+      "হযেং উনসি",
+      "নংগী প্লান করিনো?"
+    ],
+    "answer": "নংগী প্লান করিনো?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Manipuri?",
+    "options": [
+      "সিনেমা য়েংসি",
+      "ঙসি নুমিদাং নং ফ্রি ওইবরা?",
+      "ঐখোয় পুন্না চাক চাগসি নত্রা?",
+      "হযেং উনসি"
+    ],
+    "answer": "হযেং উনসি"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Manipuri?",
+    "options": [
+      "ঙসি নুমিদাং নং ফ্রি ওইবরা?",
+      "ঐখোয় পুন্না চাক চাগসি নত্রা?",
+      "সিনেমা য়েংসি",
+      "নং ঐখোয়গা লোয়নানা লাকপা ঙমগদ্রা?"
+    ],
+    "answer": "ঙসি নুমিদাং নং ফ্রি ওইবরা?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Manipuri?",
+    "options": [
+      "ঐখোয় পুন্না চাক চাগসি নত্রা?",
+      "নং ঐখোয়গা লোয়নানা লাকপা ঙমগদ্রা?",
+      "সিনেমা য়েংসি",
+      "ঐ ঙসি বিজি ওইরি"
+    ],
+    "answer": "সিনেমা য়েংসি"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Manipuri?",
+    "options": [
+      "ঐখোয় পুন্না চাক চাগসি নত্রা?",
+      "ঐ ঙসি বিজি ওইরি",
+      "মতুং দা উনসি",
+      "নং ঐখোয়গা লোয়নানা লাকপা ঙমগদ্রা?"
+    ],
+    "answer": "ঐখোয় পুন্না চাক চাগসি নত্রা?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Manipuri?",
+    "options": [
+      "ঐ ঙসি বিজি ওইরি",
+      "ঐনা নংবু কৌগনি",
+      "নং ঐখোয়গা লোয়নানা লাকপা ঙমগদ্রা?",
+      "মতুং দা উনসি"
+    ],
+    "answer": "নং ঐখোয়গা লোয়নানা লাকপা ঙমগদ্রা?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Manipuri?",
+    "options": [
+      "ঐ ঙসি বিজি ওইরি",
+      "ঐনা নংবু কৌগনি",
+      "মতুং দা উনসি",
+      "ঐখোয় সেলিব্রেট তৌসি"
+    ],
+    "answer": "ঐ ঙসি বিজি ওইরি"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Manipuri?",
+    "options": [
+      "মতুং দা উনসি",
+      "ঐনা নংবু কৌগনি",
+      "ঐখোয় সেলিব্রেট তৌসি",
+      "নংগী প্লান করিনো?"
+    ],
+    "answer": "মতুং দা উনসি"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Manipuri?",
+    "options": [
+      "হযেং উনসি",
+      "ঐনা নংবু কৌগনি",
+      "ঐখোয় সেলিব্রেট তৌসি",
+      "নংগী প্লান করিনো?"
+    ],
+    "answer": "ঐনা নংবু কৌগনি"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Manipuri",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Manipuri?",
+    "options": [
+      "নংগী প্লান করিনো?",
+      "ঐখোয় সেলিব্রেট তৌসি",
+      "হযেং উনসি",
+      "ঙসি নুমিদাং নং ফ্রি ওইবরা?"
+    ],
+    "answer": "ঐখোয় সেলিব্রেট তৌসি"
+  }
+]

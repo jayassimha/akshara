@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'a'?",
+    "options": [
+      "ઇ",
+      "ઈ",
+      "અ",
+      "આ"
+    ],
+    "answer": "અ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'aa'?",
+    "options": [
+      "ઈ",
+      "ઉ",
+      "આ",
+      "ઇ"
+    ],
+    "answer": "આ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'i'?",
+    "options": [
+      "ઈ",
+      "ઇ",
+      "ઉ",
+      "ઊ"
+    ],
+    "answer": "ઇ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'ee'?",
+    "options": [
+      "એ",
+      "ઊ",
+      "ઉ",
+      "ઈ"
+    ],
+    "answer": "ઈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'u'?",
+    "options": [
+      "ઊ",
+      "ઐ",
+      "એ",
+      "ઉ"
+    ],
+    "answer": "ઉ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'oo'?",
+    "options": [
+      "ઓ",
+      "ઊ",
+      "એ",
+      "ઐ"
+    ],
+    "answer": "ઊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'e'?",
+    "options": [
+      "ઐ",
+      "ઔ",
+      "એ",
+      "ઓ"
+    ],
+    "answer": "એ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'ai'?",
+    "options": [
+      "ઐ",
+      "અ",
+      "ઓ",
+      "ઔ"
+    ],
+    "answer": "ઐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'o'?",
+    "options": [
+      "આ",
+      "અ",
+      "ઓ",
+      "ઔ"
+    ],
+    "answer": "ઓ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Gujarati vowel for 'au'?",
+    "options": [
+      "આ",
+      "ઔ",
+      "ઇ",
+      "અ"
+    ],
+    "answer": "ઔ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'ka'?",
+    "options": [
+      "ગ",
+      "ક",
+      "ખ",
+      "ઘ"
+    ],
+    "answer": "ક"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'kha'?",
+    "options": [
+      "ખ",
+      "ચ",
+      "ગ",
+      "ઘ"
+    ],
+    "answer": "ખ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'ga'?",
+    "options": [
+      "ચ",
+      "ગ",
+      "ઘ",
+      "છ"
+    ],
+    "answer": "ગ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'gha'?",
+    "options": [
+      "છ",
+      "ઘ",
+      "ચ",
+      "જ"
+    ],
+    "answer": "ઘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'cha'?",
+    "options": [
+      "ચ",
+      "ઝ",
+      "જ",
+      "છ"
+    ],
+    "answer": "ચ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'chha'?",
+    "options": [
+      "ટ",
+      "જ",
+      "છ",
+      "ઝ"
+    ],
+    "answer": "છ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'ja'?",
+    "options": [
+      "ઠ",
+      "જ",
+      "ઝ",
+      "ટ"
+    ],
+    "answer": "જ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'jha'?",
+    "options": [
+      "ક",
+      "ઝ",
+      "ઠ",
+      "ટ"
+    ],
+    "answer": "ઝ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'ta'?",
+    "options": [
+      "ટ",
+      "ક",
+      "ઠ",
+      "ખ"
+    ],
+    "answer": "ટ"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Gujarati consonant for 'tha'?",
+    "options": [
+      "ગ",
+      "ઠ",
+      "ખ",
+      "ક"
+    ],
+    "answer": "ઠ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ક' + 'ા'?",
+    "options": [
+      "મિ",
+      "તે",
+      "કા",
+      "પુ"
+    ],
+    "answer": "કા"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'પ' + 'ુ'?",
+    "options": [
+      "પુ",
+      "તે",
+      "સૂ",
+      "મિ"
+    ],
+    "answer": "પુ"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'મ' + 'િ'?",
+    "options": [
+      "નો",
+      "તે",
+      "સૂ",
+      "મિ"
+    ],
+    "answer": "મિ"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ત' + 'ે'?",
+    "options": [
+      "નો",
+      "સૂ",
+      "તે",
+      "રા"
+    ],
+    "answer": "તે"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'સ' + 'ૂ'?",
+    "options": [
+      "નો",
+      "લે",
+      "રા",
+      "સૂ"
+    ],
+    "answer": "સૂ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ન' + 'ો'?",
+    "options": [
+      "દિ",
+      "નો",
+      "રા",
+      "લે"
+    ],
+    "answer": "નો"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ર' + 'ા'?",
+    "options": [
+      "વુ",
+      "દિ",
+      "રા",
+      "લે"
+    ],
+    "answer": "રા"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'લ' + 'ે'?",
+    "options": [
+      "કા",
+      "દિ",
+      "વુ",
+      "લે"
+    ],
+    "answer": "લે"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'દ' + 'િ'?",
+    "options": [
+      "કા",
+      "વુ",
+      "પુ",
+      "દિ"
+    ],
+    "answer": "દિ"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'વ' + 'ુ'?",
+    "options": [
+      "કા",
+      "વુ",
+      "મિ",
+      "પુ"
+    ],
+    "answer": "વુ"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'પુસ્તક'? (in Gujarati)",
+    "options": [
+      "School",
+      "Book",
+      "Hand",
+      "Pen"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'કલમ'? (in Gujarati)",
+    "options": [
+      "Fruit",
+      "School",
+      "Hand",
+      "Pen"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'શાળા'? (in Gujarati)",
+    "options": [
+      "School",
+      "Hand",
+      "Flowers",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'હાથ'? (in Gujarati)",
+    "options": [
+      "Flowers",
+      "Hand",
+      "Fruit",
+      "Tree"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ફળ'? (in Gujarati)",
+    "options": [
+      "Slate",
+      "Fruit",
+      "Flowers",
+      "Tree"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ફૂલ'? (in Gujarati)",
+    "options": [
+      "Speak",
+      "Tree",
+      "Slate",
+      "Flowers"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'વૃક્ષ'? (in Gujarati)",
+    "options": [
+      "Speech",
+      "Speak",
+      "Tree",
+      "Slate"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'પાટી'? (in Gujarati)",
+    "options": [
+      "Book",
+      "Speech",
+      "Speak",
+      "Slate"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'બોલવું'? (in Gujarati)",
+    "options": [
+      "Speech",
+      "Pen",
+      "Speak",
+      "Book"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ભાષા'? (in Gujarati)",
+    "options": [
+      "School",
+      "Pen",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'book'?",
+    "options": [
+      "કલમ",
+      "શાળા",
+      "પુસ્તક",
+      "બેગ"
+    ],
+    "answer": "પુસ્તક"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'pen'?",
+    "options": [
+      "બેગ",
+      "કલમ",
+      "શાળા",
+      "ખુરશી"
+    ],
+    "answer": "કલમ"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'school'?",
+    "options": [
+      "બેગ",
+      "ટેબલ",
+      "શાળા",
+      "ખુરશી"
+    ],
+    "answer": "શાળા"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'bag'?",
+    "options": [
+      "ટેબલ",
+      "બેગ",
+      "ખુરશી",
+      "પાટી"
+    ],
+    "answer": "બેગ"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'chair'?",
+    "options": [
+      "પાટી",
+      "ખુરશી",
+      "બારી",
+      "ટેબલ"
+    ],
+    "answer": "ખુરશી"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'table'?",
+    "options": [
+      "પાટી",
+      "દરવાજો",
+      "ટેબલ",
+      "બારી"
+    ],
+    "answer": "ટેબલ"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'slate'?",
+    "options": [
+      "પાટી",
+      "પંખો",
+      "બારી",
+      "દરવાજો"
+    ],
+    "answer": "પાટી"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'window'?",
+    "options": [
+      "દરવાજો",
+      "બારી",
+      "પુસ્તક",
+      "પંખો"
+    ],
+    "answer": "બારી"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'door'?",
+    "options": [
+      "પુસ્તક",
+      "કલમ",
+      "પંખો",
+      "દરવાજો"
+    ],
+    "answer": "દરવાજો"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Gujarati word for 'fan'?",
+    "options": [
+      "કલમ",
+      "પુસ્તક",
+      "શાળા",
+      "પંખો"
+    ],
+    "answer": "પંખો"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'rice'?",
+    "options": [
+      "ચોખા",
+      "ફળ",
+      "દૂધ",
+      "શાકભાજી"
+    ],
+    "answer": "ચોખા"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'milk'?",
+    "options": [
+      "ફળ",
+      "દૂધ",
+      "પાણી",
+      "શાકભાજી"
+    ],
+    "answer": "દૂધ"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'fruit'?",
+    "options": [
+      "પાણી",
+      "શાકભાજી",
+      "ફળ",
+      "દહીં"
+    ],
+    "answer": "ફળ"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'vegetable'?",
+    "options": [
+      "પાણી",
+      "દહીં",
+      "રોટલી",
+      "શાકભાજી"
+    ],
+    "answer": "શાકભાજી"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'water'?",
+    "options": [
+      "રોટલી",
+      "ઈંડું",
+      "દહીં",
+      "પાણી"
+    ],
+    "answer": "પાણી"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'curd'?",
+    "options": [
+      "રોટલી",
+      "દહીં",
+      "માછલી",
+      "ઈંડું"
+    ],
+    "answer": "દહીં"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'bread'?",
+    "options": [
+      "ઈંડું",
+      "રોટલી",
+      "મીઠાઈ",
+      "માછલી"
+    ],
+    "answer": "રોટલી"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'egg'?",
+    "options": [
+      "ચોખા",
+      "મીઠાઈ",
+      "માછલી",
+      "ઈંડું"
+    ],
+    "answer": "ઈંડું"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'fish'?",
+    "options": [
+      "મીઠાઈ",
+      "દૂધ",
+      "માછલી",
+      "ચોખા"
+    ],
+    "answer": "માછલી"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'sweet'?",
+    "options": [
+      "ફળ",
+      "મીઠાઈ",
+      "દૂધ",
+      "ચોખા"
+    ],
+    "answer": "મીઠાઈ"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'mother'?",
+    "options": [
+      "બહેન",
+      "ભાઈ",
+      "મા",
+      "પિતા"
+    ],
+    "answer": "મા"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'father'?",
+    "options": [
+      "દાદી",
+      "ભાઈ",
+      "બહેન",
+      "પિતા"
+    ],
+    "answer": "પિતા"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'sister'?",
+    "options": [
+      "ભાઈ",
+      "દાદી",
+      "દાદા",
+      "બહેન"
+    ],
+    "answer": "બહેન"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'brother'?",
+    "options": [
+      "દાદા",
+      "દાદી",
+      "ભાઈ",
+      "કાકા"
+    ],
+    "answer": "ભાઈ"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'grandmother'?",
+    "options": [
+      "કાકી",
+      "દાદા",
+      "દાદી",
+      "કાકા"
+    ],
+    "answer": "દાદી"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'grandfather'?",
+    "options": [
+      "કાકા",
+      "કાકી",
+      "દાદા",
+      "દીકરો"
+    ],
+    "answer": "દાદા"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'uncle'?",
+    "options": [
+      "દીકરો",
+      "દીકરી",
+      "કાકી",
+      "કાકા"
+    ],
+    "answer": "કાકા"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'aunt'?",
+    "options": [
+      "મા",
+      "દીકરી",
+      "દીકરો",
+      "કાકી"
+    ],
+    "answer": "કાકી"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'son'?",
+    "options": [
+      "પિતા",
+      "મા",
+      "દીકરી",
+      "દીકરો"
+    ],
+    "answer": "દીકરો"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Gujarati word for 'daughter'?",
+    "options": [
+      "પિતા",
+      "મા",
+      "બહેન",
+      "દીકરી"
+    ],
+    "answer": "દીકરી"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'tree'?",
+    "options": [
+      "પર્વત",
+      "ફૂલ",
+      "નદી",
+      "વૃક્ષ"
+    ],
+    "answer": "વૃક્ષ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'flower'?",
+    "options": [
+      "ફૂલ",
+      "પર્વત",
+      "પાન",
+      "નદી"
+    ],
+    "answer": "ફૂલ"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'river'?",
+    "options": [
+      "આકાશ",
+      "પાન",
+      "પર્વત",
+      "નદી"
+    ],
+    "answer": "નદી"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'mountain'?",
+    "options": [
+      "વરસાદ",
+      "પાન",
+      "પર્વત",
+      "આકાશ"
+    ],
+    "answer": "પર્વત"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'leaf'?",
+    "options": [
+      "વરસાદ",
+      "આકાશ",
+      "પાન",
+      "સૂર્ય"
+    ],
+    "answer": "પાન"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'sky'?",
+    "options": [
+      "સૂર્ય",
+      "વરસાદ",
+      "આકાશ",
+      "ચંદ્ર"
+    ],
+    "answer": "આકાશ"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'rain'?",
+    "options": [
+      "ચંદ્ર",
+      "સૂર્ય",
+      "તારો",
+      "વરસાદ"
+    ],
+    "answer": "વરસાદ"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'sun'?",
+    "options": [
+      "વૃક્ષ",
+      "સૂર્ય",
+      "તારો",
+      "ચંદ્ર"
+    ],
+    "answer": "સૂર્ય"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'moon'?",
+    "options": [
+      "તારો",
+      "ફૂલ",
+      "વૃક્ષ",
+      "ચંદ્ર"
+    ],
+    "answer": "ચંદ્ર"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Gujarati word for 'star'?",
+    "options": [
+      "તારો",
+      "નદી",
+      "ફૂલ",
+      "વૃક્ષ"
+    ],
+    "answer": "તારો"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Gujarati?",
+    "options": [
+      "નમસ્તે",
+      "શુભ રાત્રિ",
+      "સ્વાગત",
+      "સુપ્રભાત"
+    ],
+    "answer": "નમસ્તે"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Gujarati?",
+    "options": [
+      "સ્વાગત",
+      "સુપ્રભાત",
+      "તમે કેમ છો?",
+      "શુભ રાત્રિ"
+    ],
+    "answer": "સુપ્રભાત"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Gujarati?",
+    "options": [
+      "શુભ રાત્રિ",
+      "સ્વાગત",
+      "સારું છું",
+      "તમે કેમ છો?"
+    ],
+    "answer": "શુભ રાત્રિ"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Gujarati?",
+    "options": [
+      "તમે કેમ છો?",
+      "સારું છું",
+      "ફરી મળીશું",
+      "સ્વાગત"
+    ],
+    "answer": "સ્વાગત"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Gujarati?",
+    "options": [
+      "સારું છું",
+      "વિદાય",
+      "ફરી મળીશું",
+      "તમે કેમ છો?"
+    ],
+    "answer": "તમે કેમ છો?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Gujarati?",
+    "options": [
+      "સાવચેત રહેજો",
+      "વિદાય",
+      "ફરી મળીશું",
+      "સારું છું"
+    ],
+    "answer": "સારું છું"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Gujarati?",
+    "options": [
+      "વિદાય",
+      "સાવચેત રહેજો",
+      "ફરી મળીશું",
+      "આભાર"
+    ],
+    "answer": "ફરી મળીશું"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Gujarati?",
+    "options": [
+      "સાવચેત રહેજો",
+      "આભાર",
+      "વિદાય",
+      "નમસ્તે"
+    ],
+    "answer": "વિદાય"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Gujarati?",
+    "options": [
+      "સાવચેત રહેજો",
+      "આભાર",
+      "નમસ્તે",
+      "સુપ્રભાત"
+    ],
+    "answer": "સાવચેત રહેજો"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Gujarati?",
+    "options": [
+      "શુભ રાત્રિ",
+      "આભાર",
+      "નમસ્તે",
+      "સુપ્રભાત"
+    ],
+    "answer": "આભાર"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Gujarati?",
+    "options": [
+      "હું ... થી છું",
+      "મારું નામ ... છે",
+      "હું શિક્ષક છું",
+      "હું વિદ્યાર્થી છું"
+    ],
+    "answer": "મારું નામ ... છે"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Gujarati?",
+    "options": [
+      "તમને મળીને આનંદ થયો",
+      "હું ... થી છું",
+      "હું વિદ્યાર્થી છું",
+      "હું શિક્ષક છું"
+    ],
+    "answer": "હું ... થી છું"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Gujarati?",
+    "options": [
+      "હું ... માં રહું છું",
+      "હું શિક્ષક છું",
+      "હું વિદ્યાર્થી છું",
+      "તમને મળીને આનંદ થયો"
+    ],
+    "answer": "હું વિદ્યાર્થી છું"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Gujarati?",
+    "options": [
+      "હું શિક્ષક છું",
+      "હું ... માં રહું છું",
+      "તમને મળીને આનંદ થયો",
+      "હું ગુજરાતી શીખું છું"
+    ],
+    "answer": "હું શિક્ષક છું"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Gujarati?",
+    "options": [
+      "તમારું નામ શું છે?",
+      "હું ગુજરાતી શીખું છું",
+      "હું ... માં રહું છું",
+      "તમને મળીને આનંદ થયો"
+    ],
+    "answer": "તમને મળીને આનંદ થયો"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Gujarati?",
+    "options": [
+      "હું ગુજરાતી શીખું છું",
+      "તમે ક્યાંથી છો?",
+      "તમારું નામ શું છે?",
+      "હું ... માં રહું છું"
+    ],
+    "answer": "હું ... માં રહું છું"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Gujarati' in Gujarati?",
+    "options": [
+      "તમે ક્યાંથી છો?",
+      "તમારી ઉંમર કેટલી છે?",
+      "હું ગુજરાતી શીખું છું",
+      "તમારું નામ શું છે?"
+    ],
+    "answer": "હું ગુજરાતી શીખું છું"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Gujarati?",
+    "options": [
+      "તમારું નામ શું છે?",
+      "તમે ક્યાંથી છો?",
+      "મારું નામ ... છે",
+      "તમારી ઉંમર કેટલી છે?"
+    ],
+    "answer": "તમારું નામ શું છે?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Gujarati?",
+    "options": [
+      "હું ... થી છું",
+      "મારું નામ ... છે",
+      "તમે ક્યાંથી છો?",
+      "તમારી ઉંમર કેટલી છે?"
+    ],
+    "answer": "તમે ક્યાંથી છો?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Gujarati?",
+    "options": [
+      "હું વિદ્યાર્થી છું",
+      "મારું નામ ... છે",
+      "તમારી ઉંમર કેટલી છે?",
+      "હું ... થી છું"
+    ],
+    "answer": "તમારી ઉંમર કેટલી છે?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Gujarati?",
+    "options": [
+      "ના",
+      "કદાચ",
+      "હા",
+      "અલબત્ત"
+    ],
+    "answer": "હા"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Gujarati?",
+    "options": [
+      "કદાચ",
+      "ક્યારેય નહીં",
+      "અલબત્ત",
+      "ના"
+    ],
+    "answer": "ના"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Gujarati?",
+    "options": [
+      "ક્યારેય નહીં",
+      "કદાચ",
+      "કેટલીકવાર",
+      "અલબત્ત"
+    ],
+    "answer": "કદાચ"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Gujarati?",
+    "options": [
+      "અલબત્ત",
+      "ક્યારેય નહીં",
+      "કેટલીકવાર",
+      "હંમેશા"
+    ],
+    "answer": "અલબત્ત"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Gujarati?",
+    "options": [
+      "હંમેશા",
+      "બિલકુલ નહીં",
+      "કેટલીકવાર",
+      "ક્યારેય નહીં"
+    ],
+    "answer": "ક્યારેય નહીં"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Gujarati?",
+    "options": [
+      "ચોક્કસ",
+      "બિલકુલ નહીં",
+      "કેટલીકવાર",
+      "હંમેશા"
+    ],
+    "answer": "કેટલીકવાર"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Gujarati?",
+    "options": [
+      "બિલકુલ નહીં",
+      "ચોક્કસ",
+      "મને ખબર નથી",
+      "હંમેશા"
+    ],
+    "answer": "હંમેશા"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Gujarati?",
+    "options": [
+      "બિલકુલ નહીં",
+      "હા",
+      "ચોક્કસ",
+      "મને ખબર નથી"
+    ],
+    "answer": "બિલકુલ નહીં"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Gujarati?",
+    "options": [
+      "ચોક્કસ",
+      "ના",
+      "હા",
+      "મને ખબર નથી"
+    ],
+    "answer": "ચોક્કસ"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Gujarati?",
+    "options": [
+      "મને ખબર નથી",
+      "કદાચ",
+      "ના",
+      "હા"
+    ],
+    "answer": "મને ખબર નથી"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Gujarati?",
+    "options": [
+      "આભાર",
+      "માફ કરશો",
+      "માફ કરશો",
+      "કૃપા કરીને"
+    ],
+    "answer": "આભાર"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Gujarati?",
+    "options": [
+      "કૃપા કરીને",
+      "માફ કરશો",
+      "તમારું સ્વાગત છે",
+      "માફ કરશો"
+    ],
+    "answer": "માફ કરશો"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Gujarati?",
+    "options": [
+      "માફ કરશો",
+      "કૃપા કરીને",
+      "તમારું સ્વાગત છે",
+      "કોઈ સમસ્યા નથી"
+    ],
+    "answer": "કૃપા કરીને"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Gujarati?",
+    "options": [
+      "કોઈ સમસ્યા નથી",
+      "અભિનંદન",
+      "તમારું સ્વાગત છે",
+      "માફ કરશો"
+    ],
+    "answer": "માફ કરશો"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Gujarati?",
+    "options": [
+      "કોઈ સમસ્યા નથી",
+      "અભિનંદન",
+      "ભગવાન તમને આશીર્વાદ આપે",
+      "તમારું સ્વાગત છે"
+    ],
+    "answer": "તમારું સ્વાગત છે"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Gujarati?",
+    "options": [
+      "ભગવાન તમને આશીર્વાદ આપે",
+      "શુભકામનાઓ",
+      "અભિનંદન",
+      "કોઈ સમસ્યા નથી"
+    ],
+    "answer": "કોઈ સમસ્યા નથી"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Gujarati?",
+    "options": [
+      "અભિનંદન",
+      "ભગવાન તમને આશીર્વાદ આપે",
+      "શુભકામનાઓ",
+      "જન્મદિવસની શુભકામનાઓ"
+    ],
+    "answer": "અભિનંદન"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Gujarati?",
+    "options": [
+      "આભાર",
+      "ભગવાન તમને આશીર્વાદ આપે",
+      "શુભકામનાઓ",
+      "જન્મદિવસની શુભકામનાઓ"
+    ],
+    "answer": "ભગવાન તમને આશીર્વાદ આપે"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Gujarati?",
+    "options": [
+      "આભાર",
+      "શુભકામનાઓ",
+      "માફ કરશો",
+      "જન્મદિવસની શુભકામનાઓ"
+    ],
+    "answer": "શુભકામનાઓ"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Gujarati",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Gujarati?",
+    "options": [
+      "કૃપા કરીને",
+      "આભાર",
+      "માફ કરશો",
+      "જન્મદિવસની શુભકામનાઓ"
+    ],
+    "answer": "જન્મદિવસની શુભકામનાઓ"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'ki'?",
+    "options": [
+      "કિ",
+      "કુ",
+      "કે",
+      "કો"
+    ],
+    "answer": "કિ"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'ku'?",
+    "options": [
+      "ગિ",
+      "કો",
+      "કે",
+      "કુ"
+    ],
+    "answer": "કુ"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'ke'?",
+    "options": [
+      "ગુ",
+      "ગિ",
+      "કે",
+      "કો"
+    ],
+    "answer": "કે"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'ko'?",
+    "options": [
+      "ગિ",
+      "ગુ",
+      "ગે",
+      "કો"
+    ],
+    "answer": "કો"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'gi'?",
+    "options": [
+      "ગે",
+      "ગુ",
+      "ગો",
+      "ગિ"
+    ],
+    "answer": "ગિ"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'gu'?",
+    "options": [
+      "ચિ",
+      "ગે",
+      "ગો",
+      "ગુ"
+    ],
+    "answer": "ગુ"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'ge'?",
+    "options": [
+      "ચિ",
+      "ગે",
+      "ગો",
+      "ચુ"
+    ],
+    "answer": "ગે"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'go'?",
+    "options": [
+      "કિ",
+      "ગો",
+      "ચિ",
+      "ચુ"
+    ],
+    "answer": "ગો"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'chi'?",
+    "options": [
+      "કુ",
+      "કિ",
+      "ચિ",
+      "ચુ"
+    ],
+    "answer": "ચિ"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Gujarati syllable for 'chu'?",
+    "options": [
+      "કુ",
+      "કે",
+      "કિ",
+      "ચુ"
+    ],
+    "answer": "ચુ"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'ksha'?",
+    "options": [
+      "ક્ષ",
+      "શ્ર",
+      "જ્ઞ",
+      "ત્ર"
+    ],
+    "answer": "ક્ષ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'tra'?",
+    "options": [
+      "જ્ઞ",
+      "ક્ર",
+      "ત્ર",
+      "શ્ર"
+    ],
+    "answer": "ત્ર"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'jna'?",
+    "options": [
+      "ક્ર",
+      "શ્ર",
+      "પ્ર",
+      "જ્ઞ"
+    ],
+    "answer": "જ્ઞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'shra'?",
+    "options": [
+      "ક્ર",
+      "પ્ર",
+      "શ્ર",
+      "સ્ર"
+    ],
+    "answer": "શ્ર"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'kra'?",
+    "options": [
+      "ગ્ર",
+      "સ્ર",
+      "પ્ર",
+      "ક્ર"
+    ],
+    "answer": "ક્ર"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'pra'?",
+    "options": [
+      "પ્ર",
+      "સ્ર",
+      "દ્ર",
+      "ગ્ર"
+    ],
+    "answer": "પ્ર"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'sra'?",
+    "options": [
+      "ન્ત",
+      "સ્ર",
+      "દ્ર",
+      "ગ્ર"
+    ],
+    "answer": "સ્ર"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'gra'?",
+    "options": [
+      "ક્ષ",
+      "દ્ર",
+      "ન્ત",
+      "ગ્ર"
+    ],
+    "answer": "ગ્ર"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'dra'?",
+    "options": [
+      "દ્ર",
+      "ન્ત",
+      "ક્ષ",
+      "ત્ર"
+    ],
+    "answer": "દ્ર"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Gujarati ligature for 'nta'?",
+    "options": [
+      "ન્ત",
+      "ત્ર",
+      "ક્ષ",
+      "જ્ઞ"
+    ],
+    "answer": "ન્ત"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'sha'?",
+    "options": [
+      "શ",
+      "લ",
+      "સ",
+      "હ"
+    ],
+    "answer": "શ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'sa'?",
+    "options": [
+      "હ",
+      "ર",
+      "લ",
+      "સ"
+    ],
+    "answer": "સ"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'ha'?",
+    "options": [
+      "વ",
+      "હ",
+      "ર",
+      "લ"
+    ],
+    "answer": "હ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'la'?",
+    "options": [
+      "વ",
+      "ર",
+      "ય",
+      "લ"
+    ],
+    "answer": "લ"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'ra'?",
+    "options": [
+      "ર",
+      "ય",
+      "વ",
+      "ફ"
+    ],
+    "answer": "ર"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'va'?",
+    "options": [
+      "ફ",
+      "ય",
+      "જ",
+      "વ"
+    ],
+    "answer": "વ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'ya'?",
+    "options": [
+      "ય",
+      "ક્વ",
+      "ફ",
+      "જ"
+    ],
+    "answer": "ય"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'fa'?",
+    "options": [
+      "શ",
+      "ફ",
+      "ક્વ",
+      "જ"
+    ],
+    "answer": "ફ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'za'?",
+    "options": [
+      "શ",
+      "જ",
+      "સ",
+      "ક્વ"
+    ],
+    "answer": "જ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Gujarati letter for 'qwa'?",
+    "options": [
+      "શ",
+      "ક્વ",
+      "સ",
+      "હ"
+    ],
+    "answer": "ક્વ"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'ક્ષીર'?",
+    "options": [
+      "ત્ર",
+      "ક્ષ",
+      "શ્ર",
+      "જ્ઞ"
+    ],
+    "answer": "ક્ષ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'જ્ઞાન'?",
+    "options": [
+      "ગ્ર",
+      "જ્ઞ",
+      "ત્ર",
+      "શ્ર"
+    ],
+    "answer": "જ્ઞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'ત્રણ'?",
+    "options": [
+      "ત્ર",
+      "ગ્ર",
+      "શ્ર",
+      "પ્ર"
+    ],
+    "answer": "ત્ર"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'શ્રદ્ધા'?",
+    "options": [
+      "સ્ર",
+      "ગ્ર",
+      "પ્ર",
+      "શ્ર"
+    ],
+    "answer": "શ્ર"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'ગ્રંથ'?",
+    "options": [
+      "દ્ર",
+      "પ્ર",
+      "સ્ર",
+      "ગ્ર"
+    ],
+    "answer": "ગ્ર"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'પ્રયત્ન'?",
+    "options": [
+      "ફ",
+      "સ્ર",
+      "પ્ર",
+      "દ્ર"
+    ],
+    "answer": "પ્ર"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'સ્રોત'?",
+    "options": [
+      "દ્ર",
+      "ફ",
+      "સ્ર",
+      "હ"
+    ],
+    "answer": "સ્ર"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'દ્રવ્ય'?",
+    "options": [
+      "ક્ષ",
+      "હ",
+      "દ્ર",
+      "ફ"
+    ],
+    "answer": "દ્ર"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'ફળ'?",
+    "options": [
+      "ક્ષ",
+      "હ",
+      "જ્ઞ",
+      "ફ"
+    ],
+    "answer": "ફ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Gujarati letter is used in the word 'હરિદ્વાર'?",
+    "options": [
+      "ત્ર",
+      "ક્ષ",
+      "જ્ઞ",
+      "હ"
+    ],
+    "answer": "હ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Sunday'?",
+    "options": [
+      "બુધવાર",
+      "રવિવાર",
+      "સોમવાર",
+      "મંગળવાર"
+    ],
+    "answer": "રવિવાર"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Monday'?",
+    "options": [
+      "બુધવાર",
+      "ગુરુવાર",
+      "સોમવાર",
+      "મંગળવાર"
+    ],
+    "answer": "સોમવાર"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Tuesday'?",
+    "options": [
+      "શુક્રવાર",
+      "મંગળવાર",
+      "ગુરુવાર",
+      "બુધવાર"
+    ],
+    "answer": "મંગળવાર"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Wednesday'?",
+    "options": [
+      "બુધવાર",
+      "ગુરુવાર",
+      "શનિવાર",
+      "શુક્રવાર"
+    ],
+    "answer": "બુધવાર"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Thursday'?",
+    "options": [
+      "શુક્રવાર",
+      "આજ",
+      "ગુરુવાર",
+      "શનિવાર"
+    ],
+    "answer": "ગુરુવાર"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Friday'?",
+    "options": [
+      "શનિવાર",
+      "આજ",
+      "કાલે",
+      "શુક્રવાર"
+    ],
+    "answer": "શુક્રવાર"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Saturday'?",
+    "options": [
+      "ગઈકાલે",
+      "કાલે",
+      "આજ",
+      "શનિવાર"
+    ],
+    "answer": "શનિવાર"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Today'?",
+    "options": [
+      "કાલે",
+      "ગઈકાલે",
+      "રવિવાર",
+      "આજ"
+    ],
+    "answer": "આજ"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Tomorrow'?",
+    "options": [
+      "ગઈકાલે",
+      "કાલે",
+      "સોમવાર",
+      "રવિવાર"
+    ],
+    "answer": "કાલે"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Gujarati word for 'Yesterday'?",
+    "options": [
+      "ગઈકાલે",
+      "રવિવાર",
+      "સોમવાર",
+      "મંગળવાર"
+    ],
+    "answer": "ગઈકાલે"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'red'?",
+    "options": [
+      "પીળો",
+      "વાદળી",
+      "લાલ",
+      "લીલો"
+    ],
+    "answer": "લાલ"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'blue'?",
+    "options": [
+      "વાદળી",
+      "પીળો",
+      "કાળો",
+      "લીલો"
+    ],
+    "answer": "વાદળી"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'green'?",
+    "options": [
+      "સફેદ",
+      "લીલો",
+      "કાળો",
+      "પીળો"
+    ],
+    "answer": "લીલો"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'yellow'?",
+    "options": [
+      "નારંગી",
+      "કાળો",
+      "પીળો",
+      "સફેદ"
+    ],
+    "answer": "પીળો"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'black'?",
+    "options": [
+      "ગુલાબી",
+      "કાળો",
+      "સફેદ",
+      "નારંગી"
+    ],
+    "answer": "કાળો"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'white'?",
+    "options": [
+      "નારંગી",
+      "ગુલાબી",
+      "સફેદ",
+      "જાંબુડો"
+    ],
+    "answer": "સફેદ"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'orange'?",
+    "options": [
+      "ગુલાબી",
+      "નારંગી",
+      "જાંબુડો",
+      "ભૂરો"
+    ],
+    "answer": "નારંગી"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'pink'?",
+    "options": [
+      "લાલ",
+      "જાંબુડો",
+      "ગુલાબી",
+      "ભૂરો"
+    ],
+    "answer": "ગુલાબી"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'purple'?",
+    "options": [
+      "લાલ",
+      "વાદળી",
+      "જાંબુડો",
+      "ભૂરો"
+    ],
+    "answer": "જાંબુડો"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Gujarati word for 'brown'?",
+    "options": [
+      "વાદળી",
+      "ભૂરો",
+      "લાલ",
+      "લીલો"
+    ],
+    "answer": "ભૂરો"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'one'?",
+    "options": [
+      "એક",
+      "બે",
+      "ચાર",
+      "ત્રણ"
+    ],
+    "answer": "એક"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'two'?",
+    "options": [
+      "ત્રણ",
+      "બે",
+      "ચાર",
+      "પાંચ"
+    ],
+    "answer": "બે"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'three'?",
+    "options": [
+      "ચાર",
+      "પાંચ",
+      "છ",
+      "ત્રણ"
+    ],
+    "answer": "ત્રણ"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'four'?",
+    "options": [
+      "પાંચ",
+      "સાત",
+      "છ",
+      "ચાર"
+    ],
+    "answer": "ચાર"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'five'?",
+    "options": [
+      "આઠ",
+      "પાંચ",
+      "છ",
+      "સાત"
+    ],
+    "answer": "પાંચ"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'six'?",
+    "options": [
+      "છ",
+      "આઠ",
+      "નવ",
+      "સાત"
+    ],
+    "answer": "છ"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'seven'?",
+    "options": [
+      "નવ",
+      "દસ",
+      "આઠ",
+      "સાત"
+    ],
+    "answer": "સાત"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'eight'?",
+    "options": [
+      "આઠ",
+      "એક",
+      "નવ",
+      "દસ"
+    ],
+    "answer": "આઠ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'nine'?",
+    "options": [
+      "નવ",
+      "બે",
+      "દસ",
+      "એક"
+    ],
+    "answer": "નવ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Gujarati word for 'ten'?",
+    "options": [
+      "એક",
+      "દસ",
+      "બે",
+      "ત્રણ"
+    ],
+    "answer": "દસ"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'breakfast'?",
+    "options": [
+      "રાત્રિનું ભોજન",
+      "નાસ્તો",
+      "નાસ્તો",
+      "બપોરનું ભોજન"
+    ],
+    "answer": "નાસ્તો"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'lunch'?",
+    "options": [
+      "બપોરનું ભોજન",
+      "મીઠાઈઓ",
+      "રાત્રિનું ભોજન",
+      "નાસ્તો"
+    ],
+    "answer": "બપોરનું ભોજન"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'dinner'?",
+    "options": [
+      "મીઠાઈઓ",
+      "નાસ્તો",
+      "તીખું",
+      "રાત્રિનું ભોજન"
+    ],
+    "answer": "રાત્રિનું ભોજન"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'snacks'?",
+    "options": [
+      "શાકાહારી",
+      "તીખું",
+      "નાસ્તો",
+      "મીઠાઈઓ"
+    ],
+    "answer": "નાસ્તો"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'sweets'?",
+    "options": [
+      "મીઠાઈઓ",
+      "માંસાહારી",
+      "શાકાહારી",
+      "તીખું"
+    ],
+    "answer": "મીઠાઈઓ"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'spicy'?",
+    "options": [
+      "માંસાહારી",
+      "તીખું",
+      "શાકાહારી",
+      "રસ"
+    ],
+    "answer": "તીખું"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'vegetarian'?",
+    "options": [
+      "કોફી",
+      "શાકાહારી",
+      "રસ",
+      "માંસાહારી"
+    ],
+    "answer": "શાકાહારી"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'non-vegetarian'?",
+    "options": [
+      "નાસ્તો",
+      "રસ",
+      "માંસાહારી",
+      "કોફી"
+    ],
+    "answer": "માંસાહારી"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'juice'?",
+    "options": [
+      "કોફી",
+      "બપોરનું ભોજન",
+      "નાસ્તો",
+      "રસ"
+    ],
+    "answer": "રસ"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Gujarati word for 'coffee'?",
+    "options": [
+      "કોફી",
+      "બપોરનું ભોજન",
+      "નાસ્તો",
+      "રાત્રિનું ભોજન"
+    ],
+    "answer": "કોફી"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Gujarati?",
+    "options": [
+      "તમારી ઉંમર કેટલી છે?",
+      "તમે કેમ છો?",
+      "તમારું નામ શું છે?",
+      "તમે ક્યાંથી છો?"
+    ],
+    "answer": "તમે કેમ છો?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Gujarati?",
+    "options": [
+      "તમે ગુજરાતી બોલો છો?",
+      "તમે ક્યાંથી છો?",
+      "તમારી ઉંમર કેટલી છે?",
+      "તમારું નામ શું છે?"
+    ],
+    "answer": "તમારું નામ શું છે?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Gujarati?",
+    "options": [
+      "તમારી ઉંમર કેટલી છે?",
+      "તમે ક્યાંથી છો?",
+      "તમે ગુજરાતી બોલો છો?",
+      "હું તમારી મદદ કરી શકું?"
+    ],
+    "answer": "તમે ક્યાંથી છો?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Gujarati?",
+    "options": [
+      "હું તમારી મદદ કરી શકું?",
+      "તમે ગુજરાતી બોલો છો?",
+      "બાથરૂમ ક્યાં છે?",
+      "તમારી ઉંમર કેટલી છે?"
+    ],
+    "answer": "તમારી ઉંમર કેટલી છે?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Gujarati?' in Gujarati?",
+    "options": [
+      "હું તમારી મદદ કરી શકું?",
+      "તમે ગુજરાતી બોલો છો?",
+      "બાથરૂમ ક્યાં છે?",
+      "આ કેટલાનું છે?"
+    ],
+    "answer": "તમે ગુજરાતી બોલો છો?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Gujarati?",
+    "options": [
+      "આ કેટલાનું છે?",
+      "બાથરૂમ ક્યાં છે?",
+      "કેટલો વખત થયો છે?",
+      "હું તમારી મદદ કરી શકું?"
+    ],
+    "answer": "હું તમારી મદદ કરી શકું?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Gujarati?",
+    "options": [
+      "બાથરૂમ ક્યાં છે?",
+      "કેટલો વખત થયો છે?",
+      "આ કેટલાનું છે?",
+      "તમે ક્યાં રહો છો?"
+    ],
+    "answer": "બાથરૂમ ક્યાં છે?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Gujarati?",
+    "options": [
+      "તમે ક્યાં રહો છો?",
+      "કેટલો વખત થયો છે?",
+      "આ કેટલાનું છે?",
+      "તમે કેમ છો?"
+    ],
+    "answer": "આ કેટલાનું છે?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Gujarati?",
+    "options": [
+      "તમે ક્યાં રહો છો?",
+      "તમે કેમ છો?",
+      "કેટલો વખત થયો છે?",
+      "તમારું નામ શું છે?"
+    ],
+    "answer": "કેટલો વખત થયો છે?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Gujarati?",
+    "options": [
+      "તમે કેમ છો?",
+      "તમે ક્યાંથી છો?",
+      "તમે ક્યાં રહો છો?",
+      "તમારું નામ શું છે?"
+    ],
+    "answer": "તમે ક્યાં રહો છો?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Gujarati?",
+    "options": [
+      "કૃપા કરીને મારી મદદ કરો",
+      "કૃપા કરીને અહીં આવો",
+      "કૃપા કરીને બેસો",
+      "કૃપા કરીને રાહ જુઓ"
+    ],
+    "answer": "કૃપા કરીને મારી મદદ કરો"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Gujarati?",
+    "options": [
+      "કૃપા કરીને ધીમે બોલો",
+      "કૃપા કરીને અહીં આવો",
+      "કૃપા કરીને રાહ જુઓ",
+      "કૃપા કરીને બેસો"
+    ],
+    "answer": "કૃપા કરીને રાહ જુઓ"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Gujarati?",
+    "options": [
+      "કૃપા કરીને અહીં આવો",
+      "કૃપા કરીને લખો",
+      "કૃપા કરીને બેસો",
+      "કૃપા કરીને ધીમે બોલો"
+    ],
+    "answer": "કૃપા કરીને અહીં આવો"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Gujarati?",
+    "options": [
+      "કૃપા કરીને ધીમે બોલો",
+      "કૃપા કરીને લખો",
+      "કૃપા કરીને બેસો",
+      "કૃપા કરીને ફરી કહો"
+    ],
+    "answer": "કૃપા કરીને બેસો"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Gujarati?",
+    "options": [
+      "કૃપા કરીને ધીમે બોલો",
+      "કૃપા કરીને લખો",
+      "કૃપા કરીને ફરી કહો",
+      "કૃપા કરીને બતાવો"
+    ],
+    "answer": "કૃપા કરીને ધીમે બોલો"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Gujarati?",
+    "options": [
+      "કૃપા કરીને લખો",
+      "કૃપા કરીને બતાવો",
+      "કૃપા કરીને દરવાજો ખોલો",
+      "કૃપા કરીને ફરી કહો"
+    ],
+    "answer": "કૃપા કરીને લખો"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Gujarati?",
+    "options": [
+      "કૃપા કરીને ફરી કહો",
+      "કૃપા કરીને દરવાજો ખોલો",
+      "કૃપા કરીને બારી બંધ કરો",
+      "કૃપા કરીને બતાવો"
+    ],
+    "answer": "કૃપા કરીને ફરી કહો"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Gujarati?",
+    "options": [
+      "કૃપા કરીને દરવાજો ખોલો",
+      "કૃપા કરીને બારી બંધ કરો",
+      "કૃપા કરીને મારી મદદ કરો",
+      "કૃપા કરીને બતાવો"
+    ],
+    "answer": "કૃપા કરીને બતાવો"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Gujarati?",
+    "options": [
+      "કૃપા કરીને દરવાજો ખોલો",
+      "કૃપા કરીને મારી મદદ કરો",
+      "કૃપા કરીને બારી બંધ કરો",
+      "કૃપા કરીને રાહ જુઓ"
+    ],
+    "answer": "કૃપા કરીને દરવાજો ખોલો"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Gujarati?",
+    "options": [
+      "કૃપા કરીને અહીં આવો",
+      "કૃપા કરીને રાહ જુઓ",
+      "કૃપા કરીને બારી બંધ કરો",
+      "કૃપા કરીને મારી મદદ કરો"
+    ],
+    "answer": "કૃપા કરીને બારી બંધ કરો"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Gujarati?",
+    "options": [
+      "હું આ અજમાવી શકું?",
+      "આ કેટલાનું છે?",
+      "મારે આ ખરીદવું છે",
+      "કોઈ છૂટ છે?"
+    ],
+    "answer": "આ કેટલાનું છે?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Gujarati?",
+    "options": [
+      "તમે કાર્ડ લો છો?",
+      "હું આ અજમાવી શકું?",
+      "મારે આ ખરીદવું છે",
+      "કોઈ છૂટ છે?"
+    ],
+    "answer": "કોઈ છૂટ છે?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Gujarati?",
+    "options": [
+      "મારે આ ખરીદવું છે",
+      "હું આ અજમાવી શકું?",
+      "કાઉન્ટર ક્યાં છે?",
+      "તમે કાર્ડ લો છો?"
+    ],
+    "answer": "મારે આ ખરીદવું છે"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Gujarati?",
+    "options": [
+      "તે ઉપલબ્ધ છે?",
+      "કાઉન્ટર ક્યાં છે?",
+      "હું આ અજમાવી શકું?",
+      "તમે કાર્ડ લો છો?"
+    ],
+    "answer": "હું આ અજમાવી શકું?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Gujarati?",
+    "options": [
+      "તમે કાર્ડ લો છો?",
+      "તે ઉપલબ્ધ છે?",
+      "કાઉન્ટર ક્યાં છે?",
+      "કૃપા કરીને આ પેક કરો"
+    ],
+    "answer": "તમે કાર્ડ લો છો?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Gujarati?",
+    "options": [
+      "કાઉન્ટર ક્યાં છે?",
+      "તે ઉપલબ્ધ છે?",
+      "મને બેગ જોઈએ",
+      "કૃપા કરીને આ પેક કરો"
+    ],
+    "answer": "કાઉન્ટર ક્યાં છે?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Gujarati?",
+    "options": [
+      "તે ઉપલબ્ધ છે?",
+      "કૃપા કરીને આ પેક કરો",
+      "સમય શું છે?",
+      "મને બેગ જોઈએ"
+    ],
+    "answer": "તે ઉપલબ્ધ છે?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Gujarati?",
+    "options": [
+      "મને બેગ જોઈએ",
+      "આ કેટલાનું છે?",
+      "સમય શું છે?",
+      "કૃપા કરીને આ પેક કરો"
+    ],
+    "answer": "કૃપા કરીને આ પેક કરો"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Gujarati?",
+    "options": [
+      "આ કેટલાનું છે?",
+      "સમય શું છે?",
+      "કોઈ છૂટ છે?",
+      "મને બેગ જોઈએ"
+    ],
+    "answer": "મને બેગ જોઈએ"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Gujarati?",
+    "options": [
+      "આ કેટલાનું છે?",
+      "કોઈ છૂટ છે?",
+      "મારે આ ખરીદવું છે",
+      "સમય શું છે?"
+    ],
+    "answer": "સમય શું છે?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Gujarati?",
+    "options": [
+      "બજાર કયા રસ્તે છે?",
+      "રેલવે સ્ટેશન કેવી રીતે જવું?",
+      "તે અહીંથી દૂર છે?",
+      "બસ સ્ટોપ ક્યાં છે?"
+    ],
+    "answer": "બસ સ્ટોપ ક્યાં છે?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Gujarati?",
+    "options": [
+      "તે અહીંથી દૂર છે?",
+      "રેલવે સ્ટેશન કેવી રીતે જવું?",
+      "બજાર કયા રસ્તે છે?",
+      "ડાબે વળો"
+    ],
+    "answer": "રેલવે સ્ટેશન કેવી રીતે જવું?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Gujarati?",
+    "options": [
+      "બજાર કયા રસ્તે છે?",
+      "તે અહીંથી દૂર છે?",
+      "જમણે વળો",
+      "ડાબે વળો"
+    ],
+    "answer": "બજાર કયા રસ્તે છે?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Gujarati?",
+    "options": [
+      "ડાબે વળો",
+      "તે અહીંથી દૂર છે?",
+      "જમણે વળો",
+      "સીધા જાઓ"
+    ],
+    "answer": "તે અહીંથી દૂર છે?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Gujarati?",
+    "options": [
+      "જમણે વળો",
+      "અહીં રોકો",
+      "ડાબે વળો",
+      "સીધા જાઓ"
+    ],
+    "answer": "ડાબે વળો"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Gujarati?",
+    "options": [
+      "કેટલો સમય લાગશે?",
+      "જમણે વળો",
+      "અહીં રોકો",
+      "સીધા જાઓ"
+    ],
+    "answer": "જમણે વળો"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Gujarati?",
+    "options": [
+      "કેટલો સમય લાગશે?",
+      "સીધા જાઓ",
+      "તમે નકશા પર બતાવી શકો?",
+      "અહીં રોકો"
+    ],
+    "answer": "સીધા જાઓ"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Gujarati?",
+    "options": [
+      "બસ સ્ટોપ ક્યાં છે?",
+      "તમે નકશા પર બતાવી શકો?",
+      "કેટલો સમય લાગશે?",
+      "અહીં રોકો"
+    ],
+    "answer": "અહીં રોકો"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Gujarati?",
+    "options": [
+      "કેટલો સમય લાગશે?",
+      "તમે નકશા પર બતાવી શકો?",
+      "બસ સ્ટોપ ક્યાં છે?",
+      "રેલવે સ્ટેશન કેવી રીતે જવું?"
+    ],
+    "answer": "કેટલો સમય લાગશે?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Gujarati",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Gujarati?",
+    "options": [
+      "બજાર કયા રસ્તે છે?",
+      "રેલવે સ્ટેશન કેવી રીતે જવું?",
+      "બસ સ્ટોપ ક્યાં છે?",
+      "તમે નકશા પર બતાવી શકો?"
+    ],
+    "answer": "તમે નકશા પર બતાવી શકો?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'go'?",
+    "options": [
+      "વાંચ્યું",
+      "ખાધું",
+      "ગયો",
+      "જોયું"
+    ],
+    "answer": "ગયો"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'eat'?",
+    "options": [
+      "વાંચ્યું",
+      "જોયું",
+      "ખાધું",
+      "લખ્યું"
+    ],
+    "answer": "ખાધું"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'see'?",
+    "options": [
+      "લખ્યું",
+      "જોયું",
+      "વાંચ્યું",
+      "આવ્યો"
+    ],
+    "answer": "જોયું"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'read'?",
+    "options": [
+      "આપ્યું",
+      "આવ્યો",
+      "લખ્યું",
+      "વાંચ્યું"
+    ],
+    "answer": "વાંચ્યું"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'write'?",
+    "options": [
+      "આપ્યું",
+      "આવ્યો",
+      "લખ્યું",
+      "લીધું"
+    ],
+    "answer": "લખ્યું"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'come'?",
+    "options": [
+      "આપ્યું",
+      "રમ્યો",
+      "લીધું",
+      "આવ્યો"
+    ],
+    "answer": "આવ્યો"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'give'?",
+    "options": [
+      "આપ્યું",
+      "સૂતો",
+      "રમ્યો",
+      "લીધું"
+    ],
+    "answer": "આપ્યું"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'take'?",
+    "options": [
+      "લીધું",
+      "ગયો",
+      "સૂતો",
+      "રમ્યો"
+    ],
+    "answer": "લીધું"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'play'?",
+    "options": [
+      "સૂતો",
+      "ગયો",
+      "ખાધું",
+      "રમ્યો"
+    ],
+    "answer": "રમ્યો"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Gujarati past tense of 'sleep'?",
+    "options": [
+      "સૂતો",
+      "જોયું",
+      "ગયો",
+      "ખાધું"
+    ],
+    "answer": "સૂતો"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'book'?",
+    "options": [
+      "પુસ્તકો",
+      "છોકરીઓ",
+      "છોકરાઓ",
+      "કલમો"
+    ],
+    "answer": "પુસ્તકો"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'pen'?",
+    "options": [
+      "છોકરાઓ",
+      "કલમો",
+      "છોકરીઓ",
+      "ફૂલો"
+    ],
+    "answer": "કલમો"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'boy'?",
+    "options": [
+      "ફૂલો",
+      "છોકરાઓ",
+      "પાનો",
+      "છોકરીઓ"
+    ],
+    "answer": "છોકરાઓ"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'girl'?",
+    "options": [
+      "ફૂલો",
+      "છોકરીઓ",
+      "તારાઓ",
+      "પાનો"
+    ],
+    "answer": "છોકરીઓ"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'flower'?",
+    "options": [
+      "તારાઓ",
+      "પાનો",
+      "વૃક્ષો",
+      "ફૂલો"
+    ],
+    "answer": "ફૂલો"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'leaf'?",
+    "options": [
+      "પાનો",
+      "તારાઓ",
+      "વૃક્ષો",
+      "નદીઓ"
+    ],
+    "answer": "પાનો"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'star'?",
+    "options": [
+      "નદીઓ",
+      "વૃક્ષો",
+      "ખુરશીઓ",
+      "તારાઓ"
+    ],
+    "answer": "તારાઓ"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'tree'?",
+    "options": [
+      "વૃક્ષો",
+      "ખુરશીઓ",
+      "પુસ્તકો",
+      "નદીઓ"
+    ],
+    "answer": "વૃક્ષો"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'river'?",
+    "options": [
+      "નદીઓ",
+      "પુસ્તકો",
+      "ખુરશીઓ",
+      "કલમો"
+    ],
+    "answer": "નદીઓ"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Gujarati plural of 'chair'?",
+    "options": [
+      "પુસ્તકો",
+      "છોકરાઓ",
+      "ખુરશીઓ",
+      "કલમો"
+    ],
+    "answer": "ખુરશીઓ"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'and'?",
+    "options": [
+      "કારણ કે",
+      "અને",
+      "અથવા",
+      "પરંતુ"
+    ],
+    "answer": "અને"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'but'?",
+    "options": [
+      "જો",
+      "અથવા",
+      "પરંતુ",
+      "કારણ કે"
+    ],
+    "answer": "પરંતુ"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'or'?",
+    "options": [
+      "જો",
+      "જ્યારે",
+      "અથવા",
+      "કારણ કે"
+    ],
+    "answer": "અથવા"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'because'?",
+    "options": [
+      "જ્યારે",
+      "કારણ કે",
+      "ક્યાં",
+      "જો"
+    ],
+    "answer": "કારણ કે"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'if'?",
+    "options": [
+      "જો",
+      "ક્યાં",
+      "જ્યારે",
+      "કેવી રીતે"
+    ],
+    "answer": "જો"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'when'?",
+    "options": [
+      "ક્યાં",
+      "જ્યારે",
+      "શા માટે",
+      "કેવી રીતે"
+    ],
+    "answer": "જ્યારે"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'where'?",
+    "options": [
+      "શા માટે",
+      "ક્યાં",
+      "સાથે",
+      "કેવી રીતે"
+    ],
+    "answer": "ક્યાં"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'how'?",
+    "options": [
+      "કેવી રીતે",
+      "અને",
+      "શા માટે",
+      "સાથે"
+    ],
+    "answer": "કેવી રીતે"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'why'?",
+    "options": [
+      "અને",
+      "શા માટે",
+      "સાથે",
+      "પરંતુ"
+    ],
+    "answer": "શા માટે"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Gujarati particle for 'with'?",
+    "options": [
+      "અથવા",
+      "સાથે",
+      "પરંતુ",
+      "અને"
+    ],
+    "answer": "સાથે"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Gujarati?",
+    "options": [
+      "વાંચતો નથી",
+      "જતો નથી",
+      "આવતો નથી",
+      "ખાતો નથી"
+    ],
+    "answer": "જતો નથી"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Gujarati?",
+    "options": [
+      "લખતો નથી",
+      "આવતો નથી",
+      "વાંચતો નથી",
+      "ખાતો નથી"
+    ],
+    "answer": "આવતો નથી"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Gujarati?",
+    "options": [
+      "રમતો નથી",
+      "વાંચતો નથી",
+      "ખાતો નથી",
+      "લખતો નથી"
+    ],
+    "answer": "ખાતો નથી"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Gujarati?",
+    "options": [
+      "રમતો નથી",
+      "લખતો નથી",
+      "વાંચતો નથી",
+      "સૂતો નથી"
+    ],
+    "answer": "વાંચતો નથી"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Gujarati?",
+    "options": [
+      "લખતો નથી",
+      "રમતો નથી",
+      "સૂતો નથી",
+      "જોતો નથી"
+    ],
+    "answer": "લખતો નથી"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Gujarati?",
+    "options": [
+      "જોતો નથી",
+      "આપતો નથી",
+      "રમતો નથી",
+      "સૂતો નથી"
+    ],
+    "answer": "રમતો નથી"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Gujarati?",
+    "options": [
+      "જોતો નથી",
+      "સૂતો નથી",
+      "આપતો નથી",
+      "લેતો નથી"
+    ],
+    "answer": "સૂતો નથી"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Gujarati?",
+    "options": [
+      "જોતો નથી",
+      "લેતો નથી",
+      "આપતો નથી",
+      "જતો નથી"
+    ],
+    "answer": "જોતો નથી"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Gujarati?",
+    "options": [
+      "આપતો નથી",
+      "જતો નથી",
+      "લેતો નથી",
+      "આવતો નથી"
+    ],
+    "answer": "આપતો નથી"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Gujarati?",
+    "options": [
+      "લેતો નથી",
+      "આવતો નથી",
+      "ખાતો નથી",
+      "જતો નથી"
+    ],
+    "answer": "લેતો નથી"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'apple'",
+    "options": [
+      "કૂતરો",
+      "કેળું",
+      "બિલાડી",
+      "સફરજન"
+    ],
+    "answer": "સફરજન"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'banana'",
+    "options": [
+      "બિલાડી",
+      "કૂતરો",
+      "કેળું",
+      "કાર"
+    ],
+    "answer": "કેળું"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'cat'",
+    "options": [
+      "બસ",
+      "કાર",
+      "કૂતરો",
+      "બિલાડી"
+    ],
+    "answer": "બિલાડી"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'dog'",
+    "options": [
+      "કૂતરો",
+      "કાર",
+      "બસ",
+      "ટ્રેન"
+    ],
+    "answer": "કૂતરો"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'car'",
+    "options": [
+      "ઘર",
+      "ટ્રેન",
+      "કાર",
+      "બસ"
+    ],
+    "answer": "કાર"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'bus'",
+    "options": [
+      "શહેર",
+      "ટ્રેન",
+      "બસ",
+      "ઘર"
+    ],
+    "answer": "બસ"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'train'",
+    "options": [
+      "શહેર",
+      "ટ્રેન",
+      "ઘર",
+      "ગામ"
+    ],
+    "answer": "ટ્રેન"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'house'",
+    "options": [
+      "ગામ",
+      "શહેર",
+      "ઘર",
+      "સફરજન"
+    ],
+    "answer": "ઘર"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'city'",
+    "options": [
+      "કેળું",
+      "ગામ",
+      "સફરજન",
+      "શહેર"
+    ],
+    "answer": "શહેર"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Gujarati word for 'village'",
+    "options": [
+      "ગામ",
+      "સફરજન",
+      "કેળું",
+      "બિલાડી"
+    ],
+    "answer": "ગામ"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Good morning'",
+    "options": [
+      "સુપ્રભાત",
+      "તમે કેમ છો?",
+      "આભાર",
+      "માફ કરશો"
+    ],
+    "answer": "સુપ્રભાત"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'How are you?'",
+    "options": [
+      "આભાર",
+      "માફ કરશો",
+      "કૃપા કરીને અંદર આવો",
+      "તમે કેમ છો?"
+    ],
+    "answer": "તમે કેમ છો?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Thank you'",
+    "options": [
+      "બેસો",
+      "આભાર",
+      "માફ કરશો",
+      "કૃપા કરીને અંદર આવો"
+    ],
+    "answer": "આભાર"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Sorry'",
+    "options": [
+      "કૃપા કરીને અંદર આવો",
+      "ઊભા થાઓ",
+      "બેસો",
+      "માફ કરશો"
+    ],
+    "answer": "માફ કરશો"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Please come in'",
+    "options": [
+      "ઊભા થાઓ",
+      "કૃપા કરીને અંદર આવો",
+      "બેસો",
+      "આગળ વધો"
+    ],
+    "answer": "કૃપા કરીને અંદર આવો"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Sit down'",
+    "options": [
+      "ઊભા થાઓ",
+      "બેસો",
+      "આગળ વધો",
+      "સારું કર્યું"
+    ],
+    "answer": "બેસો"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Stand up'",
+    "options": [
+      "સારું કર્યું",
+      "ઊભા થાઓ",
+      "અભિનંદન",
+      "આગળ વધો"
+    ],
+    "answer": "ઊભા થાઓ"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Go ahead'",
+    "options": [
+      "આગળ વધો",
+      "સારું કર્યું",
+      "અભિનંદન",
+      "સુપ્રભાત"
+    ],
+    "answer": "આગળ વધો"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Well done'",
+    "options": [
+      "તમે કેમ છો?",
+      "અભિનંદન",
+      "સારું કર્યું",
+      "સુપ્રભાત"
+    ],
+    "answer": "સારું કર્યું"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Gujarati phrase for 'Congratulations'",
+    "options": [
+      "સુપ્રભાત",
+      "અભિનંદન",
+      "તમે કેમ છો?",
+      "આભાર"
+    ],
+    "answer": "અભિનંદન"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'I am going to school'",
+    "options": [
+      "તેઓ પુસ્તકો વાંચે છે",
+      "હું શાળાએ જાઉં છું",
+      "તે ચોખા ખાય છે",
+      "અમે ક્રિકેટ રમીએ છીએ"
+    ],
+    "answer": "હું શાળાએ જાઉં છું"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'She is eating rice'",
+    "options": [
+      "અમે ક્રિકેટ રમીએ છીએ",
+      "તેઓ પુસ્તકો વાંચે છે",
+      "તે પત્ર લખે છે",
+      "તે ચોખા ખાય છે"
+    ],
+    "answer": "તે ચોખા ખાય છે"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'We are playing cricket'",
+    "options": [
+      "અમે ક્રિકેટ રમીએ છીએ",
+      "તે પત્ર લખે છે",
+      "તમે મારા મિત્ર છો",
+      "તેઓ પુસ્તકો વાંચે છે"
+    ],
+    "answer": "અમે ક્રિકેટ રમીએ છીએ"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'They are reading books'",
+    "options": [
+      "તમે મારા મિત્ર છો",
+      "હવે વરસાદ પડે છે",
+      "તે પત્ર લખે છે",
+      "તેઓ પુસ્તકો વાંચે છે"
+    ],
+    "answer": "તેઓ પુસ્તકો વાંચે છે"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'He is writing a letter'",
+    "options": [
+      "મને ગુજરાતી ગમે છે",
+      "હવે વરસાદ પડે છે",
+      "તમે મારા મિત્ર છો",
+      "તે પત્ર લખે છે"
+    ],
+    "answer": "તે પત્ર લખે છે"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'You are my friend'",
+    "options": [
+      "અમે અમદાવાદમાં રહીએ છીએ",
+      "તમે મારા મિત્ર છો",
+      "મને ગુજરાતી ગમે છે",
+      "હવે વરસાદ પડે છે"
+    ],
+    "answer": "તમે મારા મિત્ર છો"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'It is raining now'",
+    "options": [
+      "અમે અમદાવાદમાં રહીએ છીએ",
+      "મને ગુજરાતી ગમે છે",
+      "તે ગીત ગાય છે",
+      "હવે વરસાદ પડે છે"
+    ],
+    "answer": "હવે વરસાદ પડે છે"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'I like Gujarati'",
+    "options": [
+      "મને ગુજરાતી ગમે છે",
+      "હું શાળાએ જાઉં છું",
+      "અમે અમદાવાદમાં રહીએ છીએ",
+      "તે ગીત ગાય છે"
+    ],
+    "answer": "મને ગુજરાતી ગમે છે"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'We live in Ahmedabad'",
+    "options": [
+      "તે ચોખા ખાય છે",
+      "તે ગીત ગાય છે",
+      "અમે અમદાવાદમાં રહીએ છીએ",
+      "હું શાળાએ જાઉં છું"
+    ],
+    "answer": "અમે અમદાવાદમાં રહીએ છીએ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Gujarati sentence for 'She is singing a song'",
+    "options": [
+      "હું શાળાએ જાઉં છું",
+      "તે ચોખા ખાય છે",
+      "તે ગીત ગાય છે",
+      "અમે ક્રિકેટ રમીએ છીએ"
+    ],
+    "answer": "તે ગીત ગાય છે"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "તમે કેમ છો? - હું સારું છું",
+      "તમે ક્યાં જાઓ છો? - બજારે",
+      "તમે અંગ્રેજી બોલો છો? - હા, થોડી",
+      "તમારું નામ શું છે? - મારું નામ રવિ છે"
+    ],
+    "answer": "તમે કેમ છો? - હું સારું છું"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "તમે અંગ્રેજી બોલો છો? - હા, થોડી",
+      "તમે મારી મદદ કરી શકો? - ચોક્કસ",
+      "તમારું નામ શું છે? - મારું નામ રવિ છે",
+      "તમે ક્યાં જાઓ છો? - બજારે"
+    ],
+    "answer": "તમારું નામ શું છે? - મારું નામ રવિ છે"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "તમે ક્યાં જાઓ છો? - બજારે",
+      "તમે મારી મદદ કરી શકો? - ચોક્કસ",
+      "તમે અંગ્રેજી બોલો છો? - હા, થોડી",
+      "કેટલો વખત થયો છે? - પાંચ વાગ્યા છે"
+    ],
+    "answer": "તમે ક્યાં જાઓ છો? - બજારે"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "તમે મારી મદદ કરી શકો? - ચોક્કસ",
+      "તમે અંગ્રેજી બોલો છો? - હા, થોડી",
+      "કેટલો વખત થયો છે? - પાંચ વાગ્યા છે",
+      "બસ સ્ટોપ ક્યાં છે? - ત્યાં"
+    ],
+    "answer": "તમે અંગ્રેજી બોલો છો? - હા, થોડી"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "તમે મારી મદદ કરી શકો? - ચોક્કસ",
+      "આ કેટલાનું છે? - 50 રૂપિયા",
+      "કેટલો વખત થયો છે? - પાંચ વાગ્યા છે",
+      "બસ સ્ટોપ ક્યાં છે? - ત્યાં"
+    ],
+    "answer": "તમે મારી મદદ કરી શકો? - ચોક્કસ"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "કૃપા કરીને અંદર આવો। - આભાર",
+      "કેટલો વખત થયો છે? - પાંચ વાગ્યા છે",
+      "આ કેટલાનું છે? - 50 રૂપિયા",
+      "બસ સ્ટોપ ક્યાં છે? - ત્યાં"
+    ],
+    "answer": "કેટલો વખત થયો છે? - પાંચ વાગ્યા છે"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "વિદાય। - ફરી મળીશું",
+      "કૃપા કરીને અંદર આવો। - આભાર",
+      "બસ સ્ટોપ ક્યાં છે? - ત્યાં",
+      "આ કેટલાનું છે? - 50 રૂપિયા"
+    ],
+    "answer": "બસ સ્ટોપ ક્યાં છે? - ત્યાં"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "આ કેટલાનું છે? - 50 રૂપિયા",
+      "તમે કેમ છો? - હું સારું છું",
+      "વિદાય। - ફરી મળીશું",
+      "કૃપા કરીને અંદર આવો। - આભાર"
+    ],
+    "answer": "આ કેટલાનું છે? - 50 રૂપિયા"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "તમારું નામ શું છે? - મારું નામ રવિ છે",
+      "કૃપા કરીને અંદર આવો। - આભાર",
+      "તમે કેમ છો? - હું સારું છું",
+      "વિદાય। - ફરી મળીશું"
+    ],
+    "answer": "કૃપા કરીને અંદર આવો। - આભાર"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Gujarati dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "વિદાય। - ફરી મળીશું",
+      "તમારું નામ શું છે? - મારું નામ રવિ છે",
+      "તમે કેમ છો? - હું સારું છું",
+      "તમે ક્યાં જાઓ છો? - બજારે"
+    ],
+    "answer": "વિદાય। - ફરી મળીશું"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Gujarati?",
+    "options": [
+      "કાઉન્ટર ક્યાં છે?",
+      "કોઈ છૂટ છે?",
+      "આ કેટલાનું છે?",
+      "મારે આ ખરીદવું છે"
+    ],
+    "answer": "મારે આ ખરીદવું છે"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Gujarati?",
+    "options": [
+      "આ કેટલાનું છે?",
+      "તમે કાર્ડ લો છો?",
+      "કોઈ છૂટ છે?",
+      "કાઉન્ટર ક્યાં છે?"
+    ],
+    "answer": "આ કેટલાનું છે?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Gujarati?",
+    "options": [
+      "કાઉન્ટર ક્યાં છે?",
+      "કોઈ છૂટ છે?",
+      "કૃપા કરીને આ પેક કરો",
+      "તમે કાર્ડ લો છો?"
+    ],
+    "answer": "કોઈ છૂટ છે?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Gujarati?",
+    "options": [
+      "કાઉન્ટર ક્યાં છે?",
+      "કૃપા કરીને આ પેક કરો",
+      "તમે કાર્ડ લો છો?",
+      "મને બેગ જોઈએ"
+    ],
+    "answer": "કાઉન્ટર ક્યાં છે?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Gujarati?",
+    "options": [
+      "કૃપા કરીને આ પેક કરો",
+      "મને બેગ જોઈએ",
+      "તમે કાર્ડ લો છો?",
+      "તે ઉપલબ્ધ છે?"
+    ],
+    "answer": "તમે કાર્ડ લો છો?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Gujarati?",
+    "options": [
+      "કૃપા કરીને આ પેક કરો",
+      "સમય શું છે?",
+      "મને બેગ જોઈએ",
+      "તે ઉપલબ્ધ છે?"
+    ],
+    "answer": "કૃપા કરીને આ પેક કરો"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Gujarati?",
+    "options": [
+      "મને બેગ જોઈએ",
+      "હું આ અજમાવી શકું?",
+      "તે ઉપલબ્ધ છે?",
+      "સમય શું છે?"
+    ],
+    "answer": "મને બેગ જોઈએ"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Gujarati?",
+    "options": [
+      "હું આ અજમાવી શકું?",
+      "તે ઉપલબ્ધ છે?",
+      "સમય શું છે?",
+      "મારે આ ખરીદવું છે"
+    ],
+    "answer": "તે ઉપલબ્ધ છે?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Gujarati?",
+    "options": [
+      "આ કેટલાનું છે?",
+      "મારે આ ખરીદવું છે",
+      "સમય શું છે?",
+      "હું આ અજમાવી શકું?"
+    ],
+    "answer": "સમય શું છે?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Gujarati?",
+    "options": [
+      "હું આ અજમાવી શકું?",
+      "કોઈ છૂટ છે?",
+      "આ કેટલાનું છે?",
+      "મારે આ ખરીદવું છે"
+    ],
+    "answer": "હું આ અજમાવી શકું?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Gujarati?",
+    "options": [
+      "રેલવે સ્ટેશન ક્યાં છે?",
+      "શહેરમાં કઈ બસ જાય છે?",
+      "કેટલો સમય લાગશે?",
+      "એરપોર્ટ કેવી રીતે જવું?"
+    ],
+    "answer": "રેલવે સ્ટેશન ક્યાં છે?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Gujarati?",
+    "options": [
+      "એરપોર્ટ કેવી રીતે જવું?",
+      "શહેરમાં કઈ બસ જાય છે?",
+      "તે અહીંથી દૂર છે?",
+      "કેટલો સમય લાગશે?"
+    ],
+    "answer": "એરપોર્ટ કેવી રીતે જવું?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Gujarati?",
+    "options": [
+      "ટેક્સી ક્યાં મળશે?",
+      "કેટલો સમય લાગશે?",
+      "તે અહીંથી દૂર છે?",
+      "શહેરમાં કઈ બસ જાય છે?"
+    ],
+    "answer": "શહેરમાં કઈ બસ જાય છે?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Gujarati?",
+    "options": [
+      "તે અહીંથી દૂર છે?",
+      "કેટલો સમય લાગશે?",
+      "ટેક્સી ક્યાં મળશે?",
+      "હોટેલ ક્યાં છે?"
+    ],
+    "answer": "કેટલો સમય લાગશે?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Gujarati?",
+    "options": [
+      "તે અહીંથી દૂર છે?",
+      "તમે નકશા પર બતાવી શકો?",
+      "ટેક્સી ક્યાં મળશે?",
+      "હોટેલ ક્યાં છે?"
+    ],
+    "answer": "તે અહીંથી દૂર છે?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Gujarati?",
+    "options": [
+      "હોટેલ ક્યાં છે?",
+      "તમે નકશા પર બતાવી શકો?",
+      "ટેક્સી ક્યાં મળશે?",
+      "બાથરૂમ ક્યાં છે?"
+    ],
+    "answer": "ટેક્સી ક્યાં મળશે?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Gujarati?",
+    "options": [
+      "તમે નકશા પર બતાવી શકો?",
+      "હોટેલ ક્યાં છે?",
+      "હું રસ્તો ભૂલી ગયો છું",
+      "બાથરૂમ ક્યાં છે?"
+    ],
+    "answer": "હોટેલ ક્યાં છે?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Gujarati?",
+    "options": [
+      "રેલવે સ્ટેશન ક્યાં છે?",
+      "બાથરૂમ ક્યાં છે?",
+      "હું રસ્તો ભૂલી ગયો છું",
+      "તમે નકશા પર બતાવી શકો?"
+    ],
+    "answer": "તમે નકશા પર બતાવી શકો?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Gujarati?",
+    "options": [
+      "હું રસ્તો ભૂલી ગયો છું",
+      "રેલવે સ્ટેશન ક્યાં છે?",
+      "એરપોર્ટ કેવી રીતે જવું?",
+      "બાથરૂમ ક્યાં છે?"
+    ],
+    "answer": "બાથરૂમ ક્યાં છે?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Gujarati?",
+    "options": [
+      "શહેરમાં કઈ બસ જાય છે?",
+      "એરપોર્ટ કેવી રીતે જવું?",
+      "હું રસ્તો ભૂલી ગયો છું",
+      "રેલવે સ્ટેશન ક્યાં છે?"
+    ],
+    "answer": "હું રસ્તો ભૂલી ગયો છું"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Gujarati?",
+    "options": [
+      "હોસ્પિટલ ક્યાં છે?",
+      "મને તબિયત સારી નથી",
+      "પોલીસને બોલાવો",
+      "મને ડૉક્ટર જોઈએ"
+    ],
+    "answer": "પોલીસને બોલાવો"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Gujarati?",
+    "options": [
+      "હોસ્પિટલ ક્યાં છે?",
+      "મદદ!",
+      "મને ડૉક્ટર જોઈએ",
+      "મને તબિયત સારી નથી"
+    ],
+    "answer": "મને ડૉક્ટર જોઈએ"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Gujarati?",
+    "options": [
+      "મારું પર્સ ખોવાઈ ગયું",
+      "હોસ્પિટલ ક્યાં છે?",
+      "મદદ!",
+      "મને તબિયત સારી નથી"
+    ],
+    "answer": "હોસ્પિટલ ક્યાં છે?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Gujarati?",
+    "options": [
+      "મદદ!",
+      "મારું પર્સ ખોવાઈ ગયું",
+      "આગ લાગી છે",
+      "મને તબિયત સારી નથી"
+    ],
+    "answer": "મને તબિયત સારી નથી"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Gujarati?",
+    "options": [
+      "મારું પર્સ ખોવાઈ ગયું",
+      "આગ લાગી છે",
+      "મારો અકસ્માત થયો છે",
+      "મદદ!"
+    ],
+    "answer": "મદદ!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Gujarati?",
+    "options": [
+      "મારો અકસ્માત થયો છે",
+      "મને દુખાપત થઈ છે",
+      "આગ લાગી છે",
+      "મારું પર્સ ખોવાઈ ગયું"
+    ],
+    "answer": "મારું પર્સ ખોવાઈ ગયું"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Gujarati?",
+    "options": [
+      "મને દુખાપત થઈ છે",
+      "આગ લાગી છે",
+      "મારો અકસ્માત થયો છે",
+      "કૃપા કરીને મારી મદદ કરો"
+    ],
+    "answer": "આગ લાગી છે"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Gujarati?",
+    "options": [
+      "પોલીસને બોલાવો",
+      "મને દુખાપત થઈ છે",
+      "કૃપા કરીને મારી મદદ કરો",
+      "મારો અકસ્માત થયો છે"
+    ],
+    "answer": "મારો અકસ્માત થયો છે"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Gujarati?",
+    "options": [
+      "પોલીસને બોલાવો",
+      "મને દુખાપત થઈ છે",
+      "કૃપા કરીને મારી મદદ કરો",
+      "મને ડૉક્ટર જોઈએ"
+    ],
+    "answer": "મને દુખાપત થઈ છે"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Gujarati?",
+    "options": [
+      "હોસ્પિટલ ક્યાં છે?",
+      "કૃપા કરીને મારી મદદ કરો",
+      "પોલીસને બોલાવો",
+      "મને ડૉક્ટર જોઈએ"
+    ],
+    "answer": "કૃપા કરીને મારી મદદ કરો"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Gujarati?",
+    "options": [
+      "કાલે મળીએ",
+      "આજે સાંજે તમે ફ્રી છો?",
+      "તમારી યોજનાઓ શું છે?",
+      "ફિલ્મ જોવા જઈએ"
+    ],
+    "answer": "તમારી યોજનાઓ શું છે?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Gujarati?",
+    "options": [
+      "કાલે મળીએ",
+      "સાથે બપોરનું ભોજન કરીએ?",
+      "આજે સાંજે તમે ફ્રી છો?",
+      "ફિલ્મ જોવા જઈએ"
+    ],
+    "answer": "કાલે મળીએ"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Gujarati?",
+    "options": [
+      "તમે અમારી સાથે આવી શકો?",
+      "ફિલ્મ જોવા જઈએ",
+      "સાથે બપોરનું ભોજન કરીએ?",
+      "આજે સાંજે તમે ફ્રી છો?"
+    ],
+    "answer": "આજે સાંજે તમે ફ્રી છો?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Gujarati?",
+    "options": [
+      "સાથે બપોરનું ભોજન કરીએ?",
+      "તમે અમારી સાથે આવી શકો?",
+      "ફિલ્મ જોવા જઈએ",
+      "આજે હું વ્યસ્ત છું"
+    ],
+    "answer": "ફિલ્મ જોવા જઈએ"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Gujarati?",
+    "options": [
+      "આજે હું વ્યસ્ત છું",
+      "તમે અમારી સાથે આવી શકો?",
+      "પછી મળીશું",
+      "સાથે બપોરનું ભોજન કરીએ?"
+    ],
+    "answer": "સાથે બપોરનું ભોજન કરીએ?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Gujarati?",
+    "options": [
+      "તમે અમારી સાથે આવી શકો?",
+      "પછી મળીશું",
+      "આજે હું વ્યસ્ત છું",
+      "હું તમને ફોન કરીશ"
+    ],
+    "answer": "તમે અમારી સાથે આવી શકો?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Gujarati?",
+    "options": [
+      "હું તમને ફોન કરીશ",
+      "પછી મળીશું",
+      "ઉજવણી કરીએ",
+      "આજે હું વ્યસ્ત છું"
+    ],
+    "answer": "આજે હું વ્યસ્ત છું"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Gujarati?",
+    "options": [
+      "તમારી યોજનાઓ શું છે?",
+      "પછી મળીશું",
+      "હું તમને ફોન કરીશ",
+      "ઉજવણી કરીએ"
+    ],
+    "answer": "પછી મળીશું"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Gujarati?",
+    "options": [
+      "હું તમને ફોન કરીશ",
+      "ઉજવણી કરીએ",
+      "તમારી યોજનાઓ શું છે?",
+      "કાલે મળીએ"
+    ],
+    "answer": "હું તમને ફોન કરીશ"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Gujarati",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Gujarati?",
+    "options": [
+      "આજે સાંજે તમે ફ્રી છો?",
+      "કાલે મળીએ",
+      "તમારી યોજનાઓ શું છે?",
+      "ઉજવણી કરીએ"
+    ],
+    "answer": "ઉજવણી કરીએ"
+  }
+]

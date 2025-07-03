@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'a'?",
+    "options": [
+      "അ",
+      "ആ",
+      "ഇ",
+      "ഈ"
+    ],
+    "answer": "അ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'aa'?",
+    "options": [
+      "ആ",
+      "ഈ",
+      "ഉ",
+      "ഇ"
+    ],
+    "answer": "ആ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'i'?",
+    "options": [
+      "ഇ",
+      "ഈ",
+      "ഊ",
+      "ഉ"
+    ],
+    "answer": "ഇ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'ee'?",
+    "options": [
+      "ഊ",
+      "ഈ",
+      "ഉ",
+      "എ"
+    ],
+    "answer": "ഈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'u'?",
+    "options": [
+      "ഊ",
+      "എ",
+      "ഏ",
+      "ഉ"
+    ],
+    "answer": "ഉ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'oo'?",
+    "options": [
+      "എ",
+      "ഐ",
+      "ഊ",
+      "ഏ"
+    ],
+    "answer": "ഊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'e'?",
+    "options": [
+      "ഏ",
+      "ഐ",
+      "ഒ",
+      "എ"
+    ],
+    "answer": "എ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'ae'?",
+    "options": [
+      "അ",
+      "ഏ",
+      "ഐ",
+      "ഒ"
+    ],
+    "answer": "ഏ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'ai'?",
+    "options": [
+      "അ",
+      "ആ",
+      "ഐ",
+      "ഒ"
+    ],
+    "answer": "ഐ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Malayalam vowel for 'o'?",
+    "options": [
+      "ഒ",
+      "ഇ",
+      "അ",
+      "ആ"
+    ],
+    "answer": "ഒ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'ka'?",
+    "options": [
+      "ഘ",
+      "ഖ",
+      "ക",
+      "ഗ"
+    ],
+    "answer": "ക"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'kha'?",
+    "options": [
+      "ഗ",
+      "ച",
+      "ഖ",
+      "ഘ"
+    ],
+    "answer": "ഖ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'ga'?",
+    "options": [
+      "ഘ",
+      "ച",
+      "ഗ",
+      "ഛ"
+    ],
+    "answer": "ഗ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'gha'?",
+    "options": [
+      "ഘ",
+      "ഛ",
+      "ജ",
+      "ച"
+    ],
+    "answer": "ഘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'cha'?",
+    "options": [
+      "ഛ",
+      "ച",
+      "ഝ",
+      "ജ"
+    ],
+    "answer": "ച"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'chha'?",
+    "options": [
+      "ട",
+      "ഝ",
+      "ഛ",
+      "ജ"
+    ],
+    "answer": "ഛ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'ja'?",
+    "options": [
+      "ജ",
+      "ഝ",
+      "ഠ",
+      "ട"
+    ],
+    "answer": "ജ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'jha'?",
+    "options": [
+      "ഠ",
+      "ക",
+      "ട",
+      "ഝ"
+    ],
+    "answer": "ഝ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'ta'?",
+    "options": [
+      "ട",
+      "ഖ",
+      "ഠ",
+      "ക"
+    ],
+    "answer": "ട"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Malayalam consonant for 'tha'?",
+    "options": [
+      "ക",
+      "ഗ",
+      "ഠ",
+      "ഖ"
+    ],
+    "answer": "ഠ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ക' + 'ാ'?",
+    "options": [
+      "മി",
+      "പു",
+      "തേ",
+      "കാ"
+    ],
+    "answer": "കാ"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'പ' + 'ു'?",
+    "options": [
+      "മി",
+      "തേ",
+      "പു",
+      "സൂ"
+    ],
+    "answer": "പു"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'മ' + 'ി'?",
+    "options": [
+      "നോ",
+      "സൂ",
+      "തേ",
+      "മി"
+    ],
+    "answer": "മി"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ത' + 'േ'?",
+    "options": [
+      "രാ",
+      "തേ",
+      "സൂ",
+      "നോ"
+    ],
+    "answer": "തേ"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'സ' + 'ൂ'?",
+    "options": [
+      "സൂ",
+      "ലേ",
+      "രാ",
+      "നോ"
+    ],
+    "answer": "സൂ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ന' + 'ോ'?",
+    "options": [
+      "രാ",
+      "ദി",
+      "നോ",
+      "ലേ"
+    ],
+    "answer": "നോ"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ര' + 'ാ'?",
+    "options": [
+      "ലേ",
+      "രാ",
+      "വു",
+      "ദി"
+    ],
+    "answer": "രാ"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ല' + 'േ'?",
+    "options": [
+      "ലേ",
+      "വു",
+      "കാ",
+      "ദി"
+    ],
+    "answer": "ലേ"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ദ' + 'ി'?",
+    "options": [
+      "പു",
+      "ദി",
+      "വു",
+      "കാ"
+    ],
+    "answer": "ദി"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'വ' + 'ു'?",
+    "options": [
+      "കാ",
+      "മി",
+      "വു",
+      "പു"
+    ],
+    "answer": "വു"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'പുസ്തകം'? (in Malayalam)",
+    "options": [
+      "Pen",
+      "Book",
+      "School",
+      "Hand"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'പേന'? (in Malayalam)",
+    "options": [
+      "School",
+      "Pen",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'സ്കൂൾ'? (in Malayalam)",
+    "options": [
+      "Hand",
+      "Flowers",
+      "School",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'കൈ'? (in Malayalam)",
+    "options": [
+      "Tree",
+      "Flowers",
+      "Hand",
+      "Fruit"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'പഴം'? (in Malayalam)",
+    "options": [
+      "Flowers",
+      "Slate",
+      "Fruit",
+      "Tree"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'പൂവ്'? (in Malayalam)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Flowers",
+      "Speak"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'മരം'? (in Malayalam)",
+    "options": [
+      "Tree",
+      "Speech",
+      "Slate",
+      "Speak"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'സ്ലേറ്റ്'? (in Malayalam)",
+    "options": [
+      "Book",
+      "Slate",
+      "Speak",
+      "Speech"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'സംസാരിക്കുക'? (in Malayalam)",
+    "options": [
+      "Book",
+      "Speech",
+      "Speak",
+      "Pen"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ഭാഷ'? (in Malayalam)",
+    "options": [
+      "Pen",
+      "Speech",
+      "School",
+      "Book"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'book'?",
+    "options": [
+      "പേന",
+      "സ്കൂൾ",
+      "ബാഗ്",
+      "പുസ്തകം"
+    ],
+    "answer": "പുസ്തകം"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'pen'?",
+    "options": [
+      "ബാഗ്",
+      "പേന",
+      "സ്കൂൾ",
+      "കസേര"
+    ],
+    "answer": "പേന"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'school'?",
+    "options": [
+      "സ്കൂൾ",
+      "കസേര",
+      "മേശ",
+      "ബാഗ്"
+    ],
+    "answer": "സ്കൂൾ"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'bag'?",
+    "options": [
+      "സ്ലേറ്റ്",
+      "മേശ",
+      "കസേര",
+      "ബാഗ്"
+    ],
+    "answer": "ബാഗ്"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'chair'?",
+    "options": [
+      "മേശ",
+      "സ്ലേറ്റ്",
+      "കസേര",
+      "ജനാല"
+    ],
+    "answer": "കസേര"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'table'?",
+    "options": [
+      "വാതിൽ",
+      "സ്ലേറ്റ്",
+      "മേശ",
+      "ജനാല"
+    ],
+    "answer": "മേശ"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'slate'?",
+    "options": [
+      "ജനാല",
+      "ഫാൻ",
+      "സ്ലേറ്റ്",
+      "വാതിൽ"
+    ],
+    "answer": "സ്ലേറ്റ്"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'window'?",
+    "options": [
+      "പുസ്തകം",
+      "ഫാൻ",
+      "ജനാല",
+      "വാതിൽ"
+    ],
+    "answer": "ജനാല"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'door'?",
+    "options": [
+      "പുസ്തകം",
+      "ഫാൻ",
+      "വാതിൽ",
+      "പേന"
+    ],
+    "answer": "വാതിൽ"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Malayalam word for 'fan'?",
+    "options": [
+      "പുസ്തകം",
+      "സ്കൂൾ",
+      "ഫാൻ",
+      "പേന"
+    ],
+    "answer": "ഫാൻ"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'rice'?",
+    "options": [
+      "പാൽ",
+      "ചോറ്",
+      "പച്ചക്കറി",
+      "പഴം"
+    ],
+    "answer": "ചോറ്"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'milk'?",
+    "options": [
+      "വെള്ളം",
+      "പച്ചക്കറി",
+      "പാൽ",
+      "പഴം"
+    ],
+    "answer": "പാൽ"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'fruit'?",
+    "options": [
+      "പച്ചക്കറി",
+      "തൈര്",
+      "വെള്ളം",
+      "പഴം"
+    ],
+    "answer": "പഴം"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'vegetable'?",
+    "options": [
+      "തൈര്",
+      "റൊട്ടി",
+      "പച്ചക്കറി",
+      "വെള്ളം"
+    ],
+    "answer": "പച്ചക്കറി"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'water'?",
+    "options": [
+      "വെള്ളം",
+      "തൈര്",
+      "റൊട്ടി",
+      "മുട്ട"
+    ],
+    "answer": "വെള്ളം"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'curd'?",
+    "options": [
+      "റൊട്ടി",
+      "തൈര്",
+      "മുട്ട",
+      "മീൻ"
+    ],
+    "answer": "തൈര്"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'bread'?",
+    "options": [
+      "മീൻ",
+      "മധുരം",
+      "റൊട്ടി",
+      "മുട്ട"
+    ],
+    "answer": "റൊട്ടി"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'egg'?",
+    "options": [
+      "മീൻ",
+      "ചോറ്",
+      "മുട്ട",
+      "മധുരം"
+    ],
+    "answer": "മുട്ട"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'fish'?",
+    "options": [
+      "ചോറ്",
+      "മധുരം",
+      "പാൽ",
+      "മീൻ"
+    ],
+    "answer": "മീൻ"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'sweet'?",
+    "options": [
+      "പാൽ",
+      "പഴം",
+      "മധുരം",
+      "ചോറ്"
+    ],
+    "answer": "മധുരം"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'mother'?",
+    "options": [
+      "അച്ഛൻ",
+      "സഹോദരൻ",
+      "സഹോദരി",
+      "അമ്മ"
+    ],
+    "answer": "അമ്മ"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'father'?",
+    "options": [
+      "അച്ഛൻ",
+      "സഹോദരൻ",
+      "സഹോദരി",
+      "അമ്മൂമ്മ"
+    ],
+    "answer": "അച്ഛൻ"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'sister'?",
+    "options": [
+      "സഹോദരൻ",
+      "അപ്പൂപ്പൻ",
+      "അമ്മൂമ്മ",
+      "സഹോദരി"
+    ],
+    "answer": "സഹോദരി"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'brother'?",
+    "options": [
+      "അപ്പൂപ്പൻ",
+      "അമ്മൂമ്മ",
+      "അമ്മാവൻ",
+      "സഹോദരൻ"
+    ],
+    "answer": "സഹോദരൻ"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'grandmother'?",
+    "options": [
+      "അമ്മൂമ്മ",
+      "അമ്മായി",
+      "അമ്മാവൻ",
+      "അപ്പൂപ്പൻ"
+    ],
+    "answer": "അമ്മൂമ്മ"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'grandfather'?",
+    "options": [
+      "അപ്പൂപ്പൻ",
+      "അമ്മായി",
+      "അമ്മാവൻ",
+      "മകൻ"
+    ],
+    "answer": "അപ്പൂപ്പൻ"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'uncle'?",
+    "options": [
+      "അമ്മായി",
+      "മകൻ",
+      "അമ്മാവൻ",
+      "മകൾ"
+    ],
+    "answer": "അമ്മാവൻ"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'aunt'?",
+    "options": [
+      "അമ്മ",
+      "അമ്മായി",
+      "മകൾ",
+      "മകൻ"
+    ],
+    "answer": "അമ്മായി"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'son'?",
+    "options": [
+      "അമ്മ",
+      "അച്ഛൻ",
+      "മകൾ",
+      "മകൻ"
+    ],
+    "answer": "മകൻ"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Malayalam word for 'daughter'?",
+    "options": [
+      "അമ്മ",
+      "മകൾ",
+      "അച്ഛൻ",
+      "സഹോദരി"
+    ],
+    "answer": "മകൾ"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'tree'?",
+    "options": [
+      "പൂവ്",
+      "മരം",
+      "മല",
+      "നദി"
+    ],
+    "answer": "മരം"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'flower'?",
+    "options": [
+      "നദി",
+      "മല",
+      "ഇല",
+      "പൂവ്"
+    ],
+    "answer": "പൂവ്"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'river'?",
+    "options": [
+      "ഇല",
+      "മല",
+      "നദി",
+      "ആകാശം"
+    ],
+    "answer": "നദി"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'mountain'?",
+    "options": [
+      "ആകാശം",
+      "മല",
+      "ഇല",
+      "മഴ"
+    ],
+    "answer": "മല"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'leaf'?",
+    "options": [
+      "ആകാശം",
+      "ഇല",
+      "സൂര്യൻ",
+      "മഴ"
+    ],
+    "answer": "ഇല"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'sky'?",
+    "options": [
+      "ആകാശം",
+      "സൂര്യൻ",
+      "ചന്ദ്രൻ",
+      "മഴ"
+    ],
+    "answer": "ആകാശം"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'rain'?",
+    "options": [
+      "ചന്ദ്രൻ",
+      "മഴ",
+      "നക്ഷത്രം",
+      "സൂര്യൻ"
+    ],
+    "answer": "മഴ"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'sun'?",
+    "options": [
+      "നക്ഷത്രം",
+      "സൂര്യൻ",
+      "ചന്ദ്രൻ",
+      "മരം"
+    ],
+    "answer": "സൂര്യൻ"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'moon'?",
+    "options": [
+      "നക്ഷത്രം",
+      "പൂവ്",
+      "ചന്ദ്രൻ",
+      "മരം"
+    ],
+    "answer": "ചന്ദ്രൻ"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Malayalam word for 'star'?",
+    "options": [
+      "പൂവ്",
+      "നക്ഷത്രം",
+      "നദി",
+      "മരം"
+    ],
+    "answer": "നക്ഷത്രം"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Malayalam?",
+    "options": [
+      "ശുഭരാത്രി",
+      "നമസ്കാരം",
+      "സ്വാഗതം",
+      "സുപ്രഭാതം"
+    ],
+    "answer": "നമസ്കാരം"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Malayalam?",
+    "options": [
+      "എങ്ങനെയുണ്ട്?",
+      "ശുഭരാത്രി",
+      "സുപ്രഭാതം",
+      "സ്വാഗതം"
+    ],
+    "answer": "സുപ്രഭാതം"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Malayalam?",
+    "options": [
+      "എങ്ങനെയുണ്ട്?",
+      "ശുഭരാത്രി",
+      "സ്വാഗതം",
+      "നല്ലതാണ്"
+    ],
+    "answer": "ശുഭരാത്രി"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Malayalam?",
+    "options": [
+      "സ്വാഗതം",
+      "എങ്ങനെയുണ്ട്?",
+      "നല്ലതാണ്",
+      "പിന്നെ കാണാം"
+    ],
+    "answer": "സ്വാഗതം"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Malayalam?",
+    "options": [
+      "നല്ലതാണ്",
+      "പിന്നെ കാണാം",
+      "വിട",
+      "എങ്ങനെയുണ്ട്?"
+    ],
+    "answer": "എങ്ങനെയുണ്ട്?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Malayalam?",
+    "options": [
+      "പിന്നെ കാണാം",
+      "ശ്രദ്ധിക്കുക",
+      "വിട",
+      "നല്ലതാണ്"
+    ],
+    "answer": "നല്ലതാണ്"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Malayalam?",
+    "options": [
+      "നന്ദി",
+      "ശ്രദ്ധിക്കുക",
+      "വിട",
+      "പിന്നെ കാണാം"
+    ],
+    "answer": "പിന്നെ കാണാം"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Malayalam?",
+    "options": [
+      "നമസ്കാരം",
+      "ശ്രദ്ധിക്കുക",
+      "നന്ദി",
+      "വിട"
+    ],
+    "answer": "വിട"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Malayalam?",
+    "options": [
+      "നന്ദി",
+      "സുപ്രഭാതം",
+      "നമസ്കാരം",
+      "ശ്രദ്ധിക്കുക"
+    ],
+    "answer": "ശ്രദ്ധിക്കുക"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Malayalam?",
+    "options": [
+      "സുപ്രഭാതം",
+      "നന്ദി",
+      "നമസ്കാരം",
+      "ശുഭരാത്രി"
+    ],
+    "answer": "നന്ദി"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Malayalam?",
+    "options": [
+      "ഞാൻ ... ൽ നിന്നാണ്",
+      "എന്റെ പേര് ...",
+      "ഞാൻ ഒരു വിദ്യാർത്ഥിയാണ്",
+      "ഞാൻ ഒരു അധ്യാപകനാണ്"
+    ],
+    "answer": "എന്റെ പേര് ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Malayalam?",
+    "options": [
+      "ഞാൻ ഒരു അധ്യാപകനാണ്",
+      "നിങ്ങളെ കാണാൻ സന്തോഷം",
+      "ഞാൻ ഒരു വിദ്യാർത്ഥിയാണ്",
+      "ഞാൻ ... ൽ നിന്നാണ്"
+    ],
+    "answer": "ഞാൻ ... ൽ നിന്നാണ്"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Malayalam?",
+    "options": [
+      "ഞാൻ ... ൽ താമസിക്കുന്നു",
+      "ഞാൻ ഒരു അധ്യാപകനാണ്",
+      "ഞാൻ ഒരു വിദ്യാർത്ഥിയാണ്",
+      "നിങ്ങളെ കാണാൻ സന്തോഷം"
+    ],
+    "answer": "ഞാൻ ഒരു വിദ്യാർത്ഥിയാണ്"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Malayalam?",
+    "options": [
+      "ഞാൻ മലയാളം പഠിക്കുന്നു",
+      "ഞാൻ ഒരു അധ്യാപകനാണ്",
+      "ഞാൻ ... ൽ താമസിക്കുന്നു",
+      "നിങ്ങളെ കാണാൻ സന്തോഷം"
+    ],
+    "answer": "ഞാൻ ഒരു അധ്യാപകനാണ്"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Malayalam?",
+    "options": [
+      "നിങ്ങളുടെ പേരെന്താണ്?",
+      "നിങ്ങളെ കാണാൻ സന്തോഷം",
+      "ഞാൻ ... ൽ താമസിക്കുന്നു",
+      "ഞാൻ മലയാളം പഠിക്കുന്നു"
+    ],
+    "answer": "നിങ്ങളെ കാണാൻ സന്തോഷം"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Malayalam?",
+    "options": [
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "ഞാൻ ... ൽ താമസിക്കുന്നു",
+      "ഞാൻ മലയാളം പഠിക്കുന്നു",
+      "നിങ്ങളുടെ പേരെന്താണ്?"
+    ],
+    "answer": "ഞാൻ ... ൽ താമസിക്കുന്നു"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Malayalam' in Malayalam?",
+    "options": [
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?",
+      "ഞാൻ മലയാളം പഠിക്കുന്നു",
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "നിങ്ങളുടെ പേരെന്താണ്?"
+    ],
+    "answer": "ഞാൻ മലയാളം പഠിക്കുന്നു"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?",
+      "നിങ്ങളുടെ പേരെന്താണ്?",
+      "എന്റെ പേര് ..."
+    ],
+    "answer": "നിങ്ങളുടെ പേരെന്താണ്?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "എന്റെ പേര് ...",
+      "ഞാൻ ... ൽ നിന്നാണ്",
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?"
+    ],
+    "answer": "നിങ്ങൾ എവിടെ നിന്നാണ്?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?",
+      "ഞാൻ ... ൽ നിന്നാണ്",
+      "ഞാൻ ഒരു വിദ്യാർത്ഥിയാണ്",
+      "എന്റെ പേര് ..."
+    ],
+    "answer": "നിങ്ങൾക്ക് എത്ര വയസ്സായി?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Malayalam?",
+    "options": [
+      "ആയിരിക്കാം",
+      "തീർച്ചയായും",
+      "ഇല്ല",
+      "അതെ"
+    ],
+    "answer": "അതെ"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Malayalam?",
+    "options": [
+      "ഒരിക്കലും ഇല്ല",
+      "ആയിരിക്കാം",
+      "തീർച്ചയായും",
+      "ഇല്ല"
+    ],
+    "answer": "ഇല്ല"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Malayalam?",
+    "options": [
+      "ഒരിക്കലും ഇല്ല",
+      "ആയിരിക്കാം",
+      "തീർച്ചയായും",
+      "ചിലപ്പോൾ"
+    ],
+    "answer": "ആയിരിക്കാം"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Malayalam?",
+    "options": [
+      "എപ്പോഴും",
+      "ഒരിക്കലും ഇല്ല",
+      "തീർച്ചയായും",
+      "ചിലപ്പോൾ"
+    ],
+    "answer": "തീർച്ചയായും"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Malayalam?",
+    "options": [
+      "ചിലപ്പോൾ",
+      "എപ്പോഴും",
+      "ഒരിക്കലും ഇല്ല",
+      "ഒട്ടും ഇല്ല"
+    ],
+    "answer": "ഒരിക്കലും ഇല്ല"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Malayalam?",
+    "options": [
+      "ചിലപ്പോൾ",
+      "തീർച്ചയായും",
+      "ഒട്ടും ഇല്ല",
+      "എപ്പോഴും"
+    ],
+    "answer": "ചിലപ്പോൾ"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Malayalam?",
+    "options": [
+      "എപ്പോഴും",
+      "എനിക്കറിയില്ല",
+      "തീർച്ചയായും",
+      "ഒട്ടും ഇല്ല"
+    ],
+    "answer": "എപ്പോഴും"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Malayalam?",
+    "options": [
+      "തീർച്ചയായും",
+      "ഒട്ടും ഇല്ല",
+      "അതെ",
+      "എനിക്കറിയില്ല"
+    ],
+    "answer": "ഒട്ടും ഇല്ല"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Malayalam?",
+    "options": [
+      "എനിക്കറിയില്ല",
+      "ഇല്ല",
+      "തീർച്ചയായും",
+      "അതെ"
+    ],
+    "answer": "തീർച്ചയായും"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Malayalam?",
+    "options": [
+      "ഇല്ല",
+      "ആയിരിക്കാം",
+      "അതെ",
+      "എനിക്കറിയില്ല"
+    ],
+    "answer": "എനിക്കറിയില്ല"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Malayalam?",
+    "options": [
+      "ക്ഷമിക്കുക",
+      "ക്ഷമിക്കുക",
+      "നന്ദി",
+      "ദയവായി"
+    ],
+    "answer": "നന്ദി"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Malayalam?",
+    "options": [
+      "ക്ഷമിക്കുക",
+      "ക്ഷമിക്കുക",
+      "സ്വാഗതം",
+      "ദയവായി"
+    ],
+    "answer": "ക്ഷമിക്കുക"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Malayalam?",
+    "options": [
+      "സ്വാഗതം",
+      "ദയവായി",
+      "പ്രശ്നമില്ല",
+      "ക്ഷമിക്കുക"
+    ],
+    "answer": "ദയവായി"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Malayalam?",
+    "options": [
+      "ക്ഷമിക്കുക",
+      "പ്രശ്നമില്ല",
+      "സ്വാഗതം",
+      "അഭിനന്ദനങ്ങൾ"
+    ],
+    "answer": "ക്ഷമിക്കുക"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Malayalam?",
+    "options": [
+      "പ്രശ്നമില്ല",
+      "ദൈവം അനുഗ്രഹിക്കട്ടെ",
+      "സ്വാഗതം",
+      "അഭിനന്ദനങ്ങൾ"
+    ],
+    "answer": "സ്വാഗതം"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Malayalam?",
+    "options": [
+      "ദൈവം അനുഗ്രഹിക്കട്ടെ",
+      "അഭിനന്ദനങ്ങൾ",
+      "ശുഭകാമനകൾ",
+      "പ്രശ്നമില്ല"
+    ],
+    "answer": "പ്രശ്നമില്ല"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Malayalam?",
+    "options": [
+      "ജന്മദിനാശംസകൾ",
+      "ശുഭകാമനകൾ",
+      "ദൈവം അനുഗ്രഹിക്കട്ടെ",
+      "അഭിനന്ദനങ്ങൾ"
+    ],
+    "answer": "അഭിനന്ദനങ്ങൾ"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Malayalam?",
+    "options": [
+      "നന്ദി",
+      "ശുഭകാമനകൾ",
+      "ദൈവം അനുഗ്രഹിക്കട്ടെ",
+      "ജന്മദിനാശംസകൾ"
+    ],
+    "answer": "ദൈവം അനുഗ്രഹിക്കട്ടെ"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Malayalam?",
+    "options": [
+      "ക്ഷമിക്കുക",
+      "ശുഭകാമനകൾ",
+      "നന്ദി",
+      "ജന്മദിനാശംസകൾ"
+    ],
+    "answer": "ശുഭകാമനകൾ"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Malayalam",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Malayalam?",
+    "options": [
+      "ക്ഷമിക്കുക",
+      "നന്ദി",
+      "ദയവായി",
+      "ജന്മദിനാശംസകൾ"
+    ],
+    "answer": "ജന്മദിനാശംസകൾ"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'ki'?",
+    "options": [
+      "കൊ",
+      "കു",
+      "കെ",
+      "കി"
+    ],
+    "answer": "കി"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'ku'?",
+    "options": [
+      "കെ",
+      "കു",
+      "കൊ",
+      "ഗി"
+    ],
+    "answer": "കു"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'ke'?",
+    "options": [
+      "കൊ",
+      "കെ",
+      "ഗി",
+      "ഗു"
+    ],
+    "answer": "കെ"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'ko'?",
+    "options": [
+      "ഗി",
+      "കൊ",
+      "ഗെ",
+      "ഗു"
+    ],
+    "answer": "കൊ"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'gi'?",
+    "options": [
+      "ഗൊ",
+      "ഗു",
+      "ഗി",
+      "ഗെ"
+    ],
+    "answer": "ഗി"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'gu'?",
+    "options": [
+      "ചി",
+      "ഗൊ",
+      "ഗു",
+      "ഗെ"
+    ],
+    "answer": "ഗു"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'ge'?",
+    "options": [
+      "ഗൊ",
+      "ചി",
+      "ചു",
+      "ഗെ"
+    ],
+    "answer": "ഗെ"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'go'?",
+    "options": [
+      "ചി",
+      "ഗൊ",
+      "കി",
+      "ചു"
+    ],
+    "answer": "ഗൊ"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'chi'?",
+    "options": [
+      "കി",
+      "ചു",
+      "കു",
+      "ചി"
+    ],
+    "answer": "ചി"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Malayalam syllable for 'chu'?",
+    "options": [
+      "ചു",
+      "കെ",
+      "കി",
+      "കു"
+    ],
+    "answer": "ചു"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'ksha'?",
+    "options": [
+      "ജ്ഞ",
+      "ശ്ര",
+      "ക്ഷ",
+      "ത്ര"
+    ],
+    "answer": "ക്ഷ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'tra'?",
+    "options": [
+      "ത്ര",
+      "ജ്ഞ",
+      "ശ്ര",
+      "ക്ര"
+    ],
+    "answer": "ത്ര"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'jna'?",
+    "options": [
+      "പ്ര",
+      "ക്ര",
+      "ശ്ര",
+      "ജ്ഞ"
+    ],
+    "answer": "ജ്ഞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'shra'?",
+    "options": [
+      "സ്ര",
+      "പ്ര",
+      "ക്ര",
+      "ശ്ര"
+    ],
+    "answer": "ശ്ര"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'kra'?",
+    "options": [
+      "പ്ര",
+      "ഗ്ര",
+      "ക്ര",
+      "സ്ര"
+    ],
+    "answer": "ക്ര"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'pra'?",
+    "options": [
+      "പ്ര",
+      "ദ്ര",
+      "സ്ര",
+      "ഗ്ര"
+    ],
+    "answer": "പ്ര"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'sra'?",
+    "options": [
+      "ഗ്ര",
+      "ന്ത",
+      "ദ്ര",
+      "സ്ര"
+    ],
+    "answer": "സ്ര"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'gra'?",
+    "options": [
+      "ക്ഷ",
+      "ന്ത",
+      "ദ്ര",
+      "ഗ്ര"
+    ],
+    "answer": "ഗ്ര"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'dra'?",
+    "options": [
+      "ന്ത",
+      "ത്ര",
+      "ക്ഷ",
+      "ദ്ര"
+    ],
+    "answer": "ദ്ര"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Malayalam ligature for 'nta'?",
+    "options": [
+      "ജ്ഞ",
+      "ക്ഷ",
+      "ത്ര",
+      "ന്ത"
+    ],
+    "answer": "ന്ത"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'sha'?",
+    "options": [
+      "ഹ",
+      "ശ",
+      "ള",
+      "സ"
+    ],
+    "answer": "ശ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'sa'?",
+    "options": [
+      "ര",
+      "ഹ",
+      "ള",
+      "സ"
+    ],
+    "answer": "സ"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'ha'?",
+    "options": [
+      "ര",
+      "ഹ",
+      "ള",
+      "വ"
+    ],
+    "answer": "ഹ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'la'?",
+    "options": [
+      "യ",
+      "ള",
+      "ര",
+      "വ"
+    ],
+    "answer": "ള"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'ra'?",
+    "options": [
+      "യ",
+      "വ",
+      "ഫ",
+      "ര"
+    ],
+    "answer": "ര"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'va'?",
+    "options": [
+      "ജ",
+      "യ",
+      "ഫ",
+      "വ"
+    ],
+    "answer": "വ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'ya'?",
+    "options": [
+      "ഫ",
+      "ക്വ",
+      "യ",
+      "ജ"
+    ],
+    "answer": "യ"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'fa'?",
+    "options": [
+      "ഫ",
+      "ക്വ",
+      "ജ",
+      "ശ"
+    ],
+    "answer": "ഫ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'za'?",
+    "options": [
+      "ജ",
+      "സ",
+      "ശ",
+      "ക്വ"
+    ],
+    "answer": "ജ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Malayalam letter for 'qwa'?",
+    "options": [
+      "സ",
+      "ഹ",
+      "ക്വ",
+      "ശ"
+    ],
+    "answer": "ക്വ"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ക്ഷീരം'?",
+    "options": [
+      "ജ്ഞ",
+      "ത്ര",
+      "ശ്ര",
+      "ക്ഷ"
+    ],
+    "answer": "ക്ഷ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ജ്ഞാനം'?",
+    "options": [
+      "ത്ര",
+      "ഗ്ര",
+      "ശ്ര",
+      "ജ്ഞ"
+    ],
+    "answer": "ജ്ഞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ത്രയം'?",
+    "options": [
+      "പ്ര",
+      "ത്ര",
+      "ശ്ര",
+      "ഗ്ര"
+    ],
+    "answer": "ത്ര"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ശ്രദ്ധ'?",
+    "options": [
+      "ഗ്ര",
+      "പ്ര",
+      "സ്ര",
+      "ശ്ര"
+    ],
+    "answer": "ശ്ര"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ഗ്രന്ഥം'?",
+    "options": [
+      "സ്ര",
+      "പ്ര",
+      "ദ്ര",
+      "ഗ്ര"
+    ],
+    "answer": "ഗ്ര"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'പ്രയത്നം'?",
+    "options": [
+      "ദ്ര",
+      "സ്ര",
+      "ഫ",
+      "പ്ര"
+    ],
+    "answer": "പ്ര"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'സ്രോതസ്സ്'?",
+    "options": [
+      "ഫ",
+      "ദ്ര",
+      "സ്ര",
+      "ഹ"
+    ],
+    "answer": "സ്ര"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ദ്രവ്യം'?",
+    "options": [
+      "ഫ",
+      "ഹ",
+      "ദ്ര",
+      "ക്ഷ"
+    ],
+    "answer": "ദ്ര"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ഫലം'?",
+    "options": [
+      "ഫ",
+      "ക്ഷ",
+      "ഹ",
+      "ജ്ഞ"
+    ],
+    "answer": "ഫ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Malayalam letter is used in the word 'ഹരിദ്വാർ'?",
+    "options": [
+      "ജ്ഞ",
+      "ഹ",
+      "ക്ഷ",
+      "ത്ര"
+    ],
+    "answer": "ഹ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Sunday'?",
+    "options": [
+      "തിങ്കളാഴ്ച",
+      "ബുധനാഴ്ച",
+      "ഞായറാഴ്ച",
+      "ചൊവ്വാഴ്ച"
+    ],
+    "answer": "ഞായറാഴ്ച"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Monday'?",
+    "options": [
+      "വ്യാഴാഴ്ച",
+      "തിങ്കളാഴ്ച",
+      "ചൊവ്വാഴ്ച",
+      "ബുധനാഴ്ച"
+    ],
+    "answer": "തിങ്കളാഴ്ച"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Tuesday'?",
+    "options": [
+      "വ്യാഴാഴ്ച",
+      "ബുധനാഴ്ച",
+      "ചൊവ്വാഴ്ച",
+      "വെള്ളിയാഴ്ച"
+    ],
+    "answer": "ചൊവ്വാഴ്ച"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Wednesday'?",
+    "options": [
+      "വ്യാഴാഴ്ച",
+      "വെള്ളിയാഴ്ച",
+      "ശനിയാഴ്ച",
+      "ബുധനാഴ്ച"
+    ],
+    "answer": "ബുധനാഴ്ച"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Thursday'?",
+    "options": [
+      "ഇന്ന്",
+      "ശനിയാഴ്ച",
+      "വ്യാഴാഴ്ച",
+      "വെള്ളിയാഴ്ച"
+    ],
+    "answer": "വ്യാഴാഴ്ച"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Friday'?",
+    "options": [
+      "വെള്ളിയാഴ്ച",
+      "ശനിയാഴ്ച",
+      "ഇന്ന്",
+      "നാളെ"
+    ],
+    "answer": "വെള്ളിയാഴ്ച"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Saturday'?",
+    "options": [
+      "ഇന്ന്",
+      "ഇന്നലെ",
+      "ശനിയാഴ്ച",
+      "നാളെ"
+    ],
+    "answer": "ശനിയാഴ്ച"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Today'?",
+    "options": [
+      "ഞായറാഴ്ച",
+      "നാളെ",
+      "ഇന്ന്",
+      "ഇന്നലെ"
+    ],
+    "answer": "ഇന്ന്"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Tomorrow'?",
+    "options": [
+      "ഇന്നലെ",
+      "ഞായറാഴ്ച",
+      "നാളെ",
+      "തിങ്കളാഴ്ച"
+    ],
+    "answer": "നാളെ"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Malayalam word for 'Yesterday'?",
+    "options": [
+      "ഇന്നലെ",
+      "ഞായറാഴ്ച",
+      "തിങ്കളാഴ്ച",
+      "ചൊവ്വാഴ്ച"
+    ],
+    "answer": "ഇന്നലെ"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'red'?",
+    "options": [
+      "മഞ്ഞ",
+      "നീല",
+      "പച്ച",
+      "ചുവപ്പ്"
+    ],
+    "answer": "ചുവപ്പ്"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'blue'?",
+    "options": [
+      "നീല",
+      "കറുപ്പ്",
+      "മഞ്ഞ",
+      "പച്ച"
+    ],
+    "answer": "നീല"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'green'?",
+    "options": [
+      "വെള്ള",
+      "പച്ച",
+      "മഞ്ഞ",
+      "കറുപ്പ്"
+    ],
+    "answer": "പച്ച"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'yellow'?",
+    "options": [
+      "വെള്ള",
+      "ഓറഞ്ച്",
+      "കറുപ്പ്",
+      "മഞ്ഞ"
+    ],
+    "answer": "മഞ്ഞ"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'black'?",
+    "options": [
+      "ഓറഞ്ച്",
+      "പിങ്ക്",
+      "കറുപ്പ്",
+      "വെള്ള"
+    ],
+    "answer": "കറുപ്പ്"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'white'?",
+    "options": [
+      "പർപ്പിൾ",
+      "ഓറഞ്ച്",
+      "പിങ്ക്",
+      "വെള്ള"
+    ],
+    "answer": "വെള്ള"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'orange'?",
+    "options": [
+      "തവിട്ട്",
+      "പിങ്ക്",
+      "ഓറഞ്ച്",
+      "പർപ്പിൾ"
+    ],
+    "answer": "ഓറഞ്ച്"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'pink'?",
+    "options": [
+      "പിങ്ക്",
+      "തവിട്ട്",
+      "ചുവപ്പ്",
+      "പർപ്പിൾ"
+    ],
+    "answer": "പിങ്ക്"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'purple'?",
+    "options": [
+      "നീല",
+      "ചുവപ്പ്",
+      "പർപ്പിൾ",
+      "തവിട്ട്"
+    ],
+    "answer": "പർപ്പിൾ"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Malayalam word for 'brown'?",
+    "options": [
+      "തവിട്ട്",
+      "നീല",
+      "ചുവപ്പ്",
+      "പച്ച"
+    ],
+    "answer": "തവിട്ട്"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'one'?",
+    "options": [
+      "നാല്",
+      "ഒന്ന്",
+      "രണ്ട്",
+      "മൂന്ന്"
+    ],
+    "answer": "ഒന്ന്"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'two'?",
+    "options": [
+      "നാല്",
+      "രണ്ട്",
+      "മൂന്ന്",
+      "അഞ്ച്"
+    ],
+    "answer": "രണ്ട്"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'three'?",
+    "options": [
+      "മൂന്ന്",
+      "നാല്",
+      "അഞ്ച്",
+      "ആറ്"
+    ],
+    "answer": "മൂന്ന്"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'four'?",
+    "options": [
+      "ആറ്",
+      "നാല്",
+      "അഞ്ച്",
+      "ഏഴ്"
+    ],
+    "answer": "നാല്"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'five'?",
+    "options": [
+      "ആറ്",
+      "അഞ്ച്",
+      "എട്ട്",
+      "ഏഴ്"
+    ],
+    "answer": "അഞ്ച്"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'six'?",
+    "options": [
+      "ഒമ്പത്",
+      "ആറ്",
+      "എട്ട്",
+      "ഏഴ്"
+    ],
+    "answer": "ആറ്"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'seven'?",
+    "options": [
+      "ഏഴ്",
+      "എട്ട്",
+      "ഒമ്പത്",
+      "പത്ത്"
+    ],
+    "answer": "ഏഴ്"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'eight'?",
+    "options": [
+      "ഒന്ന്",
+      "ഒമ്പത്",
+      "പത്ത്",
+      "എട്ട്"
+    ],
+    "answer": "എട്ട്"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'nine'?",
+    "options": [
+      "ഒമ്പത്",
+      "ഒന്ന്",
+      "രണ്ട്",
+      "പത്ത്"
+    ],
+    "answer": "ഒമ്പത്"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Malayalam word for 'ten'?",
+    "options": [
+      "പത്ത്",
+      "രണ്ട്",
+      "മൂന്ന്",
+      "ഒന്ന്"
+    ],
+    "answer": "പത്ത്"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'breakfast'?",
+    "options": [
+      "അത്താഴം",
+      "ഉച്ചഭക്ഷണം",
+      "ലഘുഭക്ഷണം",
+      "പ്രാതൽ"
+    ],
+    "answer": "പ്രാതൽ"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'lunch'?",
+    "options": [
+      "ഉച്ചഭക്ഷണം",
+      "അത്താഴം",
+      "മധുരപലഹാരങ്ങൾ",
+      "ലഘുഭക്ഷണം"
+    ],
+    "answer": "ഉച്ചഭക്ഷണം"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'dinner'?",
+    "options": [
+      "ലഘുഭക്ഷണം",
+      "മധുരപലഹാരങ്ങൾ",
+      "കാരം",
+      "അത്താഴം"
+    ],
+    "answer": "അത്താഴം"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'snacks'?",
+    "options": [
+      "മധുരപലഹാരങ്ങൾ",
+      "കാരം",
+      "സസ്യാഹാരി",
+      "ലഘുഭക്ഷണം"
+    ],
+    "answer": "ലഘുഭക്ഷണം"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'sweets'?",
+    "options": [
+      "സസ്യാഹാരി",
+      "മാംസാഹാരി",
+      "മധുരപലഹാരങ്ങൾ",
+      "കാരം"
+    ],
+    "answer": "മധുരപലഹാരങ്ങൾ"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'spicy'?",
+    "options": [
+      "മാംസാഹാരി",
+      "സസ്യാഹാരി",
+      "കാരം",
+      "ജ്യൂസ്"
+    ],
+    "answer": "കാരം"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'vegetarian'?",
+    "options": [
+      "കാപ്പി",
+      "ജ്യൂസ്",
+      "മാംസാഹാരി",
+      "സസ്യാഹാരി"
+    ],
+    "answer": "സസ്യാഹാരി"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'non-vegetarian'?",
+    "options": [
+      "ജ്യൂസ്",
+      "പ്രാതൽ",
+      "കാപ്പി",
+      "മാംസാഹാരി"
+    ],
+    "answer": "മാംസാഹാരി"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'juice'?",
+    "options": [
+      "ഉച്ചഭക്ഷണം",
+      "കാപ്പി",
+      "പ്രാതൽ",
+      "ജ്യൂസ്"
+    ],
+    "answer": "ജ്യൂസ്"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Malayalam word for 'coffee'?",
+    "options": [
+      "അത്താഴം",
+      "പ്രാതൽ",
+      "ഉച്ചഭക്ഷണം",
+      "കാപ്പി"
+    ],
+    "answer": "കാപ്പി"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?",
+      "എങ്ങനെയുണ്ട്?",
+      "നിങ്ങളുടെ പേരെന്താണ്?"
+    ],
+    "answer": "എങ്ങനെയുണ്ട്?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?",
+      "നിങ്ങൾ മലയാളം സംസാരിക്കുമോ?",
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "നിങ്ങളുടെ പേരെന്താണ്?"
+    ],
+    "answer": "നിങ്ങളുടെ പേരെന്താണ്?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Malayalam?",
+    "options": [
+      "ഞാൻ സഹായിക്കാമോ?",
+      "നിങ്ങൾ മലയാളം സംസാരിക്കുമോ?",
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?"
+    ],
+    "answer": "നിങ്ങൾ എവിടെ നിന്നാണ്?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾക്ക് എത്ര വയസ്സായി?",
+      "ഞാൻ സഹായിക്കാമോ?",
+      "നിങ്ങൾ മലയാളം സംസാരിക്കുമോ?",
+      "ബാത്ത്റൂം എവിടെയാണ്?"
+    ],
+    "answer": "നിങ്ങൾക്ക് എത്ര വയസ്സായി?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Malayalam?' in Malayalam?",
+    "options": [
+      "ഞാൻ സഹായിക്കാമോ?",
+      "നിങ്ങൾ മലയാളം സംസാരിക്കുമോ?",
+      "ബാത്ത്റൂം എവിടെയാണ്?",
+      "ഇത് എത്രയാണ്?"
+    ],
+    "answer": "നിങ്ങൾ മലയാളം സംസാരിക്കുമോ?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Malayalam?",
+    "options": [
+      "ഇത് എത്രയാണ്?",
+      "ഞാൻ സഹായിക്കാമോ?",
+      "ബാത്ത്റൂം എവിടെയാണ്?",
+      "എത്ര മണിയായി?"
+    ],
+    "answer": "ഞാൻ സഹായിക്കാമോ?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Malayalam?",
+    "options": [
+      "എത്ര മണിയായി?",
+      "ഇത് എത്രയാണ്?",
+      "നിങ്ങൾ എവിടെയാണ് താമസിക്കുന്നത്?",
+      "ബാത്ത്റൂം എവിടെയാണ്?"
+    ],
+    "answer": "ബാത്ത്റൂം എവിടെയാണ്?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Malayalam?",
+    "options": [
+      "എത്ര മണിയായി?",
+      "ഇത് എത്രയാണ്?",
+      "നിങ്ങൾ എവിടെയാണ് താമസിക്കുന്നത്?",
+      "എങ്ങനെയുണ്ട്?"
+    ],
+    "answer": "ഇത് എത്രയാണ്?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Malayalam?",
+    "options": [
+      "എങ്ങനെയുണ്ട്?",
+      "നിങ്ങളുടെ പേരെന്താണ്?",
+      "നിങ്ങൾ എവിടെയാണ് താമസിക്കുന്നത്?",
+      "എത്ര മണിയായി?"
+    ],
+    "answer": "എത്ര മണിയായി?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+      "നിങ്ങളുടെ പേരെന്താണ്?",
+      "നിങ്ങൾ എവിടെയാണ് താമസിക്കുന്നത്?",
+      "എങ്ങനെയുണ്ട്?"
+    ],
+    "answer": "നിങ്ങൾ എവിടെയാണ് താമസിക്കുന്നത്?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Malayalam?",
+    "options": [
+      "ദയവായി എന്നെ സഹായിക്കുക",
+      "ദയവായി ഇരിക്കുക",
+      "ദയവായി കാത്തിരിക്കുക",
+      "ദയവായി ഇവിടെ വരുക"
+    ],
+    "answer": "ദയവായി എന്നെ സഹായിക്കുക"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Malayalam?",
+    "options": [
+      "ദയവായി കാത്തിരിക്കുക",
+      "ദയവായി ഇവിടെ വരുക",
+      "ദയവായി ഇരിക്കുക",
+      "ദയവായി പതുക്കെ സംസാരിക്കുക"
+    ],
+    "answer": "ദയവായി കാത്തിരിക്കുക"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Malayalam?",
+    "options": [
+      "ദയവായി പതുക്കെ സംസാരിക്കുക",
+      "ദയവായി ഇവിടെ വരുക",
+      "ദയവായി ഇരിക്കുക",
+      "ദയവായി എഴുതുക"
+    ],
+    "answer": "ദയവായി ഇവിടെ വരുക"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Malayalam?",
+    "options": [
+      "ദയവായി ഇരിക്കുക",
+      "ദയവായി വീണ്ടും പറയുക",
+      "ദയവായി പതുക്കെ സംസാരിക്കുക",
+      "ദയവായി എഴുതുക"
+    ],
+    "answer": "ദയവായി ഇരിക്കുക"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Malayalam?",
+    "options": [
+      "ദയവായി വീണ്ടും പറയുക",
+      "ദയവായി എഴുതുക",
+      "ദയവായി പതുക്കെ സംസാരിക്കുക",
+      "ദയവായി കാണിക്കുക"
+    ],
+    "answer": "ദയവായി പതുക്കെ സംസാരിക്കുക"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Malayalam?",
+    "options": [
+      "ദയവായി വാതിൽ തുറക്കുക",
+      "ദയവായി വീണ്ടും പറയുക",
+      "ദയവായി എഴുതുക",
+      "ദയവായി കാണിക്കുക"
+    ],
+    "answer": "ദയവായി എഴുതുക"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Malayalam?",
+    "options": [
+      "ദയവായി ജനാല അടയ്ക്കുക",
+      "ദയവായി കാണിക്കുക",
+      "ദയവായി വാതിൽ തുറക്കുക",
+      "ദയവായി വീണ്ടും പറയുക"
+    ],
+    "answer": "ദയവായി വീണ്ടും പറയുക"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Malayalam?",
+    "options": [
+      "ദയവായി കാണിക്കുക",
+      "ദയവായി ജനാല അടയ്ക്കുക",
+      "ദയവായി എന്നെ സഹായിക്കുക",
+      "ദയവായി വാതിൽ തുറക്കുക"
+    ],
+    "answer": "ദയവായി കാണിക്കുക"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Malayalam?",
+    "options": [
+      "ദയവായി ജനാല അടയ്ക്കുക",
+      "ദയവായി കാത്തിരിക്കുക",
+      "ദയവായി വാതിൽ തുറക്കുക",
+      "ദയവായി എന്നെ സഹായിക്കുക"
+    ],
+    "answer": "ദയവായി വാതിൽ തുറക്കുക"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Malayalam?",
+    "options": [
+      "ദയവായി കാത്തിരിക്കുക",
+      "ദയവായി ഇവിടെ വരുക",
+      "ദയവായി ജനാല അടയ്ക്കുക",
+      "ദയവായി എന്നെ സഹായിക്കുക"
+    ],
+    "answer": "ദയവായി ജനാല അടയ്ക്കുക"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Malayalam?",
+    "options": [
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?",
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?",
+      "എനിക്ക് ഇത് വാങ്ങണം",
+      "ഇത് എത്രയാണ്?"
+    ],
+    "answer": "ഇത് എത്രയാണ്?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Malayalam?",
+    "options": [
+      "എനിക്ക് ഇത് വാങ്ങണം",
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?",
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?",
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?"
+    ],
+    "answer": "ഡിസ്കൗണ്ട് ഉണ്ടോ?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Malayalam?",
+    "options": [
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?",
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?",
+      "എനിക്ക് ഇത് വാങ്ങണം",
+      "കൗണ്ടർ എവിടെയാണ്?"
+    ],
+    "answer": "എനിക്ക് ഇത് വാങ്ങണം"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Malayalam?",
+    "options": [
+      "ഇത് ലഭ്യമാണോ?",
+      "കൗണ്ടർ എവിടെയാണ്?",
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?",
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?"
+    ],
+    "answer": "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?",
+      "കൗണ്ടർ എവിടെയാണ്?",
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക",
+      "ഇത് ലഭ്യമാണോ?"
+    ],
+    "answer": "നിങ്ങൾ കാർഡ് എടുക്കുമോ?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Malayalam?",
+    "options": [
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക",
+      "കൗണ്ടർ എവിടെയാണ്?",
+      "എനിക്ക് ഒരു ബാഗ് വേണം",
+      "ഇത് ലഭ്യമാണോ?"
+    ],
+    "answer": "കൗണ്ടർ എവിടെയാണ്?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Malayalam?",
+    "options": [
+      "എനിക്ക് ഒരു ബാഗ് വേണം",
+      "സമയം എന്താണ്?",
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക",
+      "ഇത് ലഭ്യമാണോ?"
+    ],
+    "answer": "ഇത് ലഭ്യമാണോ?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Malayalam?",
+    "options": [
+      "ഇത് എത്രയാണ്?",
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക",
+      "എനിക്ക് ഒരു ബാഗ് വേണം",
+      "സമയം എന്താണ്?"
+    ],
+    "answer": "ദയവായി ഇത് പാക്ക് ചെയ്യുക"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Malayalam?",
+    "options": [
+      "എനിക്ക് ഒരു ബാഗ് വേണം",
+      "ഇത് എത്രയാണ്?",
+      "സമയം എന്താണ്?",
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?"
+    ],
+    "answer": "എനിക്ക് ഒരു ബാഗ് വേണം"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Malayalam?",
+    "options": [
+      "സമയം എന്താണ്?",
+      "ഇത് എത്രയാണ്?",
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?",
+      "എനിക്ക് ഇത് വാങ്ങണം"
+    ],
+    "answer": "സമയം എന്താണ്?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Malayalam?",
+    "options": [
+      "റെയിൽവേ സ്റ്റേഷനിലേക്ക് എങ്ങനെ പോകാം?",
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?",
+      "മാർക്കറ്റിലേക്ക് ഏത് വഴിയാണ്?"
+    ],
+    "answer": "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Malayalam?",
+    "options": [
+      "മാർക്കറ്റിലേക്ക് ഏത് വഴിയാണ്?",
+      "റെയിൽവേ സ്റ്റേഷനിലേക്ക് എങ്ങനെ പോകാം?",
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?",
+      "ഇടത്തേക്ക് തിരിയുക"
+    ],
+    "answer": "റെയിൽവേ സ്റ്റേഷനിലേക്ക് എങ്ങനെ പോകാം?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Malayalam?",
+    "options": [
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?",
+      "മാർക്കറ്റിലേക്ക് ഏത് വഴിയാണ്?",
+      "ഇടത്തേക്ക് തിരിയുക",
+      "വലത്തേക്ക് തിരിയുക"
+    ],
+    "answer": "മാർക്കറ്റിലേക്ക് ഏത് വഴിയാണ്?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Malayalam?",
+    "options": [
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?",
+      "നേരെ പോകുക",
+      "വലത്തേക്ക് തിരിയുക",
+      "ഇടത്തേക്ക് തിരിയുക"
+    ],
+    "answer": "ഇവിടെ നിന്ന് ദൂരമാണോ?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Malayalam?",
+    "options": [
+      "ഇടത്തേക്ക് തിരിയുക",
+      "ഇവിടെ നിർത്തുക",
+      "നേരെ പോകുക",
+      "വലത്തേക്ക് തിരിയുക"
+    ],
+    "answer": "ഇടത്തേക്ക് തിരിയുക"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Malayalam?",
+    "options": [
+      "നേരെ പോകുക",
+      "ഇവിടെ നിർത്തുക",
+      "എത്ര സമയം എടുക്കും?",
+      "വലത്തേക്ക് തിരിയുക"
+    ],
+    "answer": "വലത്തേക്ക് തിരിയുക"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Malayalam?",
+    "options": [
+      "എത്ര സമയം എടുക്കും?",
+      "മാപ്പിൽ കാണിക്കാമോ?",
+      "നേരെ പോകുക",
+      "ഇവിടെ നിർത്തുക"
+    ],
+    "answer": "നേരെ പോകുക"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Malayalam?",
+    "options": [
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+      "മാപ്പിൽ കാണിക്കാമോ?",
+      "ഇവിടെ നിർത്തുക",
+      "എത്ര സമയം എടുക്കും?"
+    ],
+    "answer": "ഇവിടെ നിർത്തുക"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Malayalam?",
+    "options": [
+      "റെയിൽവേ സ്റ്റേഷനിലേക്ക് എങ്ങനെ പോകാം?",
+      "മാപ്പിൽ കാണിക്കാമോ?",
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+      "എത്ര സമയം എടുക്കും?"
+    ],
+    "answer": "എത്ര സമയം എടുക്കും?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Malayalam",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Malayalam?",
+    "options": [
+      "മാപ്പിൽ കാണിക്കാമോ?",
+      "റെയിൽവേ സ്റ്റേഷനിലേക്ക് എങ്ങനെ പോകാം?",
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+      "മാർക്കറ്റിലേക്ക് ഏത് വഴിയാണ്?"
+    ],
+    "answer": "മാപ്പിൽ കാണിക്കാമോ?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'go'?",
+    "options": [
+      "കണ്ടു",
+      "പോയി",
+      "കഴിച്ചു",
+      "വായിച്ചു"
+    ],
+    "answer": "പോയി"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'eat'?",
+    "options": [
+      "കഴിച്ചു",
+      "വായിച്ചു",
+      "കണ്ടു",
+      "എഴുതി"
+    ],
+    "answer": "കഴിച്ചു"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'see'?",
+    "options": [
+      "എഴുതി",
+      "വന്നു",
+      "കണ്ടു",
+      "വായിച്ചു"
+    ],
+    "answer": "കണ്ടു"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'read'?",
+    "options": [
+      "വായിച്ചു",
+      "കൊടുത്തു",
+      "എഴുതി",
+      "വന്നു"
+    ],
+    "answer": "വായിച്ചു"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'write'?",
+    "options": [
+      "വന്നു",
+      "എഴുതി",
+      "എടുത്തു",
+      "കൊടുത്തു"
+    ],
+    "answer": "എഴുതി"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'come'?",
+    "options": [
+      "വന്നു",
+      "കൊടുത്തു",
+      "എടുത്തു",
+      "കളിച്ചു"
+    ],
+    "answer": "വന്നു"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'give'?",
+    "options": [
+      "കളിച്ചു",
+      "കൊടുത്തു",
+      "എടുത്തു",
+      "ഉറങ്ങി"
+    ],
+    "answer": "കൊടുത്തു"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'take'?",
+    "options": [
+      "പോയി",
+      "കളിച്ചു",
+      "എടുത്തു",
+      "ഉറങ്ങി"
+    ],
+    "answer": "എടുത്തു"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'play'?",
+    "options": [
+      "ഉറങ്ങി",
+      "കളിച്ചു",
+      "പോയി",
+      "കഴിച്ചു"
+    ],
+    "answer": "കളിച്ചു"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Malayalam past tense of 'sleep'?",
+    "options": [
+      "കണ്ടു",
+      "ഉറങ്ങി",
+      "പോയി",
+      "കഴിച്ചു"
+    ],
+    "answer": "ഉറങ്ങി"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'book'?",
+    "options": [
+      "ആൺകുട്ടികൾ",
+      "പുസ്തകങ്ങൾ",
+      "പേനകൾ",
+      "പെൺകുട്ടികൾ"
+    ],
+    "answer": "പുസ്തകങ്ങൾ"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'pen'?",
+    "options": [
+      "പെൺകുട്ടികൾ",
+      "പൂക്കൾ",
+      "പേനകൾ",
+      "ആൺകുട്ടികൾ"
+    ],
+    "answer": "പേനകൾ"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'boy'?",
+    "options": [
+      "ആൺകുട്ടികൾ",
+      "പൂക്കൾ",
+      "ഇലകൾ",
+      "പെൺകുട്ടികൾ"
+    ],
+    "answer": "ആൺകുട്ടികൾ"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'girl'?",
+    "options": [
+      "നക്ഷത്രങ്ങൾ",
+      "പൂക്കൾ",
+      "ഇലകൾ",
+      "പെൺകുട്ടികൾ"
+    ],
+    "answer": "പെൺകുട്ടികൾ"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'flower'?",
+    "options": [
+      "നക്ഷത്രങ്ങൾ",
+      "ഇലകൾ",
+      "മരങ്ങൾ",
+      "പൂക്കൾ"
+    ],
+    "answer": "പൂക്കൾ"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'leaf'?",
+    "options": [
+      "മരങ്ങൾ",
+      "നക്ഷത്രങ്ങൾ",
+      "നദികൾ",
+      "ഇലകൾ"
+    ],
+    "answer": "ഇലകൾ"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'star'?",
+    "options": [
+      "മരങ്ങൾ",
+      "നദികൾ",
+      "നക്ഷത്രങ്ങൾ",
+      "കസേരകൾ"
+    ],
+    "answer": "നക്ഷത്രങ്ങൾ"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'tree'?",
+    "options": [
+      "മരങ്ങൾ",
+      "പുസ്തകങ്ങൾ",
+      "നദികൾ",
+      "കസേരകൾ"
+    ],
+    "answer": "മരങ്ങൾ"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'river'?",
+    "options": [
+      "കസേരകൾ",
+      "പേനകൾ",
+      "പുസ്തകങ്ങൾ",
+      "നദികൾ"
+    ],
+    "answer": "നദികൾ"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Malayalam plural of 'chair'?",
+    "options": [
+      "പേനകൾ",
+      "ആൺകുട്ടികൾ",
+      "പുസ്തകങ്ങൾ",
+      "കസേരകൾ"
+    ],
+    "answer": "കസേരകൾ"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'and'?",
+    "options": [
+      "അല്ലെങ്കിൽ",
+      "പക്ഷേ",
+      "ഉം",
+      "കാരണം"
+    ],
+    "answer": "ഉം"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'but'?",
+    "options": [
+      "പക്ഷേ",
+      "കാരണം",
+      "എങ്കിൽ",
+      "അല്ലെങ്കിൽ"
+    ],
+    "answer": "പക്ഷേ"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'or'?",
+    "options": [
+      "കാരണം",
+      "എപ്പോൾ",
+      "എങ്കിൽ",
+      "അല്ലെങ്കിൽ"
+    ],
+    "answer": "അല്ലെങ്കിൽ"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'because'?",
+    "options": [
+      "എവിടെ",
+      "എപ്പോൾ",
+      "കാരണം",
+      "എങ്കിൽ"
+    ],
+    "answer": "കാരണം"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'if'?",
+    "options": [
+      "എവിടെ",
+      "എപ്പോൾ",
+      "എങ്കിൽ",
+      "എങ്ങനെ"
+    ],
+    "answer": "എങ്കിൽ"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'when'?",
+    "options": [
+      "എന്തുകൊണ്ട്",
+      "എപ്പോൾ",
+      "എവിടെ",
+      "എങ്ങനെ"
+    ],
+    "answer": "എപ്പോൾ"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'where'?",
+    "options": [
+      "എങ്ങനെ",
+      "എന്തുകൊണ്ട്",
+      "എവിടെ",
+      "കൂടെ"
+    ],
+    "answer": "എവിടെ"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'how'?",
+    "options": [
+      "കൂടെ",
+      "എന്തുകൊണ്ട്",
+      "എങ്ങനെ",
+      "ഉം"
+    ],
+    "answer": "എങ്ങനെ"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'why'?",
+    "options": [
+      "എന്തുകൊണ്ട്",
+      "ഉം",
+      "കൂടെ",
+      "പക്ഷേ"
+    ],
+    "answer": "എന്തുകൊണ്ട്"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Malayalam particle for 'with'?",
+    "options": [
+      "ഉം",
+      "അല്ലെങ്കിൽ",
+      "കൂടെ",
+      "പക്ഷേ"
+    ],
+    "answer": "കൂടെ"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Malayalam?",
+    "options": [
+      "വരുന്നില്ല",
+      "വായിക്കുന്നില്ല",
+      "പോകുന്നില്ല",
+      "കഴിക്കുന്നില്ല"
+    ],
+    "answer": "പോകുന്നില്ല"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Malayalam?",
+    "options": [
+      "വരുന്നില്ല",
+      "എഴുതുന്നില്ല",
+      "കഴിക്കുന്നില്ല",
+      "വായിക്കുന്നില്ല"
+    ],
+    "answer": "വരുന്നില്ല"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Malayalam?",
+    "options": [
+      "കഴിക്കുന്നില്ല",
+      "എഴുതുന്നില്ല",
+      "വായിക്കുന്നില്ല",
+      "കളിക്കുന്നില്ല"
+    ],
+    "answer": "കഴിക്കുന്നില്ല"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Malayalam?",
+    "options": [
+      "ഉറങ്ങുന്നില്ല",
+      "വായിക്കുന്നില്ല",
+      "കളിക്കുന്നില്ല",
+      "എഴുതുന്നില്ല"
+    ],
+    "answer": "വായിക്കുന്നില്ല"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Malayalam?",
+    "options": [
+      "എഴുതുന്നില്ല",
+      "ഉറങ്ങുന്നില്ല",
+      "കാണുന്നില്ല",
+      "കളിക്കുന്നില്ല"
+    ],
+    "answer": "എഴുതുന്നില്ല"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Malayalam?",
+    "options": [
+      "കൊടുക്കുന്നില്ല",
+      "കളിക്കുന്നില്ല",
+      "കാണുന്നില്ല",
+      "ഉറങ്ങുന്നില്ല"
+    ],
+    "answer": "കളിക്കുന്നില്ല"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Malayalam?",
+    "options": [
+      "കൊടുക്കുന്നില്ല",
+      "കാണുന്നില്ല",
+      "എടുക്കുന്നില്ല",
+      "ഉറങ്ങുന്നില്ല"
+    ],
+    "answer": "ഉറങ്ങുന്നില്ല"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Malayalam?",
+    "options": [
+      "കൊടുക്കുന്നില്ല",
+      "പോകുന്നില്ല",
+      "കാണുന്നില്ല",
+      "എടുക്കുന്നില്ല"
+    ],
+    "answer": "കാണുന്നില്ല"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Malayalam?",
+    "options": [
+      "കൊടുക്കുന്നില്ല",
+      "പോകുന്നില്ല",
+      "എടുക്കുന്നില്ല",
+      "വരുന്നില്ല"
+    ],
+    "answer": "കൊടുക്കുന്നില്ല"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Malayalam?",
+    "options": [
+      "കഴിക്കുന്നില്ല",
+      "പോകുന്നില്ല",
+      "വരുന്നില്ല",
+      "എടുക്കുന്നില്ല"
+    ],
+    "answer": "എടുക്കുന്നില്ല"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'apple'",
+    "options": [
+      "ആപ്പിൾ",
+      "പൂച്ച",
+      "നായ",
+      "വാഴപ്പഴം"
+    ],
+    "answer": "ആപ്പിൾ"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'banana'",
+    "options": [
+      "പൂച്ച",
+      "നായ",
+      "കാർ",
+      "വാഴപ്പഴം"
+    ],
+    "answer": "വാഴപ്പഴം"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'cat'",
+    "options": [
+      "നായ",
+      "കാർ",
+      "പൂച്ച",
+      "ബസ്"
+    ],
+    "answer": "പൂച്ച"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'dog'",
+    "options": [
+      "നായ",
+      "ബസ്",
+      "ട്രെയിൻ",
+      "കാർ"
+    ],
+    "answer": "നായ"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'car'",
+    "options": [
+      "ബസ്",
+      "ട്രെയിൻ",
+      "വീട്",
+      "കാർ"
+    ],
+    "answer": "കാർ"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'bus'",
+    "options": [
+      "വീട്",
+      "ട്രെയിൻ",
+      "ബസ്",
+      "നഗരം"
+    ],
+    "answer": "ബസ്"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'train'",
+    "options": [
+      "ട്രെയിൻ",
+      "നഗരം",
+      "വീട്",
+      "ഗ്രാമം"
+    ],
+    "answer": "ട്രെയിൻ"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'house'",
+    "options": [
+      "നഗരം",
+      "ഗ്രാമം",
+      "ആപ്പിൾ",
+      "വീട്"
+    ],
+    "answer": "വീട്"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'city'",
+    "options": [
+      "വാഴപ്പഴം",
+      "ഗ്രാമം",
+      "ആപ്പിൾ",
+      "നഗരം"
+    ],
+    "answer": "നഗരം"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Malayalam word for 'village'",
+    "options": [
+      "വാഴപ്പഴം",
+      "പൂച്ച",
+      "ആപ്പിൾ",
+      "ഗ്രാമം"
+    ],
+    "answer": "ഗ്രാമം"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Good morning'",
+    "options": [
+      "സുപ്രഭാതം",
+      "എങ്ങനെയുണ്ട്?",
+      "നന്ദി",
+      "ക്ഷമിക്കുക"
+    ],
+    "answer": "സുപ്രഭാതം"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'How are you?'",
+    "options": [
+      "ക്ഷമിക്കുക",
+      "ദയവായി അകത്തേക്ക് വരുക",
+      "നന്ദി",
+      "എങ്ങനെയുണ്ട്?"
+    ],
+    "answer": "എങ്ങനെയുണ്ട്?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Thank you'",
+    "options": [
+      "ക്ഷമിക്കുക",
+      "ദയവായി അകത്തേക്ക് വരുക",
+      "നന്ദി",
+      "ഇരിക്കുക"
+    ],
+    "answer": "നന്ദി"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Sorry'",
+    "options": [
+      "ഇരിക്കുക",
+      "ക്ഷമിക്കുക",
+      "എഴുന്നേറ്റ് നിൽക്കുക",
+      "ദയവായി അകത്തേക്ക് വരുക"
+    ],
+    "answer": "ക്ഷമിക്കുക"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Please come in'",
+    "options": [
+      "മുന്നോട്ട് പോകുക",
+      "ദയവായി അകത്തേക്ക് വരുക",
+      "എഴുന്നേറ്റ് നിൽക്കുക",
+      "ഇരിക്കുക"
+    ],
+    "answer": "ദയവായി അകത്തേക്ക് വരുക"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Sit down'",
+    "options": [
+      "നന്നായി ചെയ്തു",
+      "ഇരിക്കുക",
+      "എഴുന്നേറ്റ് നിൽക്കുക",
+      "മുന്നോട്ട് പോകുക"
+    ],
+    "answer": "ഇരിക്കുക"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Stand up'",
+    "options": [
+      "അഭിനന്ദനങ്ങൾ",
+      "മുന്നോട്ട് പോകുക",
+      "എഴുന്നേറ്റ് നിൽക്കുക",
+      "നന്നായി ചെയ്തു"
+    ],
+    "answer": "എഴുന്നേറ്റ് നിൽക്കുക"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Go ahead'",
+    "options": [
+      "മുന്നോട്ട് പോകുക",
+      "സുപ്രഭാതം",
+      "അഭിനന്ദനങ്ങൾ",
+      "നന്നായി ചെയ്തു"
+    ],
+    "answer": "മുന്നോട്ട് പോകുക"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Well done'",
+    "options": [
+      "നന്നായി ചെയ്തു",
+      "എങ്ങനെയുണ്ട്?",
+      "സുപ്രഭാതം",
+      "അഭിനന്ദനങ്ങൾ"
+    ],
+    "answer": "നന്നായി ചെയ്തു"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Malayalam phrase for 'Congratulations'",
+    "options": [
+      "സുപ്രഭാതം",
+      "അഭിനന്ദനങ്ങൾ",
+      "നന്ദി",
+      "എങ്ങനെയുണ്ട്?"
+    ],
+    "answer": "അഭിനന്ദനങ്ങൾ"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'I am going to school'",
+    "options": [
+      "ഞങ്ങൾ ക്രിക്കറ്റ് കളിക്കുന്നു",
+      "അവർ പുസ്തകങ്ങൾ വായിക്കുന്നു",
+      "അവൾ ചോറ് കഴിക്കുന്നു",
+      "ഞാൻ സ്കൂളിലേക്ക് പോകുന്നു"
+    ],
+    "answer": "ഞാൻ സ്കൂളിലേക്ക് പോകുന്നു"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'She is eating rice'",
+    "options": [
+      "ഞങ്ങൾ ക്രിക്കറ്റ് കളിക്കുന്നു",
+      "അവൾ ചോറ് കഴിക്കുന്നു",
+      "അവർ പുസ്തകങ്ങൾ വായിക്കുന്നു",
+      "അവൻ കത്ത് എഴുതുന്നു"
+    ],
+    "answer": "അവൾ ചോറ് കഴിക്കുന്നു"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'We are playing cricket'",
+    "options": [
+      "ഞങ്ങൾ ക്രിക്കറ്റ് കളിക്കുന്നു",
+      "നീ എന്റെ സുഹൃത്താണ്",
+      "അവൻ കത്ത് എഴുതുന്നു",
+      "അവർ പുസ്തകങ്ങൾ വായിക്കുന്നു"
+    ],
+    "answer": "ഞങ്ങൾ ക്രിക്കറ്റ് കളിക്കുന്നു"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'They are reading books'",
+    "options": [
+      "അവർ പുസ്തകങ്ങൾ വായിക്കുന്നു",
+      "അവൻ കത്ത് എഴുതുന്നു",
+      "നീ എന്റെ സുഹൃത്താണ്",
+      "ഇപ്പോൾ മഴ പെയ്യുന്നു"
+    ],
+    "answer": "അവർ പുസ്തകങ്ങൾ വായിക്കുന്നു"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'He is writing a letter'",
+    "options": [
+      "നീ എന്റെ സുഹൃത്താണ്",
+      "ഇപ്പോൾ മഴ പെയ്യുന്നു",
+      "എനിക്ക് മലയാളം ഇഷ്ടമാണ്",
+      "അവൻ കത്ത് എഴുതുന്നു"
+    ],
+    "answer": "അവൻ കത്ത് എഴുതുന്നു"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'You are my friend'",
+    "options": [
+      "ഞങ്ങൾ കേരളത്തിൽ താമസിക്കുന്നു",
+      "ഇപ്പോൾ മഴ പെയ്യുന്നു",
+      "നീ എന്റെ സുഹൃത്താണ്",
+      "എനിക്ക് മലയാളം ഇഷ്ടമാണ്"
+    ],
+    "answer": "നീ എന്റെ സുഹൃത്താണ്"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'It is raining now'",
+    "options": [
+      "അവൾ പാട്ട് പാടുന്നു",
+      "ഞങ്ങൾ കേരളത്തിൽ താമസിക്കുന്നു",
+      "ഇപ്പോൾ മഴ പെയ്യുന്നു",
+      "എനിക്ക് മലയാളം ഇഷ്ടമാണ്"
+    ],
+    "answer": "ഇപ്പോൾ മഴ പെയ്യുന്നു"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'I like Malayalam'",
+    "options": [
+      "ഞങ്ങൾ കേരളത്തിൽ താമസിക്കുന്നു",
+      "ഞാൻ സ്കൂളിലേക്ക് പോകുന്നു",
+      "എനിക്ക് മലയാളം ഇഷ്ടമാണ്",
+      "അവൾ പാട്ട് പാടുന്നു"
+    ],
+    "answer": "എനിക്ക് മലയാളം ഇഷ്ടമാണ്"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'We live in Kerala'",
+    "options": [
+      "അവൾ ചോറ് കഴിക്കുന്നു",
+      "ഞങ്ങൾ കേരളത്തിൽ താമസിക്കുന്നു",
+      "ഞാൻ സ്കൂളിലേക്ക് പോകുന്നു",
+      "അവൾ പാട്ട് പാടുന്നു"
+    ],
+    "answer": "ഞങ്ങൾ കേരളത്തിൽ താമസിക്കുന്നു"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Malayalam sentence for 'She is singing a song'",
+    "options": [
+      "അവൾ ചോറ് കഴിക്കുന്നു",
+      "ഞങ്ങൾ ക്രിക്കറ്റ് കളിക്കുന്നു",
+      "ഞാൻ സ്കൂളിലേക്ക് പോകുന്നു",
+      "അവൾ പാട്ട് പാടുന്നു"
+    ],
+    "answer": "അവൾ പാട്ട് പാടുന്നു"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "എവിടെയാണ് പോകുന്നത്? - മാർക്കറ്റിലേക്ക്",
+      "എങ്ങനെയുണ്ട്? - നല്ലതാണ്",
+      "നിങ്ങളുടെ പേരെന്താണ്? - എന്റെ പേര് രവി",
+      "നിങ്ങൾ ഇംഗ്ലീഷ് സംസാരിക്കുമോ? - അതെ, കുറച്ച്"
+    ],
+    "answer": "എങ്ങനെയുണ്ട്? - നല്ലതാണ്"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "നിങ്ങളുടെ പേരെന്താണ്? - എന്റെ പേര് രവി",
+      "നിങ്ങൾ ഇംഗ്ലീഷ് സംസാരിക്കുമോ? - അതെ, കുറച്ച്",
+      "നിങ്ങൾക്ക് എന്നെ സഹായിക്കാമോ? - തീർച്ചയായും",
+      "എവിടെയാണ് പോകുന്നത്? - മാർക്കറ്റിലേക്ക്"
+    ],
+    "answer": "നിങ്ങളുടെ പേരെന്താണ്? - എന്റെ പേര് രവി"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "എവിടെയാണ് പോകുന്നത്? - മാർക്കറ്റിലേക്ക്",
+      "നിങ്ങൾ ഇംഗ്ലീഷ് സംസാരിക്കുമോ? - അതെ, കുറച്ച്",
+      "എത്ര മണിയായി? - അഞ്ച് മണി",
+      "നിങ്ങൾക്ക് എന്നെ സഹായിക്കാമോ? - തീർച്ചയായും"
+    ],
+    "answer": "എവിടെയാണ് പോകുന്നത്? - മാർക്കറ്റിലേക്ക്"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "നിങ്ങൾ ഇംഗ്ലീഷ് സംസാരിക്കുമോ? - അതെ, കുറച്ച്",
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്? - അവിടെ",
+      "എത്ര മണിയായി? - അഞ്ച് മണി",
+      "നിങ്ങൾക്ക് എന്നെ സഹായിക്കാമോ? - തീർച്ചയായും"
+    ],
+    "answer": "നിങ്ങൾ ഇംഗ്ലീഷ് സംസാരിക്കുമോ? - അതെ, കുറച്ച്"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "ഇത് എത്രയാണ്? - അമ്പത് രൂപ",
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്? - അവിടെ",
+      "നിങ്ങൾക്ക് എന്നെ സഹായിക്കാമോ? - തീർച്ചയായും",
+      "എത്ര മണിയായി? - അഞ്ച് മണി"
+    ],
+    "answer": "നിങ്ങൾക്ക് എന്നെ സഹായിക്കാമോ? - തീർച്ചയായും"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "ഇത് എത്രയാണ്? - അമ്പത് രൂപ",
+      "എത്ര മണിയായി? - അഞ്ച് മണി",
+      "ദയവായി അകത്തേക്ക് വരുക। - നന്ദി",
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്? - അവിടെ"
+    ],
+    "answer": "എത്ര മണിയായി? - അഞ്ച് മണി"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്? - അവിടെ",
+      "ഇത് എത്രയാണ്? - അമ്പത് രൂപ",
+      "ദയവായി അകത്തേക്ക് വരുക। - നന്ദി",
+      "വിട। - പിന്നെ കാണാം"
+    ],
+    "answer": "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്? - അവിടെ"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "ദയവായി അകത്തേക്ക് വരുക। - നന്ദി",
+      "എങ്ങനെയുണ്ട്? - നല്ലതാണ്",
+      "വിട। - പിന്നെ കാണാം",
+      "ഇത് എത്രയാണ്? - അമ്പത് രൂപ"
+    ],
+    "answer": "ഇത് എത്രയാണ്? - അമ്പത് രൂപ"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "ദയവായി അകത്തേക്ക് വരുക। - നന്ദി",
+      "എങ്ങനെയുണ്ട്? - നല്ലതാണ്",
+      "നിങ്ങളുടെ പേരെന്താണ്? - എന്റെ പേര് രവി",
+      "വിട। - പിന്നെ കാണാം"
+    ],
+    "answer": "ദയവായി അകത്തേക്ക് വരുക। - നന്ദി"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Malayalam dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "വിട। - പിന്നെ കാണാം",
+      "എങ്ങനെയുണ്ട്? - നല്ലതാണ്",
+      "എവിടെയാണ് പോകുന്നത്? - മാർക്കറ്റിലേക്ക്",
+      "നിങ്ങളുടെ പേരെന്താണ്? - എന്റെ പേര് രവി"
+    ],
+    "answer": "വിട। - പിന്നെ കാണാം"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Malayalam?",
+    "options": [
+      "കൗണ്ടർ എവിടെയാണ്?",
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?",
+      "എനിക്ക് ഇത് വാങ്ങണം",
+      "ഇത് എത്രയാണ്?"
+    ],
+    "answer": "എനിക്ക് ഇത് വാങ്ങണം"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Malayalam?",
+    "options": [
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?",
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?",
+      "കൗണ്ടർ എവിടെയാണ്?",
+      "ഇത് എത്രയാണ്?"
+    ],
+    "answer": "ഇത് എത്രയാണ്?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Malayalam?",
+    "options": [
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക",
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?",
+      "കൗണ്ടർ എവിടെയാണ്?",
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?"
+    ],
+    "answer": "ഡിസ്കൗണ്ട് ഉണ്ടോ?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Malayalam?",
+    "options": [
+      "എനിക്ക് ഒരു ബാഗ് വേണം",
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?",
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക",
+      "കൗണ്ടർ എവിടെയാണ്?"
+    ],
+    "answer": "കൗണ്ടർ എവിടെയാണ്?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Malayalam?",
+    "options": [
+      "ഇത് ലഭ്യമാണോ?",
+      "എനിക്ക് ഒരു ബാഗ് വേണം",
+      "നിങ്ങൾ കാർഡ് എടുക്കുമോ?",
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക"
+    ],
+    "answer": "നിങ്ങൾ കാർഡ് എടുക്കുമോ?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Malayalam?",
+    "options": [
+      "എനിക്ക് ഒരു ബാഗ് വേണം",
+      "ഇത് ലഭ്യമാണോ?",
+      "സമയം എന്താണ്?",
+      "ദയവായി ഇത് പാക്ക് ചെയ്യുക"
+    ],
+    "answer": "ദയവായി ഇത് പാക്ക് ചെയ്യുക"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Malayalam?",
+    "options": [
+      "സമയം എന്താണ്?",
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?",
+      "ഇത് ലഭ്യമാണോ?",
+      "എനിക്ക് ഒരു ബാഗ് വേണം"
+    ],
+    "answer": "എനിക്ക് ഒരു ബാഗ് വേണം"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Malayalam?",
+    "options": [
+      "സമയം എന്താണ്?",
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?",
+      "ഇത് ലഭ്യമാണോ?",
+      "എനിക്ക് ഇത് വാങ്ങണം"
+    ],
+    "answer": "ഇത് ലഭ്യമാണോ?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Malayalam?",
+    "options": [
+      "എനിക്ക് ഇത് വാങ്ങണം",
+      "സമയം എന്താണ്?",
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?",
+      "ഇത് എത്രയാണ്?"
+    ],
+    "answer": "സമയം എന്താണ്?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Malayalam?",
+    "options": [
+      "ഇത് എത്രയാണ്?",
+      "എനിക്ക് ഇത് വാങ്ങണം",
+      "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?",
+      "ഡിസ്കൗണ്ട് ഉണ്ടോ?"
+    ],
+    "answer": "ഞാൻ ഇത് പരീക്ഷിക്കാമോ?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Malayalam?",
+    "options": [
+      "നഗരത്തിലേക്ക് ഏത് ബസ് പോകുന്നു?",
+      "എത്ര സമയം എടുക്കും?",
+      "റെയിൽവേ സ്റ്റേഷൻ എവിടെയാണ്?",
+      "എയർപോർട്ടിലേക്ക് എങ്ങനെ പോകാം?"
+    ],
+    "answer": "റെയിൽവേ സ്റ്റേഷൻ എവിടെയാണ്?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Malayalam?",
+    "options": [
+      "എയർപോർട്ടിലേക്ക് എങ്ങനെ പോകാം?",
+      "എത്ര സമയം എടുക്കും?",
+      "നഗരത്തിലേക്ക് ഏത് ബസ് പോകുന്നു?",
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?"
+    ],
+    "answer": "എയർപോർട്ടിലേക്ക് എങ്ങനെ പോകാം?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Malayalam?",
+    "options": [
+      "നഗരത്തിലേക്ക് ഏത് ബസ് പോകുന്നു?",
+      "എത്ര സമയം എടുക്കും?",
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?",
+      "എവിടെ ടാക്സി കിട്ടും?"
+    ],
+    "answer": "നഗരത്തിലേക്ക് ഏത് ബസ് പോകുന്നു?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Malayalam?",
+    "options": [
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?",
+      "എത്ര സമയം എടുക്കും?",
+      "ഹോട്ടൽ എവിടെയാണ്?",
+      "എവിടെ ടാക്സി കിട്ടും?"
+    ],
+    "answer": "എത്ര സമയം എടുക്കും?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Malayalam?",
+    "options": [
+      "ഇവിടെ നിന്ന് ദൂരമാണോ?",
+      "എവിടെ ടാക്സി കിട്ടും?",
+      "ഹോട്ടൽ എവിടെയാണ്?",
+      "മാപ്പിൽ കാണിക്കാമോ?"
+    ],
+    "answer": "ഇവിടെ നിന്ന് ദൂരമാണോ?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Malayalam?",
+    "options": [
+      "ബാത്ത്റൂം എവിടെയാണ്?",
+      "മാപ്പിൽ കാണിക്കാമോ?",
+      "എവിടെ ടാക്സി കിട്ടും?",
+      "ഹോട്ടൽ എവിടെയാണ്?"
+    ],
+    "answer": "എവിടെ ടാക്സി കിട്ടും?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Malayalam?",
+    "options": [
+      "ബാത്ത്റൂം എവിടെയാണ്?",
+      "ഞാൻ വഴി തെറ്റി",
+      "മാപ്പിൽ കാണിക്കാമോ?",
+      "ഹോട്ടൽ എവിടെയാണ്?"
+    ],
+    "answer": "ഹോട്ടൽ എവിടെയാണ്?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Malayalam?",
+    "options": [
+      "ബാത്ത്റൂം എവിടെയാണ്?",
+      "റെയിൽവേ സ്റ്റേഷൻ എവിടെയാണ്?",
+      "ഞാൻ വഴി തെറ്റി",
+      "മാപ്പിൽ കാണിക്കാമോ?"
+    ],
+    "answer": "മാപ്പിൽ കാണിക്കാമോ?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Malayalam?",
+    "options": [
+      "ബാത്ത്റൂം എവിടെയാണ്?",
+      "റെയിൽവേ സ്റ്റേഷൻ എവിടെയാണ്?",
+      "എയർപോർട്ടിലേക്ക് എങ്ങനെ പോകാം?",
+      "ഞാൻ വഴി തെറ്റി"
+    ],
+    "answer": "ബാത്ത്റൂം എവിടെയാണ്?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Malayalam?",
+    "options": [
+      "റെയിൽവേ സ്റ്റേഷൻ എവിടെയാണ്?",
+      "ഞാൻ വഴി തെറ്റി",
+      "നഗരത്തിലേക്ക് ഏത് ബസ് പോകുന്നു?",
+      "എയർപോർട്ടിലേക്ക് എങ്ങനെ പോകാം?"
+    ],
+    "answer": "ഞാൻ വഴി തെറ്റി"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Malayalam?",
+    "options": [
+      "ആശുപത്രി എവിടെയാണ്?",
+      "പോലീസിനെ വിളിക്കുക",
+      "എനിക്ക് അസുഖമാണ്",
+      "എനിക്ക് ഒരു ഡോക്ടറെ വേണം"
+    ],
+    "answer": "പോലീസിനെ വിളിക്കുക"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Malayalam?",
+    "options": [
+      "എനിക്ക് ഒരു ഡോക്ടറെ വേണം",
+      "എനിക്ക് അസുഖമാണ്",
+      "സഹായം!",
+      "ആശുപത്രി എവിടെയാണ്?"
+    ],
+    "answer": "എനിക്ക് ഒരു ഡോക്ടറെ വേണം"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Malayalam?",
+    "options": [
+      "എനിക്ക് അസുഖമാണ്",
+      "എന്റെ വാലറ്റ് നഷ്ടപ്പെട്ടു",
+      "ആശുപത്രി എവിടെയാണ്?",
+      "സഹായം!"
+    ],
+    "answer": "ആശുപത്രി എവിടെയാണ്?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Malayalam?",
+    "options": [
+      "എന്റെ വാലറ്റ് നഷ്ടപ്പെട്ടു",
+      "തീ പിടിച്ചിരിക്കുന്നു",
+      "സഹായം!",
+      "എനിക്ക് അസുഖമാണ്"
+    ],
+    "answer": "എനിക്ക് അസുഖമാണ്"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Malayalam?",
+    "options": [
+      "എന്റെ വാലറ്റ് നഷ്ടപ്പെട്ടു",
+      "സഹായം!",
+      "തീ പിടിച്ചിരിക്കുന്നു",
+      "എനിക്ക് അപകടം സംഭവിച്ചു"
+    ],
+    "answer": "സഹായം!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Malayalam?",
+    "options": [
+      "എനിക്ക് പരിക്കേറ്റു",
+      "തീ പിടിച്ചിരിക്കുന്നു",
+      "എന്റെ വാലറ്റ് നഷ്ടപ്പെട്ടു",
+      "എനിക്ക് അപകടം സംഭവിച്ചു"
+    ],
+    "answer": "എന്റെ വാലറ്റ് നഷ്ടപ്പെട്ടു"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Malayalam?",
+    "options": [
+      "ദയവായി എന്നെ സഹായിക്കുക",
+      "തീ പിടിച്ചിരിക്കുന്നു",
+      "എനിക്ക് പരിക്കേറ്റു",
+      "എനിക്ക് അപകടം സംഭവിച്ചു"
+    ],
+    "answer": "തീ പിടിച്ചിരിക്കുന്നു"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Malayalam?",
+    "options": [
+      "പോലീസിനെ വിളിക്കുക",
+      "എനിക്ക് പരിക്കേറ്റു",
+      "ദയവായി എന്നെ സഹായിക്കുക",
+      "എനിക്ക് അപകടം സംഭവിച്ചു"
+    ],
+    "answer": "എനിക്ക് അപകടം സംഭവിച്ചു"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Malayalam?",
+    "options": [
+      "ദയവായി എന്നെ സഹായിക്കുക",
+      "പോലീസിനെ വിളിക്കുക",
+      "എനിക്ക് പരിക്കേറ്റു",
+      "എനിക്ക് ഒരു ഡോക്ടറെ വേണം"
+    ],
+    "answer": "എനിക്ക് പരിക്കേറ്റു"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Malayalam?",
+    "options": [
+      "ദയവായി എന്നെ സഹായിക്കുക",
+      "പോലീസിനെ വിളിക്കുക",
+      "ആശുപത്രി എവിടെയാണ്?",
+      "എനിക്ക് ഒരു ഡോക്ടറെ വേണം"
+    ],
+    "answer": "ദയവായി എന്നെ സഹായിക്കുക"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Malayalam?",
+    "options": [
+      "ഇന്ന് വൈകുന്നേരം ഫ്രീ ആണോ?",
+      "നിങ്ങളുടെ പ്ലാനുകൾ എന്താണ്?",
+      "നാളെ കാണാം",
+      "സിനിമയ്ക്ക് പോകാം"
+    ],
+    "answer": "നിങ്ങളുടെ പ്ലാനുകൾ എന്താണ്?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Malayalam?",
+    "options": [
+      "കൂടെ ഉച്ചഭക്ഷണം കഴിക്കാമോ?",
+      "ഇന്ന് വൈകുന്നേരം ഫ്രീ ആണോ?",
+      "സിനിമയ്ക്ക് പോകാം",
+      "നാളെ കാണാം"
+    ],
+    "answer": "നാളെ കാണാം"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Malayalam?",
+    "options": [
+      "സിനിമയ്ക്ക് പോകാം",
+      "ഇന്ന് വൈകുന്നേരം ഫ്രീ ആണോ?",
+      "കൂടെ ഉച്ചഭക്ഷണം കഴിക്കാമോ?",
+      "നിങ്ങൾക്ക് ഞങ്ങളോടൊപ്പം ചേരാമോ?"
+    ],
+    "answer": "ഇന്ന് വൈകുന്നേരം ഫ്രീ ആണോ?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Malayalam?",
+    "options": [
+      "ഇന്ന് ഞാൻ ബിസിയാണ്",
+      "സിനിമയ്ക്ക് പോകാം",
+      "നിങ്ങൾക്ക് ഞങ്ങളോടൊപ്പം ചേരാമോ?",
+      "കൂടെ ഉച്ചഭക്ഷണം കഴിക്കാമോ?"
+    ],
+    "answer": "സിനിമയ്ക്ക് പോകാം"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Malayalam?",
+    "options": [
+      "ഇന്ന് ഞാൻ ബിസിയാണ്",
+      "പിന്നെ കാണാം",
+      "നിങ്ങൾക്ക് ഞങ്ങളോടൊപ്പം ചേരാമോ?",
+      "കൂടെ ഉച്ചഭക്ഷണം കഴിക്കാമോ?"
+    ],
+    "answer": "കൂടെ ഉച്ചഭക്ഷണം കഴിക്കാമോ?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Malayalam?",
+    "options": [
+      "നിങ്ങൾക്ക് ഞങ്ങളോടൊപ്പം ചേരാമോ?",
+      "ഞാൻ നിങ്ങളെ വിളിക്കാം",
+      "പിന്നെ കാണാം",
+      "ഇന്ന് ഞാൻ ബിസിയാണ്"
+    ],
+    "answer": "നിങ്ങൾക്ക് ഞങ്ങളോടൊപ്പം ചേരാമോ?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Malayalam?",
+    "options": [
+      "ഇന്ന് ഞാൻ ബിസിയാണ്",
+      "പിന്നെ കാണാം",
+      "ഞാൻ നിങ്ങളെ വിളിക്കാം",
+      "ആഘോഷിക്കാം"
+    ],
+    "answer": "ഇന്ന് ഞാൻ ബിസിയാണ്"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Malayalam?",
+    "options": [
+      "പിന്നെ കാണാം",
+      "നിങ്ങളുടെ പ്ലാനുകൾ എന്താണ്?",
+      "ഞാൻ നിങ്ങളെ വിളിക്കാം",
+      "ആഘോഷിക്കാം"
+    ],
+    "answer": "പിന്നെ കാണാം"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Malayalam?",
+    "options": [
+      "ആഘോഷിക്കാം",
+      "നിങ്ങളുടെ പ്ലാനുകൾ എന്താണ്?",
+      "ഞാൻ നിങ്ങളെ വിളിക്കാം",
+      "നാളെ കാണാം"
+    ],
+    "answer": "ഞാൻ നിങ്ങളെ വിളിക്കാം"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Malayalam",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Malayalam?",
+    "options": [
+      "നിങ്ങളുടെ പ്ലാനുകൾ എന്താണ്?",
+      "ആഘോഷിക്കാം",
+      "ഇന്ന് വൈകുന്നേരം ഫ്രീ ആണോ?",
+      "നാളെ കാണാം"
+    ],
+    "answer": "ആഘോഷിക്കാം"
+  }
+]

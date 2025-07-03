@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'a'?",
+    "options": [
+      "ଅ",
+      "ଈ",
+      "ଆ",
+      "ଇ"
+    ],
+    "answer": "ଅ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'aa'?",
+    "options": [
+      "ଈ",
+      "ଆ",
+      "ଉ",
+      "ଇ"
+    ],
+    "answer": "ଆ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'i'?",
+    "options": [
+      "ଈ",
+      "ଊ",
+      "ଇ",
+      "ଉ"
+    ],
+    "answer": "ଇ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'ee'?",
+    "options": [
+      "ଊ",
+      "ଈ",
+      "ଏ",
+      "ଉ"
+    ],
+    "answer": "ଈ"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'u'?",
+    "options": [
+      "ଉ",
+      "ଏ",
+      "ଊ",
+      "ଐ"
+    ],
+    "answer": "ଉ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'oo'?",
+    "options": [
+      "ଏ",
+      "ଊ",
+      "ଐ",
+      "ଓ"
+    ],
+    "answer": "ଊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'e'?",
+    "options": [
+      "ଏ",
+      "ଔ",
+      "ଐ",
+      "ଓ"
+    ],
+    "answer": "ଏ"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'ai'?",
+    "options": [
+      "ଅ",
+      "ଔ",
+      "ଐ",
+      "ଓ"
+    ],
+    "answer": "ଐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'o'?",
+    "options": [
+      "ଓ",
+      "ଔ",
+      "ଆ",
+      "ଅ"
+    ],
+    "answer": "ଓ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Odia vowel for 'au'?",
+    "options": [
+      "ଇ",
+      "ଔ",
+      "ଅ",
+      "ଆ"
+    ],
+    "answer": "ଔ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'ka'?",
+    "options": [
+      "କ",
+      "ଖ",
+      "ଘ",
+      "ଗ"
+    ],
+    "answer": "କ"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'kha'?",
+    "options": [
+      "ଖ",
+      "ଘ",
+      "ଗ",
+      "ଚ"
+    ],
+    "answer": "ଖ"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'ga'?",
+    "options": [
+      "ଗ",
+      "ଛ",
+      "ଘ",
+      "ଚ"
+    ],
+    "answer": "ଗ"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'gha'?",
+    "options": [
+      "ଘ",
+      "ଜ",
+      "ଛ",
+      "ଚ"
+    ],
+    "answer": "ଘ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'cha'?",
+    "options": [
+      "ଜ",
+      "ଚ",
+      "ଝ",
+      "ଛ"
+    ],
+    "answer": "ଚ"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'chha'?",
+    "options": [
+      "ଝ",
+      "ଜ",
+      "ଛ",
+      "ଟ"
+    ],
+    "answer": "ଛ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'ja'?",
+    "options": [
+      "ଝ",
+      "ଠ",
+      "ଜ",
+      "ଟ"
+    ],
+    "answer": "ଜ"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'jha'?",
+    "options": [
+      "ଠ",
+      "ଟ",
+      "ଝ",
+      "କ"
+    ],
+    "answer": "ଝ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'ta'?",
+    "options": [
+      "କ",
+      "ଟ",
+      "ଠ",
+      "ଖ"
+    ],
+    "answer": "ଟ"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Odia consonant for 'tha'?",
+    "options": [
+      "କ",
+      "ଠ",
+      "ଖ",
+      "ଗ"
+    ],
+    "answer": "ଠ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'କ' + 'ା'?",
+    "options": [
+      "ତେ",
+      "ପୁ",
+      "କା",
+      "ମି"
+    ],
+    "answer": "କା"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ପ' + 'ୁ'?",
+    "options": [
+      "ପୁ",
+      "ତେ",
+      "ସୂ",
+      "ମି"
+    ],
+    "answer": "ପୁ"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ମ' + 'ି'?",
+    "options": [
+      "ନୋ",
+      "ତେ",
+      "ମି",
+      "ସୂ"
+    ],
+    "answer": "ମି"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ତ' + 'େ'?",
+    "options": [
+      "ତେ",
+      "ରା",
+      "ନୋ",
+      "ସୂ"
+    ],
+    "answer": "ତେ"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ସ' + 'ୂ'?",
+    "options": [
+      "ରା",
+      "ସୂ",
+      "ଲେ",
+      "ନୋ"
+    ],
+    "answer": "ସୂ"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ନ' + 'ୋ'?",
+    "options": [
+      "ନୋ",
+      "ଦି",
+      "ଲେ",
+      "ରା"
+    ],
+    "answer": "ନୋ"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ର' + 'ା'?",
+    "options": [
+      "ରା",
+      "ଦି",
+      "ବୁ",
+      "ଲେ"
+    ],
+    "answer": "ରା"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ଲ' + 'େ'?",
+    "options": [
+      "ବୁ",
+      "ଲେ",
+      "ଦି",
+      "କା"
+    ],
+    "answer": "ଲେ"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ଦ' + 'ି'?",
+    "options": [
+      "ଦି",
+      "କା",
+      "ପୁ",
+      "ବୁ"
+    ],
+    "answer": "ଦି"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ବ' + 'ୁ'?",
+    "options": [
+      "ବୁ",
+      "କା",
+      "ପୁ",
+      "ମି"
+    ],
+    "answer": "ବୁ"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ବହି'? (in Odia)",
+    "options": [
+      "Hand",
+      "Book",
+      "School",
+      "Pen"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'କଲମ'? (in Odia)",
+    "options": [
+      "Pen",
+      "Fruit",
+      "School",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ବିଦ୍ୟାଳୟ'? (in Odia)",
+    "options": [
+      "School",
+      "Flowers",
+      "Hand",
+      "Fruit"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ହାତ'? (in Odia)",
+    "options": [
+      "Tree",
+      "Flowers",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ଫଳ'? (in Odia)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Flowers",
+      "Fruit"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ଫୁଲ'? (in Odia)",
+    "options": [
+      "Slate",
+      "Speak",
+      "Flowers",
+      "Tree"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ଗଛ'? (in Odia)",
+    "options": [
+      "Slate",
+      "Speech",
+      "Speak",
+      "Tree"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ପଟା'? (in Odia)",
+    "options": [
+      "Speak",
+      "Slate",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'କହିବା'? (in Odia)",
+    "options": [
+      "Pen",
+      "Book",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Odia",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'ଭାଷା'? (in Odia)",
+    "options": [
+      "Book",
+      "Pen",
+      "School",
+      "Speech"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'book'?",
+    "options": [
+      "କଲମ",
+      "ବ୍ୟାଗ",
+      "ବିଦ୍ୟାଳୟ",
+      "ବହି"
+    ],
+    "answer": "ବହି"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'pen'?",
+    "options": [
+      "କଲମ",
+      "ବ୍ୟାଗ",
+      "ଚେୟାର",
+      "ବିଦ୍ୟାଳୟ"
+    ],
+    "answer": "କଲମ"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'school'?",
+    "options": [
+      "ବିଦ୍ୟାଳୟ",
+      "ବ୍ୟାଗ",
+      "ଟେବୁଲ",
+      "ଚେୟାର"
+    ],
+    "answer": "ବିଦ୍ୟାଳୟ"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'bag'?",
+    "options": [
+      "ପଟା",
+      "ବ୍ୟାଗ",
+      "ଚେୟାର",
+      "ଟେବୁଲ"
+    ],
+    "answer": "ବ୍ୟାଗ"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'chair'?",
+    "options": [
+      "ଚେୟାର",
+      "ଟେବୁଲ",
+      "ଝରକା",
+      "ପଟା"
+    ],
+    "answer": "ଚେୟାର"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'table'?",
+    "options": [
+      "ଝରକା",
+      "କବାଟ",
+      "ପଟା",
+      "ଟେବୁଲ"
+    ],
+    "answer": "ଟେବୁଲ"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'slate'?",
+    "options": [
+      "ପଟା",
+      "କବାଟ",
+      "ପଙ୍ଖା",
+      "ଝରକା"
+    ],
+    "answer": "ପଟା"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'window'?",
+    "options": [
+      "କବାଟ",
+      "ଝରକା",
+      "ପଙ୍ଖା",
+      "ବହି"
+    ],
+    "answer": "ଝରକା"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'door'?",
+    "options": [
+      "କଲମ",
+      "ପଙ୍ଖା",
+      "କବାଟ",
+      "ବହି"
+    ],
+    "answer": "କବାଟ"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Odia word for 'fan'?",
+    "options": [
+      "ବହି",
+      "ପଙ୍ଖା",
+      "ବିଦ୍ୟାଳୟ",
+      "କଲମ"
+    ],
+    "answer": "ପଙ୍ଖା"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'rice'?",
+    "options": [
+      "ଭାତ",
+      "ତରକାରୀ",
+      "କ୍ଷୀର",
+      "ଫଳ"
+    ],
+    "answer": "ଭାତ"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'milk'?",
+    "options": [
+      "ଫଳ",
+      "ତରକାରୀ",
+      "ପାଣି",
+      "କ୍ଷୀର"
+    ],
+    "answer": "କ୍ଷୀର"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'fruit'?",
+    "options": [
+      "ଦହି",
+      "ଫଳ",
+      "ପାଣି",
+      "ତରକାରୀ"
+    ],
+    "answer": "ଫଳ"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'vegetable'?",
+    "options": [
+      "ପାଣି",
+      "ଦହି",
+      "ରୁଟି",
+      "ତରକାରୀ"
+    ],
+    "answer": "ତରକାରୀ"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'water'?",
+    "options": [
+      "ଦହି",
+      "ପାଣି",
+      "ଅଣ୍ଡା",
+      "ରୁଟି"
+    ],
+    "answer": "ପାଣି"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'curd'?",
+    "options": [
+      "ମାଛ",
+      "ଦହି",
+      "ଅଣ୍ଡା",
+      "ରୁଟି"
+    ],
+    "answer": "ଦହି"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'bread'?",
+    "options": [
+      "ରୁଟି",
+      "ମିଠା",
+      "ମାଛ",
+      "ଅଣ୍ଡା"
+    ],
+    "answer": "ରୁଟି"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'egg'?",
+    "options": [
+      "ଭାତ",
+      "ମିଠା",
+      "ଅଣ୍ଡା",
+      "ମାଛ"
+    ],
+    "answer": "ଅଣ୍ଡା"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'fish'?",
+    "options": [
+      "ଭାତ",
+      "କ୍ଷୀର",
+      "ମିଠା",
+      "ମାଛ"
+    ],
+    "answer": "ମାଛ"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'sweet'?",
+    "options": [
+      "ଭାତ",
+      "କ୍ଷୀର",
+      "ଫଳ",
+      "ମିଠା"
+    ],
+    "answer": "ମିଠା"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'mother'?",
+    "options": [
+      "ମା",
+      "ଭଉଣୀ",
+      "ଭାଇ",
+      "ବାପା"
+    ],
+    "answer": "ମା"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'father'?",
+    "options": [
+      "ଆଇ",
+      "ବାପା",
+      "ଭଉଣୀ",
+      "ଭାଇ"
+    ],
+    "answer": "ବାପା"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'sister'?",
+    "options": [
+      "ଆଇ",
+      "ଆଜା",
+      "ଭାଇ",
+      "ଭଉଣୀ"
+    ],
+    "answer": "ଭଉଣୀ"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'brother'?",
+    "options": [
+      "କାକା",
+      "ଆଇ",
+      "ଭାଇ",
+      "ଆଜା"
+    ],
+    "answer": "ଭାଇ"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'grandmother'?",
+    "options": [
+      "କାକା",
+      "କାକୀ",
+      "ଆଜା",
+      "ଆଇ"
+    ],
+    "answer": "ଆଇ"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'grandfather'?",
+    "options": [
+      "ଆଜା",
+      "କାକୀ",
+      "ପୁଅ",
+      "କାକା"
+    ],
+    "answer": "ଆଜା"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'uncle'?",
+    "options": [
+      "କାକା",
+      "କାକୀ",
+      "ଝିଅ",
+      "ପୁଅ"
+    ],
+    "answer": "କାକା"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'aunt'?",
+    "options": [
+      "କାକୀ",
+      "ପୁଅ",
+      "ଝିଅ",
+      "ମା"
+    ],
+    "answer": "କାକୀ"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'son'?",
+    "options": [
+      "ଝିଅ",
+      "ପୁଅ",
+      "ବାପା",
+      "ମା"
+    ],
+    "answer": "ପୁଅ"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Odia word for 'daughter'?",
+    "options": [
+      "ବାପା",
+      "ମା",
+      "ଭଉଣୀ",
+      "ଝିଅ"
+    ],
+    "answer": "ଝିଅ"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'tree'?",
+    "options": [
+      "ପର୍ବତ",
+      "ଫୁଲ",
+      "ଗଛ",
+      "ନଦୀ"
+    ],
+    "answer": "ଗଛ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'flower'?",
+    "options": [
+      "ପତ୍ର",
+      "ନଦୀ",
+      "ପର୍ବତ",
+      "ଫୁଲ"
+    ],
+    "answer": "ଫୁଲ"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'river'?",
+    "options": [
+      "ପତ୍ର",
+      "ଆକାଶ",
+      "ନଦୀ",
+      "ପର୍ବତ"
+    ],
+    "answer": "ନଦୀ"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'mountain'?",
+    "options": [
+      "ପତ୍ର",
+      "ଆକାଶ",
+      "ବର୍ଷା",
+      "ପର୍ବତ"
+    ],
+    "answer": "ପର୍ବତ"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'leaf'?",
+    "options": [
+      "ବର୍ଷା",
+      "ଆକାଶ",
+      "ସୂର୍ଯ୍ୟ",
+      "ପତ୍ର"
+    ],
+    "answer": "ପତ୍ର"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'sky'?",
+    "options": [
+      "ସୂର୍ଯ୍ୟ",
+      "ଚନ୍ଦ୍ର",
+      "ଆକାଶ",
+      "ବର୍ଷା"
+    ],
+    "answer": "ଆକାଶ"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'rain'?",
+    "options": [
+      "ବର୍ଷା",
+      "ତାରା",
+      "ସୂର୍ଯ୍ୟ",
+      "ଚନ୍ଦ୍ର"
+    ],
+    "answer": "ବର୍ଷା"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'sun'?",
+    "options": [
+      "ଚନ୍ଦ୍ର",
+      "ଗଛ",
+      "ତାରା",
+      "ସୂର୍ଯ୍ୟ"
+    ],
+    "answer": "ସୂର୍ଯ୍ୟ"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'moon'?",
+    "options": [
+      "ଫୁଲ",
+      "ତାରା",
+      "ଚନ୍ଦ୍ର",
+      "ଗଛ"
+    ],
+    "answer": "ଚନ୍ଦ୍ର"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Odia",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Odia word for 'star'?",
+    "options": [
+      "ତାରା",
+      "ନଦୀ",
+      "ଫୁଲ",
+      "ଗଛ"
+    ],
+    "answer": "ତାରା"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Odia?",
+    "options": [
+      "ସ୍ୱାଗତ",
+      "ଶୁଭ ରାତ୍ରି",
+      "ସୁପ୍ରଭାତ",
+      "ନମସ୍କାର"
+    ],
+    "answer": "ନମସ୍କାର"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Odia?",
+    "options": [
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ଶୁଭ ରାତ୍ରି",
+      "ସ୍ୱାଗତ",
+      "ସୁପ୍ରଭାତ"
+    ],
+    "answer": "ସୁପ୍ରଭାତ"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Odia?",
+    "options": [
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ଶୁଭ ରାତ୍ରି",
+      "ଭଲ ଅଛି",
+      "ସ୍ୱାଗତ"
+    ],
+    "answer": "ଶୁଭ ରାତ୍ରି"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Odia?",
+    "options": [
+      "ଭଲ ଅଛି",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ସ୍ୱାଗତ",
+      "ପୁଣି ଦେଖା ହେବ"
+    ],
+    "answer": "ସ୍ୱାଗତ"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Odia?",
+    "options": [
+      "ବିଦାୟ",
+      "ପୁଣି ଦେଖା ହେବ",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ଭଲ ଅଛି"
+    ],
+    "answer": "ଆପଣ କେମିତି ଅଛନ୍ତି?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Odia?",
+    "options": [
+      "ପୁଣି ଦେଖା ହେବ",
+      "ବିଦାୟ",
+      "ଯତ୍ନ ନିଅନ୍ତୁ",
+      "ଭଲ ଅଛି"
+    ],
+    "answer": "ଭଲ ଅଛି"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Odia?",
+    "options": [
+      "ଧନ୍ୟବାଦ",
+      "ଯତ୍ନ ନିଅନ୍ତୁ",
+      "ବିଦାୟ",
+      "ପୁଣି ଦେଖା ହେବ"
+    ],
+    "answer": "ପୁଣି ଦେଖା ହେବ"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Odia?",
+    "options": [
+      "ଯତ୍ନ ନିଅନ୍ତୁ",
+      "ନମସ୍କାର",
+      "ବିଦାୟ",
+      "ଧନ୍ୟବାଦ"
+    ],
+    "answer": "ବିଦାୟ"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Odia?",
+    "options": [
+      "ସୁପ୍ରଭାତ",
+      "ଧନ୍ୟବାଦ",
+      "ନମସ୍କାର",
+      "ଯତ୍ନ ନିଅନ୍ତୁ"
+    ],
+    "answer": "ଯତ୍ନ ନିଅନ୍ତୁ"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Odia?",
+    "options": [
+      "ନମସ୍କାର",
+      "ଧନ୍ୟବାଦ",
+      "ଶୁଭ ରାତ୍ରି",
+      "ସୁପ୍ରଭାତ"
+    ],
+    "answer": "ଧନ୍ୟବାଦ"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Odia?",
+    "options": [
+      "ମୁଁ ... ରୁ ଆସିଛି",
+      "ମୋର ନାମ ...",
+      "ମୁଁ ଜଣେ ଛାତ୍ର",
+      "ମୁଁ ଜଣେ ଶିକ୍ଷକ"
+    ],
+    "answer": "ମୋର ନାମ ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କୁ ଭେଟି ଖୁସି ଲାଗିଲା",
+      "ମୁଁ ଜଣେ ଶିକ୍ଷକ",
+      "ମୁଁ ଜଣେ ଛାତ୍ର",
+      "ମୁଁ ... ରୁ ଆସିଛି"
+    ],
+    "answer": "ମୁଁ ... ରୁ ଆସିଛି"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କୁ ଭେଟି ଖୁସି ଲାଗିଲା",
+      "ମୁଁ ଜଣେ ଛାତ୍ର",
+      "ମୁଁ ... ରେ ରହେ",
+      "ମୁଁ ଜଣେ ଶିକ୍ଷକ"
+    ],
+    "answer": "ମୁଁ ଜଣେ ଛାତ୍ର"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Odia?",
+    "options": [
+      "ମୁଁ ଜଣେ ଶିକ୍ଷକ",
+      "ମୁଁ ଓଡ଼ିଆ ଶିଖୁଛି",
+      "ମୁଁ ... ରେ ରହେ",
+      "ଆପଣଙ୍କୁ ଭେଟି ଖୁସି ଲାଗିଲା"
+    ],
+    "answer": "ମୁଁ ଜଣେ ଶିକ୍ଷକ"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?",
+      "ମୁଁ ଓଡ଼ିଆ ଶିଖୁଛି",
+      "ମୁଁ ... ରେ ରହେ",
+      "ଆପଣଙ୍କୁ ଭେଟି ଖୁସି ଲାଗିଲା"
+    ],
+    "answer": "ଆପଣଙ୍କୁ ଭେଟି ଖୁସି ଲାଗିଲା"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Odia?",
+    "options": [
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?",
+      "ମୁଁ ... ରେ ରହେ",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?",
+      "ମୁଁ ଓଡ଼ିଆ ଶିଖୁଛି"
+    ],
+    "answer": "ମୁଁ ... ରେ ରହେ"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Odia' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?",
+      "ମୁଁ ଓଡ଼ିଆ ଶିଖୁଛି",
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?"
+    ],
+    "answer": "ମୁଁ ଓଡ଼ିଆ ଶିଖୁଛି"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Odia?",
+    "options": [
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?",
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?",
+      "ମୋର ନାମ ..."
+    ],
+    "answer": "ଆପଣଙ୍କ ନାମ କ'ଣ?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Odia?",
+    "options": [
+      "ମୁଁ ... ରୁ ଆସିଛି",
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?",
+      "ମୋର ନାମ ..."
+    ],
+    "answer": "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ମୁଁ ... ରୁ ଆସିଛି",
+      "ମୋର ନାମ ...",
+      "ମୁଁ ଜଣେ ଛାତ୍ର"
+    ],
+    "answer": "ଆପଣଙ୍କ ବୟସ କେତେ?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Odia?",
+    "options": [
+      "ହଁ",
+      "ଅବଶ୍ୟ",
+      "ନା",
+      "ହୋଇପାରେ"
+    ],
+    "answer": "ହଁ"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Odia?",
+    "options": [
+      "ହୋଇପାରେ",
+      "ଅବଶ୍ୟ",
+      "ନା",
+      "କେବେ ନୁହେଁ"
+    ],
+    "answer": "ନା"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Odia?",
+    "options": [
+      "ହୋଇପାରେ",
+      "କେବେ କେବେ",
+      "ଅବଶ୍ୟ",
+      "କେବେ ନୁହେଁ"
+    ],
+    "answer": "ହୋଇପାରେ"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Odia?",
+    "options": [
+      "କେବେ ନୁହେଁ",
+      "କେବେ କେବେ",
+      "ସର୍ବଦା",
+      "ଅବଶ୍ୟ"
+    ],
+    "answer": "ଅବଶ୍ୟ"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Odia?",
+    "options": [
+      "କେବେ ନୁହେଁ",
+      "ଆଦୌ ନୁହେଁ",
+      "କେବେ କେବେ",
+      "ସର୍ବଦା"
+    ],
+    "answer": "କେବେ ନୁହେଁ"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Odia?",
+    "options": [
+      "କେବେ କେବେ",
+      "ଆଦୌ ନୁହେଁ",
+      "ସର୍ବଦା",
+      "ନିଶ୍ଚିତ"
+    ],
+    "answer": "କେବେ କେବେ"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Odia?",
+    "options": [
+      "ନିଶ୍ଚିତ",
+      "ସର୍ବଦା",
+      "ମୁଁ ଜାଣି ନାହିଁ",
+      "ଆଦୌ ନୁହେଁ"
+    ],
+    "answer": "ସର୍ବଦା"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Odia?",
+    "options": [
+      "ମୁଁ ଜାଣି ନାହିଁ",
+      "ହଁ",
+      "ଆଦୌ ନୁହେଁ",
+      "ନିଶ୍ଚିତ"
+    ],
+    "answer": "ଆଦୌ ନୁହେଁ"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Odia?",
+    "options": [
+      "ହଁ",
+      "ନିଶ୍ଚିତ",
+      "ମୁଁ ଜାଣି ନାହିଁ",
+      "ନା"
+    ],
+    "answer": "ନିଶ୍ଚିତ"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Odia?",
+    "options": [
+      "ମୁଁ ଜାଣି ନାହିଁ",
+      "ନା",
+      "ହଁ",
+      "ହୋଇପାରେ"
+    ],
+    "answer": "ମୁଁ ଜାଣି ନାହିଁ"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Odia?",
+    "options": [
+      "ଧନ୍ୟବାଦ",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ଦୟାକରି"
+    ],
+    "answer": "ଧନ୍ୟବାଦ"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Odia?",
+    "options": [
+      "କ୍ଷମା କରନ୍ତୁ",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ଦୟାକରି",
+      "ସ୍ୱାଗତ"
+    ],
+    "answer": "କ୍ଷମା କରନ୍ତୁ"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Odia?",
+    "options": [
+      "କୌଣସି ଅସୁବିଧା ନାହିଁ",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ଦୟାକରି",
+      "ସ୍ୱାଗତ"
+    ],
+    "answer": "ଦୟାକରି"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Odia?",
+    "options": [
+      "ଅଭିନନ୍ଦନ",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ସ୍ୱାଗତ",
+      "କୌଣସି ଅସୁବିଧା ନାହିଁ"
+    ],
+    "answer": "କ୍ଷମା କରନ୍ତୁ"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Odia?",
+    "options": [
+      "ଭଗବାନ ଆପଣଙ୍କୁ ଆଶୀର୍ବାଦ ଦିଅନ୍ତୁ",
+      "ସ୍ୱାଗତ",
+      "ଅଭିନନ୍ଦନ",
+      "କୌଣସି ଅସୁବିଧା ନାହିଁ"
+    ],
+    "answer": "ସ୍ୱାଗତ"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Odia?",
+    "options": [
+      "ଭଗବାନ ଆପଣଙ୍କୁ ଆଶୀର୍ବାଦ ଦିଅନ୍ତୁ",
+      "ଅଭିନନ୍ଦନ",
+      "ଶୁଭକାମନା",
+      "କୌଣସି ଅସୁବିଧା ନାହିଁ"
+    ],
+    "answer": "କୌଣସି ଅସୁବିଧା ନାହିଁ"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Odia?",
+    "options": [
+      "ଭଗବାନ ଆପଣଙ୍କୁ ଆଶୀର୍ବାଦ ଦିଅନ୍ତୁ",
+      "ଜନ୍ମଦିନର ଶୁଭେଚ୍ଛା",
+      "ଅଭିନନ୍ଦନ",
+      "ଶୁଭକାମନା"
+    ],
+    "answer": "ଅଭିନନ୍ଦନ"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Odia?",
+    "options": [
+      "ଭଗବାନ ଆପଣଙ୍କୁ ଆଶୀର୍ବାଦ ଦିଅନ୍ତୁ",
+      "ଶୁଭକାମନା",
+      "ଜନ୍ମଦିନର ଶୁଭେଚ୍ଛା",
+      "ଧନ୍ୟବାଦ"
+    ],
+    "answer": "ଭଗବାନ ଆପଣଙ୍କୁ ଆଶୀର୍ବାଦ ଦିଅନ୍ତୁ"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Odia?",
+    "options": [
+      "ଜନ୍ମଦିନର ଶୁଭେଚ୍ଛା",
+      "ଧନ୍ୟବାଦ",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ଶୁଭକାମନା"
+    ],
+    "answer": "ଶୁଭକାମନା"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Odia",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Odia?",
+    "options": [
+      "ଧନ୍ୟବାଦ",
+      "ଜନ୍ମଦିନର ଶୁଭେଚ୍ଛା",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ଦୟାକରି"
+    ],
+    "answer": "ଜନ୍ମଦିନର ଶୁଭେଚ୍ଛା"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'ki'?",
+    "options": [
+      "କୋ",
+      "କି",
+      "କେ",
+      "କୁ"
+    ],
+    "answer": "କି"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'ku'?",
+    "options": [
+      "କୁ",
+      "କୋ",
+      "ଗି",
+      "କେ"
+    ],
+    "answer": "କୁ"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'ke'?",
+    "options": [
+      "ଗି",
+      "ଗୁ",
+      "କୋ",
+      "କେ"
+    ],
+    "answer": "କେ"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'ko'?",
+    "options": [
+      "ଗୁ",
+      "ଗି",
+      "ଗେ",
+      "କୋ"
+    ],
+    "answer": "କୋ"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'gi'?",
+    "options": [
+      "ଗୁ",
+      "ଗି",
+      "ଗେ",
+      "ଗୋ"
+    ],
+    "answer": "ଗି"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'gu'?",
+    "options": [
+      "ଗୋ",
+      "ଚି",
+      "ଗୁ",
+      "ଗେ"
+    ],
+    "answer": "ଗୁ"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'ge'?",
+    "options": [
+      "ଗେ",
+      "ଚି",
+      "ଗୋ",
+      "ଚୁ"
+    ],
+    "answer": "ଗେ"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'go'?",
+    "options": [
+      "ଗୋ",
+      "ଚୁ",
+      "କି",
+      "ଚି"
+    ],
+    "answer": "ଗୋ"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'chi'?",
+    "options": [
+      "କି",
+      "ଚି",
+      "କୁ",
+      "ଚୁ"
+    ],
+    "answer": "ଚି"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Odia syllable for 'chu'?",
+    "options": [
+      "କି",
+      "କେ",
+      "ଚୁ",
+      "କୁ"
+    ],
+    "answer": "ଚୁ"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'ksha'?",
+    "options": [
+      "ଜ୍ଞ",
+      "କ୍ଷ",
+      "ଶ୍ର",
+      "ତ୍ର"
+    ],
+    "answer": "କ୍ଷ"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'tra'?",
+    "options": [
+      "ଜ୍ଞ",
+      "ଶ୍ର",
+      "କ୍ର",
+      "ତ୍ର"
+    ],
+    "answer": "ତ୍ର"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'jna'?",
+    "options": [
+      "ପ୍ର",
+      "ଶ୍ର",
+      "ଜ୍ଞ",
+      "କ୍ର"
+    ],
+    "answer": "ଜ୍ଞ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'shra'?",
+    "options": [
+      "ଶ୍ର",
+      "ପ୍ର",
+      "ସ୍ର",
+      "କ୍ର"
+    ],
+    "answer": "ଶ୍ର"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'kra'?",
+    "options": [
+      "ଗ୍ର",
+      "କ୍ର",
+      "ସ୍ର",
+      "ପ୍ର"
+    ],
+    "answer": "କ୍ର"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'pra'?",
+    "options": [
+      "ଗ୍ର",
+      "ସ୍ର",
+      "ଦ୍ର",
+      "ପ୍ର"
+    ],
+    "answer": "ପ୍ର"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'sra'?",
+    "options": [
+      "ଗ୍ର",
+      "ସ୍ର",
+      "ଦ୍ର",
+      "ନ୍ତ"
+    ],
+    "answer": "ସ୍ର"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'gra'?",
+    "options": [
+      "ନ୍ତ",
+      "କ୍ଷ",
+      "ଗ୍ର",
+      "ଦ୍ର"
+    ],
+    "answer": "ଗ୍ର"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'dra'?",
+    "options": [
+      "କ୍ଷ",
+      "ଦ୍ର",
+      "ତ୍ର",
+      "ନ୍ତ"
+    ],
+    "answer": "ଦ୍ର"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Odia ligature for 'nta'?",
+    "options": [
+      "ଜ୍ଞ",
+      "କ୍ଷ",
+      "ନ୍ତ",
+      "ତ୍ର"
+    ],
+    "answer": "ନ୍ତ"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'sha'?",
+    "options": [
+      "ହ",
+      "ଲ",
+      "ସ",
+      "ଶ"
+    ],
+    "answer": "ଶ"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'sa'?",
+    "options": [
+      "ଲ",
+      "ହ",
+      "ର",
+      "ସ"
+    ],
+    "answer": "ସ"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'ha'?",
+    "options": [
+      "ଲ",
+      "ବ",
+      "ର",
+      "ହ"
+    ],
+    "answer": "ହ"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'la'?",
+    "options": [
+      "ଯ",
+      "ର",
+      "ଲ",
+      "ବ"
+    ],
+    "answer": "ଲ"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'ra'?",
+    "options": [
+      "ର",
+      "ଫ",
+      "ବ",
+      "ଯ"
+    ],
+    "answer": "ର"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'va'?",
+    "options": [
+      "ଜ",
+      "ଯ",
+      "ବ",
+      "ଫ"
+    ],
+    "answer": "ବ"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'ya'?",
+    "options": [
+      "ଜ",
+      "ଫ",
+      "କ୍ଵ",
+      "ଯ"
+    ],
+    "answer": "ଯ"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'fa'?",
+    "options": [
+      "ଶ",
+      "ଫ",
+      "କ୍ଵ",
+      "ଜ"
+    ],
+    "answer": "ଫ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'za'?",
+    "options": [
+      "ସ",
+      "ଜ",
+      "ଶ",
+      "କ୍ଵ"
+    ],
+    "answer": "ଜ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Odia letter for 'qwa'?",
+    "options": [
+      "ହ",
+      "ସ",
+      "କ୍ଵ",
+      "ଶ"
+    ],
+    "answer": "କ୍ଵ"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'କ୍ଷୀର'?",
+    "options": [
+      "ଜ୍ଞ",
+      "ତ୍ର",
+      "କ୍ଷ",
+      "ଶ୍ର"
+    ],
+    "answer": "କ୍ଷ"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ଜ୍ଞାନ'?",
+    "options": [
+      "ଶ୍ର",
+      "ଜ୍ଞ",
+      "ଗ୍ର",
+      "ତ୍ର"
+    ],
+    "answer": "ଜ୍ଞ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ତ୍ରିକୋଣ'?",
+    "options": [
+      "ଗ୍ର",
+      "ପ୍ର",
+      "ତ୍ର",
+      "ଶ୍ର"
+    ],
+    "answer": "ତ୍ର"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ଶ୍ରଦ୍ଧା'?",
+    "options": [
+      "ସ୍ର",
+      "ପ୍ର",
+      "ଶ୍ର",
+      "ଗ୍ର"
+    ],
+    "answer": "ଶ୍ର"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ଗ୍ରନ୍ଥ'?",
+    "options": [
+      "ପ୍ର",
+      "ଦ୍ର",
+      "ସ୍ର",
+      "ଗ୍ର"
+    ],
+    "answer": "ଗ୍ର"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ପ୍ରୟତ୍ନ'?",
+    "options": [
+      "ଫ",
+      "ସ୍ର",
+      "ଦ୍ର",
+      "ପ୍ର"
+    ],
+    "answer": "ପ୍ର"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ସ୍ରୋତ'?",
+    "options": [
+      "ଦ୍ର",
+      "ଫ",
+      "ହ",
+      "ସ୍ର"
+    ],
+    "answer": "ସ୍ର"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ଦ୍ରବ୍ୟ'?",
+    "options": [
+      "କ୍ଷ",
+      "ଦ୍ର",
+      "ଫ",
+      "ହ"
+    ],
+    "answer": "ଦ୍ର"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ଫଳ'?",
+    "options": [
+      "ଜ୍ଞ",
+      "ହ",
+      "ଫ",
+      "କ୍ଷ"
+    ],
+    "answer": "ଫ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Odia",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Odia letter is used in the word 'ହରିଦ୍ୱାର'?",
+    "options": [
+      "କ୍ଷ",
+      "ଜ୍ଞ",
+      "ହ",
+      "ତ୍ର"
+    ],
+    "answer": "ହ"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Sunday'?",
+    "options": [
+      "ସୋମବାର",
+      "ମଙ୍ଗଳବାର",
+      "ରବିବାର",
+      "ବୁଧବାର"
+    ],
+    "answer": "ରବିବାର"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Monday'?",
+    "options": [
+      "ବୁଧବାର",
+      "ସୋମବାର",
+      "ମଙ୍ଗଳବାର",
+      "ଗୁରୁବାର"
+    ],
+    "answer": "ସୋମବାର"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Tuesday'?",
+    "options": [
+      "ମଙ୍ଗଳବାର",
+      "ବୁଧବାର",
+      "ଗୁରୁବାର",
+      "ଶୁକ୍ରବାର"
+    ],
+    "answer": "ମଙ୍ଗଳବାର"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Wednesday'?",
+    "options": [
+      "ଶନିବାର",
+      "ଗୁରୁବାର",
+      "ବୁଧବାର",
+      "ଶୁକ୍ରବାର"
+    ],
+    "answer": "ବୁଧବାର"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Thursday'?",
+    "options": [
+      "ଆଜି",
+      "ଶୁକ୍ରବାର",
+      "ଶନିବାର",
+      "ଗୁରୁବାର"
+    ],
+    "answer": "ଗୁରୁବାର"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Friday'?",
+    "options": [
+      "ଶନିବାର",
+      "ଶୁକ୍ରବାର",
+      "କାଲି",
+      "ଆଜି"
+    ],
+    "answer": "ଶୁକ୍ରବାର"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Saturday'?",
+    "options": [
+      "କାଲି",
+      "ଶନିବାର",
+      "ଗତକାଲି",
+      "ଆଜି"
+    ],
+    "answer": "ଶନିବାର"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Today'?",
+    "options": [
+      "ରବିବାର",
+      "ଆଜି",
+      "କାଲି",
+      "ଗତକାଲି"
+    ],
+    "answer": "ଆଜି"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Tomorrow'?",
+    "options": [
+      "ରବିବାର",
+      "ସୋମବାର",
+      "କାଲି",
+      "ଗତକାଲି"
+    ],
+    "answer": "କାଲି"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Odia word for 'Yesterday'?",
+    "options": [
+      "ମଙ୍ଗଳବାର",
+      "ସୋମବାର",
+      "ଗତକାଲି",
+      "ରବିବାର"
+    ],
+    "answer": "ଗତକାଲି"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'red'?",
+    "options": [
+      "ହଳଦିଆ",
+      "ନୀଳ",
+      "ସବୁଜ",
+      "ଲାଲ"
+    ],
+    "answer": "ଲାଲ"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'blue'?",
+    "options": [
+      "ହଳଦିଆ",
+      "ସବୁଜ",
+      "ନୀଳ",
+      "କଳା"
+    ],
+    "answer": "ନୀଳ"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'green'?",
+    "options": [
+      "ଧଳା",
+      "କଳା",
+      "ସବୁଜ",
+      "ହଳଦିଆ"
+    ],
+    "answer": "ସବୁଜ"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'yellow'?",
+    "options": [
+      "ଧଳା",
+      "କଳା",
+      "କମଳା",
+      "ହଳଦିଆ"
+    ],
+    "answer": "ହଳଦିଆ"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'black'?",
+    "options": [
+      "କମଳା",
+      "ଗୋଲାପୀ",
+      "କଳା",
+      "ଧଳା"
+    ],
+    "answer": "କଳା"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'white'?",
+    "options": [
+      "ଗୋଲାପୀ",
+      "କମଳା",
+      "ଧଳା",
+      "ବାଇଗଣୀ"
+    ],
+    "answer": "ଧଳା"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'orange'?",
+    "options": [
+      "ଗୋଲାପୀ",
+      "ବାଦାମୀ",
+      "ବାଇଗଣୀ",
+      "କମଳା"
+    ],
+    "answer": "କମଳା"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'pink'?",
+    "options": [
+      "ଲାଲ",
+      "ବାଇଗଣୀ",
+      "ଗୋଲାପୀ",
+      "ବାଦାମୀ"
+    ],
+    "answer": "ଗୋଲାପୀ"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'purple'?",
+    "options": [
+      "ବାଦାମୀ",
+      "ଲାଲ",
+      "ବାଇଗଣୀ",
+      "ନୀଳ"
+    ],
+    "answer": "ବାଇଗଣୀ"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Odia word for 'brown'?",
+    "options": [
+      "ଲାଲ",
+      "ନୀଳ",
+      "ସବୁଜ",
+      "ବାଦାମୀ"
+    ],
+    "answer": "ବାଦାମୀ"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'one'?",
+    "options": [
+      "ଏକ",
+      "ତିନି",
+      "ଦୁଇ",
+      "ଚାରି"
+    ],
+    "answer": "ଏକ"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'two'?",
+    "options": [
+      "ଦୁଇ",
+      "ଚାରି",
+      "ପାଞ୍ଚ",
+      "ତିନି"
+    ],
+    "answer": "ଦୁଇ"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'three'?",
+    "options": [
+      "ପାଞ୍ଚ",
+      "ଛଅ",
+      "ତିନି",
+      "ଚାରି"
+    ],
+    "answer": "ତିନି"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'four'?",
+    "options": [
+      "ଚାରି",
+      "ସାତ",
+      "ପାଞ୍ଚ",
+      "ଛଅ"
+    ],
+    "answer": "ଚାରି"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'five'?",
+    "options": [
+      "ଛଅ",
+      "ସାତ",
+      "ଆଠ",
+      "ପାଞ୍ଚ"
+    ],
+    "answer": "ପାଞ୍ଚ"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'six'?",
+    "options": [
+      "ଛଅ",
+      "ସାତ",
+      "ଆଠ",
+      "ନଅ"
+    ],
+    "answer": "ଛଅ"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'seven'?",
+    "options": [
+      "ସାତ",
+      "ନଅ",
+      "ଆଠ",
+      "ଦଶ"
+    ],
+    "answer": "ସାତ"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'eight'?",
+    "options": [
+      "ଦଶ",
+      "ଆଠ",
+      "ଏକ",
+      "ନଅ"
+    ],
+    "answer": "ଆଠ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'nine'?",
+    "options": [
+      "ଏକ",
+      "ଦୁଇ",
+      "ନଅ",
+      "ଦଶ"
+    ],
+    "answer": "ନଅ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Odia word for 'ten'?",
+    "options": [
+      "ଦୁଇ",
+      "ଏକ",
+      "ତିନି",
+      "ଦଶ"
+    ],
+    "answer": "ଦଶ"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'breakfast'?",
+    "options": [
+      "ଜଳଖିଆ",
+      "ଜଳଖିଆ",
+      "ରାତି ଭୋଜନ",
+      "ମଧ୍ୟାହ୍ନ ଭୋଜନ"
+    ],
+    "answer": "ଜଳଖିଆ"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'lunch'?",
+    "options": [
+      "ଜଳଖିଆ",
+      "ମିଠାଇ",
+      "ମଧ୍ୟାହ୍ନ ଭୋଜନ",
+      "ରାତି ଭୋଜନ"
+    ],
+    "answer": "ମଧ୍ୟାହ୍ନ ଭୋଜନ"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'dinner'?",
+    "options": [
+      "ମିଠାଇ",
+      "ଝାଳ",
+      "ରାତି ଭୋଜନ",
+      "ଜଳଖିଆ"
+    ],
+    "answer": "ରାତି ଭୋଜନ"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'snacks'?",
+    "options": [
+      "ଜଳଖିଆ",
+      "ଶାକାହାରୀ",
+      "ଝାଳ",
+      "ମିଠାଇ"
+    ],
+    "answer": "ଜଳଖିଆ"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'sweets'?",
+    "options": [
+      "ମିଠାଇ",
+      "ଝାଳ",
+      "ଶାକାହାରୀ",
+      "ମାଂସାହାରୀ"
+    ],
+    "answer": "ମିଠାଇ"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'spicy'?",
+    "options": [
+      "ମାଂସାହାରୀ",
+      "ଶାକାହାରୀ",
+      "ଝାଳ",
+      "ରସ"
+    ],
+    "answer": "ଝାଳ"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'vegetarian'?",
+    "options": [
+      "ମାଂସାହାରୀ",
+      "କଫି",
+      "ଶାକାହାରୀ",
+      "ରସ"
+    ],
+    "answer": "ଶାକାହାରୀ"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'non-vegetarian'?",
+    "options": [
+      "ମାଂସାହାରୀ",
+      "ଜଳଖିଆ",
+      "ରସ",
+      "କଫି"
+    ],
+    "answer": "ମାଂସାହାରୀ"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'juice'?",
+    "options": [
+      "କଫି",
+      "ଜଳଖିଆ",
+      "ରସ",
+      "ମଧ୍ୟାହ୍ନ ଭୋଜନ"
+    ],
+    "answer": "ରସ"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Odia",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Odia word for 'coffee'?",
+    "options": [
+      "ରାତି ଭୋଜନ",
+      "ମଧ୍ୟାହ୍ନ ଭୋଜନ",
+      "କଫି",
+      "ଜଳଖିଆ"
+    ],
+    "answer": "କଫି"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?",
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?",
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?"
+    ],
+    "answer": "ଆପଣ କେମିତି ଅଛନ୍ତି?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Odia?",
+    "options": [
+      "ଆପଣ ଓଡ଼ିଆ କୁହନ୍ତି କି?",
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?",
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?"
+    ],
+    "answer": "ଆପଣଙ୍କ ନାମ କ'ଣ?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?",
+      "ଆପଣ ଓଡ଼ିଆ କୁହନ୍ତି କି?",
+      "ମୁଁ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିପାରିବି କି?"
+    ],
+    "answer": "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Odia?",
+    "options": [
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?",
+      "ଆପଣଙ୍କ ବୟସ କେତେ?",
+      "ଆପଣ ଓଡ଼ିଆ କୁହନ୍ତି କି?",
+      "ମୁଁ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିପାରିବି କି?"
+    ],
+    "answer": "ଆପଣଙ୍କ ବୟସ କେତେ?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Odia?' in Odia?",
+    "options": [
+      "ମୁଁ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିପାରିବି କି?",
+      "ଏହା କେତେ?",
+      "ଆପଣ ଓଡ଼ିଆ କୁହନ୍ତି କି?",
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ଆପଣ ଓଡ଼ିଆ କୁହନ୍ତି କି?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Odia?",
+    "options": [
+      "ସମୟ କେତେ ହୋଇଛି?",
+      "ମୁଁ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିପାରିବି କି?",
+      "ଏହା କେତେ?",
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ମୁଁ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିପାରିବି କି?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Odia?",
+    "options": [
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?",
+      "ଏହା କେତେ?",
+      "ସମୟ କେତେ ହୋଇଛି?",
+      "ଆପଣ କେଉଁଠାରେ ରହନ୍ତି?"
+    ],
+    "answer": "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Odia?",
+    "options": [
+      "ଆପଣ କେଉଁଠାରେ ରହନ୍ତି?",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ଏହା କେତେ?",
+      "ସମୟ କେତେ ହୋଇଛି?"
+    ],
+    "answer": "ଏହା କେତେ?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Odia?",
+    "options": [
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ସମୟ କେତେ ହୋଇଛି?",
+      "ଆପଣ କେଉଁଠାରେ ରହନ୍ତି?",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?"
+    ],
+    "answer": "ସମୟ କେତେ ହୋଇଛି?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Odia?",
+    "options": [
+      "ଆପଣ କେଉଁଠାରେ ରହନ୍ତି?",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ଆପଣ କେଉଁଠୁ ଆସିଛନ୍ତି?",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ?"
+    ],
+    "answer": "ଆପଣ କେଉଁଠାରେ ରହନ୍ତି?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Odia?",
+    "options": [
+      "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ",
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ",
+      "ଦୟାକରି ବସନ୍ତୁ",
+      "ଦୟାକରି ଏଠାକୁ ଆସନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Odia?",
+    "options": [
+      "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ",
+      "ଦୟାକରି ବସନ୍ତୁ",
+      "ଦୟାକରି ଏଠାକୁ ଆସନ୍ତୁ",
+      "ଦୟାକରି ଧୀରେ କୁହନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Odia?",
+    "options": [
+      "ଦୟାକରି ଏଠାକୁ ଆସନ୍ତୁ",
+      "ଦୟାକରି ଲେଖନ୍ତୁ",
+      "ଦୟାକରି ଧୀରେ କୁହନ୍ତୁ",
+      "ଦୟାକରି ବସନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ଏଠାକୁ ଆସନ୍ତୁ"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Odia?",
+    "options": [
+      "ଦୟାକରି ଲେଖନ୍ତୁ",
+      "ଦୟାକରି ବସନ୍ତୁ",
+      "ଦୟାକରି ପୁଣି କୁହନ୍ତୁ",
+      "ଦୟାକରି ଧୀରେ କୁହନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ବସନ୍ତୁ"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Odia?",
+    "options": [
+      "ଦୟାକରି ପୁଣି କୁହନ୍ତୁ",
+      "ଦୟାକରି ଲେଖନ୍ତୁ",
+      "ଦୟାକରି ଧୀରେ କୁହନ୍ତୁ",
+      "ଦୟାକରି ମୋତେ ଦେଖାନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ଧୀରେ କୁହନ୍ତୁ"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Odia?",
+    "options": [
+      "ଦୟାକରି ମୋତେ ଦେଖାନ୍ତୁ",
+      "ଦୟାକରି କବାଟ ଖୋଲନ୍ତୁ",
+      "ଦୟାକରି ଲେଖନ୍ତୁ",
+      "ଦୟାକରି ପୁଣି କୁହନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ଲେଖନ୍ତୁ"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Odia?",
+    "options": [
+      "ଦୟାକରି ପୁଣି କୁହନ୍ତୁ",
+      "ଦୟାକରି ଝରକା ବନ୍ଦ କରନ୍ତୁ",
+      "ଦୟାକରି ମୋତେ ଦେଖାନ୍ତୁ",
+      "ଦୟାକରି କବାଟ ଖୋଲନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ପୁଣି କୁହନ୍ତୁ"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Odia?",
+    "options": [
+      "ଦୟାକରି ମୋତେ ଦେଖାନ୍ତୁ",
+      "ଦୟାକରି କବାଟ ଖୋଲନ୍ତୁ",
+      "ଦୟାକରି ଝରକା ବନ୍ଦ କରନ୍ତୁ",
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ମୋତେ ଦେଖାନ୍ତୁ"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Odia?",
+    "options": [
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ",
+      "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ",
+      "ଦୟାକରି ଝରକା ବନ୍ଦ କରନ୍ତୁ",
+      "ଦୟାକରି କବାଟ ଖୋଲନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି କବାଟ ଖୋଲନ୍ତୁ"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Odia?",
+    "options": [
+      "ଦୟାକରି ଝରକା ବନ୍ଦ କରନ୍ତୁ",
+      "ଦୟାକରି ଏଠାକୁ ଆସନ୍ତୁ",
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ",
+      "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ଝରକା ବନ୍ଦ କରନ୍ତୁ"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Odia?",
+    "options": [
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ",
+      "କିଛି ରିହାତି ଅଛି କି?",
+      "ଏହା କେତେ?"
+    ],
+    "answer": "ଏହା କେତେ?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Odia?",
+    "options": [
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ",
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "କିଛି ରିହାତି ଅଛି କି?",
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?"
+    ],
+    "answer": "କିଛି ରିହାତି ଅଛି କି?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Odia?",
+    "options": [
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?",
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ"
+    ],
+    "answer": "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Odia?",
+    "options": [
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?",
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?"
+    ],
+    "answer": "ମୁଁ ଏହା ପରଖି ପାରିବି କି?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Odia?",
+    "options": [
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ",
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?",
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?"
+    ],
+    "answer": "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Odia?",
+    "options": [
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?",
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ",
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର"
+    ],
+    "answer": "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Odia?",
+    "options": [
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ",
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର",
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?",
+      "ସମୟ କ'ଣ?"
+    ],
+    "answer": "ଏହା ଉପଲବ୍ଧ ଅଛି କି?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Odia?",
+    "options": [
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର",
+      "ସମୟ କ'ଣ?",
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ",
+      "ଏହା କେତେ?"
+    ],
+    "answer": "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Odia?",
+    "options": [
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର",
+      "ସମୟ କ'ଣ?",
+      "ଏହା କେତେ?",
+      "କିଛି ରିହାତି ଅଛି କି?"
+    ],
+    "answer": "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Odia?",
+    "options": [
+      "ଏହା କେତେ?",
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ",
+      "ସମୟ କ'ଣ?",
+      "କିଛି ରିହାତି ଅଛି କି?"
+    ],
+    "answer": "ସମୟ କ'ଣ?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Odia?",
+    "options": [
+      "ରେଳ ଷ୍ଟେସନକୁ କିପରି ଯିବି?",
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "ବଜାରକୁ କେଉଁ ବାଟ?",
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Odia?",
+    "options": [
+      "ବାମକୁ ଯାଅ",
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "ରେଳ ଷ୍ଟେସନକୁ କିପରି ଯିବି?",
+      "ବଜାରକୁ କେଉଁ ବାଟ?"
+    ],
+    "answer": "ରେଳ ଷ୍ଟେସନକୁ କିପରି ଯିବି?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Odia?",
+    "options": [
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "ବଜାରକୁ କେଉଁ ବାଟ?",
+      "ବାମକୁ ଯାଅ",
+      "ଡାହାଣକୁ ଯାଅ"
+    ],
+    "answer": "ବଜାରକୁ କେଉଁ ବାଟ?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Odia?",
+    "options": [
+      "ସିଧା ଯାଅ",
+      "ବାମକୁ ଯାଅ",
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "ଡାହାଣକୁ ଯାଅ"
+    ],
+    "answer": "ଏଠାରୁ ଦୂର ଅଛି କି?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Odia?",
+    "options": [
+      "ସିଧା ଯାଅ",
+      "ଏଠାରେ ଅଟକ",
+      "ଡାହାଣକୁ ଯାଅ",
+      "ବାମକୁ ଯାଅ"
+    ],
+    "answer": "ବାମକୁ ଯାଅ"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Odia?",
+    "options": [
+      "ସିଧା ଯାଅ",
+      "ଡାହାଣକୁ ଯାଅ",
+      "କେତେ ସମୟ ଲାଗିବ?",
+      "ଏଠାରେ ଅଟକ"
+    ],
+    "answer": "ଡାହାଣକୁ ଯାଅ"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Odia?",
+    "options": [
+      "ସିଧା ଯାଅ",
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "କେତେ ସମୟ ଲାଗିବ?",
+      "ଏଠାରେ ଅଟକ"
+    ],
+    "answer": "ସିଧା ଯାଅ"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Odia?",
+    "options": [
+      "ଏଠାରେ ଅଟକ",
+      "କେତେ ସମୟ ଲାଗିବ?",
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ଏଠାରେ ଅଟକ"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Odia?",
+    "options": [
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "କେତେ ସମୟ ଲାଗିବ?",
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି?",
+      "ରେଳ ଷ୍ଟେସନକୁ କିପରି ଯିବି?"
+    ],
+    "answer": "କେତେ ସମୟ ଲାଗିବ?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Odia",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Odia?",
+    "options": [
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି?",
+      "ବଜାରକୁ କେଉଁ ବାଟ?",
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "ରେଳ ଷ୍ଟେସନକୁ କିପରି ଯିବି?"
+    ],
+    "answer": "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'go'?",
+    "options": [
+      "ପଢ଼ିଲି",
+      "ଗଲି",
+      "ଖାଇଲି",
+      "ଦେଖିଲି"
+    ],
+    "answer": "ଗଲି"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'eat'?",
+    "options": [
+      "ଖାଇଲି",
+      "ପଢ଼ିଲି",
+      "ଲେଖିଲି",
+      "ଦେଖିଲି"
+    ],
+    "answer": "ଖାଇଲି"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'see'?",
+    "options": [
+      "ଦେଖିଲି",
+      "ପଢ଼ିଲି",
+      "ଲେଖିଲି",
+      "ଆସିଲି"
+    ],
+    "answer": "ଦେଖିଲି"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'read'?",
+    "options": [
+      "ପଢ଼ିଲି",
+      "ଆସିଲି",
+      "ଦେଲି",
+      "ଲେଖିଲି"
+    ],
+    "answer": "ପଢ଼ିଲି"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'write'?",
+    "options": [
+      "ନେଲି",
+      "ଲେଖିଲି",
+      "ଦେଲି",
+      "ଆସିଲି"
+    ],
+    "answer": "ଲେଖିଲି"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'come'?",
+    "options": [
+      "ଦେଲି",
+      "ଆସିଲି",
+      "ନେଲି",
+      "ଖେଳିଲି"
+    ],
+    "answer": "ଆସିଲି"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'give'?",
+    "options": [
+      "ଶୋଇଲି",
+      "ନେଲି",
+      "ଦେଲି",
+      "ଖେଳିଲି"
+    ],
+    "answer": "ଦେଲି"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'take'?",
+    "options": [
+      "ଖେଳିଲି",
+      "ଶୋଇଲି",
+      "ଗଲି",
+      "ନେଲି"
+    ],
+    "answer": "ନେଲି"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'play'?",
+    "options": [
+      "ଖେଳିଲି",
+      "ଶୋଇଲି",
+      "ଗଲି",
+      "ଖାଇଲି"
+    ],
+    "answer": "ଖେଳିଲି"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Odia past tense of 'sleep'?",
+    "options": [
+      "ଶୋଇଲି",
+      "ଗଲି",
+      "ଖାଇଲି",
+      "ଦେଖିଲି"
+    ],
+    "answer": "ଶୋଇଲି"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'book'?",
+    "options": [
+      "ଝିଅମାନେ",
+      "ପୁଅମାନେ",
+      "ବହିଗୁଡ଼ିକ",
+      "କଲମଗୁଡ଼ିକ"
+    ],
+    "answer": "ବହିଗୁଡ଼ିକ"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'pen'?",
+    "options": [
+      "କଲମଗୁଡ଼ିକ",
+      "ଫୁଲଗୁଡ଼ିକ",
+      "ଝିଅମାନେ",
+      "ପୁଅମାନେ"
+    ],
+    "answer": "କଲମଗୁଡ଼ିକ"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'boy'?",
+    "options": [
+      "ପୁଅମାନେ",
+      "ଫୁଲଗୁଡ଼ିକ",
+      "ଝିଅମାନେ",
+      "ପତ୍ରଗୁଡ଼ିକ"
+    ],
+    "answer": "ପୁଅମାନେ"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'girl'?",
+    "options": [
+      "ପତ୍ରଗୁଡ଼ିକ",
+      "ଝିଅମାନେ",
+      "ତାରାଗୁଡ଼ିକ",
+      "ଫୁଲଗୁଡ଼ିକ"
+    ],
+    "answer": "ଝିଅମାନେ"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'flower'?",
+    "options": [
+      "ଫୁଲଗୁଡ଼ିକ",
+      "ପତ୍ରଗୁଡ଼ିକ",
+      "ତାରାଗୁଡ଼ିକ",
+      "ଗଛଗୁଡ଼ିକ"
+    ],
+    "answer": "ଫୁଲଗୁଡ଼ିକ"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'leaf'?",
+    "options": [
+      "ପତ୍ରଗୁଡ଼ିକ",
+      "ଗଛଗୁଡ଼ିକ",
+      "ତାରାଗୁଡ଼ିକ",
+      "ନଦୀଗୁଡ଼ିକ"
+    ],
+    "answer": "ପତ୍ରଗୁଡ଼ିକ"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'star'?",
+    "options": [
+      "ନଦୀଗୁଡ଼ିକ",
+      "ଗଛଗୁଡ଼ିକ",
+      "ଚେୟାରଗୁଡ଼ିକ",
+      "ତାରାଗୁଡ଼ିକ"
+    ],
+    "answer": "ତାରାଗୁଡ଼ିକ"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'tree'?",
+    "options": [
+      "ଗଛଗୁଡ଼ିକ",
+      "ଚେୟାରଗୁଡ଼ିକ",
+      "ନଦୀଗୁଡ଼ିକ",
+      "ବହିଗୁଡ଼ିକ"
+    ],
+    "answer": "ଗଛଗୁଡ଼ିକ"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'river'?",
+    "options": [
+      "ଚେୟାରଗୁଡ଼ିକ",
+      "ନଦୀଗୁଡ଼ିକ",
+      "ବହିଗୁଡ଼ିକ",
+      "କଲମଗୁଡ଼ିକ"
+    ],
+    "answer": "ନଦୀଗୁଡ଼ିକ"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Odia plural of 'chair'?",
+    "options": [
+      "ଚେୟାରଗୁଡ଼ିକ",
+      "ବହିଗୁଡ଼ିକ",
+      "କଲମଗୁଡ଼ିକ",
+      "ପୁଅମାନେ"
+    ],
+    "answer": "ଚେୟାରଗୁଡ଼ିକ"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'and'?",
+    "options": [
+      "ଏବଂ",
+      "କିନ୍ତୁ",
+      "କିମ୍ବା",
+      "କାରଣ"
+    ],
+    "answer": "ଏବଂ"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'but'?",
+    "options": [
+      "କାରଣ",
+      "କିନ୍ତୁ",
+      "କିମ୍ବା",
+      "ଯଦି"
+    ],
+    "answer": "କିନ୍ତୁ"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'or'?",
+    "options": [
+      "କିମ୍ବା",
+      "କାରଣ",
+      "ଯେତେବେଳେ",
+      "ଯଦି"
+    ],
+    "answer": "କିମ୍ବା"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'because'?",
+    "options": [
+      "କାରଣ",
+      "କେଉଁଠାରେ",
+      "ଯେତେବେଳେ",
+      "ଯଦି"
+    ],
+    "answer": "କାରଣ"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'if'?",
+    "options": [
+      "କେଉଁଠାରେ",
+      "ଯେତେବେଳେ",
+      "କିପରି",
+      "ଯଦି"
+    ],
+    "answer": "ଯଦି"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'when'?",
+    "options": [
+      "କିପରି",
+      "କାହିଁକି",
+      "ଯେତେବେଳେ",
+      "କେଉଁଠାରେ"
+    ],
+    "answer": "ଯେତେବେଳେ"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'where'?",
+    "options": [
+      "ସହିତ",
+      "କିପରି",
+      "କାହିଁକି",
+      "କେଉଁଠାରେ"
+    ],
+    "answer": "କେଉଁଠାରେ"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'how'?",
+    "options": [
+      "କିପରି",
+      "ସହିତ",
+      "ଏବଂ",
+      "କାହିଁକି"
+    ],
+    "answer": "କିପରି"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'why'?",
+    "options": [
+      "କାହିଁକି",
+      "ଏବଂ",
+      "ସହିତ",
+      "କିନ୍ତୁ"
+    ],
+    "answer": "କାହିଁକି"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Odia particle for 'with'?",
+    "options": [
+      "ସହିତ",
+      "ଏବଂ",
+      "କିନ୍ତୁ",
+      "କିମ୍ବା"
+    ],
+    "answer": "ସହିତ"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Odia?",
+    "options": [
+      "ଯାଉନାହିଁ",
+      "ଆସୁନାହିଁ",
+      "ଖାଉନାହିଁ",
+      "ପଢ଼ୁନାହିଁ"
+    ],
+    "answer": "ଯାଉନାହିଁ"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Odia?",
+    "options": [
+      "ଆସୁନାହିଁ",
+      "ଲେଖୁନାହିଁ",
+      "ପଢ଼ୁନାହିଁ",
+      "ଖାଉନାହିଁ"
+    ],
+    "answer": "ଆସୁନାହିଁ"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Odia?",
+    "options": [
+      "ଲେଖୁନାହିଁ",
+      "ଖାଉନାହିଁ",
+      "ଖେଳୁନାହିଁ",
+      "ପଢ଼ୁନାହିଁ"
+    ],
+    "answer": "ଖାଉନାହିଁ"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Odia?",
+    "options": [
+      "ଲେଖୁନାହିଁ",
+      "ପଢ଼ୁନାହିଁ",
+      "ଖେଳୁନାହିଁ",
+      "ଶୋଉନାହିଁ"
+    ],
+    "answer": "ପଢ଼ୁନାହିଁ"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Odia?",
+    "options": [
+      "ଲେଖୁନାହିଁ",
+      "ଶୋଉନାହିଁ",
+      "ଦେଖୁନାହିଁ",
+      "ଖେଳୁନାହିଁ"
+    ],
+    "answer": "ଲେଖୁନାହିଁ"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Odia?",
+    "options": [
+      "ଖେଳୁନାହିଁ",
+      "ଦେଉନାହିଁ",
+      "ଶୋଉନାହିଁ",
+      "ଦେଖୁନାହିଁ"
+    ],
+    "answer": "ଖେଳୁନାହିଁ"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Odia?",
+    "options": [
+      "ଦେଉନାହିଁ",
+      "ନେଉନାହିଁ",
+      "ଦେଖୁନାହିଁ",
+      "ଶୋଉନାହିଁ"
+    ],
+    "answer": "ଶୋଉନାହିଁ"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Odia?",
+    "options": [
+      "ଦେଖୁନାହିଁ",
+      "ଦେଉନାହିଁ",
+      "ନେଉନାହିଁ",
+      "ଯାଉନାହିଁ"
+    ],
+    "answer": "ଦେଖୁନାହିଁ"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Odia?",
+    "options": [
+      "ଦେଉନାହିଁ",
+      "ନେଉନାହିଁ",
+      "ଯାଉନାହିଁ",
+      "ଆସୁନାହିଁ"
+    ],
+    "answer": "ଦେଉନାହିଁ"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Odia",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Odia?",
+    "options": [
+      "ଆସୁନାହିଁ",
+      "ଯାଉନାହିଁ",
+      "ଖାଉନାହିଁ",
+      "ନେଉନାହିଁ"
+    ],
+    "answer": "ନେଉନାହିଁ"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'apple'",
+    "options": [
+      "କଦଳୀ",
+      "ଆପଲ",
+      "ବିଲେଇ",
+      "କୁକୁର"
+    ],
+    "answer": "ଆପଲ"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'banana'",
+    "options": [
+      "କଦଳୀ",
+      "ବିଲେଇ",
+      "କୁକୁର",
+      "କାର"
+    ],
+    "answer": "କଦଳୀ"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'cat'",
+    "options": [
+      "କାର",
+      "ବିଲେଇ",
+      "କୁକୁର",
+      "ବସ"
+    ],
+    "answer": "ବିଲେଇ"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'dog'",
+    "options": [
+      "କାର",
+      "କୁକୁର",
+      "ବସ",
+      "ଟ୍ରେନ"
+    ],
+    "answer": "କୁକୁର"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'car'",
+    "options": [
+      "ବସ",
+      "କାର",
+      "ଘର",
+      "ଟ୍ରେନ"
+    ],
+    "answer": "କାର"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'bus'",
+    "options": [
+      "ବସ",
+      "ସହର",
+      "ଘର",
+      "ଟ୍ରେନ"
+    ],
+    "answer": "ବସ"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'train'",
+    "options": [
+      "ସହର",
+      "ଗାଁ",
+      "ଘର",
+      "ଟ୍ରେନ"
+    ],
+    "answer": "ଟ୍ରେନ"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'house'",
+    "options": [
+      "ସହର",
+      "ଆପଲ",
+      "ଗାଁ",
+      "ଘର"
+    ],
+    "answer": "ଘର"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'city'",
+    "options": [
+      "କଦଳୀ",
+      "ଆପଲ",
+      "ସହର",
+      "ଗାଁ"
+    ],
+    "answer": "ସହର"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Odia word for 'village'",
+    "options": [
+      "ଆପଲ",
+      "କଦଳୀ",
+      "ବିଲେଇ",
+      "ଗାଁ"
+    ],
+    "answer": "ଗାଁ"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Good morning'",
+    "options": [
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ସୁପ୍ରଭାତ",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ଧନ୍ୟବାଦ"
+    ],
+    "answer": "ସୁପ୍ରଭାତ"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'How are you?'",
+    "options": [
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ଧନ୍ୟବାଦ",
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ"
+    ],
+    "answer": "ଆପଣ କେମିତି ଅଛନ୍ତି?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Thank you'",
+    "options": [
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ",
+      "କ୍ଷମା କରନ୍ତୁ",
+      "ଧନ୍ୟବାଦ",
+      "ବସନ୍ତୁ"
+    ],
+    "answer": "ଧନ୍ୟବାଦ"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Sorry'",
+    "options": [
+      "ବସନ୍ତୁ",
+      "ଠିଆ ହୁଅନ୍ତୁ",
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ",
+      "କ୍ଷମା କରନ୍ତୁ"
+    ],
+    "answer": "କ୍ଷମା କରନ୍ତୁ"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Please come in'",
+    "options": [
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ",
+      "ଆଗକୁ ଯାଅନ୍ତୁ",
+      "ଠିଆ ହୁଅନ୍ତୁ",
+      "ବସନ୍ତୁ"
+    ],
+    "answer": "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Sit down'",
+    "options": [
+      "ଆଗକୁ ଯାଅନ୍ତୁ",
+      "ବସନ୍ତୁ",
+      "ଠିଆ ହୁଅନ୍ତୁ",
+      "ବହୁତ ଭଲ"
+    ],
+    "answer": "ବସନ୍ତୁ"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Stand up'",
+    "options": [
+      "ଆଗକୁ ଯାଅନ୍ତୁ",
+      "ଠିଆ ହୁଅନ୍ତୁ",
+      "ଅଭିନନ୍ଦନ",
+      "ବହୁତ ଭଲ"
+    ],
+    "answer": "ଠିଆ ହୁଅନ୍ତୁ"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Go ahead'",
+    "options": [
+      "ଆଗକୁ ଯାଅନ୍ତୁ",
+      "ସୁପ୍ରଭାତ",
+      "ଅଭିନନ୍ଦନ",
+      "ବହୁତ ଭଲ"
+    ],
+    "answer": "ଆଗକୁ ଯାଅନ୍ତୁ"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Well done'",
+    "options": [
+      "ଅଭିନନ୍ଦନ",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ସୁପ୍ରଭାତ",
+      "ବହୁତ ଭଲ"
+    ],
+    "answer": "ବହୁତ ଭଲ"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Odia phrase for 'Congratulations'",
+    "options": [
+      "ଅଭିନନ୍ଦନ",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି?",
+      "ସୁପ୍ରଭାତ",
+      "ଧନ୍ୟବାଦ"
+    ],
+    "answer": "ଅଭିନନ୍ଦନ"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'I am going to school'",
+    "options": [
+      "ସେମାନେ ବହି ପଢ଼ୁଛନ୍ତି",
+      "ଆମେ କ୍ରିକେଟ ଖେଳୁଛୁ",
+      "ମୁଁ ବିଦ୍ୟାଳୟକୁ ଯାଉଛି",
+      "ସେ ଭାତ ଖାଉଛି"
+    ],
+    "answer": "ମୁଁ ବିଦ୍ୟାଳୟକୁ ଯାଉଛି"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'She is eating rice'",
+    "options": [
+      "ସେ ଚିଠି ଲେଖୁଛି",
+      "ସେମାନେ ବହି ପଢ଼ୁଛନ୍ତି",
+      "ଆମେ କ୍ରିକେଟ ଖେଳୁଛୁ",
+      "ସେ ଭାତ ଖାଉଛି"
+    ],
+    "answer": "ସେ ଭାତ ଖାଉଛି"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'We are playing cricket'",
+    "options": [
+      "ତୁମେ ମୋର ବନ୍ଧୁ",
+      "ସେମାନେ ବହି ପଢ଼ୁଛନ୍ତି",
+      "ଆମେ କ୍ରିକେଟ ଖେଳୁଛୁ",
+      "ସେ ଚିଠି ଲେଖୁଛି"
+    ],
+    "answer": "ଆମେ କ୍ରିକେଟ ଖେଳୁଛୁ"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'They are reading books'",
+    "options": [
+      "ତୁମେ ମୋର ବନ୍ଧୁ",
+      "ଏବେ ବର୍ଷା ହେଉଛି",
+      "ସେମାନେ ବହି ପଢ଼ୁଛନ୍ତି",
+      "ସେ ଚିଠି ଲେଖୁଛି"
+    ],
+    "answer": "ସେମାନେ ବହି ପଢ଼ୁଛନ୍ତି"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'He is writing a letter'",
+    "options": [
+      "ମୁଁ ଓଡ଼ିଆ ପସନ୍ଦ କରେ",
+      "ସେ ଚିଠି ଲେଖୁଛି",
+      "ଏବେ ବର୍ଷା ହେଉଛି",
+      "ତୁମେ ମୋର ବନ୍ଧୁ"
+    ],
+    "answer": "ସେ ଚିଠି ଲେଖୁଛି"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'You are my friend'",
+    "options": [
+      "ତୁମେ ମୋର ବନ୍ଧୁ",
+      "ମୁଁ ଓଡ଼ିଆ ପସନ୍ଦ କରେ",
+      "ଏବେ ବର୍ଷା ହେଉଛି",
+      "ଆମେ ଭୁବନେଶ୍ୱରରେ ରହୁଛୁ"
+    ],
+    "answer": "ତୁମେ ମୋର ବନ୍ଧୁ"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'It is raining now'",
+    "options": [
+      "ସେ ଗୀତ ଗାଉଛି",
+      "ଏବେ ବର୍ଷା ହେଉଛି",
+      "ଆମେ ଭୁବନେଶ୍ୱରରେ ରହୁଛୁ",
+      "ମୁଁ ଓଡ଼ିଆ ପସନ୍ଦ କରେ"
+    ],
+    "answer": "ଏବେ ବର୍ଷା ହେଉଛି"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'I like Odia'",
+    "options": [
+      "ସେ ଗୀତ ଗାଉଛି",
+      "ମୁଁ ଓଡ଼ିଆ ପସନ୍ଦ କରେ",
+      "ଆମେ ଭୁବନେଶ୍ୱରରେ ରହୁଛୁ",
+      "ମୁଁ ବିଦ୍ୟାଳୟକୁ ଯାଉଛି"
+    ],
+    "answer": "ମୁଁ ଓଡ଼ିଆ ପସନ୍ଦ କରେ"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'We live in Bhubaneswar'",
+    "options": [
+      "ସେ ଭାତ ଖାଉଛି",
+      "ମୁଁ ବିଦ୍ୟାଳୟକୁ ଯାଉଛି",
+      "ଆମେ ଭୁବନେଶ୍ୱରରେ ରହୁଛୁ",
+      "ସେ ଗୀତ ଗାଉଛି"
+    ],
+    "answer": "ଆମେ ଭୁବନେଶ୍ୱରରେ ରହୁଛୁ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Odia sentence for 'She is singing a song'",
+    "options": [
+      "ସେ ଗୀତ ଗାଉଛି",
+      "ସେ ଭାତ ଖାଉଛି",
+      "ମୁଁ ବିଦ୍ୟାଳୟକୁ ଯାଉଛି",
+      "ଆମେ କ୍ରିକେଟ ଖେଳୁଛୁ"
+    ],
+    "answer": "ସେ ଗୀତ ଗାଉଛି"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "ଆପଣ କେମିତି ଅଛନ୍ତି? - ମୁଁ ଭଲ ଅଛି",
+      "ଆପଣ ଇଂରାଜୀ କୁହନ୍ତି କି? - ହଁ, ଟିକିଏ",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ? - ମୋର ନାମ ରବି",
+      "ଆପଣ କେଉଁଠାକୁ ଯାଉଛନ୍ତି? - ବଜାରକୁ"
+    ],
+    "answer": "ଆପଣ କେମିତି ଅଛନ୍ତି? - ମୁଁ ଭଲ ଅଛି"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "ଆପଣ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବେ କି? - ନିଶ୍ଚିତ",
+      "ଆପଣ ଇଂରାଜୀ କୁହନ୍ତି କି? - ହଁ, ଟିକିଏ",
+      "ଆପଣ କେଉଁଠାକୁ ଯାଉଛନ୍ତି? - ବଜାରକୁ",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ? - ମୋର ନାମ ରବି"
+    ],
+    "answer": "ଆପଣଙ୍କ ନାମ କ'ଣ? - ମୋର ନାମ ରବି"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "ଆପଣ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବେ କି? - ନିଶ୍ଚିତ",
+      "ଆପଣ ଇଂରାଜୀ କୁହନ୍ତି କି? - ହଁ, ଟିକିଏ",
+      "ଆପଣ କେଉଁଠାକୁ ଯାଉଛନ୍ତି? - ବଜାରକୁ",
+      "ସମୟ କେତେ ହୋଇଛି? - ପାଞ୍ଚଟା ବାଜିଛି"
+    ],
+    "answer": "ଆପଣ କେଉଁଠାକୁ ଯାଉଛନ୍ତି? - ବଜାରକୁ"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "ସମୟ କେତେ ହୋଇଛି? - ପାଞ୍ଚଟା ବାଜିଛି",
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି? - ସେଠାରେ",
+      "ଆପଣ ଇଂରାଜୀ କୁହନ୍ତି କି? - ହଁ, ଟିକିଏ",
+      "ଆପଣ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବେ କି? - ନିଶ୍ଚିତ"
+    ],
+    "answer": "ଆପଣ ଇଂରାଜୀ କୁହନ୍ତି କି? - ହଁ, ଟିକିଏ"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "ଏହା କେତେ? - ପଚାଶ ଟଙ୍କା",
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି? - ସେଠାରେ",
+      "ସମୟ କେତେ ହୋଇଛି? - ପାଞ୍ଚଟା ବାଜିଛି",
+      "ଆପଣ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବେ କି? - ନିଶ୍ଚିତ"
+    ],
+    "answer": "ଆପଣ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବେ କି? - ନିଶ୍ଚିତ"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "ସମୟ କେତେ ହୋଇଛି? - ପାଞ୍ଚଟା ବାଜିଛି",
+      "ଏହା କେତେ? - ପଚାଶ ଟଙ୍କା",
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି? - ସେଠାରେ",
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ। - ଧନ୍ୟବାଦ"
+    ],
+    "answer": "ସମୟ କେତେ ହୋଇଛି? - ପାଞ୍ଚଟା ବାଜିଛି"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "ଏହା କେତେ? - ପଚାଶ ଟଙ୍କା",
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ। - ଧନ୍ୟବାଦ",
+      "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି? - ସେଠାରେ",
+      "ବିଦାୟ। - ପୁଣି ଦେଖା ହେବ"
+    ],
+    "answer": "ବସ ଷ୍ଟପ କେଉଁଠାରେ ଅଛି? - ସେଠାରେ"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "ଏହା କେତେ? - ପଚାଶ ଟଙ୍କା",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି? - ମୁଁ ଭଲ ଅଛି",
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ। - ଧନ୍ୟବାଦ",
+      "ବିଦାୟ। - ପୁଣି ଦେଖା ହେବ"
+    ],
+    "answer": "ଏହା କେତେ? - ପଚାଶ ଟଙ୍କା"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "ବିଦାୟ। - ପୁଣି ଦେଖା ହେବ",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ? - ମୋର ନାମ ରବି",
+      "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ। - ଧନ୍ୟବାଦ",
+      "ଆପଣ କେମିତି ଅଛନ୍ତି? - ମୁଁ ଭଲ ଅଛି"
+    ],
+    "answer": "ଦୟାକରି ଭିତରକୁ ଆସନ୍ତୁ। - ଧନ୍ୟବାଦ"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Odia",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Odia dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "ଆପଣ କେମିତି ଅଛନ୍ତି? - ମୁଁ ଭଲ ଅଛି",
+      "ବିଦାୟ। - ପୁଣି ଦେଖା ହେବ",
+      "ଆପଣ କେଉଁଠାକୁ ଯାଉଛନ୍ତି? - ବଜାରକୁ",
+      "ଆପଣଙ୍କ ନାମ କ'ଣ? - ମୋର ନାମ ରବି"
+    ],
+    "answer": "ବିଦାୟ। - ପୁଣି ଦେଖା ହେବ"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Odia?",
+    "options": [
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "ଏହା କେତେ?",
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ",
+      "କିଛି ରିହାତି ଅଛି କି?"
+    ],
+    "answer": "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Odia?",
+    "options": [
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "କିଛି ରିହାତି ଅଛି କି?",
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?",
+      "ଏହା କେତେ?"
+    ],
+    "answer": "ଏହା କେତେ?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Odia?",
+    "options": [
+      "କିଛି ରିହାତି ଅଛି କି?",
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ",
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?"
+    ],
+    "answer": "କିଛି ରିହାତି ଅଛି କି?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Odia?",
+    "options": [
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?",
+      "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?",
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର",
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ"
+    ],
+    "answer": "କାଉଣ୍ଟର କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Odia?",
+    "options": [
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର",
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?",
+      "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?",
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ"
+    ],
+    "answer": "ଆପଣ କାର୍ଡ ନିଅନ୍ତି କି?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Odia?",
+    "options": [
+      "ସମୟ କ'ଣ?",
+      "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ",
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର",
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?"
+    ],
+    "answer": "ଦୟାକରି ଏହାକୁ ପ୍ୟାକ କରନ୍ତୁ"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Odia?",
+    "options": [
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?",
+      "ସମୟ କ'ଣ?",
+      "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର"
+    ],
+    "answer": "ମୋତେ ଏକ ବ୍ୟାଗ ଦରକାର"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Odia?",
+    "options": [
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "ଏହା ଉପଲବ୍ଧ ଅଛି କି?",
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ",
+      "ସମୟ କ'ଣ?"
+    ],
+    "answer": "ଏହା ଉପଲବ୍ଧ ଅଛି କି?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Odia?",
+    "options": [
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ",
+      "ସମୟ କ'ଣ?",
+      "ଏହା କେତେ?"
+    ],
+    "answer": "ସମୟ କ'ଣ?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Odia?",
+    "options": [
+      "ମୁଁ ଏହା ପରଖି ପାରିବି କି?",
+      "କିଛି ରିହାତି ଅଛି କି?",
+      "ମୁଁ ଏହା କିଣିବାକୁ ଚାହେଁ",
+      "ଏହା କେତେ?"
+    ],
+    "answer": "ମୁଁ ଏହା ପରଖି ପାରିବି କି?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Odia?",
+    "options": [
+      "ରେଳ ଷ୍ଟେସନ କେଉଁଠାରେ ଅଛି?",
+      "ସହରକୁ କେଉଁ ବସ ଯାଏ?",
+      "ବିମାନ ବନ୍ଦରକୁ କିପରି ଯିବି?",
+      "କେତେ ସମୟ ଲାଗିବ?"
+    ],
+    "answer": "ରେଳ ଷ୍ଟେସନ କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Odia?",
+    "options": [
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "ବିମାନ ବନ୍ଦରକୁ କିପରି ଯିବି?",
+      "କେତେ ସମୟ ଲାଗିବ?",
+      "ସହରକୁ କେଉଁ ବସ ଯାଏ?"
+    ],
+    "answer": "ବିମାନ ବନ୍ଦରକୁ କିପରି ଯିବି?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Odia?",
+    "options": [
+      "ଟ୍ୟାକ୍ସି କେଉଁଠାରେ ମିଳିବ?",
+      "ସହରକୁ କେଉଁ ବସ ଯାଏ?",
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "କେତେ ସମୟ ଲାଗିବ?"
+    ],
+    "answer": "ସହରକୁ କେଉଁ ବସ ଯାଏ?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Odia?",
+    "options": [
+      "ଟ୍ୟାକ୍ସି କେଉଁଠାରେ ମିଳିବ?",
+      "ହୋଟେଲ କେଉଁଠାରେ ଅଛି?",
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "କେତେ ସମୟ ଲାଗିବ?"
+    ],
+    "answer": "କେତେ ସମୟ ଲାଗିବ?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Odia?",
+    "options": [
+      "ଟ୍ୟାକ୍ସି କେଉଁଠାରେ ମିଳିବ?",
+      "ଏଠାରୁ ଦୂର ଅଛି କି?",
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "ହୋଟେଲ କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ଏଠାରୁ ଦୂର ଅଛି କି?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Odia?",
+    "options": [
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?",
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "ଟ୍ୟାକ୍ସି କେଉଁଠାରେ ମିଳିବ?",
+      "ହୋଟେଲ କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ଟ୍ୟାକ୍ସି କେଉଁଠାରେ ମିଳିବ?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Odia?",
+    "options": [
+      "ହୋଟେଲ କେଉଁଠାରେ ଅଛି?",
+      "ମୁଁ ରାସ୍ତା ହରାଇଛି",
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ହୋଟେଲ କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Odia?",
+    "options": [
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?",
+      "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?",
+      "ରେଳ ଷ୍ଟେସନ କେଉଁଠାରେ ଅଛି?",
+      "ମୁଁ ରାସ୍ତା ହରାଇଛି"
+    ],
+    "answer": "ମାନଚିତ୍ରରେ ଦେଖାଇ ପାରିବେ କି?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Odia?",
+    "options": [
+      "ବିମାନ ବନ୍ଦରକୁ କିପରି ଯିବି?",
+      "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?",
+      "ରେଳ ଷ୍ଟେସନ କେଉଁଠାରେ ଅଛି?",
+      "ମୁଁ ରାସ୍ତା ହରାଇଛି"
+    ],
+    "answer": "ବାଥରୁମ କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Odia?",
+    "options": [
+      "ମୁଁ ରାସ୍ତା ହରାଇଛି",
+      "ରେଳ ଷ୍ଟେସନ କେଉଁଠାରେ ଅଛି?",
+      "ବିମାନ ବନ୍ଦରକୁ କିପରି ଯିବି?",
+      "ସହରକୁ କେଉଁ ବସ ଯାଏ?"
+    ],
+    "answer": "ମୁଁ ରାସ୍ତା ହରାଇଛି"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Odia?",
+    "options": [
+      "ପୋଲିସକୁ ଡାକ",
+      "ମୁଁ ଅସୁସ୍ଥ",
+      "ମୋତେ ଡାକ୍ତର ଦରକାର",
+      "ଡାକ୍ତରଖାନା କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ପୋଲିସକୁ ଡାକ"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Odia?",
+    "options": [
+      "ସାହାଯ୍ୟ!",
+      "ମୋତେ ଡାକ୍ତର ଦରକାର",
+      "ଡାକ୍ତରଖାନା କେଉଁଠାରେ ଅଛି?",
+      "ମୁଁ ଅସୁସ୍ଥ"
+    ],
+    "answer": "ମୋତେ ଡାକ୍ତର ଦରକାର"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Odia?",
+    "options": [
+      "ମୋର ପର୍ସ ହଜିଯାଇଛି",
+      "ମୁଁ ଅସୁସ୍ଥ",
+      "ସାହାଯ୍ୟ!",
+      "ଡାକ୍ତରଖାନା କେଉଁଠାରେ ଅଛି?"
+    ],
+    "answer": "ଡାକ୍ତରଖାନା କେଉଁଠାରେ ଅଛି?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Odia?",
+    "options": [
+      "ମୋର ପର୍ସ ହଜିଯାଇଛି",
+      "ମୁଁ ଅସୁସ୍ଥ",
+      "ସାହାଯ୍ୟ!",
+      "ଅଗ୍ନିକାଣ୍ଡ ହୋଇଛି"
+    ],
+    "answer": "ମୁଁ ଅସୁସ୍ଥ"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Odia?",
+    "options": [
+      "ଅଗ୍ନିକାଣ୍ଡ ହୋଇଛି",
+      "ସାହାଯ୍ୟ!",
+      "ମୋର ପର୍ସ ହଜିଯାଇଛି",
+      "ମୋର ଦୁର୍ଘଟଣା ହୋଇଛି"
+    ],
+    "answer": "ସାହାଯ୍ୟ!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Odia?",
+    "options": [
+      "ଅଗ୍ନିକାଣ୍ଡ ହୋଇଛି",
+      "ମୋର ପର୍ସ ହଜିଯାଇଛି",
+      "ମୁଁ ଆଘାତ ପାଇଛି",
+      "ମୋର ଦୁର୍ଘଟଣା ହୋଇଛି"
+    ],
+    "answer": "ମୋର ପର୍ସ ହଜିଯାଇଛି"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Odia?",
+    "options": [
+      "ମୁଁ ଆଘାତ ପାଇଛି",
+      "ଅଗ୍ନିକାଣ୍ଡ ହୋଇଛି",
+      "ମୋର ଦୁର୍ଘଟଣା ହୋଇଛି",
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ"
+    ],
+    "answer": "ଅଗ୍ନିକାଣ୍ଡ ହୋଇଛି"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Odia?",
+    "options": [
+      "ପୋଲିସକୁ ଡାକ",
+      "ମୁଁ ଆଘାତ ପାଇଛି",
+      "ମୋର ଦୁର୍ଘଟଣା ହୋଇଛି",
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ"
+    ],
+    "answer": "ମୋର ଦୁର୍ଘଟଣା ହୋଇଛି"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Odia?",
+    "options": [
+      "ପୋଲିସକୁ ଡାକ",
+      "ମୋତେ ଡାକ୍ତର ଦରକାର",
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ",
+      "ମୁଁ ଆଘାତ ପାଇଛି"
+    ],
+    "answer": "ମୁଁ ଆଘାତ ପାଇଛି"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Odia?",
+    "options": [
+      "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ",
+      "ଡାକ୍ତରଖାନା କେଉଁଠାରେ ଅଛି?",
+      "ମୋତେ ଡାକ୍ତର ଦରକାର",
+      "ପୋଲିସକୁ ଡାକ"
+    ],
+    "answer": "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରନ୍ତୁ"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Odia?",
+    "options": [
+      "କାଲି ଭେଟିବା",
+      "ଆପଣଙ୍କର ଯୋଜନା କ'ଣ?",
+      "ଆଜି ସନ୍ଧ୍ୟାରେ ଆପଣ ଖାଲି ଅଛନ୍ତି କି?",
+      "ସିନେମା ଦେଖିବାକୁ ଯିବା"
+    ],
+    "answer": "ଆପଣଙ୍କର ଯୋଜନା କ'ଣ?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Odia?",
+    "options": [
+      "ଆଜି ସନ୍ଧ୍ୟାରେ ଆପଣ ଖାଲି ଅଛନ୍ତି କି?",
+      "ସିନେମା ଦେଖିବାକୁ ଯିବା",
+      "କାଲି ଭେଟିବା",
+      "ଆମେ ଏକାଠି ମଧ୍ୟାହ୍ନ ଭୋଜନ କରିବା କି?"
+    ],
+    "answer": "କାଲି ଭେଟିବା"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Odia?",
+    "options": [
+      "ଆମେ ଏକାଠି ମଧ୍ୟାହ୍ନ ଭୋଜନ କରିବା କି?",
+      "ଆପଣ ଆମ ସହିତ ଯୋଗ ଦେଇପାରିବେ କି?",
+      "ସିନେମା ଦେଖିବାକୁ ଯିବା",
+      "ଆଜି ସନ୍ଧ୍ୟାରେ ଆପଣ ଖାଲି ଅଛନ୍ତି କି?"
+    ],
+    "answer": "ଆଜି ସନ୍ଧ୍ୟାରେ ଆପଣ ଖାଲି ଅଛନ୍ତି କି?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Odia?",
+    "options": [
+      "ସିନେମା ଦେଖିବାକୁ ଯିବା",
+      "ମୁଁ ଆଜି ବ୍ୟସ୍ତ",
+      "ଆମେ ଏକାଠି ମଧ୍ୟାହ୍ନ ଭୋଜନ କରିବା କି?",
+      "ଆପଣ ଆମ ସହିତ ଯୋଗ ଦେଇପାରିବେ କି?"
+    ],
+    "answer": "ସିନେମା ଦେଖିବାକୁ ଯିବା"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Odia?",
+    "options": [
+      "ଆପଣ ଆମ ସହିତ ଯୋଗ ଦେଇପାରିବେ କି?",
+      "ମୁଁ ଆଜି ବ୍ୟସ୍ତ",
+      "ଆମେ ଏକାଠି ମଧ୍ୟାହ୍ନ ଭୋଜନ କରିବା କି?",
+      "ପରେ ଦେଖା ହେବ"
+    ],
+    "answer": "ଆମେ ଏକାଠି ମଧ୍ୟାହ୍ନ ଭୋଜନ କରିବା କି?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Odia?",
+    "options": [
+      "ମୁଁ ଆଜି ବ୍ୟସ୍ତ",
+      "ପରେ ଦେଖା ହେବ",
+      "ଆପଣ ଆମ ସହିତ ଯୋଗ ଦେଇପାରିବେ କି?",
+      "ମୁଁ ଆପଣଙ୍କୁ ଫୋନ କରିବି"
+    ],
+    "answer": "ଆପଣ ଆମ ସହିତ ଯୋଗ ଦେଇପାରିବେ କି?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Odia?",
+    "options": [
+      "ଉତ୍ସବ କରିବା",
+      "ମୁଁ ଆପଣଙ୍କୁ ଫୋନ କରିବି",
+      "ମୁଁ ଆଜି ବ୍ୟସ୍ତ",
+      "ପରେ ଦେଖା ହେବ"
+    ],
+    "answer": "ମୁଁ ଆଜି ବ୍ୟସ୍ତ"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କର ଯୋଜନା କ'ଣ?",
+      "ଉତ୍ସବ କରିବା",
+      "ମୁଁ ଆପଣଙ୍କୁ ଫୋନ କରିବି",
+      "ପରେ ଦେଖା ହେବ"
+    ],
+    "answer": "ପରେ ଦେଖା ହେବ"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Odia?",
+    "options": [
+      "କାଲି ଭେଟିବା",
+      "ଆପଣଙ୍କର ଯୋଜନା କ'ଣ?",
+      "ମୁଁ ଆପଣଙ୍କୁ ଫୋନ କରିବି",
+      "ଉତ୍ସବ କରିବା"
+    ],
+    "answer": "ମୁଁ ଆପଣଙ୍କୁ ଫୋନ କରିବି"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Odia",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Odia?",
+    "options": [
+      "ଆପଣଙ୍କର ଯୋଜନା କ'ଣ?",
+      "ଆଜି ସନ୍ଧ୍ୟାରେ ଆପଣ ଖାଲି ଅଛନ୍ତି କି?",
+      "କାଲି ଭେଟିବା",
+      "ଉତ୍ସବ କରିବା"
+    ],
+    "answer": "ଉତ୍ସବ କରିବା"
+  }
+]

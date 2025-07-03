@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'a'?",
+    "options": [
+      "आ",
+      "इ",
+      "ई",
+      "अ"
+    ],
+    "answer": "अ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'aa'?",
+    "options": [
+      "इ",
+      "उ",
+      "आ",
+      "ई"
+    ],
+    "answer": "आ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'i'?",
+    "options": [
+      "ई",
+      "ऊ",
+      "उ",
+      "इ"
+    ],
+    "answer": "इ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'ee'?",
+    "options": [
+      "उ",
+      "ई",
+      "ए",
+      "ऊ"
+    ],
+    "answer": "ई"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'u'?",
+    "options": [
+      "ऐ",
+      "उ",
+      "ऊ",
+      "ए"
+    ],
+    "answer": "उ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'oo'?",
+    "options": [
+      "ऐ",
+      "ओ",
+      "ऊ",
+      "ए"
+    ],
+    "answer": "ऊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'e'?",
+    "options": [
+      "औ",
+      "ए",
+      "ओ",
+      "ऐ"
+    ],
+    "answer": "ए"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'ai'?",
+    "options": [
+      "अ",
+      "औ",
+      "ओ",
+      "ऐ"
+    ],
+    "answer": "ऐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'o'?",
+    "options": [
+      "औ",
+      "ओ",
+      "अ",
+      "आ"
+    ],
+    "answer": "ओ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Bodo vowel for 'au'?",
+    "options": [
+      "इ",
+      "औ",
+      "आ",
+      "अ"
+    ],
+    "answer": "औ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'ka'?",
+    "options": [
+      "ग",
+      "ख",
+      "घ",
+      "क"
+    ],
+    "answer": "क"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'kha'?",
+    "options": [
+      "ख",
+      "च",
+      "ग",
+      "घ"
+    ],
+    "answer": "ख"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'ga'?",
+    "options": [
+      "च",
+      "ग",
+      "छ",
+      "घ"
+    ],
+    "answer": "ग"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'gha'?",
+    "options": [
+      "छ",
+      "ज",
+      "घ",
+      "च"
+    ],
+    "answer": "घ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'cha'?",
+    "options": [
+      "छ",
+      "ज",
+      "च",
+      "झ"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'chha'?",
+    "options": [
+      "झ",
+      "ट",
+      "छ",
+      "ज"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'ja'?",
+    "options": [
+      "ज",
+      "ठ",
+      "झ",
+      "ट"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'jha'?",
+    "options": [
+      "झ",
+      "ट",
+      "ठ",
+      "क"
+    ],
+    "answer": "झ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'ta'?",
+    "options": [
+      "ठ",
+      "ट",
+      "ख",
+      "क"
+    ],
+    "answer": "ट"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Bodo consonant for 'tha'?",
+    "options": [
+      "क",
+      "ख",
+      "ठ",
+      "ग"
+    ],
+    "answer": "ठ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'क' + 'ा'?",
+    "options": [
+      "पु",
+      "ते",
+      "मि",
+      "का"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'प' + 'ु'?",
+    "options": [
+      "ते",
+      "मि",
+      "पु",
+      "सू"
+    ],
+    "answer": "पु"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'म' + 'ि'?",
+    "options": [
+      "ते",
+      "सू",
+      "नो",
+      "मि"
+    ],
+    "answer": "मि"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'त' + 'े'?",
+    "options": [
+      "ते",
+      "सू",
+      "नो",
+      "रा"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'स' + 'ू'?",
+    "options": [
+      "नो",
+      "ले",
+      "रा",
+      "सू"
+    ],
+    "answer": "सू"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'न' + 'ो'?",
+    "options": [
+      "नो",
+      "दि",
+      "रा",
+      "ले"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'र' + 'ा'?",
+    "options": [
+      "दि",
+      "रा",
+      "बु",
+      "ले"
+    ],
+    "answer": "रा"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ल' + 'े'?",
+    "options": [
+      "दि",
+      "ले",
+      "बु",
+      "का"
+    ],
+    "answer": "ले"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'द' + 'ि'?",
+    "options": [
+      "पु",
+      "का",
+      "दि",
+      "बु"
+    ],
+    "answer": "दि"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ब' + 'ु'?",
+    "options": [
+      "का",
+      "पु",
+      "बु",
+      "मि"
+    ],
+    "answer": "बु"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'किताब'? (in Bodo)",
+    "options": [
+      "School",
+      "Pen",
+      "Book",
+      "Hand"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'कलम'? (in Bodo)",
+    "options": [
+      "Pen",
+      "Fruit",
+      "School",
+      "Hand"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'स्कूल'? (in Bodo)",
+    "options": [
+      "School",
+      "Hand",
+      "Fruit",
+      "Flowers"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'हात'? (in Bodo)",
+    "options": [
+      "Fruit",
+      "Tree",
+      "Flowers",
+      "Hand"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फल'? (in Bodo)",
+    "options": [
+      "Tree",
+      "Fruit",
+      "Slate",
+      "Flowers"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फूल'? (in Bodo)",
+    "options": [
+      "Flowers",
+      "Speak",
+      "Tree",
+      "Slate"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'गाछ'? (in Bodo)",
+    "options": [
+      "Tree",
+      "Slate",
+      "Speak",
+      "Speech"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पाटी'? (in Bodo)",
+    "options": [
+      "Book",
+      "Speak",
+      "Speech",
+      "Slate"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'गोनाङ'? (in Bodo)",
+    "options": [
+      "Pen",
+      "Speak",
+      "Book",
+      "Speech"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'राव'? (in Bodo)",
+    "options": [
+      "Speech",
+      "Pen",
+      "Book",
+      "School"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'book'?",
+    "options": [
+      "स्कूल",
+      "कलम",
+      "बैग",
+      "किताब"
+    ],
+    "answer": "किताब"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'pen'?",
+    "options": [
+      "बैग",
+      "कुर्सी",
+      "स्कूल",
+      "कलम"
+    ],
+    "answer": "कलम"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'school'?",
+    "options": [
+      "बैग",
+      "कुर्सी",
+      "स्कूल",
+      "टेबुल"
+    ],
+    "answer": "स्कूल"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'bag'?",
+    "options": [
+      "कुर्सी",
+      "पाटी",
+      "टेबुल",
+      "बैग"
+    ],
+    "answer": "बैग"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'chair'?",
+    "options": [
+      "टेबुल",
+      "पाटी",
+      "झिरिका",
+      "कुर्सी"
+    ],
+    "answer": "कुर्सी"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'table'?",
+    "options": [
+      "टेबुल",
+      "झिरिका",
+      "दुवार",
+      "पाटी"
+    ],
+    "answer": "टेबुल"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'slate'?",
+    "options": [
+      "पंखा",
+      "झिरिका",
+      "पाटी",
+      "दुवार"
+    ],
+    "answer": "पाटी"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'window'?",
+    "options": [
+      "पंखा",
+      "दुवार",
+      "किताब",
+      "झिरिका"
+    ],
+    "answer": "झिरिका"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'door'?",
+    "options": [
+      "दुवार",
+      "पंखा",
+      "किताब",
+      "कलम"
+    ],
+    "answer": "दुवार"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Bodo word for 'fan'?",
+    "options": [
+      "स्कूल",
+      "किताब",
+      "कलम",
+      "पंखा"
+    ],
+    "answer": "पंखा"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'rice'?",
+    "options": [
+      "दुद",
+      "माय",
+      "फल",
+      "सब्जी"
+    ],
+    "answer": "माय"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'milk'?",
+    "options": [
+      "दै",
+      "सब्जी",
+      "फल",
+      "दुद"
+    ],
+    "answer": "दुद"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'fruit'?",
+    "options": [
+      "सब्जी",
+      "दही",
+      "दै",
+      "फल"
+    ],
+    "answer": "फल"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'vegetable'?",
+    "options": [
+      "दै",
+      "रोटी",
+      "दही",
+      "सब्जी"
+    ],
+    "answer": "सब्जी"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'water'?",
+    "options": [
+      "दै",
+      "दही",
+      "रोटी",
+      "अण्डा"
+    ],
+    "answer": "दै"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'curd'?",
+    "options": [
+      "अण्डा",
+      "दही",
+      "रोटी",
+      "ना"
+    ],
+    "answer": "दही"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'bread'?",
+    "options": [
+      "गुदुम",
+      "ना",
+      "रोटी",
+      "अण्डा"
+    ],
+    "answer": "रोटी"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'egg'?",
+    "options": [
+      "गुदुम",
+      "अण्डा",
+      "ना",
+      "माय"
+    ],
+    "answer": "अण्डा"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'fish'?",
+    "options": [
+      "दुद",
+      "माय",
+      "ना",
+      "गुदुम"
+    ],
+    "answer": "ना"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'sweet'?",
+    "options": [
+      "माय",
+      "फल",
+      "दुद",
+      "गुदुम"
+    ],
+    "answer": "गुदुम"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'mother'?",
+    "options": [
+      "फा",
+      "दाव",
+      "माव",
+      "नोनी"
+    ],
+    "answer": "माव"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'father'?",
+    "options": [
+      "दाव",
+      "आजी",
+      "फा",
+      "नोनी"
+    ],
+    "answer": "फा"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'sister'?",
+    "options": [
+      "आजी",
+      "नोनी",
+      "दाव",
+      "आजा"
+    ],
+    "answer": "नोनी"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'brother'?",
+    "options": [
+      "काका",
+      "दाव",
+      "आजी",
+      "आजा"
+    ],
+    "answer": "दाव"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'grandmother'?",
+    "options": [
+      "आजी",
+      "आजा",
+      "काका",
+      "काकी"
+    ],
+    "answer": "आजी"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'grandfather'?",
+    "options": [
+      "जाव",
+      "काका",
+      "काकी",
+      "आजा"
+    ],
+    "answer": "आजा"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'uncle'?",
+    "options": [
+      "काका",
+      "काकी",
+      "जामाइ",
+      "जाव"
+    ],
+    "answer": "काका"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'aunt'?",
+    "options": [
+      "काकी",
+      "माव",
+      "जाव",
+      "जामाइ"
+    ],
+    "answer": "काकी"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'son'?",
+    "options": [
+      "फा",
+      "माव",
+      "जाव",
+      "जामाइ"
+    ],
+    "answer": "जाव"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Bodo word for 'daughter'?",
+    "options": [
+      "नोनी",
+      "फा",
+      "जामाइ",
+      "माव"
+    ],
+    "answer": "जामाइ"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'tree'?",
+    "options": [
+      "गाछ",
+      "मुन्दाङ",
+      "नदी",
+      "फूल"
+    ],
+    "answer": "गाछ"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'flower'?",
+    "options": [
+      "पात",
+      "मुन्दाङ",
+      "नदी",
+      "फूल"
+    ],
+    "answer": "फूल"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'river'?",
+    "options": [
+      "नदी",
+      "पात",
+      "आकास",
+      "मुन्दाङ"
+    ],
+    "answer": "नदी"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'mountain'?",
+    "options": [
+      "मुन्दाङ",
+      "दाब",
+      "पात",
+      "आकास"
+    ],
+    "answer": "मुन्दाङ"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'leaf'?",
+    "options": [
+      "दाब",
+      "सान",
+      "आकास",
+      "पात"
+    ],
+    "answer": "पात"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'sky'?",
+    "options": [
+      "दाब",
+      "सान",
+      "चान्द",
+      "आकास"
+    ],
+    "answer": "आकास"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'rain'?",
+    "options": [
+      "दाब",
+      "सान",
+      "तारा",
+      "चान्द"
+    ],
+    "answer": "दाब"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'sun'?",
+    "options": [
+      "चान्द",
+      "गाछ",
+      "सान",
+      "तारा"
+    ],
+    "answer": "सान"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'moon'?",
+    "options": [
+      "गाछ",
+      "तारा",
+      "फूल",
+      "चान्द"
+    ],
+    "answer": "चान्द"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Bodo word for 'star'?",
+    "options": [
+      "तारा",
+      "गाछ",
+      "फूल",
+      "नदी"
+    ],
+    "answer": "तारा"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Bodo?",
+    "options": [
+      "गाबुर सुबुङ",
+      "आदाब",
+      "गाबुर राती",
+      "आगमन"
+    ],
+    "answer": "आदाब"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Bodo?",
+    "options": [
+      "गाबुर सुबुङ",
+      "नों कैदै नङा?",
+      "गाबुर राती",
+      "आगमन"
+    ],
+    "answer": "गाबुर सुबुङ"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Bodo?",
+    "options": [
+      "गोजौ",
+      "गाबुर राती",
+      "नों कैदै नङा?",
+      "आगमन"
+    ],
+    "answer": "गाबुर राती"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Bodo?",
+    "options": [
+      "मुइङ्गौ जानाय",
+      "नों कैदै नङा?",
+      "आगमन",
+      "गोजौ"
+    ],
+    "answer": "आगमन"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Bodo?",
+    "options": [
+      "बिदाय",
+      "गोजौ",
+      "नों कैदै नङा?",
+      "मुइङ्गौ जानाय"
+    ],
+    "answer": "नों कैदै नङा?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Bodo?",
+    "options": [
+      "गोजौ",
+      "बिदाय",
+      "सावधान",
+      "मुइङ्गौ जानाय"
+    ],
+    "answer": "गोजौ"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Bodo?",
+    "options": [
+      "धन्यबाद",
+      "मुइङ्गौ जानाय",
+      "बिदाय",
+      "सावधान"
+    ],
+    "answer": "मुइङ्गौ जानाय"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Bodo?",
+    "options": [
+      "सावधान",
+      "बिदाय",
+      "आदाब",
+      "धन्यबाद"
+    ],
+    "answer": "बिदाय"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Bodo?",
+    "options": [
+      "सावधान",
+      "धन्यबाद",
+      "गाबुर सुबुङ",
+      "आदाब"
+    ],
+    "answer": "सावधान"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Bodo?",
+    "options": [
+      "गाबुर राती",
+      "आदाब",
+      "गाबुर सुबुङ",
+      "धन्यबाद"
+    ],
+    "answer": "धन्यबाद"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Bodo?",
+    "options": [
+      "आङा मिङ ...",
+      "आङ गुरु",
+      "आङ ... निफ्राय",
+      "आङ छात्र"
+    ],
+    "answer": "आङा मिङ ..."
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Bodo?",
+    "options": [
+      "आङ गुरु",
+      "आङ ... निफ्राय",
+      "नोंखौ जानाय गोजौ लागै",
+      "आङ छात्र"
+    ],
+    "answer": "आङ ... निफ्राय"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Bodo?",
+    "options": [
+      "नोंखौ जानाय गोजौ लागै",
+      "आङ छात्र",
+      "आङ गुरु",
+      "आङ ... आ दङ"
+    ],
+    "answer": "आङ छात्र"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Bodo?",
+    "options": [
+      "आङ बड़ो सिखै",
+      "आङ ... आ दङ",
+      "नोंखौ जानाय गोजौ लागै",
+      "आङ गुरु"
+    ],
+    "answer": "आङ गुरु"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Bodo?",
+    "options": [
+      "आङ ... आ दङ",
+      "नोंखौ जानाय गोजौ लागै",
+      "आङ बड़ो सिखै",
+      "नोनि मिङ माव?"
+    ],
+    "answer": "नोंखौ जानाय गोजौ लागै"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Bodo?",
+    "options": [
+      "आङ ... आ दङ",
+      "आङ बड़ो सिखै",
+      "नोनि मिङ माव?",
+      "नों गाबै निफ्राय?"
+    ],
+    "answer": "आङ ... आ दङ"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Bodo' in Bodo?",
+    "options": [
+      "नोनि मिङ माव?",
+      "नों गाबै निफ्राय?",
+      "नोनि बयस कैदै?",
+      "आङ बड़ो सिखै"
+    ],
+    "answer": "आङ बड़ो सिखै"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Bodo?",
+    "options": [
+      "नों गाबै निफ्राय?",
+      "आङा मिङ ...",
+      "नोनि मिङ माव?",
+      "नोनि बयस कैदै?"
+    ],
+    "answer": "नोनि मिङ माव?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Bodo?",
+    "options": [
+      "आङ ... निफ्राय",
+      "नों गाबै निफ्राय?",
+      "आङा मिङ ...",
+      "नोनि बयस कैदै?"
+    ],
+    "answer": "नों गाबै निफ्राय?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Bodo?",
+    "options": [
+      "आङ छात्र",
+      "नोनि बयस कैदै?",
+      "आङ ... निफ्राय",
+      "आङा मिङ ..."
+    ],
+    "answer": "नोनि बयस कैदै?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Bodo?",
+    "options": [
+      "हाँ",
+      "नाङै",
+      "जरुर",
+      "होनो गोनाङ"
+    ],
+    "answer": "हाँ"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Bodo?",
+    "options": [
+      "जरुर",
+      "नाङै",
+      "होनो गोनाङ",
+      "गैया नाङै"
+    ],
+    "answer": "नाङै"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Bodo?",
+    "options": [
+      "जरुर",
+      "गैया नाङै",
+      "गैदै गैदै",
+      "होनो गोनाङ"
+    ],
+    "answer": "होनो गोनाङ"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Bodo?",
+    "options": [
+      "गैया नाङै",
+      "गैदै गैदै",
+      "जरुर",
+      "सोलोम"
+    ],
+    "answer": "जरुर"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Bodo?",
+    "options": [
+      "सोलोम",
+      "गैया नाङै",
+      "जोबै नाङै",
+      "गैदै गैदै"
+    ],
+    "answer": "गैया नाङै"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Bodo?",
+    "options": [
+      "सोलोम",
+      "जोबै नाङै",
+      "निश्चित",
+      "गैदै गैदै"
+    ],
+    "answer": "गैदै गैदै"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Bodo?",
+    "options": [
+      "जोबै नाङै",
+      "निश्चित",
+      "सोलोम",
+      "आङा नाङजै"
+    ],
+    "answer": "सोलोम"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Bodo?",
+    "options": [
+      "हाँ",
+      "निश्चित",
+      "आङा नाङजै",
+      "जोबै नाङै"
+    ],
+    "answer": "जोबै नाङै"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Bodo?",
+    "options": [
+      "हाँ",
+      "निश्चित",
+      "आङा नाङजै",
+      "नाङै"
+    ],
+    "answer": "निश्चित"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Bodo?",
+    "options": [
+      "आङा नाङजै",
+      "होनो गोनाङ",
+      "हाँ",
+      "नाङै"
+    ],
+    "answer": "आङा नाङजै"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Bodo?",
+    "options": [
+      "दया गरि",
+      "माफ गर",
+      "धन्यबाद",
+      "माफ गर"
+    ],
+    "answer": "धन्यबाद"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Bodo?",
+    "options": [
+      "माफ गर",
+      "माफ गर",
+      "दया गरि",
+      "आगमन"
+    ],
+    "answer": "माफ गर"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Bodo?",
+    "options": [
+      "आगमन",
+      "दया गरि",
+      "गैया समस्या नाङै",
+      "माफ गर"
+    ],
+    "answer": "दया गरि"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Bodo?",
+    "options": [
+      "माफ गर",
+      "बधाई",
+      "गैया समस्या नाङै",
+      "आगमन"
+    ],
+    "answer": "माफ गर"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Bodo?",
+    "options": [
+      "आगमन",
+      "आसिस",
+      "गैया समस्या नाङै",
+      "बधाई"
+    ],
+    "answer": "आगमन"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Bodo?",
+    "options": [
+      "गैया समस्या नाङै",
+      "गोजौ भाग्य",
+      "आसिस",
+      "बधाई"
+    ],
+    "answer": "गैया समस्या नाङै"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Bodo?",
+    "options": [
+      "जन्मदिन मुबारक",
+      "आसिस",
+      "बधाई",
+      "गोजौ भाग्य"
+    ],
+    "answer": "बधाई"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Bodo?",
+    "options": [
+      "गोजौ भाग्य",
+      "धन्यबाद",
+      "जन्मदिन मुबारक",
+      "आसिस"
+    ],
+    "answer": "आसिस"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Bodo?",
+    "options": [
+      "जन्मदिन मुबारक",
+      "गोजौ भाग्य",
+      "माफ गर",
+      "धन्यबाद"
+    ],
+    "answer": "गोजौ भाग्य"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Bodo",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Bodo?",
+    "options": [
+      "धन्यबाद",
+      "दया गरि",
+      "माफ गर",
+      "जन्मदिन मुबारक"
+    ],
+    "answer": "जन्मदिन मुबारक"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'ki'?",
+    "options": [
+      "को",
+      "कि",
+      "के",
+      "कु"
+    ],
+    "answer": "कि"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'ku'?",
+    "options": [
+      "कु",
+      "के",
+      "गि",
+      "को"
+    ],
+    "answer": "कु"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'ke'?",
+    "options": [
+      "गि",
+      "को",
+      "के",
+      "गु"
+    ],
+    "answer": "के"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'ko'?",
+    "options": [
+      "गे",
+      "को",
+      "गि",
+      "गु"
+    ],
+    "answer": "को"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'gi'?",
+    "options": [
+      "गो",
+      "गु",
+      "गि",
+      "गे"
+    ],
+    "answer": "गि"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'gu'?",
+    "options": [
+      "गे",
+      "गो",
+      "चि",
+      "गु"
+    ],
+    "answer": "गु"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'ge'?",
+    "options": [
+      "चि",
+      "गो",
+      "गे",
+      "चु"
+    ],
+    "answer": "गे"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'go'?",
+    "options": [
+      "गो",
+      "चु",
+      "चि",
+      "कि"
+    ],
+    "answer": "गो"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'chi'?",
+    "options": [
+      "चु",
+      "चि",
+      "कु",
+      "कि"
+    ],
+    "answer": "चि"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Bodo syllable for 'chu'?",
+    "options": [
+      "चु",
+      "कि",
+      "कु",
+      "के"
+    ],
+    "answer": "चु"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'ksha'?",
+    "options": [
+      "क्ष",
+      "ज्ञ",
+      "श्र",
+      "त्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'tra'?",
+    "options": [
+      "ज्ञ",
+      "श्र",
+      "त्र",
+      "क्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'jna'?",
+    "options": [
+      "प्र",
+      "ज्ञ",
+      "क्र",
+      "श्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'shra'?",
+    "options": [
+      "श्र",
+      "क्र",
+      "स्र",
+      "प्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'kra'?",
+    "options": [
+      "स्र",
+      "ग्र",
+      "क्र",
+      "प्र"
+    ],
+    "answer": "क्र"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'pra'?",
+    "options": [
+      "प्र",
+      "द्र",
+      "स्र",
+      "ग्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'sra'?",
+    "options": [
+      "द्र",
+      "स्र",
+      "ग्र",
+      "न्त"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'gra'?",
+    "options": [
+      "द्र",
+      "क्ष",
+      "ग्र",
+      "न्त"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'dra'?",
+    "options": [
+      "क्ष",
+      "त्र",
+      "न्त",
+      "द्र"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Bodo ligature for 'nta'?",
+    "options": [
+      "न्त",
+      "क्ष",
+      "त्र",
+      "ज्ञ"
+    ],
+    "answer": "न्त"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'sha'?",
+    "options": [
+      "ह",
+      "श",
+      "ल",
+      "स"
+    ],
+    "answer": "श"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'sa'?",
+    "options": [
+      "र",
+      "ल",
+      "ह",
+      "स"
+    ],
+    "answer": "स"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'ha'?",
+    "options": [
+      "र",
+      "व",
+      "ह",
+      "ल"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'la'?",
+    "options": [
+      "ल",
+      "र",
+      "य",
+      "व"
+    ],
+    "answer": "ल"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'ra'?",
+    "options": [
+      "र",
+      "य",
+      "व",
+      "फ"
+    ],
+    "answer": "र"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'va'?",
+    "options": [
+      "य",
+      "व",
+      "फ",
+      "ज"
+    ],
+    "answer": "व"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'ya'?",
+    "options": [
+      "क्व",
+      "फ",
+      "य",
+      "ज"
+    ],
+    "answer": "य"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'fa'?",
+    "options": [
+      "क्व",
+      "ज",
+      "फ",
+      "श"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'za'?",
+    "options": [
+      "क्व",
+      "ज",
+      "श",
+      "स"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Bodo letter for 'qwa'?",
+    "options": [
+      "स",
+      "ह",
+      "क्व",
+      "श"
+    ],
+    "answer": "क्व"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'क्षीर'?",
+    "options": [
+      "क्ष",
+      "ज्ञ",
+      "त्र",
+      "श्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'ज्ञान'?",
+    "options": [
+      "श्र",
+      "ज्ञ",
+      "त्र",
+      "ग्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'त्रिकोण'?",
+    "options": [
+      "प्र",
+      "त्र",
+      "ग्र",
+      "श्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'श्रद्धा'?",
+    "options": [
+      "श्र",
+      "स्र",
+      "प्र",
+      "ग्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'ग्रन्थ'?",
+    "options": [
+      "द्र",
+      "प्र",
+      "स्र",
+      "ग्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'प्रयत्न'?",
+    "options": [
+      "द्र",
+      "स्र",
+      "प्र",
+      "फ"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'स्रोत'?",
+    "options": [
+      "फ",
+      "ह",
+      "स्र",
+      "द्र"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'द्रव्य'?",
+    "options": [
+      "द्र",
+      "फ",
+      "ह",
+      "क्ष"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'फल'?",
+    "options": [
+      "फ",
+      "ज्ञ",
+      "ह",
+      "क्ष"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Bodo letter is used in the word 'हरिद्वार'?",
+    "options": [
+      "ज्ञ",
+      "क्ष",
+      "त्र",
+      "ह"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Sunday'?",
+    "options": [
+      "बुधबार",
+      "रबिबार",
+      "सोमबार",
+      "मङ्गलबार"
+    ],
+    "answer": "रबिबार"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Monday'?",
+    "options": [
+      "मङ्गलबार",
+      "बुधबार",
+      "बिस्पतिबार",
+      "सोमबार"
+    ],
+    "answer": "सोमबार"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Tuesday'?",
+    "options": [
+      "बुधबार",
+      "बिस्पतिबार",
+      "मङ्गलबार",
+      "सुक्रबार"
+    ],
+    "answer": "मङ्गलबार"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Wednesday'?",
+    "options": [
+      "सुक्रबार",
+      "बिस्पतिबार",
+      "सनिबार",
+      "बुधबार"
+    ],
+    "answer": "बुधबार"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Thursday'?",
+    "options": [
+      "बिस्पतिबार",
+      "दिनै",
+      "सनिबार",
+      "सुक्रबार"
+    ],
+    "answer": "बिस्पतिबार"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Friday'?",
+    "options": [
+      "सनिबार",
+      "गाबोन",
+      "सुक्रबार",
+      "दिनै"
+    ],
+    "answer": "सुक्रबार"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Saturday'?",
+    "options": [
+      "दिनै",
+      "गाबोन",
+      "सनिबार",
+      "मैया"
+    ],
+    "answer": "सनिबार"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Today'?",
+    "options": [
+      "मैया",
+      "रबिबार",
+      "दिनै",
+      "गाबोन"
+    ],
+    "answer": "दिनै"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Tomorrow'?",
+    "options": [
+      "रबिबार",
+      "सोमबार",
+      "मैया",
+      "गाबोन"
+    ],
+    "answer": "गाबोन"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Bodo word for 'Yesterday'?",
+    "options": [
+      "सोमबार",
+      "मङ्गलबार",
+      "रबिबार",
+      "मैया"
+    ],
+    "answer": "मैया"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'red'?",
+    "options": [
+      "गिजाङ",
+      "गिदिङ",
+      "हालदी",
+      "नीला"
+    ],
+    "answer": "गिदिङ"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'blue'?",
+    "options": [
+      "गुदुम",
+      "गिजाङ",
+      "हालदी",
+      "नीला"
+    ],
+    "answer": "नीला"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'green'?",
+    "options": [
+      "गिजाङ",
+      "हालदी",
+      "गुदुम",
+      "फुटुक"
+    ],
+    "answer": "गिजाङ"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'yellow'?",
+    "options": [
+      "कमला",
+      "हालदी",
+      "गुदुम",
+      "फुटुक"
+    ],
+    "answer": "हालदी"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'black'?",
+    "options": [
+      "कमला",
+      "गुलाबी",
+      "गुदुम",
+      "फुटुक"
+    ],
+    "answer": "गुदुम"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'white'?",
+    "options": [
+      "फुटुक",
+      "कमला",
+      "बैंगनी",
+      "गुलाबी"
+    ],
+    "answer": "फुटुक"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'orange'?",
+    "options": [
+      "कमला",
+      "गुलाबी",
+      "भूरा",
+      "बैंगनी"
+    ],
+    "answer": "कमला"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'pink'?",
+    "options": [
+      "भूरा",
+      "गुलाबी",
+      "गिदिङ",
+      "बैंगनी"
+    ],
+    "answer": "गुलाबी"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'purple'?",
+    "options": [
+      "भूरा",
+      "गिदिङ",
+      "नीला",
+      "बैंगनी"
+    ],
+    "answer": "बैंगनी"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Bodo word for 'brown'?",
+    "options": [
+      "गिदिङ",
+      "नीला",
+      "भूरा",
+      "गिजाङ"
+    ],
+    "answer": "भूरा"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'one'?",
+    "options": [
+      "नै",
+      "ब्रै",
+      "से",
+      "थाम"
+    ],
+    "answer": "से"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'two'?",
+    "options": [
+      "नै",
+      "थाम",
+      "बा",
+      "ब्रै"
+    ],
+    "answer": "नै"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'three'?",
+    "options": [
+      "रो",
+      "थाम",
+      "बा",
+      "ब्रै"
+    ],
+    "answer": "थाम"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'four'?",
+    "options": [
+      "सनि",
+      "बा",
+      "रो",
+      "ब्रै"
+    ],
+    "answer": "ब्रै"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'five'?",
+    "options": [
+      "रो",
+      "बा",
+      "सनि",
+      "दैत"
+    ],
+    "answer": "बा"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'six'?",
+    "options": [
+      "सनि",
+      "स्कौ",
+      "रो",
+      "दैत"
+    ],
+    "answer": "रो"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'seven'?",
+    "options": [
+      "स्कौ",
+      "सि",
+      "सनि",
+      "दैत"
+    ],
+    "answer": "सनि"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'eight'?",
+    "options": [
+      "से",
+      "स्कौ",
+      "सि",
+      "दैत"
+    ],
+    "answer": "दैत"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'nine'?",
+    "options": [
+      "से",
+      "नै",
+      "सि",
+      "स्कौ"
+    ],
+    "answer": "स्कौ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Bodo word for 'ten'?",
+    "options": [
+      "थाम",
+      "से",
+      "नै",
+      "सि"
+    ],
+    "answer": "सि"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'breakfast'?",
+    "options": [
+      "राती जा",
+      "बेलुकि जा",
+      "गाबुर जा",
+      "नास्ता"
+    ],
+    "answer": "गाबुर जा"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'lunch'?",
+    "options": [
+      "बेलुकि जा",
+      "राती जा",
+      "मिठाई",
+      "नास्ता"
+    ],
+    "answer": "बेलुकि जा"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'dinner'?",
+    "options": [
+      "मिठाई",
+      "नास्ता",
+      "खार",
+      "राती जा"
+    ],
+    "answer": "राती जा"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'snacks'?",
+    "options": [
+      "खार",
+      "नास्ता",
+      "मिठाई",
+      "सब्जी खानेवाला"
+    ],
+    "answer": "नास्ता"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'sweets'?",
+    "options": [
+      "सब्जी खानेवाला",
+      "मिठाई",
+      "मांस खानेवाला",
+      "खार"
+    ],
+    "answer": "मिठाई"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'spicy'?",
+    "options": [
+      "रस",
+      "खार",
+      "सब्जी खानेवाला",
+      "मांस खानेवाला"
+    ],
+    "answer": "खार"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'vegetarian'?",
+    "options": [
+      "कफी",
+      "रस",
+      "सब्जी खानेवाला",
+      "मांस खानेवाला"
+    ],
+    "answer": "सब्जी खानेवाला"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'non-vegetarian'?",
+    "options": [
+      "रस",
+      "गाबुर जा",
+      "कफी",
+      "मांस खानेवाला"
+    ],
+    "answer": "मांस खानेवाला"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'juice'?",
+    "options": [
+      "कफी",
+      "गाबुर जा",
+      "बेलुकि जा",
+      "रस"
+    ],
+    "answer": "रस"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Bodo word for 'coffee'?",
+    "options": [
+      "राती जा",
+      "गाबुर जा",
+      "कफी",
+      "बेलुकि जा"
+    ],
+    "answer": "कफी"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Bodo?",
+    "options": [
+      "नों कैदै नङा?",
+      "नों गाबै निफ्राय?",
+      "नोनि मिङ माव?",
+      "नोनि बयस कैदै?"
+    ],
+    "answer": "नों कैदै नङा?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Bodo?",
+    "options": [
+      "नों गाबै निफ्राय?",
+      "नों बड़ो राव गोनाङा?",
+      "नोनि मिङ माव?",
+      "नोनि बयस कैदै?"
+    ],
+    "answer": "नोनि मिङ माव?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Bodo?",
+    "options": [
+      "नों गाबै निफ्राय?",
+      "आङा नोंखौ मदद गोनाङो?",
+      "नोनि बयस कैदै?",
+      "नों बड़ो राव गोनाङा?"
+    ],
+    "answer": "नों गाबै निफ्राय?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Bodo?",
+    "options": [
+      "नोनि बयस कैदै?",
+      "बाथरुम गाबै?",
+      "नों बड़ो राव गोनाङा?",
+      "आङा नोंखौ मदद गोनाङो?"
+    ],
+    "answer": "नोनि बयस कैदै?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Bodo?' in Bodo?",
+    "options": [
+      "बाथरुम गाबै?",
+      "आङा नोंखौ मदद गोनाङो?",
+      "बे कैदै?",
+      "नों बड़ो राव गोनाङा?"
+    ],
+    "answer": "नों बड़ो राव गोनाङा?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Bodo?",
+    "options": [
+      "आङा नोंखौ मदद गोनाङो?",
+      "बाथरुम गाबै?",
+      "कैदै बेला?",
+      "बे कैदै?"
+    ],
+    "answer": "आङा नोंखौ मदद गोनाङो?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Bodo?",
+    "options": [
+      "बाथरुम गाबै?",
+      "बे कैदै?",
+      "नों गाबै दङ?",
+      "कैदै बेला?"
+    ],
+    "answer": "बाथरुम गाबै?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Bodo?",
+    "options": [
+      "नों कैदै नङा?",
+      "बे कैदै?",
+      "नों गाबै दङ?",
+      "कैदै बेला?"
+    ],
+    "answer": "बे कैदै?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Bodo?",
+    "options": [
+      "नों गाबै दङ?",
+      "नोनि मिङ माव?",
+      "कैदै बेला?",
+      "नों कैदै नङा?"
+    ],
+    "answer": "कैदै बेला?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Bodo?",
+    "options": [
+      "नों कैदै नङा?",
+      "नों गाबै दङ?",
+      "नों गाबै निफ्राय?",
+      "नोनि मिङ माव?"
+    ],
+    "answer": "नों गाबै दङ?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Bodo?",
+    "options": [
+      "दया गरि रैखा",
+      "दया गरि फै",
+      "दया गरि बेयाव जा",
+      "दया गरि आङाखौ मदद गर"
+    ],
+    "answer": "दया गरि आङाखौ मदद गर"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Bodo?",
+    "options": [
+      "दया गरि फै",
+      "दया गरि रैखा",
+      "दया गरि बिस्तारै राव गोन",
+      "दया गरि बेयाव जा"
+    ],
+    "answer": "दया गरि रैखा"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Bodo?",
+    "options": [
+      "दया गरि फै",
+      "दया गरि लिख",
+      "दया गरि बिस्तारै राव गोन",
+      "दया गरि बेयाव जा"
+    ],
+    "answer": "दया गरि बेयाव जा"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Bodo?",
+    "options": [
+      "दया गरि बिस्तारै राव गोन",
+      "दया गरि दोहोराव",
+      "दया गरि फै",
+      "दया गरि लिख"
+    ],
+    "answer": "दया गरि फै"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Bodo?",
+    "options": [
+      "दया गरि लिख",
+      "दया गरि बिस्तारै राव गोन",
+      "दया गरि आङाखौ दिखाव",
+      "दया गरि दोहोराव"
+    ],
+    "answer": "दया गरि बिस्तारै राव गोन"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Bodo?",
+    "options": [
+      "दया गरि लिख",
+      "दया गरि दोहोराव",
+      "दया गरि आङाखौ दिखाव",
+      "दया गरि दुवार खोल"
+    ],
+    "answer": "दया गरि लिख"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Bodo?",
+    "options": [
+      "दया गरि झिरिका बन्द गर",
+      "दया गरि दुवार खोल",
+      "दया गरि दोहोराव",
+      "दया गरि आङाखौ दिखाव"
+    ],
+    "answer": "दया गरि दोहोराव"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Bodo?",
+    "options": [
+      "दया गरि आङाखौ दिखाव",
+      "दया गरि झिरिका बन्द गर",
+      "दया गरि दुवार खोल",
+      "दया गरि आङाखौ मदद गर"
+    ],
+    "answer": "दया गरि आङाखौ दिखाव"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Bodo?",
+    "options": [
+      "दया गरि आङाखौ मदद गर",
+      "दया गरि झिरिका बन्द गर",
+      "दया गरि रैखा",
+      "दया गरि दुवार खोल"
+    ],
+    "answer": "दया गरि दुवार खोल"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Bodo?",
+    "options": [
+      "दया गरि आङाखौ मदद गर",
+      "दया गरि झिरिका बन्द गर",
+      "दया गरि बेयाव जा",
+      "दया गरि रैखा"
+    ],
+    "answer": "दया गरि झिरिका बन्द गर"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Bodo?",
+    "options": [
+      "छुट आछे नि?",
+      "आङा बेखौ कोसिस गोनाङो?",
+      "बे कैदै?",
+      "आङा बेखौ गिदिन गोनाङ"
+    ],
+    "answer": "बे कैदै?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Bodo?",
+    "options": [
+      "आङा बेखौ कोसिस गोनाङो?",
+      "छुट आछे नि?",
+      "आङा बेखौ गिदिन गोनाङ",
+      "कार्ड लैनो नि?"
+    ],
+    "answer": "छुट आछे नि?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Bodo?",
+    "options": [
+      "आङा बेखौ कोसिस गोनाङो?",
+      "आङा बेखौ गिदिन गोनाङ",
+      "कार्ड लैनो नि?",
+      "काउन्टर गाबै?"
+    ],
+    "answer": "आङा बेखौ गिदिन गोनाङ"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Bodo?",
+    "options": [
+      "काउन्टर गाबै?",
+      "कार्ड लैनो नि?",
+      "आङा बेखौ कोसिस गोनाङो?",
+      "बे मोनै नि?"
+    ],
+    "answer": "आङा बेखौ कोसिस गोनाङो?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Bodo?",
+    "options": [
+      "कार्ड लैनो नि?",
+      "बे मोनै नि?",
+      "काउन्टर गाबै?",
+      "दया गरि बेखौ प्याक गर"
+    ],
+    "answer": "कार्ड लैनो नि?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Bodo?",
+    "options": [
+      "दया गरि बेखौ प्याक गर",
+      "बे मोनै नि?",
+      "काउन्टर गाबै?",
+      "आङाखौ बैग लागै"
+    ],
+    "answer": "काउन्टर गाबै?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Bodo?",
+    "options": [
+      "बे मोनै नि?",
+      "आङाखौ बैग लागै",
+      "समय माव?",
+      "दया गरि बेखौ प्याक गर"
+    ],
+    "answer": "बे मोनै नि?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Bodo?",
+    "options": [
+      "समय माव?",
+      "दया गरि बेखौ प्याक गर",
+      "आङाखौ बैग लागै",
+      "बे कैदै?"
+    ],
+    "answer": "दया गरि बेखौ प्याक गर"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Bodo?",
+    "options": [
+      "बे कैदै?",
+      "छुट आछे नि?",
+      "समय माव?",
+      "आङाखौ बैग लागै"
+    ],
+    "answer": "आङाखौ बैग लागै"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Bodo?",
+    "options": [
+      "समय माव?",
+      "छुट आछे नि?",
+      "आङा बेखौ गिदिन गोनाङ",
+      "बे कैदै?"
+    ],
+    "answer": "समय माव?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Bodo?",
+    "options": [
+      "रेल स्टेसनआव कैदै जानो?",
+      "बजारआव गाव लाम?",
+      "बस स्टप गाबै?",
+      "बेयाव निफ्राय दूर नि?"
+    ],
+    "answer": "बस स्टप गाबै?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Bodo?",
+    "options": [
+      "बजारआव गाव लाम?",
+      "बेयाव निफ्राय दूर नि?",
+      "रेल स्टेसनआव कैदै जानो?",
+      "बाउङाव फिर"
+    ],
+    "answer": "रेल स्टेसनआव कैदै जानो?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Bodo?",
+    "options": [
+      "दावनाव फिर",
+      "बजारआव गाव लाम?",
+      "बेयाव निफ्राय दूर नि?",
+      "बाउङाव फिर"
+    ],
+    "answer": "बजारआव गाव लाम?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Bodo?",
+    "options": [
+      "बेयाव निफ्राय दूर नि?",
+      "सिधा जा",
+      "बाउङाव फिर",
+      "दावनाव फिर"
+    ],
+    "answer": "बेयाव निफ्राय दूर नि?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Bodo?",
+    "options": [
+      "बेयाव थि",
+      "दावनाव फिर",
+      "बाउङाव फिर",
+      "सिधा जा"
+    ],
+    "answer": "बाउङाव फिर"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Bodo?",
+    "options": [
+      "कैदै समय लागै?",
+      "सिधा जा",
+      "दावनाव फिर",
+      "बेयाव थि"
+    ],
+    "answer": "दावनाव फिर"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Bodo?",
+    "options": [
+      "कैदै समय लागै?",
+      "न्यक्सावाव दिखानो गोनाङो?",
+      "बेयाव थि",
+      "सिधा जा"
+    ],
+    "answer": "सिधा जा"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Bodo?",
+    "options": [
+      "कैदै समय लागै?",
+      "बेयाव थि",
+      "बस स्टप गाबै?",
+      "न्यक्सावाव दिखानो गोनाङो?"
+    ],
+    "answer": "बेयाव थि"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Bodo?",
+    "options": [
+      "कैदै समय लागै?",
+      "बस स्टप गाबै?",
+      "रेल स्टेसनआव कैदै जानो?",
+      "न्यक्सावाव दिखानो गोनाङो?"
+    ],
+    "answer": "कैदै समय लागै?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Bodo",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Bodo?",
+    "options": [
+      "बस स्टप गाबै?",
+      "रेल स्टेसनआव कैदै जानो?",
+      "बजारआव गाव लाम?",
+      "न्यक्सावाव दिखानो गोनाङो?"
+    ],
+    "answer": "न्यक्सावाव दिखानो गोनाङो?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'go'?",
+    "options": [
+      "नैखै",
+      "जाखै",
+      "फरखै",
+      "जाखै"
+    ],
+    "answer": "जाखै"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'eat'?",
+    "options": [
+      "फरखै",
+      "लिखै",
+      "नैखै",
+      "जाखै"
+    ],
+    "answer": "जाखै"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'see'?",
+    "options": [
+      "लिखै",
+      "जाखै",
+      "फरखै",
+      "नैखै"
+    ],
+    "answer": "नैखै"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'read'?",
+    "options": [
+      "लिखै",
+      "बिखै",
+      "फरखै",
+      "जाखै"
+    ],
+    "answer": "फरखै"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'write'?",
+    "options": [
+      "बिखै",
+      "लिखै",
+      "जाखै",
+      "लैखै"
+    ],
+    "answer": "लिखै"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'come'?",
+    "options": [
+      "लैखै",
+      "खेलखै",
+      "बिखै",
+      "जाखै"
+    ],
+    "answer": "जाखै"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'give'?",
+    "options": [
+      "गुमखै",
+      "लैखै",
+      "बिखै",
+      "खेलखै"
+    ],
+    "answer": "बिखै"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'take'?",
+    "options": [
+      "लैखै",
+      "जाखै",
+      "खेलखै",
+      "गुमखै"
+    ],
+    "answer": "लैखै"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'play'?",
+    "options": [
+      "गुमखै",
+      "जाखै",
+      "खेलखै",
+      "जाखै"
+    ],
+    "answer": "खेलखै"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Bodo past tense of 'sleep'?",
+    "options": [
+      "जाखै",
+      "गुमखै",
+      "नैखै",
+      "जाखै"
+    ],
+    "answer": "गुमखै"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'book'?",
+    "options": [
+      "जामाइफोर",
+      "कलमफोर",
+      "किताबफोर",
+      "जावफोर"
+    ],
+    "answer": "किताबफोर"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'pen'?",
+    "options": [
+      "कलमफोर",
+      "जामाइफोर",
+      "फूलफोर",
+      "जावफोर"
+    ],
+    "answer": "कलमफोर"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'boy'?",
+    "options": [
+      "जावफोर",
+      "पातफोर",
+      "जामाइफोर",
+      "फूलफोर"
+    ],
+    "answer": "जावफोर"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'girl'?",
+    "options": [
+      "जामाइफोर",
+      "ताराफोर",
+      "पातफोर",
+      "फूलफोर"
+    ],
+    "answer": "जामाइफोर"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'flower'?",
+    "options": [
+      "ताराफोर",
+      "फूलफोर",
+      "पातफोर",
+      "गाछफोर"
+    ],
+    "answer": "फूलफोर"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'leaf'?",
+    "options": [
+      "गाछफोर",
+      "नदीफोर",
+      "ताराफोर",
+      "पातफोर"
+    ],
+    "answer": "पातफोर"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'star'?",
+    "options": [
+      "ताराफोर",
+      "गाछफोर",
+      "कुर्सीफोर",
+      "नदीफोर"
+    ],
+    "answer": "ताराफोर"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'tree'?",
+    "options": [
+      "कुर्सीफोर",
+      "किताबफोर",
+      "गाछफोर",
+      "नदीफोर"
+    ],
+    "answer": "गाछफोर"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'river'?",
+    "options": [
+      "कलमफोर",
+      "नदीफोर",
+      "किताबफोर",
+      "कुर्सीफोर"
+    ],
+    "answer": "नदीफोर"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Bodo plural of 'chair'?",
+    "options": [
+      "कलमफोर",
+      "जावफोर",
+      "किताबफोर",
+      "कुर्सीफोर"
+    ],
+    "answer": "कुर्सीफोर"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'and'?",
+    "options": [
+      "एबा",
+      "बाहाय",
+      "कारण",
+      "आरो"
+    ],
+    "answer": "आरो"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'but'?",
+    "options": [
+      "कारण",
+      "बाहाय",
+      "एबा",
+      "जदि"
+    ],
+    "answer": "बाहाय"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'or'?",
+    "options": [
+      "जाहान",
+      "कारण",
+      "जदि",
+      "एबा"
+    ],
+    "answer": "एबा"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'because'?",
+    "options": [
+      "कारण",
+      "गाबै",
+      "जाहान",
+      "जदि"
+    ],
+    "answer": "कारण"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'if'?",
+    "options": [
+      "जाहान",
+      "गाबै",
+      "कैदै",
+      "जदि"
+    ],
+    "answer": "जदि"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'when'?",
+    "options": [
+      "कैदै",
+      "माबै",
+      "गाबै",
+      "जाहान"
+    ],
+    "answer": "जाहान"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'where'?",
+    "options": [
+      "कैदै",
+      "जों",
+      "गाबै",
+      "माबै"
+    ],
+    "answer": "गाबै"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'how'?",
+    "options": [
+      "कैदै",
+      "माबै",
+      "जों",
+      "आरो"
+    ],
+    "answer": "कैदै"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'why'?",
+    "options": [
+      "बाहाय",
+      "माबै",
+      "जों",
+      "आरो"
+    ],
+    "answer": "माबै"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Bodo particle for 'with'?",
+    "options": [
+      "जों",
+      "आरो",
+      "बाहाय",
+      "एबा"
+    ],
+    "answer": "जों"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Bodo?",
+    "options": [
+      "फरनो नाङै",
+      "जानो नाङै",
+      "जानो नाङै",
+      "जानो नाङै"
+    ],
+    "answer": "जानो नाङै"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Bodo?",
+    "options": [
+      "फरनो नाङै",
+      "जानो नाङै",
+      "जानो नाङै",
+      "लिखनो नाङै"
+    ],
+    "answer": "जानो नाङै"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Bodo?",
+    "options": [
+      "फरनो नाङै",
+      "जानो नाङै",
+      "खेलनो नाङै",
+      "लिखनो नाङै"
+    ],
+    "answer": "जानो नाङै"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Bodo?",
+    "options": [
+      "खेलनो नाङै",
+      "फरनो नाङै",
+      "लिखनो नाङै",
+      "गुमनो नाङै"
+    ],
+    "answer": "फरनो नाङै"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Bodo?",
+    "options": [
+      "लिखनो नाङै",
+      "गुमनो नाङै",
+      "नैनो नाङै",
+      "खेलनो नाङै"
+    ],
+    "answer": "लिखनो नाङै"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Bodo?",
+    "options": [
+      "बिनो नाङै",
+      "नैनो नाङै",
+      "गुमनो नाङै",
+      "खेलनो नाङै"
+    ],
+    "answer": "खेलनो नाङै"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Bodo?",
+    "options": [
+      "बिनो नाङै",
+      "गुमनो नाङै",
+      "लैनो नाङै",
+      "नैनो नाङै"
+    ],
+    "answer": "गुमनो नाङै"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Bodo?",
+    "options": [
+      "जानो नाङै",
+      "लैनो नाङै",
+      "नैनो नाङै",
+      "बिनो नाङै"
+    ],
+    "answer": "नैनो नाङै"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Bodo?",
+    "options": [
+      "जानो नाङै",
+      "जानो नाङै",
+      "बिनो नाङै",
+      "लैनो नाङै"
+    ],
+    "answer": "बिनो नाङै"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Bodo?",
+    "options": [
+      "जानो नाङै",
+      "जानो नाङै",
+      "लैनो नाङै",
+      "जानो नाङै"
+    ],
+    "answer": "लैनो नाङै"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'apple'",
+    "options": [
+      "सुकुर",
+      "मेकुर",
+      "केला",
+      "सेब"
+    ],
+    "answer": "सेब"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'banana'",
+    "options": [
+      "केला",
+      "सुकुर",
+      "मेकुर",
+      "गाड़ी"
+    ],
+    "answer": "केला"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'cat'",
+    "options": [
+      "गाड़ी",
+      "मेकुर",
+      "बस",
+      "सुकुर"
+    ],
+    "answer": "मेकुर"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'dog'",
+    "options": [
+      "गाड़ी",
+      "बस",
+      "सुकुर",
+      "रेल"
+    ],
+    "answer": "सुकुर"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'car'",
+    "options": [
+      "नो",
+      "बस",
+      "रेल",
+      "गाड़ी"
+    ],
+    "answer": "गाड़ी"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'bus'",
+    "options": [
+      "रेल",
+      "नो",
+      "सहर",
+      "बस"
+    ],
+    "answer": "बस"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'train'",
+    "options": [
+      "गाव",
+      "नो",
+      "सहर",
+      "रेल"
+    ],
+    "answer": "रेल"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'house'",
+    "options": [
+      "सेब",
+      "नो",
+      "गाव",
+      "सहर"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'city'",
+    "options": [
+      "केला",
+      "सेब",
+      "सहर",
+      "गाव"
+    ],
+    "answer": "सहर"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Bodo word for 'village'",
+    "options": [
+      "सेब",
+      "मेकुर",
+      "केला",
+      "गाव"
+    ],
+    "answer": "गाव"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Good morning'",
+    "options": [
+      "गाबुर सुबुङ",
+      "माफ गर",
+      "नों कैदै नङा?",
+      "धन्यबाद"
+    ],
+    "answer": "गाबुर सुबुङ"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'How are you?'",
+    "options": [
+      "दया गरि भित्र जा",
+      "नों कैदै नङा?",
+      "धन्यबाद",
+      "माफ गर"
+    ],
+    "answer": "नों कैदै नङा?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Thank you'",
+    "options": [
+      "फै",
+      "दया गरि भित्र जा",
+      "माफ गर",
+      "धन्यबाद"
+    ],
+    "answer": "धन्यबाद"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Sorry'",
+    "options": [
+      "दया गरि भित्र जा",
+      "खड़ा हो",
+      "माफ गर",
+      "फै"
+    ],
+    "answer": "माफ गर"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Please come in'",
+    "options": [
+      "दया गरि भित्र जा",
+      "फै",
+      "खड़ा हो",
+      "जा"
+    ],
+    "answer": "दया गरि भित्र जा"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Sit down'",
+    "options": [
+      "फै",
+      "खड़ा हो",
+      "गोजौ गोर",
+      "जा"
+    ],
+    "answer": "फै"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Stand up'",
+    "options": [
+      "गोजौ गोर",
+      "बधाई",
+      "खड़ा हो",
+      "जा"
+    ],
+    "answer": "खड़ा हो"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Go ahead'",
+    "options": [
+      "गाबुर सुबुङ",
+      "जा",
+      "गोजौ गोर",
+      "बधाई"
+    ],
+    "answer": "जा"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Well done'",
+    "options": [
+      "नों कैदै नङा?",
+      "गाबुर सुबुङ",
+      "बधाई",
+      "गोजौ गोर"
+    ],
+    "answer": "गोजौ गोर"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Bodo phrase for 'Congratulations'",
+    "options": [
+      "बधाई",
+      "धन्यबाद",
+      "नों कैदै नङा?",
+      "गाबुर सुबुङ"
+    ],
+    "answer": "बधाई"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'I am going to school'",
+    "options": [
+      "बि माय जानो दङ",
+      "आङ स्कूलआव जानो दङ",
+      "बिफोरा किताब फरनो दङ",
+      "जिम क्रिकेट खेलनो दङ"
+    ],
+    "answer": "आङ स्कूलआव जानो दङ"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'She is eating rice'",
+    "options": [
+      "बिफोरा किताब फरनो दङ",
+      "जिम क्रिकेट खेलनो दङ",
+      "बिया चिठी लिखनो दङ",
+      "बि माय जानो दङ"
+    ],
+    "answer": "बि माय जानो दङ"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'We are playing cricket'",
+    "options": [
+      "जिम क्रिकेट खेलनो दङ",
+      "बिफोरा किताब फरनो दङ",
+      "बिया चिठी लिखनो दङ",
+      "नों आङा मित्र"
+    ],
+    "answer": "जिम क्रिकेट खेलनो दङ"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'They are reading books'",
+    "options": [
+      "बिया चिठी लिखनो दङ",
+      "बिफोरा किताब फरनो दङ",
+      "नों आङा मित्र",
+      "दानि दाब होनो दङ"
+    ],
+    "answer": "बिफोरा किताब फरनो दङ"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'He is writing a letter'",
+    "options": [
+      "आङाखौ बड़ो मन पर",
+      "बिया चिठी लिखनो दङ",
+      "दानि दाब होनो दङ",
+      "नों आङा मित्र"
+    ],
+    "answer": "बिया चिठी लिखनो दङ"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'You are my friend'",
+    "options": [
+      "दानि दाब होनो दङ",
+      "नों आङा मित्र",
+      "आङाखौ बड़ो मन पर",
+      "जिम असमआव दङ"
+    ],
+    "answer": "नों आङा मित्र"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'It is raining now'",
+    "options": [
+      "दानि दाब होनो दङ",
+      "बि गीत गानो दङ",
+      "जिम असमआव दङ",
+      "आङाखौ बड़ो मन पर"
+    ],
+    "answer": "दानि दाब होनो दङ"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'I like Bodo'",
+    "options": [
+      "जिम असमआव दङ",
+      "बि गीत गानो दङ",
+      "आङ स्कूलआव जानो दङ",
+      "आङाखौ बड़ो मन पर"
+    ],
+    "answer": "आङाखौ बड़ो मन पर"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'We live in Assam'",
+    "options": [
+      "जिम असमआव दङ",
+      "आङ स्कूलआव जानो दङ",
+      "बि गीत गानो दङ",
+      "बि माय जानो दङ"
+    ],
+    "answer": "जिम असमआव दङ"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Bodo sentence for 'She is singing a song'",
+    "options": [
+      "बि माय जानो दङ",
+      "जिम क्रिकेट खेलनो दङ",
+      "बि गीत गानो दङ",
+      "आङ स्कूलआव जानो दङ"
+    ],
+    "answer": "बि गीत गानो दङ"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "नों गाबै जानो? - बजारआव",
+      "नों अंग्रेजी राव गोनाङा? - हाँ, थोड़ा",
+      "नोनि मिङ माव? - आङा मिङ रवि",
+      "नों कैदै नङा? - आङ गोजौ"
+    ],
+    "answer": "नों कैदै नङा? - आङ गोजौ"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "नों आङाखौ मदद गोनाङो? - जरुर",
+      "नोनि मिङ माव? - आङा मिङ रवि",
+      "नों अंग्रेजी राव गोनाङा? - हाँ, थोड़ा",
+      "नों गाबै जानो? - बजारआव"
+    ],
+    "answer": "नोनि मिङ माव? - आङा मिङ रवि"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "नों आङाखौ मदद गोनाङो? - जरुर",
+      "नों अंग्रेजी राव गोनाङा? - हाँ, थोड़ा",
+      "कैदै बेला? - बा बजे",
+      "नों गाबै जानो? - बजारआव"
+    ],
+    "answer": "नों गाबै जानो? - बजारआव"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "नों अंग्रेजी राव गोनाङा? - हाँ, थोड़ा",
+      "कैदै बेला? - बा बजे",
+      "नों आङाखौ मदद गोनाङो? - जरुर",
+      "बस स्टप गाबै? - उबै"
+    ],
+    "answer": "नों अंग्रेजी राव गोनाङा? - हाँ, थोड़ा"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "नों आङाखौ मदद गोनाङो? - जरुर",
+      "बस स्टप गाबै? - उबै",
+      "बे कैदै? - ५० रुपैया",
+      "कैदै बेला? - बा बजे"
+    ],
+    "answer": "नों आङाखौ मदद गोनाङो? - जरुर"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "दया गरि भित्र जा। - धन्यबाद",
+      "बस स्टप गाबै? - उबै",
+      "बे कैदै? - ५० रुपैया",
+      "कैदै बेला? - बा बजे"
+    ],
+    "answer": "कैदै बेला? - बा बजे"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "बस स्टप गाबै? - उबै",
+      "दया गरि भित्र जा। - धन्यबाद",
+      "बिदाय। - मुइङ्गौ जानाय",
+      "बे कैदै? - ५० रुपैया"
+    ],
+    "answer": "बस स्टप गाबै? - उबै"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "बे कैदै? - ५० रुपैया",
+      "बिदाय। - मुइङ्गौ जानाय",
+      "नों कैदै नङा? - आङ गोजौ",
+      "दया गरि भित्र जा। - धन्यबाद"
+    ],
+    "answer": "बे कैदै? - ५० रुपैया"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "दया गरि भित्र जा। - धन्यबाद",
+      "नोनि मिङ माव? - आङा मिङ रवि",
+      "नों कैदै नङा? - आङ गोजौ",
+      "बिदाय। - मुइङ्गौ जानाय"
+    ],
+    "answer": "दया गरि भित्र जा। - धन्यबाद"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Bodo dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "नों कैदै नङा? - आङ गोजौ",
+      "बिदाय। - मुइङ्गौ जानाय",
+      "नों गाबै जानो? - बजारआव",
+      "नोनि मिङ माव? - आङा मिङ रवि"
+    ],
+    "answer": "बिदाय। - मुइङ्गौ जानाय"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Bodo?",
+    "options": [
+      "छुट आछे नि?",
+      "काउन्टर गाबै?",
+      "बे कैदै?",
+      "आङा बेखौ गिदिन गोनाङ"
+    ],
+    "answer": "आङा बेखौ गिदिन गोनाङ"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Bodo?",
+    "options": [
+      "छुट आछे नि?",
+      "कार्ड लैनो नि?",
+      "काउन्टर गाबै?",
+      "बे कैदै?"
+    ],
+    "answer": "बे कैदै?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Bodo?",
+    "options": [
+      "काउन्टर गाबै?",
+      "कार्ड लैनो नि?",
+      "छुट आछे नि?",
+      "दया गरि बेखौ प्याक गर"
+    ],
+    "answer": "छुट आछे नि?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Bodo?",
+    "options": [
+      "काउन्टर गाबै?",
+      "आङाखौ बैग लागै",
+      "दया गरि बेखौ प्याक गर",
+      "कार्ड लैनो नि?"
+    ],
+    "answer": "काउन्टर गाबै?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Bodo?",
+    "options": [
+      "दया गरि बेखौ प्याक गर",
+      "बे मोनै नि?",
+      "आङाखौ बैग लागै",
+      "कार्ड लैनो नि?"
+    ],
+    "answer": "कार्ड लैनो नि?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Bodo?",
+    "options": [
+      "बे मोनै नि?",
+      "आङाखौ बैग लागै",
+      "दया गरि बेखौ प्याक गर",
+      "समय माव?"
+    ],
+    "answer": "दया गरि बेखौ प्याक गर"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Bodo?",
+    "options": [
+      "आङाखौ बैग लागै",
+      "बे मोनै नि?",
+      "समय माव?",
+      "आङा बेखौ कोसिस गोनाङो?"
+    ],
+    "answer": "आङाखौ बैग लागै"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Bodo?",
+    "options": [
+      "बे मोनै नि?",
+      "आङा बेखौ गिदिन गोनाङ",
+      "समय माव?",
+      "आङा बेखौ कोसिस गोनाङो?"
+    ],
+    "answer": "बे मोनै नि?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Bodo?",
+    "options": [
+      "आङा बेखौ कोसिस गोनाङो?",
+      "आङा बेखौ गिदिन गोनाङ",
+      "बे कैदै?",
+      "समय माव?"
+    ],
+    "answer": "समय माव?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Bodo?",
+    "options": [
+      "छुट आछे नि?",
+      "आङा बेखौ कोसिस गोनाङो?",
+      "बे कैदै?",
+      "आङा बेखौ गिदिन गोनाङ"
+    ],
+    "answer": "आङा बेखौ कोसिस गोनाङो?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Bodo?",
+    "options": [
+      "हवाई अड्डाआव कैदै जानो?",
+      "कैदै समय लागै?",
+      "सहरआव गाव बस?",
+      "रेल स्टेसन गाबै?"
+    ],
+    "answer": "रेल स्टेसन गाबै?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Bodo?",
+    "options": [
+      "सहरआव गाव बस?",
+      "बेयाव निफ्राय दूर नि?",
+      "हवाई अड्डाआव कैदै जानो?",
+      "कैदै समय लागै?"
+    ],
+    "answer": "हवाई अड्डाआव कैदै जानो?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Bodo?",
+    "options": [
+      "सहरआव गाव बस?",
+      "बेयाव निफ्राय दूर नि?",
+      "कैदै समय लागै?",
+      "ट्याक्सी गाबै पानो?"
+    ],
+    "answer": "सहरआव गाव बस?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Bodo?",
+    "options": [
+      "ट्याक्सी गाबै पानो?",
+      "कैदै समय लागै?",
+      "बेयाव निफ्राय दूर नि?",
+      "होटेल गाबै?"
+    ],
+    "answer": "कैदै समय लागै?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Bodo?",
+    "options": [
+      "बेयाव निफ्राय दूर नि?",
+      "होटेल गाबै?",
+      "न्यक्सावाव दिखानो गोनाङो?",
+      "ट्याक्सी गाबै पानो?"
+    ],
+    "answer": "बेयाव निफ्राय दूर नि?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Bodo?",
+    "options": [
+      "ट्याक्सी गाबै पानो?",
+      "न्यक्सावाव दिखानो गोनाङो?",
+      "होटेल गाबै?",
+      "बाथरुम गाबै?"
+    ],
+    "answer": "ट्याक्सी गाबै पानो?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Bodo?",
+    "options": [
+      "न्यक्सावाव दिखानो गोनाङो?",
+      "होटेल गाबै?",
+      "बाथरुम गाबै?",
+      "आङ लाम हराव"
+    ],
+    "answer": "होटेल गाबै?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Bodo?",
+    "options": [
+      "बाथरुम गाबै?",
+      "आङ लाम हराव",
+      "रेल स्टेसन गाबै?",
+      "न्यक्सावाव दिखानो गोनाङो?"
+    ],
+    "answer": "न्यक्सावाव दिखानो गोनाङो?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Bodo?",
+    "options": [
+      "बाथरुम गाबै?",
+      "आङ लाम हराव",
+      "रेल स्टेसन गाबै?",
+      "हवाई अड्डाआव कैदै जानो?"
+    ],
+    "answer": "बाथरुम गाबै?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Bodo?",
+    "options": [
+      "हवाई अड्डाआव कैदै जानो?",
+      "आङ लाम हराव",
+      "सहरआव गाव बस?",
+      "रेल स्टेसन गाबै?"
+    ],
+    "answer": "आङ लाम हराव"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Bodo?",
+    "options": [
+      "अस्पताल गाबै?",
+      "आङाखौ डाक्टर लागै",
+      "आङ बेमार",
+      "पुलिसखौ फोन गर"
+    ],
+    "answer": "पुलिसखौ फोन गर"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Bodo?",
+    "options": [
+      "मदद!",
+      "आङाखौ डाक्टर लागै",
+      "अस्पताल गाबै?",
+      "आङ बेमार"
+    ],
+    "answer": "आङाखौ डाक्टर लागै"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Bodo?",
+    "options": [
+      "मदद!",
+      "आङा वालेट हराव",
+      "अस्पताल गाबै?",
+      "आङ बेमार"
+    ],
+    "answer": "अस्पताल गाबै?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Bodo?",
+    "options": [
+      "मै आछे",
+      "मदद!",
+      "आङ बेमार",
+      "आङा वालेट हराव"
+    ],
+    "answer": "आङ बेमार"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Bodo?",
+    "options": [
+      "मै आछे",
+      "आङा वालेट हराव",
+      "आङा दुर्घटना होखै",
+      "मदद!"
+    ],
+    "answer": "मदद!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Bodo?",
+    "options": [
+      "मै आछे",
+      "आङा दुर्घटना होखै",
+      "आङाखौ चोट लागै",
+      "आङा वालेट हराव"
+    ],
+    "answer": "आङा वालेट हराव"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Bodo?",
+    "options": [
+      "मै आछे",
+      "आङाखौ चोट लागै",
+      "दया गरि आङाखौ मदद गर",
+      "आङा दुर्घटना होखै"
+    ],
+    "answer": "मै आछे"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Bodo?",
+    "options": [
+      "दया गरि आङाखौ मदद गर",
+      "पुलिसखौ फोन गर",
+      "आङाखौ चोट लागै",
+      "आङा दुर्घटना होखै"
+    ],
+    "answer": "आङा दुर्घटना होखै"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Bodo?",
+    "options": [
+      "आङाखौ चोट लागै",
+      "दया गरि आङाखौ मदद गर",
+      "आङाखौ डाक्टर लागै",
+      "पुलिसखौ फोन गर"
+    ],
+    "answer": "आङाखौ चोट लागै"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Bodo?",
+    "options": [
+      "आङाखौ डाक्टर लागै",
+      "अस्पताल गाबै?",
+      "दया गरि आङाखौ मदद गर",
+      "पुलिसखौ फोन गर"
+    ],
+    "answer": "दया गरि आङाखौ मदद गर"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Bodo?",
+    "options": [
+      "नोनि योजना माव?",
+      "दिनै बेलुकि नों फ्री नि?",
+      "सिनेमा नैनो जाय",
+      "गाबोन मुइङ्गौ जानाय"
+    ],
+    "answer": "नोनि योजना माव?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Bodo?",
+    "options": [
+      "दिनै बेलुकि नों फ्री नि?",
+      "सिनेमा नैनो जाय",
+      "गाबोन मुइङ्गौ जानाय",
+      "जिम एकेलगे जा जानाय नि?"
+    ],
+    "answer": "गाबोन मुइङ्गौ जानाय"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Bodo?",
+    "options": [
+      "जिम एकेलगे जा जानाय नि?",
+      "नों जिमजों मिलनो गोनाङो?",
+      "सिनेमा नैनो जाय",
+      "दिनै बेलुकि नों फ्री नि?"
+    ],
+    "answer": "दिनै बेलुकि नों फ्री नि?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Bodo?",
+    "options": [
+      "सिनेमा नैनो जाय",
+      "नों जिमजों मिलनो गोनाङो?",
+      "जिम एकेलगे जा जानाय नि?",
+      "आङ दिनै बिजी"
+    ],
+    "answer": "सिनेमा नैनो जाय"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Bodo?",
+    "options": [
+      "बादआव जानाय",
+      "आङ दिनै बिजी",
+      "जिम एकेलगे जा जानाय नि?",
+      "नों जिमजों मिलनो गोनाङो?"
+    ],
+    "answer": "जिम एकेलगे जा जानाय नि?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Bodo?",
+    "options": [
+      "नों जिमजों मिलनो गोनाङो?",
+      "आङा नोंखौ फोन गोनाङ",
+      "आङ दिनै बिजी",
+      "बादआव जानाय"
+    ],
+    "answer": "नों जिमजों मिलनो गोनाङो?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Bodo?",
+    "options": [
+      "उत्सव मनाय",
+      "आङा नोंखौ फोन गोनाङ",
+      "बादआव जानाय",
+      "आङ दिनै बिजी"
+    ],
+    "answer": "आङ दिनै बिजी"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Bodo?",
+    "options": [
+      "नोनि योजना माव?",
+      "आङा नोंखौ फोन गोनाङ",
+      "उत्सव मनाय",
+      "बादआव जानाय"
+    ],
+    "answer": "बादआव जानाय"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Bodo?",
+    "options": [
+      "उत्सव मनाय",
+      "गाबोन मुइङ्गौ जानाय",
+      "नोनि योजना माव?",
+      "आङा नोंखौ फोन गोनाङ"
+    ],
+    "answer": "आङा नोंखौ फोन गोनाङ"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Bodo",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Bodo?",
+    "options": [
+      "उत्सव मनाय",
+      "नोनि योजना माव?",
+      "गाबोन मुइङ्गौ जानाय",
+      "दिनै बेलुकि नों फ्री नि?"
+    ],
+    "answer": "उत्सव मनाय"
+  }
+]

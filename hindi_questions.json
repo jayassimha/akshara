@@ -1,0 +1,5412 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'a'?",
+    "options": [
+      "ई",
+      "आ",
+      "ऐ",
+      "अ"
+    ],
+    "answer": "अ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'aa'?",
+    "options": [
+      "अ",
+      "आ",
+      "ऐ",
+      "ए"
+    ],
+    "answer": "आ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'i'?",
+    "options": [
+      "आ",
+      "उ",
+      "इ",
+      "ऐ"
+    ],
+    "answer": "इ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'ee'?",
+    "options": [
+      "ऊ",
+      "ए",
+      "ई",
+      "इ"
+    ],
+    "answer": "ई"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'u'?",
+    "options": [
+      "उ",
+      "ओ",
+      "इ",
+      "ऐ"
+    ],
+    "answer": "उ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'oo'?",
+    "options": [
+      "ऊ",
+      "औ",
+      "ए",
+      "अ"
+    ],
+    "answer": "ऊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'e'?",
+    "options": [
+      "ऊ",
+      "ऐ",
+      "ए",
+      "अ"
+    ],
+    "answer": "ए"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'ai'?",
+    "options": [
+      "उ",
+      "ऐ",
+      "ऊ",
+      "अ"
+    ],
+    "answer": "ऐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'o'?",
+    "options": [
+      "उ",
+      "ई",
+      "ऐ",
+      "ओ"
+    ],
+    "answer": "ओ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Hindi vowel for 'au'?",
+    "options": [
+      "ऐ",
+      "ए",
+      "औ",
+      "ऊ"
+    ],
+    "answer": "औ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'ka'?",
+    "options": [
+      "झ",
+      "ज",
+      "ठ",
+      "क"
+    ],
+    "answer": "क"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'kha'?",
+    "options": [
+      "च",
+      "क",
+      "ठ",
+      "ख"
+    ],
+    "answer": "ख"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'ga'?",
+    "options": [
+      "च",
+      "ग",
+      "ठ",
+      "ट"
+    ],
+    "answer": "ग"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'gha'?",
+    "options": [
+      "घ",
+      "झ",
+      "ट",
+      "क"
+    ],
+    "answer": "घ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'cha'?",
+    "options": [
+      "च",
+      "झ",
+      "ठ",
+      "क"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'chha'?",
+    "options": [
+      "ग",
+      "ज",
+      "क",
+      "छ"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'ja'?",
+    "options": [
+      "झ",
+      "घ",
+      "च",
+      "ज"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'jha'?",
+    "options": [
+      "ख",
+      "झ",
+      "ट",
+      "छ"
+    ],
+    "answer": "झ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'ta'?",
+    "options": [
+      "छ",
+      "ट",
+      "ठ",
+      "च"
+    ],
+    "answer": "ट"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Hindi consonant for 'tha'?",
+    "options": [
+      "घ",
+      "ठ",
+      "छ",
+      "क"
+    ],
+    "answer": "ठ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'का'?",
+    "options": [
+      "रा",
+      "नो",
+      "का",
+      "ले"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'पु'?",
+    "options": [
+      "सू",
+      "रा",
+      "वु",
+      "पु"
+    ],
+    "answer": "पु"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'मि'?",
+    "options": [
+      "ले",
+      "नो",
+      "वु",
+      "मि"
+    ],
+    "answer": "मि"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'ते'?",
+    "options": [
+      "ते",
+      "ले",
+      "पु",
+      "दि"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'सू'?",
+    "options": [
+      "सू",
+      "वु",
+      "पु",
+      "रा"
+    ],
+    "answer": "सू"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'नो'?",
+    "options": [
+      "मि",
+      "नो",
+      "दि",
+      "ते"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'रा'?",
+    "options": [
+      "मि",
+      "रा",
+      "वु",
+      "का"
+    ],
+    "answer": "रा"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'ले'?",
+    "options": [
+      "पु",
+      "ले",
+      "नो",
+      "रा"
+    ],
+    "answer": "ले"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'दि'?",
+    "options": [
+      "वु",
+      "दि",
+      "नो",
+      "का"
+    ],
+    "answer": "दि"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination that makes 'वु'?",
+    "options": [
+      "वु",
+      "नो",
+      "ले",
+      "पु"
+    ],
+    "answer": "वु"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पुस्तक'? (in Hindi)",
+    "options": [
+      "Flower",
+      "Pen",
+      "Book",
+      "Speak"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'कलम'? (in Hindi)",
+    "options": [
+      "Pen",
+      "Speak",
+      "Water",
+      "Book"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'स्कूल'? (in Hindi)",
+    "options": [
+      "Language",
+      "Pen",
+      "School",
+      "Hand"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'हाथ'? (in Hindi)",
+    "options": [
+      "Pen",
+      "Hand",
+      "Fruit",
+      "Language"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फल'? (in Hindi)",
+    "options": [
+      "Water",
+      "Tree",
+      "Fruit",
+      "Speak"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फूल'? (in Hindi)",
+    "options": [
+      "Flower",
+      "Hand",
+      "Tree",
+      "Book"
+    ],
+    "answer": "Flower"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पेड़'? (in Hindi)",
+    "options": [
+      "Pen",
+      "Tree",
+      "Book",
+      "Language"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पानी'? (in Hindi)",
+    "options": [
+      "Fruit",
+      "Water",
+      "Book",
+      "Tree"
+    ],
+    "answer": "Water"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'बोलना'? (in Hindi)",
+    "options": [
+      "Flower",
+      "Book",
+      "Speak",
+      "Language"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'भाषा'? (in Hindi)",
+    "options": [
+      "Fruit",
+      "Speak",
+      "Book",
+      "Language"
+    ],
+    "answer": "Language"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'book'?",
+    "options": [
+      "पट्टी",
+      "मेज",
+      "खिड़की",
+      "पुस्तक"
+    ],
+    "answer": "पुस्तक"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'pen'?",
+    "options": [
+      "पट्टी",
+      "पंखा",
+      "कलम",
+      "मेज"
+    ],
+    "answer": "कलम"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'school'?",
+    "options": [
+      "स्कूल",
+      "पट्टी",
+      "दरवाजा",
+      "कुर्सी"
+    ],
+    "answer": "स्कूल"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'bag'?",
+    "options": [
+      "बैग",
+      "खिड़की",
+      "पट्टी",
+      "कुर्सी"
+    ],
+    "answer": "बैग"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'chair'?",
+    "options": [
+      "पंखा",
+      "कुर्सी",
+      "खिड़की",
+      "पट्टी"
+    ],
+    "answer": "कुर्सी"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'table'?",
+    "options": [
+      "पंखा",
+      "बैग",
+      "मेज",
+      "कुर्सी"
+    ],
+    "answer": "मेज"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'slate'?",
+    "options": [
+      "बैग",
+      "स्कूल",
+      "दरवाजा",
+      "पट्टी"
+    ],
+    "answer": "पट्टी"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'window'?",
+    "options": [
+      "खिड़की",
+      "दरवाजा",
+      "कलम",
+      "पुस्तक"
+    ],
+    "answer": "खिड़की"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'door'?",
+    "options": [
+      "पुस्तक",
+      "दरवाजा",
+      "पंखा",
+      "मेज"
+    ],
+    "answer": "दरवाजा"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Hindi word for 'fan'?",
+    "options": [
+      "कलम",
+      "बैग",
+      "पुस्तक",
+      "पंखा"
+    ],
+    "answer": "पंखा"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'rice'?",
+    "options": [
+      "मिठाई",
+      "चावल",
+      "मछली",
+      "पानी"
+    ],
+    "answer": "चावल"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'milk'?",
+    "options": [
+      "मछली",
+      "चावल",
+      "दूध",
+      "मिठाई"
+    ],
+    "answer": "दूध"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'fruit'?",
+    "options": [
+      "फल",
+      "रोटी",
+      "सब्जी",
+      "अंडा"
+    ],
+    "answer": "फल"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'vegetable'?",
+    "options": [
+      "मिठाई",
+      "पानी",
+      "सब्जी",
+      "चावल"
+    ],
+    "answer": "सब्जी"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'water'?",
+    "options": [
+      "दही",
+      "मिठाई",
+      "पानी",
+      "रोटी"
+    ],
+    "answer": "पानी"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'curd'?",
+    "options": [
+      "पानी",
+      "दही",
+      "सब्जी",
+      "चावल"
+    ],
+    "answer": "दही"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'bread'?",
+    "options": [
+      "सब्जी",
+      "अंडा",
+      "रोटी",
+      "दही"
+    ],
+    "answer": "रोटी"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'egg'?",
+    "options": [
+      "मिठाई",
+      "अंडा",
+      "सब्जी",
+      "पानी"
+    ],
+    "answer": "अंडा"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'fish'?",
+    "options": [
+      "मछली",
+      "दूध",
+      "अंडा",
+      "रोटी"
+    ],
+    "answer": "मछली"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'sweet'?",
+    "options": [
+      "दही",
+      "रोटी",
+      "मिठाई",
+      "अंडा"
+    ],
+    "answer": "मिठाई"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'mother'?",
+    "options": [
+      "माता",
+      "बेटी",
+      "चाचा",
+      "दादी"
+    ],
+    "answer": "माता"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'father'?",
+    "options": [
+      "चाचा",
+      "पिता",
+      "दादी",
+      "बेटा"
+    ],
+    "answer": "पिता"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'sister'?",
+    "options": [
+      "बेटी",
+      "भाई",
+      "बहन",
+      "दादा"
+    ],
+    "answer": "बहन"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'brother'?",
+    "options": [
+      "पिता",
+      "बहन",
+      "भाई",
+      "चाची"
+    ],
+    "answer": "भाई"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'grandmother'?",
+    "options": [
+      "चाचा",
+      "दादा",
+      "पिता",
+      "दादी"
+    ],
+    "answer": "दादी"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'grandfather'?",
+    "options": [
+      "बहन",
+      "बेटी",
+      "दादा",
+      "चाचा"
+    ],
+    "answer": "दादा"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'uncle'?",
+    "options": [
+      "चाचा",
+      "पिता",
+      "भाई",
+      "दादी"
+    ],
+    "answer": "चाचा"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'aunt'?",
+    "options": [
+      "माता",
+      "पिता",
+      "चाची",
+      "दादी"
+    ],
+    "answer": "चाची"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'son'?",
+    "options": [
+      "चाची",
+      "पिता",
+      "चाचा",
+      "बेटा"
+    ],
+    "answer": "बेटा"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Hindi word for 'daughter'?",
+    "options": [
+      "पिता",
+      "दादा",
+      "बेटी",
+      "दादी"
+    ],
+    "answer": "बेटी"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'tree'?",
+    "options": [
+      "पेड़",
+      "तारा",
+      "बारिश",
+      "फूल"
+    ],
+    "answer": "पेड़"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'flower'?",
+    "options": [
+      "सूर्य",
+      "फूल",
+      "पत्ता",
+      "तारा"
+    ],
+    "answer": "फूल"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'river'?",
+    "options": [
+      "नदी",
+      "सूर्य",
+      "पेड़",
+      "चांद"
+    ],
+    "answer": "नदी"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'mountain'?",
+    "options": [
+      "पत्ता",
+      "पहाड़",
+      "पेड़",
+      "फूल"
+    ],
+    "answer": "पहाड़"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'leaf'?",
+    "options": [
+      "पेड़",
+      "नदी",
+      "पत्ता",
+      "बारिश"
+    ],
+    "answer": "पत्ता"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'sky'?",
+    "options": [
+      "पत्ता",
+      "फूल",
+      "सूर्य",
+      "आकाश"
+    ],
+    "answer": "आकाश"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'rain'?",
+    "options": [
+      "चांद",
+      "पत्ता",
+      "बारिश",
+      "पेड़"
+    ],
+    "answer": "बारिश"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'sun'?",
+    "options": [
+      "तारा",
+      "आकाश",
+      "सूर्य",
+      "बारिश"
+    ],
+    "answer": "सूर्य"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'moon'?",
+    "options": [
+      "पेड़",
+      "चांद",
+      "पत्ता",
+      "आकाश"
+    ],
+    "answer": "चांद"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Hindi word for 'star'?",
+    "options": [
+      "पहाड़",
+      "नदी",
+      "सूर्य",
+      "तारा"
+    ],
+    "answer": "तारा"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'Hello'?",
+    "options": [
+      "शुभ रात्रि",
+      "अलविदा",
+      "आप कैसे हैं?",
+      "नमस्ते"
+    ],
+    "answer": "नमस्ते"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'Good morning'?",
+    "options": [
+      "शुभ संध्या",
+      "सुप्रभात",
+      "मैं ठीक हूं",
+      "आप कैसे हैं?"
+    ],
+    "answer": "सुप्रभात"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'Good evening'?",
+    "options": [
+      "फिर मिलेंगे",
+      "शुभ संध्या",
+      "नमस्ते",
+      "सुप्रभात"
+    ],
+    "answer": "शुभ संध्या"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'Good night'?",
+    "options": [
+      "शुभ रात्रि",
+      "नमस्ते",
+      "धन्यवाद",
+      "आप कैसे हैं?"
+    ],
+    "answer": "शुभ रात्रि"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'Welcome'?",
+    "options": [
+      "आप कैसे हैं?",
+      "स्वागत",
+      "सुप्रभात",
+      "शुभ रात्रि"
+    ],
+    "answer": "स्वागत"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'Goodbye'?",
+    "options": [
+      "सुप्रभात",
+      "अलविदा",
+      "शुभ संध्या",
+      "फिर मिलेंगे"
+    ],
+    "answer": "अलविदा"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'See you later'?",
+    "options": [
+      "फिर मिलेंगे",
+      "शुभ संध्या",
+      "मैं ठीक हूं",
+      "आप कैसे हैं?"
+    ],
+    "answer": "फिर मिलेंगे"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'How are you?'?",
+    "options": [
+      "शुभ रात्रि",
+      "आप कैसे हैं?",
+      "स्वागत",
+      "फिर मिलेंगे"
+    ],
+    "answer": "आप कैसे हैं?"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'I am fine'?",
+    "options": [
+      "शुभ रात्रि",
+      "मैं ठीक हूं",
+      "स्वागत",
+      "अलविदा"
+    ],
+    "answer": "मैं ठीक हूं"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "What is the Hindi phrase for 'Thank you'?",
+    "options": [
+      "धन्यवाद",
+      "नमस्ते",
+      "स्वागत",
+      "शुभ संध्या"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'My name is'?",
+    "options": [
+      "मैं में पढ़ता हूं",
+      "मेरा नाम है",
+      "मैं साल का हूं",
+      "मुझे पसंद है"
+    ],
+    "answer": "मेरा नाम है"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I am from'?",
+    "options": [
+      "मैं शिक्षक हूं",
+      "मैं में पढ़ता हूं",
+      "मैं हिंदी बोलता हूं",
+      "मैं से हूं"
+    ],
+    "answer": "मैं से हूं"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I am a student'?",
+    "options": [
+      "मैं में काम करता हूं",
+      "मैं में पढ़ता हूं",
+      "मेरा नाम है",
+      "मैं छात्र हूं"
+    ],
+    "answer": "मैं छात्र हूं"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I am a teacher'?",
+    "options": [
+      "मैं में पढ़ता हूं",
+      "मैं में काम करता हूं",
+      "मैं हिंदी बोलता हूं",
+      "मैं शिक्षक हूं"
+    ],
+    "answer": "मैं शिक्षक हूं"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I live in'?",
+    "options": [
+      "मैं में काम करता हूं",
+      "मुझे पसंद है",
+      "मैं शिक्षक हूं",
+      "मैं में रहता हूं"
+    ],
+    "answer": "मैं में रहता हूं"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I am years old'?",
+    "options": [
+      "मैं साल का हूं",
+      "मैं हिंदी बोलता हूं",
+      "मेरा नाम है",
+      "मैं छात्र हूं"
+    ],
+    "answer": "मैं साल का हूं"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I study in'?",
+    "options": [
+      "मैं में काम करता हूं",
+      "मेरा नाम है",
+      "मुझे पसंद है",
+      "मैं में पढ़ता हूं"
+    ],
+    "answer": "मैं में पढ़ता हूं"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I work in'?",
+    "options": [
+      "मैं में काम करता हूं",
+      "मैं में पढ़ता हूं",
+      "मैं साल का हूं",
+      "मुझे पसंद है"
+    ],
+    "answer": "मैं में काम करता हूं"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I like'?",
+    "options": [
+      "मुझे पसंद है",
+      "मैं में पढ़ता हूं",
+      "मेरा नाम है",
+      "मैं से हूं"
+    ],
+    "answer": "मुझे पसंद है"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "What is the Hindi phrase for 'I speak Hindi'?",
+    "options": [
+      "मैं में पढ़ता हूं",
+      "मैं हिंदी बोलता हूं",
+      "मुझे पसंद है",
+      "मैं शिक्षक हूं"
+    ],
+    "answer": "मैं हिंदी बोलता हूं"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Yes'?",
+    "options": [
+      "हां",
+      "निश्चित रूप से",
+      "अक्सर",
+      "बिल्कुल"
+    ],
+    "answer": "हां"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'No'?",
+    "options": [
+      "कभी कभी",
+      "हमेशा",
+      "शायद",
+      "नहीं"
+    ],
+    "answer": "नहीं"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Maybe'?",
+    "options": [
+      "शायद ही कभी",
+      "शायद",
+      "अक्सर",
+      "कभी कभी"
+    ],
+    "answer": "शायद"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Of course'?",
+    "options": [
+      "हां",
+      "अक्सर",
+      "नहीं",
+      "बिल्कुल"
+    ],
+    "answer": "बिल्कुल"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Certainly'?",
+    "options": [
+      "शायद ही कभी",
+      "निश्चित रूप से",
+      "कभी कभी",
+      "हां"
+    ],
+    "answer": "निश्चित रूप से"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Never'?",
+    "options": [
+      "शायद ही कभी",
+      "कभी कभी",
+      "हमेशा",
+      "कभी नहीं"
+    ],
+    "answer": "कभी नहीं"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Always'?",
+    "options": [
+      "बिल्कुल",
+      "निश्चित रूप से",
+      "हमेशा",
+      "नहीं"
+    ],
+    "answer": "हमेशा"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Sometimes'?",
+    "options": [
+      "अक्सर",
+      "कभी कभी",
+      "बिल्कुल",
+      "हमेशा"
+    ],
+    "answer": "कभी कभी"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Often'?",
+    "options": [
+      "हमेशा",
+      "शायद ही कभी",
+      "कभी नहीं",
+      "अक्सर"
+    ],
+    "answer": "अक्सर"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "What is the Hindi phrase for 'Rarely'?",
+    "options": [
+      "अक्सर",
+      "कभी नहीं",
+      "हमेशा",
+      "शायद ही कभी"
+    ],
+    "answer": "शायद ही कभी"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Please'?",
+    "options": [
+      "कृपया",
+      "धन्यवाद",
+      "अपना ख्याल रखें",
+      "शुभकामनाएं"
+    ],
+    "answer": "कृपया"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Sorry'?",
+    "options": [
+      "भगवान आपको आशीर्वाद दे",
+      "कृपया",
+      "माफ करें",
+      "आपका दिन शुभ हो"
+    ],
+    "answer": "माफ करें"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Excuse me'?",
+    "options": [
+      "माफ करें",
+      "अपना ख्याल रखें",
+      "कृपया",
+      "भगवान आपको आशीर्वाद दे"
+    ],
+    "answer": "माफ करें"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Thank you'?",
+    "options": [
+      "माफ करें",
+      "शुभकामनाएं",
+      "धन्यवाद",
+      "आपका दिन शुभ हो"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'You are welcome'?",
+    "options": [
+      "आपका स्वागत है",
+      "भगवान आपको आशीर्वाद दे",
+      "आपका दिन शुभ हो",
+      "धन्यवाद"
+    ],
+    "answer": "आपका स्वागत है"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Bless you'?",
+    "options": [
+      "अपना ख्याल रखें",
+      "धन्यवाद",
+      "माफ करें",
+      "भगवान आपको आशीर्वाद दे"
+    ],
+    "answer": "भगवान आपको आशीर्वाद दे"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Congratulations'?",
+    "options": [
+      "भगवान आपको आशीर्वाद दे",
+      "बधाई हो",
+      "आपका दिन शुभ हो",
+      "माफ करें"
+    ],
+    "answer": "बधाई हो"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Good luck'?",
+    "options": [
+      "भगवान आपको आशीर्वाद दे",
+      "शुभकामनाएं",
+      "बधाई हो",
+      "आपका स्वागत है"
+    ],
+    "answer": "शुभकामनाएं"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Take care'?",
+    "options": [
+      "बधाई हो",
+      "भगवान आपको आशीर्वाद दे",
+      "माफ करें",
+      "अपना ख्याल रखें"
+    ],
+    "answer": "अपना ख्याल रखें"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Hindi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "What is the Hindi phrase for 'Have a nice day'?",
+    "options": [
+      "आपका दिन शुभ हो",
+      "माफ करें",
+      "आपका स्वागत है",
+      "बधाई हो"
+    ],
+    "answer": "आपका दिन शुभ हो"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'का'?",
+    "options": [
+      "का",
+      "छा",
+      "चो",
+      "झू"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'खि'?",
+    "options": [
+      "टे",
+      "ठो",
+      "गु",
+      "खि"
+    ],
+    "answer": "खि"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'गु'?",
+    "options": [
+      "खि",
+      "ठो",
+      "गु",
+      "छा"
+    ],
+    "answer": "गु"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'घे'?",
+    "options": [
+      "ठो",
+      "छा",
+      "झू",
+      "घे"
+    ],
+    "answer": "घे"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'चो'?",
+    "options": [
+      "चो",
+      "का",
+      "झू",
+      "ठो"
+    ],
+    "answer": "चो"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'छा'?",
+    "options": [
+      "ठो",
+      "का",
+      "घे",
+      "छा"
+    ],
+    "answer": "छा"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'जी'?",
+    "options": [
+      "घे",
+      "जी",
+      "का",
+      "चो"
+    ],
+    "answer": "जी"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'झू'?",
+    "options": [
+      "ठो",
+      "गु",
+      "झू",
+      "चो"
+    ],
+    "answer": "झू"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'टे'?",
+    "options": [
+      "छा",
+      "ठो",
+      "टे",
+      "गु"
+    ],
+    "answer": "टे"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the correct syllable 'ठो'?",
+    "options": [
+      "गु",
+      "झू",
+      "ठो",
+      "जी"
+    ],
+    "answer": "ठो"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'क्ष'?",
+    "options": [
+      "क्ष",
+      "त्र",
+      "द्र",
+      "ब्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'त्र'?",
+    "options": [
+      "स्व",
+      "क्ष",
+      "ब्र",
+      "त्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'ज्ञ'?",
+    "options": [
+      "त्र",
+      "ज्ञ",
+      "द्र",
+      "द्व"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'श्र'?",
+    "options": [
+      "ग्र",
+      "ज्ञ",
+      "द्र",
+      "श्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'द्व'?",
+    "options": [
+      "ब्र",
+      "श्र",
+      "द्व",
+      "द्र"
+    ],
+    "answer": "द्व"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'स्व'?",
+    "options": [
+      "स्व",
+      "द्व",
+      "द्र",
+      "ग्र"
+    ],
+    "answer": "स्व"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'प्र'?",
+    "options": [
+      "क्ष",
+      "प्र",
+      "स्व",
+      "त्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'ब्र'?",
+    "options": [
+      "ज्ञ",
+      "क्ष",
+      "ब्र",
+      "श्र"
+    ],
+    "answer": "ब्र"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'ग्र'?",
+    "options": [
+      "ग्र",
+      "ब्र",
+      "क्ष",
+      "श्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the correct ligature 'द्र'?",
+    "options": [
+      "ब्र",
+      "द्र",
+      "स्व",
+      "द्व"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'क़'?",
+    "options": [
+      "ऋ",
+      "क़",
+      "ज़",
+      "फ़"
+    ],
+    "answer": "क़"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ख़'?",
+    "options": [
+      "ऌ",
+      "ऋ",
+      "क़",
+      "ख़"
+    ],
+    "answer": "ख़"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ग़'?",
+    "options": [
+      "ड़",
+      "ग़",
+      "ढ़",
+      "ऌ"
+    ],
+    "answer": "ग़"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ज़'?",
+    "options": [
+      "क़",
+      "ड़",
+      "ज़",
+      "ॠ"
+    ],
+    "answer": "ज़"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'फ़'?",
+    "options": [
+      "ख़",
+      "फ़",
+      "क़",
+      "ज़"
+    ],
+    "answer": "फ़"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ड़'?",
+    "options": [
+      "ज़",
+      "ड़",
+      "फ़",
+      "ख़"
+    ],
+    "answer": "ड़"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ढ़'?",
+    "options": [
+      "ऌ",
+      "ग़",
+      "ऋ",
+      "ढ़"
+    ],
+    "answer": "ढ़"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ऋ'?",
+    "options": [
+      "ऋ",
+      "ख़",
+      "ॠ",
+      "ड़"
+    ],
+    "answer": "ऋ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ॠ'?",
+    "options": [
+      "ड़",
+      "ग़",
+      "ॠ",
+      "फ़"
+    ],
+    "answer": "ॠ"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the rare Hindi letter 'ऌ'?",
+    "options": [
+      "ऌ",
+      "ग़",
+      "ढ़",
+      "ॠ"
+    ],
+    "answer": "ऌ"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "क्षेत्र",
+    "options": [
+      "श्र",
+      "क्ष",
+      "स्व",
+      "ग्र"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "त्रिकोण",
+    "options": [
+      "ग्र",
+      "द्व",
+      "त्र",
+      "श्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "ज्ञान",
+    "options": [
+      "त्र",
+      "ब्र",
+      "ज्ञ",
+      "स्व"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "श्रम",
+    "options": [
+      "श्र",
+      "त्र",
+      "ग्र",
+      "ब्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "द्वार",
+    "options": [
+      "क्ष",
+      "प्र",
+      "श्र",
+      "द्व"
+    ],
+    "answer": "द्व"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "स्वतंत्र",
+    "options": [
+      "त्र",
+      "द्र",
+      "ब्र",
+      "स्व"
+    ],
+    "answer": "स्व"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "प्रकाश",
+    "options": [
+      "त्र",
+      "ज्ञ",
+      "स्व",
+      "प्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "ब्रह्मा",
+    "options": [
+      "द्व",
+      "ब्र",
+      "द्र",
+      "ज्ञ"
+    ],
+    "answer": "ब्र"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "ग्रह",
+    "options": [
+      "श्र",
+      "ग्र",
+      "क्ष",
+      "द्व"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Hindi letter is used in the word {audio_only}?",
+    "hiddenWord": "द्रव",
+    "options": [
+      "द्र",
+      "ज्ञ",
+      "ब्र",
+      "श्र"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Sunday'?",
+    "options": [
+      "शनिवार",
+      "रविवार",
+      "बुधवार",
+      "कल"
+    ],
+    "answer": "रविवार"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Monday'?",
+    "options": [
+      "कल",
+      "गुरुवार",
+      "शनिवार",
+      "सोमवार"
+    ],
+    "answer": "सोमवार"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Tuesday'?",
+    "options": [
+      "रविवार",
+      "बुधवार",
+      "आज",
+      "मंगलवार"
+    ],
+    "answer": "मंगलवार"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Wednesday'?",
+    "options": [
+      "शनिवार",
+      "बुधवार",
+      "शुक्रवार",
+      "सोमवार"
+    ],
+    "answer": "बुधवार"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Thursday'?",
+    "options": [
+      "गुरुवार",
+      "रविवार",
+      "आज",
+      "शनिवार"
+    ],
+    "answer": "गुरुवार"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Friday'?",
+    "options": [
+      "शनिवार",
+      "गुरुवार",
+      "शुक्रवार",
+      "कल"
+    ],
+    "answer": "शुक्रवार"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Saturday'?",
+    "options": [
+      "कल",
+      "शुक्रवार",
+      "शनिवार",
+      "कल"
+    ],
+    "answer": "शनिवार"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Today'?",
+    "options": [
+      "गुरुवार",
+      "आज",
+      "मंगलवार",
+      "बुधवार"
+    ],
+    "answer": "आज"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Tomorrow'?",
+    "options": [
+      "मंगलवार",
+      "सोमवार",
+      "शनिवार",
+      "कल"
+    ],
+    "answer": "कल"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Hindi word for 'Yesterday'?",
+    "options": [
+      "बुधवार",
+      "शनिवार",
+      "रविवार",
+      "कल"
+    ],
+    "answer": "कल"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'red'?",
+    "options": [
+      "सफेद",
+      "लाल",
+      "भूरा",
+      "नारंगी"
+    ],
+    "answer": "लाल"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'blue'?",
+    "options": [
+      "नारंगी",
+      "बैंगनी",
+      "नीला",
+      "गुलाबी"
+    ],
+    "answer": "नीला"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'green'?",
+    "options": [
+      "हरा",
+      "काला",
+      "लाल",
+      "सफेद"
+    ],
+    "answer": "हरा"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'yellow'?",
+    "options": [
+      "हरा",
+      "लाल",
+      "पीला",
+      "भूरा"
+    ],
+    "answer": "पीला"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'black'?",
+    "options": [
+      "हरा",
+      "गुलाबी",
+      "काला",
+      "नारंगी"
+    ],
+    "answer": "काला"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'white'?",
+    "options": [
+      "सफेद",
+      "हरा",
+      "भूरा",
+      "गुलाबी"
+    ],
+    "answer": "सफेद"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'orange'?",
+    "options": [
+      "काला",
+      "नारंगी",
+      "भूरा",
+      "सफेद"
+    ],
+    "answer": "नारंगी"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'purple'?",
+    "options": [
+      "नारंगी",
+      "गुलाबी",
+      "नीला",
+      "बैंगनी"
+    ],
+    "answer": "बैंगनी"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'pink'?",
+    "options": [
+      "नीला",
+      "गुलाबी",
+      "लाल",
+      "नारंगी"
+    ],
+    "answer": "गुलाबी"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Hindi word for 'brown'?",
+    "options": [
+      "लाल",
+      "नारंगी",
+      "भूरा",
+      "काला"
+    ],
+    "answer": "भूरा"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'one'?",
+    "options": [
+      "एक",
+      "दो",
+      "तीन",
+      "सात"
+    ],
+    "answer": "एक"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'two'?",
+    "options": [
+      "छह",
+      "दो",
+      "तीन",
+      "पांच"
+    ],
+    "answer": "दो"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'three'?",
+    "options": [
+      "आठ",
+      "तीन",
+      "सात",
+      "पांच"
+    ],
+    "answer": "तीन"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'four'?",
+    "options": [
+      "दो",
+      "चार",
+      "एक",
+      "दस"
+    ],
+    "answer": "चार"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'five'?",
+    "options": [
+      "पांच",
+      "आठ",
+      "दो",
+      "चार"
+    ],
+    "answer": "पांच"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'six'?",
+    "options": [
+      "एक",
+      "सात",
+      "छह",
+      "दो"
+    ],
+    "answer": "छह"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'seven'?",
+    "options": [
+      "सात",
+      "छह",
+      "दस",
+      "चार"
+    ],
+    "answer": "सात"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'eight'?",
+    "options": [
+      "एक",
+      "दो",
+      "दस",
+      "आठ"
+    ],
+    "answer": "आठ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'nine'?",
+    "options": [
+      "नौ",
+      "आठ",
+      "एक",
+      "पांच"
+    ],
+    "answer": "नौ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Hindi word for 'ten'?",
+    "options": [
+      "दस",
+      "दो",
+      "तीन",
+      "सात"
+    ],
+    "answer": "दस"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'curry'?",
+    "options": [
+      "लस्सी",
+      "कॉफी",
+      "मिठाई",
+      "करी"
+    ],
+    "answer": "करी"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'dal'?",
+    "options": [
+      "समोसा",
+      "चाय",
+      "दाल",
+      "लस्सी"
+    ],
+    "answer": "दाल"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'chapati'?",
+    "options": [
+      "लस्सी",
+      "चपाती",
+      "करी",
+      "अचार"
+    ],
+    "answer": "चपाती"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'samosa'?",
+    "options": [
+      "अचार",
+      "चपाती",
+      "समोसा",
+      "लस्सी"
+    ],
+    "answer": "समोसा"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'tea'?",
+    "options": [
+      "करी",
+      "चाय",
+      "मसाले",
+      "चपाती"
+    ],
+    "answer": "चाय"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'coffee'?",
+    "options": [
+      "मसाले",
+      "कॉफी",
+      "समोसा",
+      "चाय"
+    ],
+    "answer": "कॉफी"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'lassi'?",
+    "options": [
+      "दाल",
+      "समोसा",
+      "लस्सी",
+      "मसाले"
+    ],
+    "answer": "लस्सी"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'pickle'?",
+    "options": [
+      "मसाले",
+      "करी",
+      "समोसा",
+      "अचार"
+    ],
+    "answer": "अचार"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'sweets'?",
+    "options": [
+      "करी",
+      "मसाले",
+      "मिठाई",
+      "दाल"
+    ],
+    "answer": "मिठाई"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Hindi word for 'spices'?",
+    "options": [
+      "मसाले",
+      "करी",
+      "दाल",
+      "कॉफी"
+    ],
+    "answer": "मसाले"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'What is this?'?",
+    "options": [
+      "यह कहां है?",
+      "कितना?",
+      "यह क्या है?",
+      "कितने बजे?"
+    ],
+    "answer": "यह क्या है?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'Where is it?'?",
+    "options": [
+      "कब?",
+      "क्यों?",
+      "कैसे?",
+      "यह कहां है?"
+    ],
+    "answer": "यह कहां है?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'How much?'?",
+    "options": [
+      "कैसे?",
+      "कितने बजे?",
+      "कौन सा?",
+      "कितना?"
+    ],
+    "answer": "कितना?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'When?'?",
+    "options": [
+      "कितने?",
+      "यह कौन है?",
+      "यह कहां है?",
+      "कब?"
+    ],
+    "answer": "कब?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'Why?'?",
+    "options": [
+      "यह क्या है?",
+      "यह कहां है?",
+      "यह कौन है?",
+      "क्यों?"
+    ],
+    "answer": "क्यों?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'Who is this?'?",
+    "options": [
+      "यह कौन है?",
+      "कैसे?",
+      "कितने?",
+      "यह कहां है?"
+    ],
+    "answer": "यह कौन है?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'Which one?'?",
+    "options": [
+      "कैसे?",
+      "कितना?",
+      "कौन सा?",
+      "यह कौन है?"
+    ],
+    "answer": "कौन सा?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'How?'?",
+    "options": [
+      "कैसे?",
+      "यह क्या है?",
+      "यह कहां है?",
+      "कौन सा?"
+    ],
+    "answer": "कैसे?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'What time?'?",
+    "options": [
+      "कितने बजे?",
+      "कितने?",
+      "यह क्या है?",
+      "कौन सा?"
+    ],
+    "answer": "कितने बजे?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "What is the Hindi phrase for 'How many?'?",
+    "options": [
+      "यह क्या है?",
+      "कौन सा?",
+      "कितना?",
+      "कितने?"
+    ],
+    "answer": "कितने?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Please help'?",
+    "options": [
+      "खड़े हो जाएं",
+      "मुझे दें",
+      "मुझे बताएं",
+      "कृपया मदद करें"
+    ],
+    "answer": "कृपया मदद करें"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Give me'?",
+    "options": [
+      "मुझे दें",
+      "यहां आएं",
+      "कृपया मदद करें",
+      "सुनें"
+    ],
+    "answer": "मुझे दें"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Show me'?",
+    "options": [
+      "मुझे दिखाएं",
+      "देखें",
+      "खड़े हो जाएं",
+      "यहां आएं"
+    ],
+    "answer": "मुझे दिखाएं"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Tell me'?",
+    "options": [
+      "बैठ जाएं",
+      "कृपया मदद करें",
+      "मुझे बताएं",
+      "सुनें"
+    ],
+    "answer": "मुझे बताएं"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Wait please'?",
+    "options": [
+      "मुझे दिखाएं",
+      "बैठ जाएं",
+      "खड़े हो जाएं",
+      "कृपया प्रतीक्षा करें"
+    ],
+    "answer": "कृपया प्रतीक्षा करें"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Come here'?",
+    "options": [
+      "यहां आएं",
+      "कृपया मदद करें",
+      "सुनें",
+      "बैठ जाएं"
+    ],
+    "answer": "यहां आएं"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Sit down'?",
+    "options": [
+      "बैठ जाएं",
+      "सुनें",
+      "मुझे दिखाएं",
+      "मुझे बताएं"
+    ],
+    "answer": "बैठ जाएं"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Stand up'?",
+    "options": [
+      "खड़े हो जाएं",
+      "मुझे दें",
+      "बैठ जाएं",
+      "सुनें"
+    ],
+    "answer": "खड़े हो जाएं"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Listen'?",
+    "options": [
+      "कृपया मदद करें",
+      "मुझे दिखाएं",
+      "सुनें",
+      "यहां आएं"
+    ],
+    "answer": "सुनें"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "What is the Hindi phrase for 'Look'?",
+    "options": [
+      "कृपया मदद करें",
+      "देखें",
+      "मुझे दिखाएं",
+      "मुझे दें"
+    ],
+    "answer": "देखें"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'How much does this cost?'?",
+    "options": [
+      "इसकी कीमत क्या है?",
+      "बहुत महंगा",
+      "अच्छी गुणवत्ता",
+      "वह दिखाएं"
+    ],
+    "answer": "इसकी कीमत क्या है?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'I want to buy'?",
+    "options": [
+      "क्या आपके पास है?",
+      "नहीं धन्यवाद",
+      "मैं खरीदना चाहता हूं",
+      "सस्ता"
+    ],
+    "answer": "मैं खरीदना चाहता हूं"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'Do you have?'?",
+    "options": [
+      "क्या आपके पास है?",
+      "सस्ता",
+      "बिल दें",
+      "मैं ले लूंगा"
+    ],
+    "answer": "क्या आपके पास है?"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'Show me that'?",
+    "options": [
+      "वह दिखाएं",
+      "मैं खरीदना चाहता हूं",
+      "बहुत महंगा",
+      "बिल दें"
+    ],
+    "answer": "वह दिखाएं"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'Too expensive'?",
+    "options": [
+      "वह दिखाएं",
+      "अच्छी गुणवत्ता",
+      "सस्ता",
+      "बहुत महंगा"
+    ],
+    "answer": "बहुत महंगा"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'Cheap'?",
+    "options": [
+      "बहुत महंगा",
+      "नहीं धन्यवाद",
+      "सस्ता",
+      "अच्छी गुणवत्ता"
+    ],
+    "answer": "सस्ता"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'Good quality'?",
+    "options": [
+      "बहुत महंगा",
+      "मैं ले लूंगा",
+      "अच्छी गुणवत्ता",
+      "सस्ता"
+    ],
+    "answer": "अच्छी गुणवत्ता"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'I will take it'?",
+    "options": [
+      "अच्छी गुणवत्ता",
+      "वह दिखाएं",
+      "मैं ले लूंगा",
+      "सस्ता"
+    ],
+    "answer": "मैं ले लूंगा"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'No thank you'?",
+    "options": [
+      "इसकी कीमत क्या है?",
+      "बिल दें",
+      "नहीं धन्यवाद",
+      "क्या आपके पास है?"
+    ],
+    "answer": "नहीं धन्यवाद"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "What is the Hindi phrase for 'Bill please'?",
+    "options": [
+      "मैं खरीदना चाहता हूं",
+      "मैं ले लूंगा",
+      "बिल दें",
+      "सस्ता"
+    ],
+    "answer": "बिल दें"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Where is?'?",
+    "options": [
+      "यहां",
+      "रुकें",
+      "सीधे जाएं",
+      "कहां है?"
+    ],
+    "answer": "कहां है?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Go straight'?",
+    "options": [
+      "वहां",
+      "पास",
+      "सीधे जाएं",
+      "बाएं मुड़ें"
+    ],
+    "answer": "सीधे जाएं"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Turn left'?",
+    "options": [
+      "कहां है?",
+      "सीधे जाएं",
+      "पास",
+      "बाएं मुड़ें"
+    ],
+    "answer": "बाएं मुड़ें"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Turn right'?",
+    "options": [
+      "बाएं मुड़ें",
+      "पास",
+      "आगे बढ़ें",
+      "दाएं मुड़ें"
+    ],
+    "answer": "दाएं मुड़ें"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Near'?",
+    "options": [
+      "पास",
+      "दूर",
+      "आगे बढ़ें",
+      "वहां"
+    ],
+    "answer": "पास"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Far'?",
+    "options": [
+      "रुकें",
+      "कहां है?",
+      "दूर",
+      "दाएं मुड़ें"
+    ],
+    "answer": "दूर"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Here'?",
+    "options": [
+      "वहां",
+      "यहां",
+      "दूर",
+      "दाएं मुड़ें"
+    ],
+    "answer": "यहां"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'There'?",
+    "options": [
+      "वहां",
+      "सीधे जाएं",
+      "रुकें",
+      "कहां है?"
+    ],
+    "answer": "वहां"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Stop'?",
+    "options": [
+      "यहां",
+      "रुकें",
+      "कहां है?",
+      "दूर"
+    ],
+    "answer": "रुकें"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Hindi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "What is the Hindi phrase for 'Continue'?",
+    "options": [
+      "दाएं मुड़ें",
+      "कहां है?",
+      "पास",
+      "आगे बढ़ें"
+    ],
+    "answer": "आगे बढ़ें"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'I go (present)'?",
+    "options": [
+      "मैं जाऊंगा",
+      "मैं जाता हूं",
+      "वह खाता है",
+      "मैं गया"
+    ],
+    "answer": "मैं जाता हूं"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'I went (past)'?",
+    "options": [
+      "मैं गया",
+      "वह गई थी",
+      "वे आएंगे",
+      "मैं जाऊंगा"
+    ],
+    "answer": "मैं गया"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'I will go (future)'?",
+    "options": [
+      "मैं गया",
+      "वे आएंगे",
+      "वह गई थी",
+      "मैं जाऊंगा"
+    ],
+    "answer": "मैं जाऊंगा"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'He eats'?",
+    "options": [
+      "तुम सो रहे थे",
+      "उसने खाया",
+      "वे आएंगे",
+      "वह खाता है"
+    ],
+    "answer": "वह खाता है"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'She ate'?",
+    "options": [
+      "उसने खाया",
+      "तुम सो रहे थे",
+      "मैं जाऊंगा",
+      "मैंने किया है"
+    ],
+    "answer": "उसने खाया"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'They will come'?",
+    "options": [
+      "वे आएंगे",
+      "उसने खाया",
+      "मैं गया",
+      "मैंने किया है"
+    ],
+    "answer": "वे आएंगे"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'We are reading'?",
+    "options": [
+      "हम पढ़ रहे हैं",
+      "मैं जाऊंगा",
+      "उसने खाया",
+      "तुम सो रहे थे"
+    ],
+    "answer": "हम पढ़ रहे हैं"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'You were sleeping'?",
+    "options": [
+      "मैं गया",
+      "तुम सो रहे थे",
+      "वह खाता है",
+      "मैंने किया है"
+    ],
+    "answer": "तुम सो रहे थे"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'I have done'?",
+    "options": [
+      "तुम सो रहे थे",
+      "मैंने किया है",
+      "मैं जाता हूं",
+      "हम पढ़ रहे हैं"
+    ],
+    "answer": "मैंने किया है"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Hindi for 'She had gone'?",
+    "options": [
+      "वे आएंगे",
+      "वह गई थी",
+      "हम पढ़ रहे हैं",
+      "मैंने किया है"
+    ],
+    "answer": "वह गई थी"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'boy/boys'?",
+    "options": [
+      "किताब/किताबें",
+      "लड़का/लड़के",
+      "घर/घर",
+      "औरत/औरतें"
+    ],
+    "answer": "लड़का/लड़के"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'girl/girls'?",
+    "options": [
+      "लड़की/लड़कियां",
+      "आदमी/आदमी",
+      "औरत/औरतें",
+      "किताब/किताबें"
+    ],
+    "answer": "लड़की/लड़कियां"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'book/books'?",
+    "options": [
+      "बच्चा/बच्चे",
+      "जानवर/जानवर",
+      "किताब/किताबें",
+      "लड़की/लड़कियां"
+    ],
+    "answer": "किताब/किताबें"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'house/houses'?",
+    "options": [
+      "घर/घर",
+      "लड़का/लड़के",
+      "जानवर/जानवर",
+      "आदमी/आदमी"
+    ],
+    "answer": "घर/घर"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'tree/trees'?",
+    "options": [
+      "औरत/औरतें",
+      "पेड़/पेड़",
+      "घर/घर",
+      "आदमी/आदमी"
+    ],
+    "answer": "पेड़/पेड़"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'flower/flowers'?",
+    "options": [
+      "किताब/किताबें",
+      "जानवर/जानवर",
+      "फूल/फूल",
+      "घर/घर"
+    ],
+    "answer": "फूल/फूल"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'man/men'?",
+    "options": [
+      "बच्चा/बच्चे",
+      "लड़की/लड़कियां",
+      "औरत/औरतें",
+      "आदमी/आदमी"
+    ],
+    "answer": "आदमी/आदमी"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'woman/women'?",
+    "options": [
+      "फूल/फूल",
+      "आदमी/आदमी",
+      "बच्चा/बच्चे",
+      "औरत/औरतें"
+    ],
+    "answer": "औरत/औरतें"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'child/children'?",
+    "options": [
+      "किताब/किताबें",
+      "बच्चा/बच्चे",
+      "औरत/औरतें",
+      "आदमी/आदमी"
+    ],
+    "answer": "बच्चा/बच्चे"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Hindi for 'animal/animals'?",
+    "options": [
+      "बच्चा/बच्चे",
+      "फूल/फूल",
+      "पेड़/पेड़",
+      "जानवर/जानवर"
+    ],
+    "answer": "जानवर/जानवर"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'ने (agent)'?",
+    "options": [
+      "ने",
+      "का",
+      "को",
+      "से"
+    ],
+    "answer": "ने"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'को (object)'?",
+    "options": [
+      "का",
+      "को",
+      "में",
+      "भी"
+    ],
+    "answer": "को"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'से (from/with)'?",
+    "options": [
+      "से",
+      "का",
+      "को",
+      "ने"
+    ],
+    "answer": "से"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'में (in)'?",
+    "options": [
+      "से",
+      "में",
+      "तो",
+      "ही"
+    ],
+    "answer": "में"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'पर (on)'?",
+    "options": [
+      "पर",
+      "तो",
+      "को",
+      "ने"
+    ],
+    "answer": "पर"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'का/की/के (of)'?",
+    "options": [
+      "में",
+      "का",
+      "ने",
+      "तो"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'भी (also)'?",
+    "options": [
+      "ही",
+      "का",
+      "भी",
+      "तो"
+    ],
+    "answer": "भी"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'तो (then)'?",
+    "options": [
+      "का",
+      "तो",
+      "को",
+      "और"
+    ],
+    "answer": "तो"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'ही (only)'?",
+    "options": [
+      "ही",
+      "को",
+      "से",
+      "और"
+    ],
+    "answer": "ही"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Hindi for 'और (and)'?",
+    "options": [
+      "और",
+      "से",
+      "पर",
+      "में"
+    ],
+    "answer": "और"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'I do not go'?",
+    "options": [
+      "मैं नहीं जाता",
+      "वह नहीं आया",
+      "मत बोलो",
+      "हम नहीं पढ़ रहे"
+    ],
+    "answer": "मैं नहीं जाता"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'He did not come'?",
+    "options": [
+      "वह नहीं खाएगी",
+      "मैंने नहीं किया",
+      "वह नहीं आया",
+      "मैं नहीं जाता"
+    ],
+    "answer": "वह नहीं आया"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'She will not eat'?",
+    "options": [
+      "मैं नहीं जाता",
+      "वह नहीं खाएगी",
+      "मैंने नहीं किया",
+      "तुम वहां नहीं थे"
+    ],
+    "answer": "वह नहीं खाएगी"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'We are not reading'?",
+    "options": [
+      "मत जाओ",
+      "हम नहीं पढ़ रहे",
+      "मत खाओ",
+      "मैं नहीं जाता"
+    ],
+    "answer": "हम नहीं पढ़ रहे"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'You were not there'?",
+    "options": [
+      "मैं नहीं जाता",
+      "मत जाओ",
+      "मत बोलो",
+      "तुम वहां नहीं थे"
+    ],
+    "answer": "तुम वहां नहीं थे"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'I have not done'?",
+    "options": [
+      "मत जाओ",
+      "उन्होंने नहीं देखा",
+      "मैंने नहीं किया",
+      "मत खाओ"
+    ],
+    "answer": "मैंने नहीं किया"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'They had not seen'?",
+    "options": [
+      "मत खाओ",
+      "वह नहीं खाएगी",
+      "उन्होंने नहीं देखा",
+      "वह नहीं आया"
+    ],
+    "answer": "उन्होंने नहीं देखा"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'Do not go'?",
+    "options": [
+      "वह नहीं आया",
+      "उन्होंने नहीं देखा",
+      "वह नहीं खाएगी",
+      "मत जाओ"
+    ],
+    "answer": "मत जाओ"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'Do not eat'?",
+    "options": [
+      "हम नहीं पढ़ रहे",
+      "मत खाओ",
+      "मैं नहीं जाता",
+      "तुम वहां नहीं थे"
+    ],
+    "answer": "मत खाओ"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "What is the Hindi for 'Do not speak'?",
+    "options": [
+      "मत जाओ",
+      "मत बोलो",
+      "मैं नहीं जाता",
+      "मत खाओ"
+    ],
+    "answer": "मत बोलो"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: house'",
+    "options": [
+      "घर",
+      "व्यक्ति",
+      "चीज",
+      "पानी"
+    ],
+    "answer": "घर"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: water'",
+    "options": [
+      "पानी",
+      "खाना",
+      "काम",
+      "चीज"
+    ],
+    "answer": "पानी"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: food'",
+    "options": [
+      "समय",
+      "काम",
+      "खाना",
+      "व्यक्ति"
+    ],
+    "answer": "खाना"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: work'",
+    "options": [
+      "काम",
+      "घर",
+      "खाना",
+      "चीज"
+    ],
+    "answer": "काम"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: time'",
+    "options": [
+      "अच्छा",
+      "समय",
+      "घर",
+      "पानी"
+    ],
+    "answer": "समय"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: place'",
+    "options": [
+      "जगह",
+      "बुरा",
+      "व्यक्ति",
+      "अच्छा"
+    ],
+    "answer": "जगह"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: person'",
+    "options": [
+      "खाना",
+      "व्यक्ति",
+      "बुरा",
+      "पानी"
+    ],
+    "answer": "व्यक्ति"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: thing'",
+    "options": [
+      "अच्छा",
+      "घर",
+      "चीज",
+      "बुरा"
+    ],
+    "answer": "चीज"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: good'",
+    "options": [
+      "अच्छा",
+      "पानी",
+      "व्यक्ति",
+      "समय"
+    ],
+    "answer": "अच्छा"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "What did you hear? 'Listen: bad'",
+    "options": [
+      "समय",
+      "बुरा",
+      "पानी",
+      "काम"
+    ],
+    "answer": "बुरा"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'How are you?'",
+    "options": [
+      "कितने बजे हैं?",
+      "आप कहां से हैं?",
+      "आपकी उम्र क्या है?",
+      "आप कैसे हैं?"
+    ],
+    "answer": "आप कैसे हैं?"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'What is your name?'",
+    "options": [
+      "आपका नाम क्या है?",
+      "यह कितने का है?",
+      "आप कहां से हैं?",
+      "आप कैसे हैं?"
+    ],
+    "answer": "आपका नाम क्या है?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'Where do you live?'",
+    "options": [
+      "आप कहां रहते हैं?",
+      "बाजार कहां है?",
+      "आप क्या करते हैं?",
+      "आपकी उम्र क्या है?"
+    ],
+    "answer": "आप कहां रहते हैं?"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'What do you do?'",
+    "options": [
+      "आपका नाम क्या है?",
+      "आपकी उम्र क्या है?",
+      "आप क्या करते हैं?",
+      "कितने बजे हैं?"
+    ],
+    "answer": "आप क्या करते हैं?"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'How old are you?'",
+    "options": [
+      "बाजार कहां है?",
+      "क्या आप मेरी मदद कर सकते हैं?",
+      "आपकी उम्र क्या है?",
+      "आप कहां से हैं?"
+    ],
+    "answer": "आपकी उम्र क्या है?"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'Where are you from?'",
+    "options": [
+      "कितने बजे हैं?",
+      "यह कितने का है?",
+      "आप कहां से हैं?",
+      "आपका नाम क्या है?"
+    ],
+    "answer": "आप कहां से हैं?"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'What time is it?'",
+    "options": [
+      "कितने बजे हैं?",
+      "क्या आप मेरी मदद कर सकते हैं?",
+      "आप कहां रहते हैं?",
+      "यह कितने का है?"
+    ],
+    "answer": "कितने बजे हैं?"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'How much is this?'",
+    "options": [
+      "यह कितने का है?",
+      "आपकी उम्र क्या है?",
+      "आप कहां रहते हैं?",
+      "आपका नाम क्या है?"
+    ],
+    "answer": "यह कितने का है?"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'Where is the market?'",
+    "options": [
+      "आप कहां से हैं?",
+      "कितने बजे हैं?",
+      "आप कैसे हैं?",
+      "बाजार कहां है?"
+    ],
+    "answer": "बाजार कहां है?"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "What did you hear? 'Can you help me?'",
+    "options": [
+      "क्या आप मेरी मदद कर सकते हैं?",
+      "आप क्या करते हैं?",
+      "यह कितने का है?",
+      "कितने बजे हैं?"
+    ],
+    "answer": "क्या आप मेरी मदद कर सकते हैं?"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'I am going to school'",
+    "options": [
+      "वह ऑफिस में काम करता है",
+      "वह खाना बना रही है",
+      "उसे गाना पसंद है",
+      "मैं स्कूल जा रहा हूं"
+    ],
+    "answer": "मैं स्कूल जा रहा हूं"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'She is cooking food'",
+    "options": [
+      "हम टीवी देख रहे हैं",
+      "वे हिंदी बोलते हैं",
+      "वह खाना बना रही है",
+      "वह ऑफिस में काम करता है"
+    ],
+    "answer": "वह खाना बना रही है"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'We are watching TV'",
+    "options": [
+      "वे क्रिकेट खेल रहे हैं",
+      "मुझे किताबें पढ़ना पसंद है",
+      "वह ऑफिस में काम करता है",
+      "हम टीवी देख रहे हैं"
+    ],
+    "answer": "हम टीवी देख रहे हैं"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'They are playing cricket'",
+    "options": [
+      "वह खाना बना रही है",
+      "मुझे किताबें पढ़ना पसंद है",
+      "मैं स्कूल जा रहा हूं",
+      "वे क्रिकेट खेल रहे हैं"
+    ],
+    "answer": "वे क्रिकेट खेल रहे हैं"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'He works in an office'",
+    "options": [
+      "उसे गाना पसंद है",
+      "हम टीवी देख रहे हैं",
+      "वह ऑफिस में काम करता है",
+      "वह स्कूल में पढ़ाती है"
+    ],
+    "answer": "वह ऑफिस में काम करता है"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'She teaches in school'",
+    "options": [
+      "वे हिंदी बोलते हैं",
+      "वह स्कूल में पढ़ाती है",
+      "हम दिल्ली में रहते हैं",
+      "हम टीवी देख रहे हैं"
+    ],
+    "answer": "वह स्कूल में पढ़ाती है"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'We live in Delhi'",
+    "options": [
+      "वह ऑफिस में काम करता है",
+      "वह स्कूल में पढ़ाती है",
+      "हम दिल्ली में रहते हैं",
+      "हम टीवी देख रहे हैं"
+    ],
+    "answer": "हम दिल्ली में रहते हैं"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'They speak Hindi'",
+    "options": [
+      "वे हिंदी बोलते हैं",
+      "मुझे किताबें पढ़ना पसंद है",
+      "मैं स्कूल जा रहा हूं",
+      "वे क्रिकेट खेल रहे हैं"
+    ],
+    "answer": "वे हिंदी बोलते हैं"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'I like to read books'",
+    "options": [
+      "मुझे किताबें पढ़ना पसंद है",
+      "वह ऑफिस में काम करता है",
+      "वे क्रिकेट खेल रहे हैं",
+      "वे हिंदी बोलते हैं"
+    ],
+    "answer": "मुझे किताबें पढ़ना पसंद है"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "What did you hear? 'She loves to sing'",
+    "options": [
+      "मुझे किताबें पढ़ना पसंद है",
+      "उसे गाना पसंद है",
+      "वह खाना बना रही है",
+      "हम दिल्ली में रहते हैं"
+    ],
+    "answer": "उसे गाना पसंद है"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: Hello B: Hello'",
+    "options": [
+      "अ: कैसे हैं? ब: ठीक हूं",
+      "अ: स्टेशन कहां है? ब: सीधे जाएं",
+      "अ: सुप्रभात ब: सुप्रभात",
+      "अ: नमस्ते ब: नमस्ते"
+    ],
+    "answer": "अ: नमस्ते ब: नमस्ते"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: How are you? B: I am fine'",
+    "options": [
+      "अ: कैसे हैं? ब: ठीक हूं",
+      "अ: स्टेशन कहां है? ब: सीधे जाएं",
+      "अ: नाम क्या है? ब: राम है",
+      "अ: कितने का है? ब: दस रुपए"
+    ],
+    "answer": "अ: कैसे हैं? ब: ठीक हूं"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: What is your name? B: My name is Ram'",
+    "options": [
+      "अ: कैसे हैं? ब: ठीक हूं",
+      "अ: कितने का है? ब: दस रुपए",
+      "अ: सुप्रभात ब: सुप्रभात",
+      "अ: नाम क्या है? ब: राम है"
+    ],
+    "answer": "अ: नाम क्या है? ब: राम है"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: Where do you live? B: I live in Mumbai'",
+    "options": [
+      "अ: कहां रहते हैं? ब: मुंबई में",
+      "अ: क्या करते हैं? ब: शिक्षक हूं",
+      "अ: सुप्रभात ब: सुप्रभात",
+      "अ: कितने का है? ब: दस रुपए"
+    ],
+    "answer": "अ: कहां रहते हैं? ब: मुंबई में"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: What do you do? B: I am a teacher'",
+    "options": [
+      "अ: सुप्रभात ब: सुप्रभात",
+      "अ: कहां रहते हैं? ब: मुंबई में",
+      "अ: क्या करते हैं? ब: शिक्षक हूं",
+      "अ: स्टेशन कहां है? ब: सीधे जाएं"
+    ],
+    "answer": "अ: क्या करते हैं? ब: शिक्षक हूं"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: How much is this? B: Ten rupees'",
+    "options": [
+      "अ: कितने का है? ब: दस रुपए",
+      "अ: सुप्रभात ब: सुप्रभात",
+      "अ: अलविदा ब: अलविदा",
+      "अ: क्या करते हैं? ब: शिक्षक हूं"
+    ],
+    "answer": "अ: कितने का है? ब: दस रुपए"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: Where is the station? B: Go straight'",
+    "options": [
+      "अ: नमस्ते ब: नमस्ते",
+      "अ: कैसे हैं? ब: ठीक हूं",
+      "अ: क्या करते हैं? ब: शिक्षक हूं",
+      "अ: स्टेशन कहां है? ब: सीधे जाएं"
+    ],
+    "answer": "अ: स्टेशन कहां है? ब: सीधे जाएं"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: Thank you B: Welcome'",
+    "options": [
+      "अ: सुप्रभात ब: सुप्रभात",
+      "अ: धन्यवाद ब: स्वागत",
+      "अ: नमस्ते ब: नमस्ते",
+      "अ: स्टेशन कहां है? ब: सीधे जाएं"
+    ],
+    "answer": "अ: धन्यवाद ब: स्वागत"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: Goodbye B: Goodbye'",
+    "options": [
+      "अ: अलविदा ब: अलविदा",
+      "अ: नमस्ते ब: नमस्ते",
+      "अ: धन्यवाद ब: स्वागत",
+      "अ: स्टेशन कहां है? ब: सीधे जाएं"
+    ],
+    "answer": "अ: अलविदा ब: अलविदा"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "What did you hear? 'A: Good morning B: Good morning'",
+    "options": [
+      "अ: सुप्रभात ब: सुप्रभात",
+      "अ: नाम क्या है? ब: राम है",
+      "अ: कैसे हैं? ब: ठीक हूं",
+      "अ: नमस्ते ब: नमस्ते"
+    ],
+    "answer": "अ: सुप्रभात ब: सुप्रभात"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'I want to buy vegetables'?",
+    "options": [
+      "क्या प्याज है?",
+      "अच्छे से पैक करें",
+      "मुझे 2 किलो टमाटर दें",
+      "मैं सब्जी खरीदना चाहता हूं"
+    ],
+    "answer": "मैं सब्जी खरीदना चाहता हूं"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'How much per kg?'?",
+    "options": [
+      "प्रति किलो कितना?",
+      "अच्छे से पैक करें",
+      "ले लूंगा",
+      "अंतिम दाम?"
+    ],
+    "answer": "प्रति किलो कितना?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'Give me 2 kg tomatoes'?",
+    "options": [
+      "अंतिम दाम?",
+      "मैं सब्जी खरीदना चाहता हूं",
+      "मुझे 2 किलो टमाटर दें",
+      "क्या प्याज है?"
+    ],
+    "answer": "मुझे 2 किलो टमाटर दें"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'These are fresh'?",
+    "options": [
+      "ले लूंगा",
+      "ये ताजे हैं",
+      "धन्यवाद",
+      "मुझे 2 किलो टमाटर दें"
+    ],
+    "answer": "ये ताजे हैं"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'Do you have onions?'?",
+    "options": [
+      "क्या प्याज है?",
+      "मुझे 2 किलो टमाटर दें",
+      "धन्यवाद",
+      "कम करें"
+    ],
+    "answer": "क्या प्याज है?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'Make it cheaper'?",
+    "options": [
+      "कम करें",
+      "क्या प्याज है?",
+      "धन्यवाद",
+      "प्रति किलो कितना?"
+    ],
+    "answer": "कम करें"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'Final price?'?",
+    "options": [
+      "कम करें",
+      "ले लूंगा",
+      "प्रति किलो कितना?",
+      "अंतिम दाम?"
+    ],
+    "answer": "अंतिम दाम?"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'I will take it'?",
+    "options": [
+      "धन्यवाद",
+      "कम करें",
+      "अच्छे से पैक करें",
+      "ले लूंगा"
+    ],
+    "answer": "ले लूंगा"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'Pack it properly'?",
+    "options": [
+      "ये ताजे हैं",
+      "अच्छे से पैक करें",
+      "क्या प्याज है?",
+      "मुझे 2 किलो टमाटर दें"
+    ],
+    "answer": "अच्छे से पैक करें"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "What is the Hindi for 'Thank you'?",
+    "options": [
+      "मुझे 2 किलो टमाटर दें",
+      "प्रति किलो कितना?",
+      "ले लूंगा",
+      "धन्यवाद"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'Where is the bus stop?'?",
+    "options": [
+      "मुझे दिल्ली जाना है",
+      "बस स्टॉप कहां है?",
+      "कितना समय लगेगा?",
+      "क्या यह सही रास्ता है?"
+    ],
+    "answer": "बस स्टॉप कहां है?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'When does the train come?'?",
+    "options": [
+      "ट्रेन कब आती है?",
+      "यहां रोकें",
+      "क्या यह सीट खाली है?",
+      "कितना समय लगेगा?"
+    ],
+    "answer": "ट्रेन कब आती है?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'How much is the ticket?'?",
+    "options": [
+      "कौन सा प्लेटफॉर्म?",
+      "टिकट कितने का है?",
+      "बस स्टॉप कहां है?",
+      "मुझे दिल्ली जाना है"
+    ],
+    "answer": "टिकट कितने का है?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'I want to go to Delhi'?",
+    "options": [
+      "टिकट कितने का है?",
+      "मैं रास्ता भूल गया",
+      "यहां रोकें",
+      "मुझे दिल्ली जाना है"
+    ],
+    "answer": "मुझे दिल्ली जाना है"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'Is this seat empty?'?",
+    "options": [
+      "क्या यह सीट खाली है?",
+      "क्या यह सही रास्ता है?",
+      "यहां रोकें",
+      "टिकट कितने का है?"
+    ],
+    "answer": "क्या यह सीट खाली है?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'How long will it take?'?",
+    "options": [
+      "क्या यह सीट खाली है?",
+      "टिकट कितने का है?",
+      "कितना समय लगेगा?",
+      "बस स्टॉप कहां है?"
+    ],
+    "answer": "कितना समय लगेगा?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'Which platform?'?",
+    "options": [
+      "ट्रेन कब आती है?",
+      "कौन सा प्लेटफॉर्म?",
+      "कितना समय लगेगा?",
+      "क्या यह सही रास्ता है?"
+    ],
+    "answer": "कौन सा प्लेटफॉर्म?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'Is this the right way?'?",
+    "options": [
+      "क्या यह सही रास्ता है?",
+      "मैं रास्ता भूल गया",
+      "क्या यह सीट खाली है?",
+      "यहां रोकें"
+    ],
+    "answer": "क्या यह सही रास्ता है?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'Stop here please'?",
+    "options": [
+      "क्या यह सीट खाली है?",
+      "कितना समय लगेगा?",
+      "यहां रोकें",
+      "बस स्टॉप कहां है?"
+    ],
+    "answer": "यहां रोकें"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "What is the Hindi for 'I am lost'?",
+    "options": [
+      "मुझे दिल्ली जाना है",
+      "यहां रोकें",
+      "मैं रास्ता भूल गया",
+      "क्या यह सीट खाली है?"
+    ],
+    "answer": "मैं रास्ता भूल गया"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'Help me'?",
+    "options": [
+      "आपातकाल",
+      "एंबुलेंस बुलाएं",
+      "पुलिस को बुलाएं",
+      "मेरी मदद करें"
+    ],
+    "answer": "मेरी मदद करें"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'Call the police'?",
+    "options": [
+      "आपातकाल",
+      "एंबुलेंस बुलाएं",
+      "पुलिस को बुलाएं",
+      "मेरी मदद करें"
+    ],
+    "answer": "पुलिस को बुलाएं"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'I need a doctor'?",
+    "options": [
+      "मुझे मदद चाहिए",
+      "पुलिस को बुलाएं",
+      "मुझे डॉक्टर चाहिए",
+      "अस्पताल कहां है?"
+    ],
+    "answer": "मुझे डॉक्टर चाहिए"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'Where is the hospital?'?",
+    "options": [
+      "मुझे चोट लगी है",
+      "आपातकाल",
+      "पुलिस को बुलाएं",
+      "अस्पताल कहां है?"
+    ],
+    "answer": "अस्पताल कहां है?"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'I am hurt'?",
+    "options": [
+      "मुझे चोट लगी है",
+      "एंबुलेंस बुलाएं",
+      "आग",
+      "अस्पताल कहां है?"
+    ],
+    "answer": "मुझे चोट लगी है"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'Call an ambulance'?",
+    "options": [
+      "आग",
+      "मेरी मदद करें",
+      "आपातकाल",
+      "एंबुलेंस बुलाएं"
+    ],
+    "answer": "एंबुलेंस बुलाएं"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'I lost my wallet'?",
+    "options": [
+      "अस्पताल कहां है?",
+      "मेरा बटुआ खो गया",
+      "मुझे मदद चाहिए",
+      "आग"
+    ],
+    "answer": "मेरा बटुआ खो गया"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'I need help'?",
+    "options": [
+      "अस्पताल कहां है?",
+      "आग",
+      "मेरा बटुआ खो गया",
+      "मुझे मदद चाहिए"
+    ],
+    "answer": "मुझे मदद चाहिए"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'Emergency'?",
+    "options": [
+      "आपातकाल",
+      "मेरी मदद करें",
+      "मेरा बटुआ खो गया",
+      "पुलिस को बुलाएं"
+    ],
+    "answer": "आपातकाल"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "What is the Hindi for 'Fire'?",
+    "options": [
+      "आपातकाल",
+      "आग",
+      "पुलिस को बुलाएं",
+      "मुझे मदद चाहिए"
+    ],
+    "answer": "आग"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'What are your plans?'?",
+    "options": [
+      "आपकी क्या योजना है?",
+      "5 बजे मिलते हैं",
+      "मैं कल जाऊंगा",
+      "कहां चलें?"
+    ],
+    "answer": "आपकी क्या योजना है?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'I will go tomorrow'?",
+    "options": [
+      "मैं कल जाऊंगा",
+      "मुझे काम करना है",
+      "मैं फोन करूंगा",
+      "कहां चलें?"
+    ],
+    "answer": "मैं कल जाऊंगा"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'Let us meet at 5'?",
+    "options": [
+      "क्या आज फुर्सत है?",
+      "कल मिलते हैं",
+      "5 बजे मिलते हैं",
+      "मुझे काम करना है"
+    ],
+    "answer": "5 बजे मिलते हैं"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'Where shall we go?'?",
+    "options": [
+      "कहां चलें?",
+      "फिल्म देखते हैं",
+      "मैं कल जाऊंगा",
+      "आपकी क्या योजना है?"
+    ],
+    "answer": "कहां चलें?"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'I have to work'?",
+    "options": [
+      "मुझे काम करना है",
+      "5 बजे मिलते हैं",
+      "मैं कल जाऊंगा",
+      "दिन शुभ हो"
+    ],
+    "answer": "मुझे काम करना है"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'Are you free today?'?",
+    "options": [
+      "मैं फोन करूंगा",
+      "क्या आज फुर्सत है?",
+      "दिन शुभ हो",
+      "कल मिलते हैं"
+    ],
+    "answer": "क्या आज फुर्सत है?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'Let us watch a movie'?",
+    "options": [
+      "कहां चलें?",
+      "फिल्म देखते हैं",
+      "मैं फोन करूंगा",
+      "दिन शुभ हो"
+    ],
+    "answer": "फिल्म देखते हैं"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'I will call you'?",
+    "options": [
+      "आपकी क्या योजना है?",
+      "मैं फोन करूंगा",
+      "क्या आज फुर्सत है?",
+      "कहां चलें?"
+    ],
+    "answer": "मैं फोन करूंगा"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'See you tomorrow'?",
+    "options": [
+      "कल मिलते हैं",
+      "दिन शुभ हो",
+      "मैं फोन करूंगा",
+      "5 बजे मिलते हैं"
+    ],
+    "answer": "कल मिलते हैं"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Hindi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "What is the Hindi for 'Have a good day'?",
+    "options": [
+      "मैं फोन करूंगा",
+      "आपकी क्या योजना है?",
+      "दिन शुभ हो",
+      "फिल्म देखते हैं"
+    ],
+    "answer": "दिन शुभ हो"
+  }
+]

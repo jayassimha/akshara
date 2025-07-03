@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'a'?",
+    "options": [
+      "इ",
+      "ई",
+      "आ",
+      "अ"
+    ],
+    "answer": "अ"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'aa'?",
+    "options": [
+      "ई",
+      "इ",
+      "आ",
+      "उ"
+    ],
+    "answer": "आ"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'i'?",
+    "options": [
+      "ऊ",
+      "ई",
+      "उ",
+      "इ"
+    ],
+    "answer": "इ"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'ee'?",
+    "options": [
+      "ए",
+      "ऊ",
+      "ई",
+      "उ"
+    ],
+    "answer": "ई"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'u'?",
+    "options": [
+      "ऊ",
+      "उ",
+      "ऐ",
+      "ए"
+    ],
+    "answer": "उ"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'oo'?",
+    "options": [
+      "ऊ",
+      "ए",
+      "ऐ",
+      "ओ"
+    ],
+    "answer": "ऊ"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'e'?",
+    "options": [
+      "ए",
+      "औ",
+      "ओ",
+      "ऐ"
+    ],
+    "answer": "ए"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'ai'?",
+    "options": [
+      "औ",
+      "अ",
+      "ऐ",
+      "ओ"
+    ],
+    "answer": "ऐ"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'o'?",
+    "options": [
+      "अ",
+      "औ",
+      "आ",
+      "ओ"
+    ],
+    "answer": "ओ"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Vowels",
+    "question": "What is the Marathi vowel for 'au'?",
+    "options": [
+      "अ",
+      "आ",
+      "इ",
+      "औ"
+    ],
+    "answer": "औ"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'ka'?",
+    "options": [
+      "ग",
+      "ख",
+      "घ",
+      "क"
+    ],
+    "answer": "क"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'kha'?",
+    "options": [
+      "ख",
+      "च",
+      "ग",
+      "घ"
+    ],
+    "answer": "ख"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'ga'?",
+    "options": [
+      "घ",
+      "च",
+      "छ",
+      "ग"
+    ],
+    "answer": "ग"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'gha'?",
+    "options": [
+      "च",
+      "छ",
+      "घ",
+      "ज"
+    ],
+    "answer": "घ"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'cha'?",
+    "options": [
+      "छ",
+      "झ",
+      "ज",
+      "च"
+    ],
+    "answer": "च"
+  },
+  {
+    "id": 16,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'chha'?",
+    "options": [
+      "ज",
+      "छ",
+      "ट",
+      "झ"
+    ],
+    "answer": "छ"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'ja'?",
+    "options": [
+      "ठ",
+      "झ",
+      "ट",
+      "ज"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'jha'?",
+    "options": [
+      "ट",
+      "क",
+      "झ",
+      "ठ"
+    ],
+    "answer": "झ"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'ta'?",
+    "options": [
+      "ख",
+      "ट",
+      "क",
+      "ठ"
+    ],
+    "answer": "ट"
+  },
+  {
+    "id": 20,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Consonants",
+    "question": "What is the Marathi consonant for 'tha'?",
+    "options": [
+      "ख",
+      "ग",
+      "ठ",
+      "क"
+    ],
+    "answer": "ठ"
+  },
+  {
+    "id": 21,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'क' + 'ा'?",
+    "options": [
+      "ते",
+      "पु",
+      "मि",
+      "का"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 22,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'प' + 'ु'?",
+    "options": [
+      "पु",
+      "सू",
+      "मि",
+      "ते"
+    ],
+    "answer": "पु"
+  },
+  {
+    "id": 23,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'म' + 'ि'?",
+    "options": [
+      "मि",
+      "ते",
+      "सू",
+      "नो"
+    ],
+    "answer": "मि"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'त' + 'े'?",
+    "options": [
+      "सू",
+      "रा",
+      "ते",
+      "नो"
+    ],
+    "answer": "ते"
+  },
+  {
+    "id": 25,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'स' + 'ू'?",
+    "options": [
+      "नो",
+      "रा",
+      "सू",
+      "ले"
+    ],
+    "answer": "सू"
+  },
+  {
+    "id": 26,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'न' + 'ो'?",
+    "options": [
+      "नो",
+      "ले",
+      "रा",
+      "दि"
+    ],
+    "answer": "नो"
+  },
+  {
+    "id": 27,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'र' + 'ा'?",
+    "options": [
+      "दि",
+      "ले",
+      "वु",
+      "रा"
+    ],
+    "answer": "रा"
+  },
+  {
+    "id": 28,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'ल' + 'े'?",
+    "options": [
+      "ले",
+      "वु",
+      "दि",
+      "का"
+    ],
+    "answer": "ले"
+  },
+  {
+    "id": 29,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'द' + 'ि'?",
+    "options": [
+      "का",
+      "पु",
+      "दि",
+      "वु"
+    ],
+    "answer": "दि"
+  },
+  {
+    "id": 30,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Letter Combos",
+    "question": "What is the combination of 'व' + 'ु'?",
+    "options": [
+      "मि",
+      "वु",
+      "का",
+      "पु"
+    ],
+    "answer": "वु"
+  },
+  {
+    "id": 31,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पुस्तक'? (in Marathi)",
+    "options": [
+      "Hand",
+      "Book",
+      "Pen",
+      "School"
+    ],
+    "answer": "Book"
+  },
+  {
+    "id": 32,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पेन'? (in Marathi)",
+    "options": [
+      "Hand",
+      "Fruit",
+      "Pen",
+      "School"
+    ],
+    "answer": "Pen"
+  },
+  {
+    "id": 33,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'शाळा'? (in Marathi)",
+    "options": [
+      "School",
+      "Flowers",
+      "Fruit",
+      "Hand"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 34,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'हात'? (in Marathi)",
+    "options": [
+      "Tree",
+      "Flowers",
+      "Hand",
+      "Fruit"
+    ],
+    "answer": "Hand"
+  },
+  {
+    "id": 35,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फळ'? (in Marathi)",
+    "options": [
+      "Fruit",
+      "Flowers",
+      "Tree",
+      "Slate"
+    ],
+    "answer": "Fruit"
+  },
+  {
+    "id": 36,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'फूल'? (in Marathi)",
+    "options": [
+      "Speak",
+      "Slate",
+      "Tree",
+      "Flowers"
+    ],
+    "answer": "Flowers"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'झाड'? (in Marathi)",
+    "options": [
+      "Slate",
+      "Tree",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'पाटी'? (in Marathi)",
+    "options": [
+      "Book",
+      "Slate",
+      "Speech",
+      "Speak"
+    ],
+    "answer": "Slate"
+  },
+  {
+    "id": 39,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'बोलणे'? (in Marathi)",
+    "options": [
+      "Pen",
+      "Speech",
+      "Speak",
+      "Book"
+    ],
+    "answer": "Speak"
+  },
+  {
+    "id": 40,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Script",
+    "submodule": "Script in Words",
+    "question": "Which word is written as 'भाषा'? (in Marathi)",
+    "options": [
+      "Pen",
+      "Book",
+      "Speech",
+      "School"
+    ],
+    "answer": "Speech"
+  },
+  {
+    "id": 41,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'book'?",
+    "options": [
+      "पेन",
+      "शाळा",
+      "पिशवी",
+      "पुस्तक"
+    ],
+    "answer": "पुस्तक"
+  },
+  {
+    "id": 42,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'pen'?",
+    "options": [
+      "खुर्ची",
+      "पिशवी",
+      "शाळा",
+      "पेन"
+    ],
+    "answer": "पेन"
+  },
+  {
+    "id": 43,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'school'?",
+    "options": [
+      "पिशवी",
+      "शाळा",
+      "खुर्ची",
+      "टेबल"
+    ],
+    "answer": "शाळा"
+  },
+  {
+    "id": 44,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'bag'?",
+    "options": [
+      "पाटी",
+      "खुर्ची",
+      "पिशवी",
+      "टेबल"
+    ],
+    "answer": "पिशवी"
+  },
+  {
+    "id": 45,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'chair'?",
+    "options": [
+      "पाटी",
+      "टेबल",
+      "खुर्ची",
+      "खिडकी"
+    ],
+    "answer": "खुर्ची"
+  },
+  {
+    "id": 46,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'table'?",
+    "options": [
+      "खिडकी",
+      "दार",
+      "पाटी",
+      "टेबल"
+    ],
+    "answer": "टेबल"
+  },
+  {
+    "id": 47,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'slate'?",
+    "options": [
+      "खिडकी",
+      "दार",
+      "पंखा",
+      "पाटी"
+    ],
+    "answer": "पाटी"
+  },
+  {
+    "id": 48,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'window'?",
+    "options": [
+      "खिडकी",
+      "पुस्तक",
+      "दार",
+      "पंखा"
+    ],
+    "answer": "खिडकी"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'door'?",
+    "options": [
+      "पंखा",
+      "दार",
+      "पेन",
+      "पुस्तक"
+    ],
+    "answer": "दार"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Everyday Objects",
+    "question": "What is the Marathi word for 'fan'?",
+    "options": [
+      "पंखा",
+      "पुस्तक",
+      "शाळा",
+      "पेन"
+    ],
+    "answer": "पंखा"
+  },
+  {
+    "id": 51,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'rice'?",
+    "options": [
+      "फळ",
+      "भात",
+      "भाजी",
+      "दूध"
+    ],
+    "answer": "भात"
+  },
+  {
+    "id": 52,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'milk'?",
+    "options": [
+      "पाणी",
+      "भाजी",
+      "फळ",
+      "दूध"
+    ],
+    "answer": "दूध"
+  },
+  {
+    "id": 53,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'fruit'?",
+    "options": [
+      "भाजी",
+      "दही",
+      "पाणी",
+      "फळ"
+    ],
+    "answer": "फळ"
+  },
+  {
+    "id": 54,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'vegetable'?",
+    "options": [
+      "भाजी",
+      "दही",
+      "पाणी",
+      "पाव"
+    ],
+    "answer": "भाजी"
+  },
+  {
+    "id": 55,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'water'?",
+    "options": [
+      "पाव",
+      "अंडे",
+      "दही",
+      "पाणी"
+    ],
+    "answer": "पाणी"
+  },
+  {
+    "id": 56,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'curd'?",
+    "options": [
+      "पाव",
+      "मासा",
+      "दही",
+      "अंडे"
+    ],
+    "answer": "दही"
+  },
+  {
+    "id": 57,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'bread'?",
+    "options": [
+      "अंडे",
+      "पाव",
+      "मासा",
+      "गोड"
+    ],
+    "answer": "पाव"
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'egg'?",
+    "options": [
+      "मासा",
+      "अंडे",
+      "गोड",
+      "भात"
+    ],
+    "answer": "अंडे"
+  },
+  {
+    "id": 59,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'fish'?",
+    "options": [
+      "गोड",
+      "मासा",
+      "दूध",
+      "भात"
+    ],
+    "answer": "मासा"
+  },
+  {
+    "id": 60,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'sweet'?",
+    "options": [
+      "दूध",
+      "भात",
+      "गोड",
+      "फळ"
+    ],
+    "answer": "गोड"
+  },
+  {
+    "id": 61,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'mother'?",
+    "options": [
+      "आई",
+      "बहीण",
+      "बाबा",
+      "भाऊ"
+    ],
+    "answer": "आई"
+  },
+  {
+    "id": 62,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'father'?",
+    "options": [
+      "बाबा",
+      "आजी",
+      "बहीण",
+      "भाऊ"
+    ],
+    "answer": "बाबा"
+  },
+  {
+    "id": 63,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'sister'?",
+    "options": [
+      "बहीण",
+      "भाऊ",
+      "आजी",
+      "आजोबा"
+    ],
+    "answer": "बहीण"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'brother'?",
+    "options": [
+      "काका",
+      "आजी",
+      "भाऊ",
+      "आजोबा"
+    ],
+    "answer": "भाऊ"
+  },
+  {
+    "id": 65,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'grandmother'?",
+    "options": [
+      "काकू",
+      "आजोबा",
+      "आजी",
+      "काका"
+    ],
+    "answer": "आजी"
+  },
+  {
+    "id": 66,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'grandfather'?",
+    "options": [
+      "काका",
+      "काकू",
+      "आजोबा",
+      "मुलगा"
+    ],
+    "answer": "आजोबा"
+  },
+  {
+    "id": 67,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'uncle'?",
+    "options": [
+      "काकू",
+      "मुलगी",
+      "काका",
+      "मुलगा"
+    ],
+    "answer": "काका"
+  },
+  {
+    "id": 68,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'aunt'?",
+    "options": [
+      "मुलगी",
+      "काकू",
+      "आई",
+      "मुलगा"
+    ],
+    "answer": "काकू"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'son'?",
+    "options": [
+      "आई",
+      "मुलगा",
+      "मुलगी",
+      "बाबा"
+    ],
+    "answer": "मुलगा"
+  },
+  {
+    "id": 70,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Family",
+    "question": "What is the Marathi word for 'daughter'?",
+    "options": [
+      "बहीण",
+      "मुलगी",
+      "आई",
+      "बाबा"
+    ],
+    "answer": "मुलगी"
+  },
+  {
+    "id": 71,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'tree'?",
+    "options": [
+      "फूल",
+      "नदी",
+      "डोंगर",
+      "झाड"
+    ],
+    "answer": "झाड"
+  },
+  {
+    "id": 72,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'flower'?",
+    "options": [
+      "नदी",
+      "फूल",
+      "पान",
+      "डोंगर"
+    ],
+    "answer": "फूल"
+  },
+  {
+    "id": 73,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'river'?",
+    "options": [
+      "पान",
+      "आकाश",
+      "डोंगर",
+      "नदी"
+    ],
+    "answer": "नदी"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'mountain'?",
+    "options": [
+      "डोंगर",
+      "पाऊस",
+      "पान",
+      "आकाश"
+    ],
+    "answer": "डोंगर"
+  },
+  {
+    "id": 75,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'leaf'?",
+    "options": [
+      "पान",
+      "पाऊस",
+      "आकाश",
+      "सूर्य"
+    ],
+    "answer": "पान"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'sky'?",
+    "options": [
+      "पाऊस",
+      "आकाश",
+      "चंद्र",
+      "सूर्य"
+    ],
+    "answer": "आकाश"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'rain'?",
+    "options": [
+      "चंद्र",
+      "तारा",
+      "पाऊस",
+      "सूर्य"
+    ],
+    "answer": "पाऊस"
+  },
+  {
+    "id": 78,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'sun'?",
+    "options": [
+      "तारा",
+      "चंद्र",
+      "झाड",
+      "सूर्य"
+    ],
+    "answer": "सूर्य"
+  },
+  {
+    "id": 79,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'moon'?",
+    "options": [
+      "तारा",
+      "फूल",
+      "झाड",
+      "चंद्र"
+    ],
+    "answer": "चंद्र"
+  },
+  {
+    "id": 80,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Vocabulary",
+    "submodule": "Nature",
+    "question": "What is the Marathi word for 'star'?",
+    "options": [
+      "फूल",
+      "तारा",
+      "नदी",
+      "झाड"
+    ],
+    "answer": "तारा"
+  },
+  {
+    "id": 81,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Hello' in Marathi?",
+    "options": [
+      "शुभ रात्री",
+      "नमस्कार",
+      "सुप्रभात",
+      "स्वागत"
+    ],
+    "answer": "नमस्कार"
+  },
+  {
+    "id": 82,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good morning' in Marathi?",
+    "options": [
+      "तुम्ही कसे आहात?",
+      "स्वागत",
+      "शुभ रात्री",
+      "सुप्रभात"
+    ],
+    "answer": "सुप्रभात"
+  },
+  {
+    "id": 83,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Good night' in Marathi?",
+    "options": [
+      "शुभ रात्री",
+      "तुम्ही कसे आहात?",
+      "स्वागत",
+      "बरे आहे"
+    ],
+    "answer": "शुभ रात्री"
+  },
+  {
+    "id": 84,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Welcome' in Marathi?",
+    "options": [
+      "पुन्हा भेटू",
+      "स्वागत",
+      "तुम्ही कसे आहात?",
+      "बरे आहे"
+    ],
+    "answer": "स्वागत"
+  },
+  {
+    "id": 85,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'How are you?' in Marathi?",
+    "options": [
+      "बरे आहे",
+      "निरोप",
+      "पुन्हा भेटू",
+      "तुम्ही कसे आहात?"
+    ],
+    "answer": "तुम्ही कसे आहात?"
+  },
+  {
+    "id": 86,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Fine' in Marathi?",
+    "options": [
+      "निरोप",
+      "बरे आहे",
+      "पुन्हा भेटू",
+      "काळजी घ्या"
+    ],
+    "answer": "बरे आहे"
+  },
+  {
+    "id": 87,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'See you' in Marathi?",
+    "options": [
+      "धन्यवाद",
+      "पुन्हा भेटू",
+      "निरोप",
+      "काळजी घ्या"
+    ],
+    "answer": "पुन्हा भेटू"
+  },
+  {
+    "id": 88,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Goodbye' in Marathi?",
+    "options": [
+      "नमस्कार",
+      "निरोप",
+      "काळजी घ्या",
+      "धन्यवाद"
+    ],
+    "answer": "निरोप"
+  },
+  {
+    "id": 89,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Take care' in Marathi?",
+    "options": [
+      "धन्यवाद",
+      "सुप्रभात",
+      "नमस्कार",
+      "काळजी घ्या"
+    ],
+    "answer": "काळजी घ्या"
+  },
+  {
+    "id": 90,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Greetings",
+    "question": "How do you say 'Thank you' in Marathi?",
+    "options": [
+      "शुभ रात्री",
+      "नमस्कार",
+      "सुप्रभात",
+      "धन्यवाद"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 91,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'My name is ...' in Marathi?",
+    "options": [
+      "मी ... पासून आहे",
+      "माझे नाव ... आहे",
+      "मी शिक्षक आहे",
+      "मी विद्यार्थी आहे"
+    ],
+    "answer": "माझे नाव ... आहे"
+  },
+  {
+    "id": 92,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am from ...' in Marathi?",
+    "options": [
+      "मी विद्यार्थी आहे",
+      "मी शिक्षक आहे",
+      "तुम्हाला भेटून आनंद झाला",
+      "मी ... पासून आहे"
+    ],
+    "answer": "मी ... पासून आहे"
+  },
+  {
+    "id": 93,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a student' in Marathi?",
+    "options": [
+      "मी शिक्षक आहे",
+      "तुम्हाला भेटून आनंद झाला",
+      "मी विद्यार्थी आहे",
+      "मी ... मध्ये राहतो"
+    ],
+    "answer": "मी विद्यार्थी आहे"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am a teacher' in Marathi?",
+    "options": [
+      "मी ... मध्ये राहतो",
+      "मी मराठी शिकत आहे",
+      "मी शिक्षक आहे",
+      "तुम्हाला भेटून आनंद झाला"
+    ],
+    "answer": "मी शिक्षक आहे"
+  },
+  {
+    "id": 95,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Nice to meet you' in Marathi?",
+    "options": [
+      "मी मराठी शिकत आहे",
+      "मी ... मध्ये राहतो",
+      "तुम्हाला भेटून आनंद झाला",
+      "तुमचे नाव काय?"
+    ],
+    "answer": "तुम्हाला भेटून आनंद झाला"
+  },
+  {
+    "id": 96,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I live in ...' in Marathi?",
+    "options": [
+      "मी ... मध्ये राहतो",
+      "मी मराठी शिकत आहे",
+      "तुम्ही कुठून आहात?",
+      "तुमचे नाव काय?"
+    ],
+    "answer": "मी ... मध्ये राहतो"
+  },
+  {
+    "id": 97,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'I am learning Marathi' in Marathi?",
+    "options": [
+      "तुम्ही कुठून आहात?",
+      "तुमचे वय किती?",
+      "तुमचे नाव काय?",
+      "मी मराठी शिकत आहे"
+    ],
+    "answer": "मी मराठी शिकत आहे"
+  },
+  {
+    "id": 98,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'What is your name?' in Marathi?",
+    "options": [
+      "माझे नाव ... आहे",
+      "तुमचे नाव काय?",
+      "तुमचे वय किती?",
+      "तुम्ही कुठून आहात?"
+    ],
+    "answer": "तुमचे नाव काय?"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'Where are you from?' in Marathi?",
+    "options": [
+      "मी ... पासून आहे",
+      "तुमचे वय किती?",
+      "माझे नाव ... आहे",
+      "तुम्ही कुठून आहात?"
+    ],
+    "answer": "तुम्ही कुठून आहात?"
+  },
+  {
+    "id": 100,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Self-introduction",
+    "question": "How do you say 'How old are you?' in Marathi?",
+    "options": [
+      "माझे नाव ... आहे",
+      "मी ... पासून आहे",
+      "तुमचे वय किती?",
+      "मी विद्यार्थी आहे"
+    ],
+    "answer": "तुमचे वय किती?"
+  },
+  {
+    "id": 101,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Yes' in Marathi?",
+    "options": [
+      "नाही",
+      "कदाचित",
+      "नक्कीच",
+      "होय"
+    ],
+    "answer": "होय"
+  },
+  {
+    "id": 102,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'No' in Marathi?",
+    "options": [
+      "कधीच नाही",
+      "कदाचित",
+      "नाही",
+      "नक्कीच"
+    ],
+    "answer": "नाही"
+  },
+  {
+    "id": 103,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Maybe' in Marathi?",
+    "options": [
+      "कदाचित",
+      "नक्कीच",
+      "कधी कधी",
+      "कधीच नाही"
+    ],
+    "answer": "कदाचित"
+  },
+  {
+    "id": 104,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Of course' in Marathi?",
+    "options": [
+      "कधीच नाही",
+      "नेहमी",
+      "कधी कधी",
+      "नक्कीच"
+    ],
+    "answer": "नक्कीच"
+  },
+  {
+    "id": 105,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Never' in Marathi?",
+    "options": [
+      "कधीच नाही",
+      "अजिबात नाही",
+      "कधी कधी",
+      "नेहमी"
+    ],
+    "answer": "कधीच नाही"
+  },
+  {
+    "id": 106,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sometimes' in Marathi?",
+    "options": [
+      "कधी कधी",
+      "अजिबात नाही",
+      "नक्की",
+      "नेहमी"
+    ],
+    "answer": "कधी कधी"
+  },
+  {
+    "id": 107,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Always' in Marathi?",
+    "options": [
+      "नक्की",
+      "मला माहीत नाही",
+      "नेहमी",
+      "अजिबात नाही"
+    ],
+    "answer": "नेहमी"
+  },
+  {
+    "id": 108,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Not at all' in Marathi?",
+    "options": [
+      "होय",
+      "मला माहीत नाही",
+      "अजिबात नाही",
+      "नक्की"
+    ],
+    "answer": "अजिबात नाही"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'Sure' in Marathi?",
+    "options": [
+      "नाही",
+      "होय",
+      "नक्की",
+      "मला माहीत नाही"
+    ],
+    "answer": "नक्की"
+  },
+  {
+    "id": 110,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Yes/No",
+    "question": "How do you say 'I don't know' in Marathi?",
+    "options": [
+      "होय",
+      "नाही",
+      "कदाचित",
+      "मला माहीत नाही"
+    ],
+    "answer": "मला माहीत नाही"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Thank you' in Marathi?",
+    "options": [
+      "माफ करा",
+      "धन्यवाद",
+      "माफ करा",
+      "कृपया"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 112,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Sorry' in Marathi?",
+    "options": [
+      "माफ करा",
+      "माफ करा",
+      "स्वागत आहे",
+      "कृपया"
+    ],
+    "answer": "माफ करा"
+  },
+  {
+    "id": 113,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Please' in Marathi?",
+    "options": [
+      "माफ करा",
+      "स्वागत आहे",
+      "कृपया",
+      "काही हरकत नाही"
+    ],
+    "answer": "कृपया"
+  },
+  {
+    "id": 114,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Excuse me' in Marathi?",
+    "options": [
+      "माफ करा",
+      "अभिनंदन",
+      "काही हरकत नाही",
+      "स्वागत आहे"
+    ],
+    "answer": "माफ करा"
+  },
+  {
+    "id": 115,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'You're welcome' in Marathi?",
+    "options": [
+      "देव तुम्हाला आशीर्वाद देवो",
+      "स्वागत आहे",
+      "अभिनंदन",
+      "काही हरकत नाही"
+    ],
+    "answer": "स्वागत आहे"
+  },
+  {
+    "id": 116,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'No problem' in Marathi?",
+    "options": [
+      "शुभेच्छा",
+      "काही हरकत नाही",
+      "देव तुम्हाला आशीर्वाद देवो",
+      "अभिनंदन"
+    ],
+    "answer": "काही हरकत नाही"
+  },
+  {
+    "id": 117,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Congratulations' in Marathi?",
+    "options": [
+      "देव तुम्हाला आशीर्वाद देवो",
+      "शुभेच्छा",
+      "वाढदिवसाच्या शुभेच्छा",
+      "अभिनंदन"
+    ],
+    "answer": "अभिनंदन"
+  },
+  {
+    "id": 118,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Bless you' in Marathi?",
+    "options": [
+      "धन्यवाद",
+      "वाढदिवसाच्या शुभेच्छा",
+      "देव तुम्हाला आशीर्वाद देवो",
+      "शुभेच्छा"
+    ],
+    "answer": "देव तुम्हाला आशीर्वाद देवो"
+  },
+  {
+    "id": 119,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Good luck' in Marathi?",
+    "options": [
+      "शुभेच्छा",
+      "धन्यवाद",
+      "माफ करा",
+      "वाढदिवसाच्या शुभेच्छा"
+    ],
+    "answer": "शुभेच्छा"
+  },
+  {
+    "id": 120,
+    "level": 1,
+    "language": "Marathi",
+    "module": "Conversation",
+    "submodule": "Polite Expressions",
+    "question": "How do you say 'Happy birthday' in Marathi?",
+    "options": [
+      "धन्यवाद",
+      "माफ करा",
+      "कृपया",
+      "वाढदिवसाच्या शुभेच्छा"
+    ],
+    "answer": "वाढदिवसाच्या शुभेच्छा"
+  },
+  {
+    "id": 121,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'ki'?",
+    "options": [
+      "कु",
+      "कि",
+      "को",
+      "के"
+    ],
+    "answer": "कि"
+  },
+  {
+    "id": 122,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'ku'?",
+    "options": [
+      "गि",
+      "कु",
+      "के",
+      "को"
+    ],
+    "answer": "कु"
+  },
+  {
+    "id": 123,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'ke'?",
+    "options": [
+      "गि",
+      "को",
+      "के",
+      "गु"
+    ],
+    "answer": "के"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'ko'?",
+    "options": [
+      "गि",
+      "गे",
+      "को",
+      "गु"
+    ],
+    "answer": "को"
+  },
+  {
+    "id": 125,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'gi'?",
+    "options": [
+      "गु",
+      "गे",
+      "गि",
+      "गो"
+    ],
+    "answer": "गि"
+  },
+  {
+    "id": 126,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'gu'?",
+    "options": [
+      "गु",
+      "गे",
+      "गो",
+      "चि"
+    ],
+    "answer": "गु"
+  },
+  {
+    "id": 127,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'ge'?",
+    "options": [
+      "गे",
+      "चु",
+      "गो",
+      "चि"
+    ],
+    "answer": "गे"
+  },
+  {
+    "id": 128,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'go'?",
+    "options": [
+      "चि",
+      "कि",
+      "चु",
+      "गो"
+    ],
+    "answer": "गो"
+  },
+  {
+    "id": 129,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'chi'?",
+    "options": [
+      "कि",
+      "कु",
+      "चि",
+      "चु"
+    ],
+    "answer": "चि"
+  },
+  {
+    "id": 130,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Syllables",
+    "question": "What is the Marathi syllable for 'chu'?",
+    "options": [
+      "कि",
+      "के",
+      "चु",
+      "कु"
+    ],
+    "answer": "चु"
+  },
+  {
+    "id": 131,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'ksha'?",
+    "options": [
+      "त्र",
+      "श्र",
+      "क्ष",
+      "ज्ञ"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 132,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'tra'?",
+    "options": [
+      "क्र",
+      "श्र",
+      "ज्ञ",
+      "त्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 133,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'jna'?",
+    "options": [
+      "प्र",
+      "ज्ञ",
+      "श्र",
+      "क्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 134,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'shra'?",
+    "options": [
+      "स्र",
+      "प्र",
+      "क्र",
+      "श्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 135,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'kra'?",
+    "options": [
+      "प्र",
+      "क्र",
+      "स्र",
+      "ग्र"
+    ],
+    "answer": "क्र"
+  },
+  {
+    "id": 136,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'pra'?",
+    "options": [
+      "स्र",
+      "प्र",
+      "ग्र",
+      "द्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 137,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'sra'?",
+    "options": [
+      "द्र",
+      "ग्र",
+      "न्त",
+      "स्र"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'gra'?",
+    "options": [
+      "ग्र",
+      "न्त",
+      "क्ष",
+      "द्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 139,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'dra'?",
+    "options": [
+      "न्त",
+      "त्र",
+      "द्र",
+      "क्ष"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 140,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Ligatures",
+    "question": "What is the Marathi ligature for 'nta'?",
+    "options": [
+      "ज्ञ",
+      "न्त",
+      "क्ष",
+      "त्र"
+    ],
+    "answer": "न्त"
+  },
+  {
+    "id": 141,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'sha'?",
+    "options": [
+      "स",
+      "श",
+      "ह",
+      "ल"
+    ],
+    "answer": "श"
+  },
+  {
+    "id": 142,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'sa'?",
+    "options": [
+      "ह",
+      "ल",
+      "र",
+      "स"
+    ],
+    "answer": "स"
+  },
+  {
+    "id": 143,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'ha'?",
+    "options": [
+      "ह",
+      "व",
+      "र",
+      "ल"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'la'?",
+    "options": [
+      "य",
+      "ल",
+      "र",
+      "व"
+    ],
+    "answer": "ल"
+  },
+  {
+    "id": 145,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'ra'?",
+    "options": [
+      "र",
+      "फ",
+      "व",
+      "य"
+    ],
+    "answer": "र"
+  },
+  {
+    "id": 146,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'va'?",
+    "options": [
+      "य",
+      "ज",
+      "व",
+      "फ"
+    ],
+    "answer": "व"
+  },
+  {
+    "id": 147,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'ya'?",
+    "options": [
+      "फ",
+      "य",
+      "ज",
+      "क्व"
+    ],
+    "answer": "य"
+  },
+  {
+    "id": 148,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'fa'?",
+    "options": [
+      "क्व",
+      "ज",
+      "फ",
+      "श"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 149,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'za'?",
+    "options": [
+      "क्व",
+      "ज",
+      "श",
+      "स"
+    ],
+    "answer": "ज"
+  },
+  {
+    "id": 150,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Rare Letters",
+    "question": "What is the Marathi letter for 'qwa'?",
+    "options": [
+      "ह",
+      "श",
+      "क्व",
+      "स"
+    ],
+    "answer": "क्व"
+  },
+  {
+    "id": 151,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'क्षीर'?",
+    "options": [
+      "ज्ञ",
+      "श्र",
+      "त्र",
+      "क्ष"
+    ],
+    "answer": "क्ष"
+  },
+  {
+    "id": 152,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'ज्ञान'?",
+    "options": [
+      "त्र",
+      "ग्र",
+      "ज्ञ",
+      "श्र"
+    ],
+    "answer": "ज्ञ"
+  },
+  {
+    "id": 153,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'त्रय'?",
+    "options": [
+      "त्र",
+      "श्र",
+      "प्र",
+      "ग्र"
+    ],
+    "answer": "त्र"
+  },
+  {
+    "id": 154,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'श्रद्धा'?",
+    "options": [
+      "ग्र",
+      "प्र",
+      "स्र",
+      "श्र"
+    ],
+    "answer": "श्र"
+  },
+  {
+    "id": 155,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'ग्रंथ'?",
+    "options": [
+      "द्र",
+      "स्र",
+      "प्र",
+      "ग्र"
+    ],
+    "answer": "ग्र"
+  },
+  {
+    "id": 156,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'प्रयत्न'?",
+    "options": [
+      "फ",
+      "प्र",
+      "स्र",
+      "द्र"
+    ],
+    "answer": "प्र"
+  },
+  {
+    "id": 157,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'स्रोत'?",
+    "options": [
+      "द्र",
+      "स्र",
+      "ह",
+      "फ"
+    ],
+    "answer": "स्र"
+  },
+  {
+    "id": 158,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'द्रव्य'?",
+    "options": [
+      "ह",
+      "फ",
+      "क्ष",
+      "द्र"
+    ],
+    "answer": "द्र"
+  },
+  {
+    "id": 159,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'फळ'?",
+    "options": [
+      "ज्ञ",
+      "ह",
+      "फ",
+      "क्ष"
+    ],
+    "answer": "फ"
+  },
+  {
+    "id": 160,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Script Advanced",
+    "submodule": "Usage",
+    "question": "Which Marathi letter is used in the word 'हरिद्वार'?",
+    "options": [
+      "क्ष",
+      "त्र",
+      "ज्ञ",
+      "ह"
+    ],
+    "answer": "ह"
+  },
+  {
+    "id": 161,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Sunday'?",
+    "options": [
+      "रविवार",
+      "सोमवार",
+      "बुधवार",
+      "मंगळवार"
+    ],
+    "answer": "रविवार"
+  },
+  {
+    "id": 162,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Monday'?",
+    "options": [
+      "मंगळवार",
+      "सोमवार",
+      "गुरुवार",
+      "बुधवार"
+    ],
+    "answer": "सोमवार"
+  },
+  {
+    "id": 163,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Tuesday'?",
+    "options": [
+      "गुरुवार",
+      "बुधवार",
+      "मंगळवार",
+      "शुक्रवार"
+    ],
+    "answer": "मंगळवार"
+  },
+  {
+    "id": 164,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Wednesday'?",
+    "options": [
+      "शनिवार",
+      "बुधवार",
+      "शुक्रवार",
+      "गुरुवार"
+    ],
+    "answer": "बुधवार"
+  },
+  {
+    "id": 165,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Thursday'?",
+    "options": [
+      "गुरुवार",
+      "शनिवार",
+      "शुक्रवार",
+      "आज"
+    ],
+    "answer": "गुरुवार"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Friday'?",
+    "options": [
+      "शनिवार",
+      "उद्या",
+      "शुक्रवार",
+      "आज"
+    ],
+    "answer": "शुक्रवार"
+  },
+  {
+    "id": 167,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Saturday'?",
+    "options": [
+      "काल",
+      "शनिवार",
+      "उद्या",
+      "आज"
+    ],
+    "answer": "शनिवार"
+  },
+  {
+    "id": 168,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Today'?",
+    "options": [
+      "रविवार",
+      "आज",
+      "काल",
+      "उद्या"
+    ],
+    "answer": "आज"
+  },
+  {
+    "id": 169,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Tomorrow'?",
+    "options": [
+      "रविवार",
+      "उद्या",
+      "सोमवार",
+      "काल"
+    ],
+    "answer": "उद्या"
+  },
+  {
+    "id": 170,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Days",
+    "question": "What is the Marathi word for 'Yesterday'?",
+    "options": [
+      "मंगळवार",
+      "सोमवार",
+      "काल",
+      "रविवार"
+    ],
+    "answer": "काल"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'red'?",
+    "options": [
+      "निळा",
+      "पिवळा",
+      "हिरवा",
+      "लाल"
+    ],
+    "answer": "लाल"
+  },
+  {
+    "id": 172,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'blue'?",
+    "options": [
+      "पिवळा",
+      "काळा",
+      "निळा",
+      "हिरवा"
+    ],
+    "answer": "निळा"
+  },
+  {
+    "id": 173,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'green'?",
+    "options": [
+      "हिरवा",
+      "पिवळा",
+      "पांढरा",
+      "काळा"
+    ],
+    "answer": "हिरवा"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'yellow'?",
+    "options": [
+      "पांढरा",
+      "नारिंगी",
+      "पिवळा",
+      "काळा"
+    ],
+    "answer": "पिवळा"
+  },
+  {
+    "id": 175,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'black'?",
+    "options": [
+      "पांढरा",
+      "काळा",
+      "नारिंगी",
+      "गुलाबी"
+    ],
+    "answer": "काळा"
+  },
+  {
+    "id": 176,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'white'?",
+    "options": [
+      "जांभळा",
+      "गुलाबी",
+      "नारिंगी",
+      "पांढरा"
+    ],
+    "answer": "पांढरा"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'orange'?",
+    "options": [
+      "तपकिरी",
+      "गुलाबी",
+      "जांभळा",
+      "नारिंगी"
+    ],
+    "answer": "नारिंगी"
+  },
+  {
+    "id": 178,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'pink'?",
+    "options": [
+      "तपकिरी",
+      "लाल",
+      "गुलाबी",
+      "जांभळा"
+    ],
+    "answer": "गुलाबी"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'purple'?",
+    "options": [
+      "जांभळा",
+      "लाल",
+      "तपकिरी",
+      "निळा"
+    ],
+    "answer": "जांभळा"
+  },
+  {
+    "id": 180,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Colors",
+    "question": "What is the Marathi word for 'brown'?",
+    "options": [
+      "हिरवा",
+      "निळा",
+      "लाल",
+      "तपकिरी"
+    ],
+    "answer": "तपकिरी"
+  },
+  {
+    "id": 181,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'one'?",
+    "options": [
+      "दोन",
+      "चार",
+      "तीन",
+      "एक"
+    ],
+    "answer": "एक"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'two'?",
+    "options": [
+      "पाच",
+      "तीन",
+      "चार",
+      "दोन"
+    ],
+    "answer": "दोन"
+  },
+  {
+    "id": 183,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'three'?",
+    "options": [
+      "सहा",
+      "पाच",
+      "चार",
+      "तीन"
+    ],
+    "answer": "तीन"
+  },
+  {
+    "id": 184,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'four'?",
+    "options": [
+      "सात",
+      "सहा",
+      "चार",
+      "पाच"
+    ],
+    "answer": "चार"
+  },
+  {
+    "id": 185,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'five'?",
+    "options": [
+      "सहा",
+      "पाच",
+      "सात",
+      "आठ"
+    ],
+    "answer": "पाच"
+  },
+  {
+    "id": 186,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'six'?",
+    "options": [
+      "नऊ",
+      "सहा",
+      "आठ",
+      "सात"
+    ],
+    "answer": "सहा"
+  },
+  {
+    "id": 187,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'seven'?",
+    "options": [
+      "नऊ",
+      "दहा",
+      "सात",
+      "आठ"
+    ],
+    "answer": "सात"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'eight'?",
+    "options": [
+      "एक",
+      "आठ",
+      "दहा",
+      "नऊ"
+    ],
+    "answer": "आठ"
+  },
+  {
+    "id": 189,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'nine'?",
+    "options": [
+      "दोन",
+      "एक",
+      "दहा",
+      "नऊ"
+    ],
+    "answer": "नऊ"
+  },
+  {
+    "id": 190,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Numbers",
+    "question": "What is the Marathi word for 'ten'?",
+    "options": [
+      "तीन",
+      "एक",
+      "दोन",
+      "दहा"
+    ],
+    "answer": "दहा"
+  },
+  {
+    "id": 191,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'breakfast'?",
+    "options": [
+      "रात्रीचे जेवण",
+      "नाश्ता",
+      "नाश्ता",
+      "दुपारचे जेवण"
+    ],
+    "answer": "नाश्ता"
+  },
+  {
+    "id": 192,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'lunch'?",
+    "options": [
+      "दुपारचे जेवण",
+      "नाश्ता",
+      "रात्रीचे जेवण",
+      "मिठाई"
+    ],
+    "answer": "दुपारचे जेवण"
+  },
+  {
+    "id": 193,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'dinner'?",
+    "options": [
+      "मिठाई",
+      "रात्रीचे जेवण",
+      "तिखट",
+      "नाश्ता"
+    ],
+    "answer": "रात्रीचे जेवण"
+  },
+  {
+    "id": 194,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'snacks'?",
+    "options": [
+      "तिखट",
+      "नाश्ता",
+      "मिठाई",
+      "शाकाहारी"
+    ],
+    "answer": "नाश्ता"
+  },
+  {
+    "id": 195,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'sweets'?",
+    "options": [
+      "मांसाहारी",
+      "मिठाई",
+      "तिखट",
+      "शाकाहारी"
+    ],
+    "answer": "मिठाई"
+  },
+  {
+    "id": 196,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'spicy'?",
+    "options": [
+      "तिखट",
+      "मांसाहारी",
+      "रस",
+      "शाकाहारी"
+    ],
+    "answer": "तिखट"
+  },
+  {
+    "id": 197,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'vegetarian'?",
+    "options": [
+      "रस",
+      "मांसाहारी",
+      "कॉफी",
+      "शाकाहारी"
+    ],
+    "answer": "शाकाहारी"
+  },
+  {
+    "id": 198,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'non-vegetarian'?",
+    "options": [
+      "मांसाहारी",
+      "कॉफी",
+      "रस",
+      "नाश्ता"
+    ],
+    "answer": "मांसाहारी"
+  },
+  {
+    "id": 199,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'juice'?",
+    "options": [
+      "रस",
+      "नाश्ता",
+      "दुपारचे जेवण",
+      "कॉफी"
+    ],
+    "answer": "रस"
+  },
+  {
+    "id": 200,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Vocabulary Expansion",
+    "submodule": "Food",
+    "question": "What is the Marathi word for 'coffee'?",
+    "options": [
+      "नाश्ता",
+      "कॉफी",
+      "दुपारचे जेवण",
+      "रात्रीचे जेवण"
+    ],
+    "answer": "कॉफी"
+  },
+  {
+    "id": 201,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How are you?' in Marathi?",
+    "options": [
+      "तुमचे नाव काय?",
+      "तुम्ही कुठून आहात?",
+      "तुमचे वय किती?",
+      "तुम्ही कसे आहात?"
+    ],
+    "answer": "तुम्ही कसे आहात?"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What is your name?' in Marathi?",
+    "options": [
+      "तुम्ही कुठून आहात?",
+      "तुमचे नाव काय?",
+      "तुम्ही मराठी बोलता का?",
+      "तुमचे वय किती?"
+    ],
+    "answer": "तुमचे नाव काय?"
+  },
+  {
+    "id": 203,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where are you from?' in Marathi?",
+    "options": [
+      "तुमचे वय किती?",
+      "मी तुम्हाला मदत करू का?",
+      "तुम्ही कुठून आहात?",
+      "तुम्ही मराठी बोलता का?"
+    ],
+    "answer": "तुम्ही कुठून आहात?"
+  },
+  {
+    "id": 204,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How old are you?' in Marathi?",
+    "options": [
+      "तुम्ही मराठी बोलता का?",
+      "मी तुम्हाला मदत करू का?",
+      "स्नानगृह कुठे आहे?",
+      "तुमचे वय किती?"
+    ],
+    "answer": "तुमचे वय किती?"
+  },
+  {
+    "id": 205,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Do you speak Marathi?' in Marathi?",
+    "options": [
+      "तुम्ही मराठी बोलता का?",
+      "मी तुम्हाला मदत करू का?",
+      "हे किती?",
+      "स्नानगृह कुठे आहे?"
+    ],
+    "answer": "तुम्ही मराठी बोलता का?"
+  },
+  {
+    "id": 206,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Can I help you?' in Marathi?",
+    "options": [
+      "हे किती?",
+      "मी तुम्हाला मदत करू का?",
+      "किती वेळ झाली?",
+      "स्नानगृह कुठे आहे?"
+    ],
+    "answer": "मी तुम्हाला मदत करू का?"
+  },
+  {
+    "id": 207,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where is the bathroom?' in Marathi?",
+    "options": [
+      "हे किती?",
+      "स्नानगृह कुठे आहे?",
+      "तुम्ही कुठे राहता?",
+      "किती वेळ झाली?"
+    ],
+    "answer": "स्नानगृह कुठे आहे?"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'How much is this?' in Marathi?",
+    "options": [
+      "तुम्ही कसे आहात?",
+      "हे किती?",
+      "तुम्ही कुठे राहता?",
+      "किती वेळ झाली?"
+    ],
+    "answer": "हे किती?"
+  },
+  {
+    "id": 209,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'What time is it?' in Marathi?",
+    "options": [
+      "तुमचे नाव काय?",
+      "किती वेळ झाली?",
+      "तुम्ही कसे आहात?",
+      "तुम्ही कुठे राहता?"
+    ],
+    "answer": "किती वेळ झाली?"
+  },
+  {
+    "id": 210,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Asking",
+    "question": "How do you ask 'Where do you live?' in Marathi?",
+    "options": [
+      "तुमचे नाव काय?",
+      "तुम्ही कुठे राहता?",
+      "तुम्ही कसे आहात?",
+      "तुम्ही कुठून आहात?"
+    ],
+    "answer": "तुम्ही कुठे राहता?"
+  },
+  {
+    "id": 211,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please help me' in Marathi?",
+    "options": [
+      "कृपया थांबा",
+      "कृपया मला मदत करा",
+      "कृपया इकडे या",
+      "कृपया बसा"
+    ],
+    "answer": "कृपया मला मदत करा"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please wait' in Marathi?",
+    "options": [
+      "कृपया हळू बोला",
+      "कृपया इकडे या",
+      "कृपया थांबा",
+      "कृपया बसा"
+    ],
+    "answer": "कृपया थांबा"
+  },
+  {
+    "id": 213,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please come here' in Marathi?",
+    "options": [
+      "कृपया बसा",
+      "कृपया लिहा",
+      "कृपया इकडे या",
+      "कृपया हळू बोला"
+    ],
+    "answer": "कृपया इकडे या"
+  },
+  {
+    "id": 214,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please sit down' in Marathi?",
+    "options": [
+      "कृपया हळू बोला",
+      "कृपया पुन्हा सांगा",
+      "कृपया बसा",
+      "कृपया लिहा"
+    ],
+    "answer": "कृपया बसा"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please speak slowly' in Marathi?",
+    "options": [
+      "कृपया हळू बोला",
+      "कृपया पुन्हा सांगा",
+      "कृपया दाखवा",
+      "कृपया लिहा"
+    ],
+    "answer": "कृपया हळू बोला"
+  },
+  {
+    "id": 216,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please write it down' in Marathi?",
+    "options": [
+      "कृपया दाखवा",
+      "कृपया लिहा",
+      "कृपया दार उघडा",
+      "कृपया पुन्हा सांगा"
+    ],
+    "answer": "कृपया लिहा"
+  },
+  {
+    "id": 217,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please repeat' in Marathi?",
+    "options": [
+      "कृपया दाखवा",
+      "कृपया दार उघडा",
+      "कृपया पुन्हा सांगा",
+      "कृपया खिडकी बंद करा"
+    ],
+    "answer": "कृपया पुन्हा सांगा"
+  },
+  {
+    "id": 218,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please show me' in Marathi?",
+    "options": [
+      "कृपया दाखवा",
+      "कृपया दार उघडा",
+      "कृपया खिडकी बंद करा",
+      "कृपया मला मदत करा"
+    ],
+    "answer": "कृपया दाखवा"
+  },
+  {
+    "id": 219,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please open the door' in Marathi?",
+    "options": [
+      "कृपया थांबा",
+      "कृपया दार उघडा",
+      "कृपया मला मदत करा",
+      "कृपया खिडकी बंद करा"
+    ],
+    "answer": "कृपया दार उघडा"
+  },
+  {
+    "id": 220,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Requests",
+    "question": "How do you request 'Please close the window' in Marathi?",
+    "options": [
+      "कृपया खिडकी बंद करा",
+      "कृपया इकडे या",
+      "कृपया थांबा",
+      "कृपया मला मदत करा"
+    ],
+    "answer": "कृपया खिडकी बंद करा"
+  },
+  {
+    "id": 221,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Marathi?",
+    "options": [
+      "सूट आहे का?",
+      "हे किती?",
+      "मला हे घ्यायचे आहे",
+      "मी हे वापरून पाहू शकतो का?"
+    ],
+    "answer": "हे किती?"
+  },
+  {
+    "id": 222,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Marathi?",
+    "options": [
+      "मला हे घ्यायचे आहे",
+      "सूट आहे का?",
+      "तुम्ही कार्ड घेता का?",
+      "मी हे वापरून पाहू शकतो का?"
+    ],
+    "answer": "सूट आहे का?"
+  },
+  {
+    "id": 223,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Marathi?",
+    "options": [
+      "मी हे वापरून पाहू शकतो का?",
+      "काउंटर कुठे आहे?",
+      "तुम्ही कार्ड घेता का?",
+      "मला हे घ्यायचे आहे"
+    ],
+    "answer": "मला हे घ्यायचे आहे"
+  },
+  {
+    "id": 224,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Marathi?",
+    "options": [
+      "हे उपलब्ध आहे का?",
+      "मी हे वापरून पाहू शकतो का?",
+      "तुम्ही कार्ड घेता का?",
+      "काउंटर कुठे आहे?"
+    ],
+    "answer": "मी हे वापरून पाहू शकतो का?"
+  },
+  {
+    "id": 225,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Marathi?",
+    "options": [
+      "कृपया हे पॅक करा",
+      "हे उपलब्ध आहे का?",
+      "काउंटर कुठे आहे?",
+      "तुम्ही कार्ड घेता का?"
+    ],
+    "answer": "तुम्ही कार्ड घेता का?"
+  },
+  {
+    "id": 226,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Marathi?",
+    "options": [
+      "हे उपलब्ध आहे का?",
+      "कृपया हे पॅक करा",
+      "काउंटर कुठे आहे?",
+      "मला पिशवी हवी"
+    ],
+    "answer": "काउंटर कुठे आहे?"
+  },
+  {
+    "id": 227,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Marathi?",
+    "options": [
+      "वेळ काय आहे?",
+      "हे उपलब्ध आहे का?",
+      "कृपया हे पॅक करा",
+      "मला पिशवी हवी"
+    ],
+    "answer": "हे उपलब्ध आहे का?"
+  },
+  {
+    "id": 228,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Marathi?",
+    "options": [
+      "हे किती?",
+      "मला पिशवी हवी",
+      "कृपया हे पॅक करा",
+      "वेळ काय आहे?"
+    ],
+    "answer": "कृपया हे पॅक करा"
+  },
+  {
+    "id": 229,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Marathi?",
+    "options": [
+      "सूट आहे का?",
+      "हे किती?",
+      "मला पिशवी हवी",
+      "वेळ काय आहे?"
+    ],
+    "answer": "मला पिशवी हवी"
+  },
+  {
+    "id": 230,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Marathi?",
+    "options": [
+      "सूट आहे का?",
+      "मला हे घ्यायचे आहे",
+      "हे किती?",
+      "वेळ काय आहे?"
+    ],
+    "answer": "वेळ काय आहे?"
+  },
+  {
+    "id": 231,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Where is the bus stop?' in Marathi?",
+    "options": [
+      "बस स्टॉप कुठे आहे?",
+      "इथून दूर आहे का?",
+      "बाजाराचा रस्ता कुठे आहे?",
+      "रेल्वे स्टेशनला कसे जायचे?"
+    ],
+    "answer": "बस स्टॉप कुठे आहे?"
+  },
+  {
+    "id": 232,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How do I go to the railway station?' in Marathi?",
+    "options": [
+      "इथून दूर आहे का?",
+      "डावीकडे वळा",
+      "रेल्वे स्टेशनला कसे जायचे?",
+      "बाजाराचा रस्ता कुठे आहे?"
+    ],
+    "answer": "रेल्वे स्टेशनला कसे जायचे?"
+  },
+  {
+    "id": 233,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Which way to the market?' in Marathi?",
+    "options": [
+      "बाजाराचा रस्ता कुठे आहे?",
+      "इथून दूर आहे का?",
+      "उजवीकडे वळा",
+      "डावीकडे वळा"
+    ],
+    "answer": "बाजाराचा रस्ता कुठे आहे?"
+  },
+  {
+    "id": 234,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Is it far from here?' in Marathi?",
+    "options": [
+      "डावीकडे वळा",
+      "इथून दूर आहे का?",
+      "सरळ जा",
+      "उजवीकडे वळा"
+    ],
+    "answer": "इथून दूर आहे का?"
+  },
+  {
+    "id": 235,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn left' in Marathi?",
+    "options": [
+      "इथे थांबा",
+      "डावीकडे वळा",
+      "उजवीकडे वळा",
+      "सरळ जा"
+    ],
+    "answer": "डावीकडे वळा"
+  },
+  {
+    "id": 236,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Turn right' in Marathi?",
+    "options": [
+      "इथे थांबा",
+      "किती वेळ लागेल?",
+      "उजवीकडे वळा",
+      "सरळ जा"
+    ],
+    "answer": "उजवीकडे वळा"
+  },
+  {
+    "id": 237,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Go straight' in Marathi?",
+    "options": [
+      "इथे थांबा",
+      "नकाशावर दाखवू शकता का?",
+      "सरळ जा",
+      "किती वेळ लागेल?"
+    ],
+    "answer": "सरळ जा"
+  },
+  {
+    "id": 238,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Stop here' in Marathi?",
+    "options": [
+      "नकाशावर दाखवू शकता का?",
+      "इथे थांबा",
+      "किती वेळ लागेल?",
+      "बस स्टॉप कुठे आहे?"
+    ],
+    "answer": "इथे थांबा"
+  },
+  {
+    "id": 239,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'How long will it take?' in Marathi?",
+    "options": [
+      "किती वेळ लागेल?",
+      "बस स्टॉप कुठे आहे?",
+      "नकाशावर दाखवू शकता का?",
+      "रेल्वे स्टेशनला कसे जायचे?"
+    ],
+    "answer": "किती वेळ लागेल?"
+  },
+  {
+    "id": 240,
+    "level": 2,
+    "language": "Marathi",
+    "module": "Conversation Everyday",
+    "submodule": "Directions",
+    "question": "How do you ask 'Can you show on the map?' in Marathi?",
+    "options": [
+      "बस स्टॉप कुठे आहे?",
+      "बाजाराचा रस्ता कुठे आहे?",
+      "नकाशावर दाखवू शकता का?",
+      "रेल्वे स्टेशनला कसे जायचे?"
+    ],
+    "answer": "नकाशावर दाखवू शकता का?"
+  },
+  {
+    "id": 241,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'go'?",
+    "options": [
+      "पाहिले",
+      "गेलो",
+      "खाल्ले",
+      "वाचले"
+    ],
+    "answer": "गेलो"
+  },
+  {
+    "id": 242,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'eat'?",
+    "options": [
+      "खाल्ले",
+      "वाचले",
+      "लिहिले",
+      "पाहिले"
+    ],
+    "answer": "खाल्ले"
+  },
+  {
+    "id": 243,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'see'?",
+    "options": [
+      "पाहिले",
+      "लिहिले",
+      "वाचले",
+      "आले"
+    ],
+    "answer": "पाहिले"
+  },
+  {
+    "id": 244,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'read'?",
+    "options": [
+      "आले",
+      "लिहिले",
+      "वाचले",
+      "दिले"
+    ],
+    "answer": "वाचले"
+  },
+  {
+    "id": 245,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'write'?",
+    "options": [
+      "आले",
+      "लिहिले",
+      "घेतले",
+      "दिले"
+    ],
+    "answer": "लिहिले"
+  },
+  {
+    "id": 246,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'come'?",
+    "options": [
+      "आले",
+      "दिले",
+      "खेळले",
+      "घेतले"
+    ],
+    "answer": "आले"
+  },
+  {
+    "id": 247,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'give'?",
+    "options": [
+      "झोपले",
+      "खेळले",
+      "घेतले",
+      "दिले"
+    ],
+    "answer": "दिले"
+  },
+  {
+    "id": 248,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'take'?",
+    "options": [
+      "गेलो",
+      "घेतले",
+      "खेळले",
+      "झोपले"
+    ],
+    "answer": "घेतले"
+  },
+  {
+    "id": 249,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'play'?",
+    "options": [
+      "गेलो",
+      "खेळले",
+      "खाल्ले",
+      "झोपले"
+    ],
+    "answer": "खेळले"
+  },
+  {
+    "id": 250,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Tenses",
+    "question": "What is the Marathi past tense of 'sleep'?",
+    "options": [
+      "खाल्ले",
+      "गेलो",
+      "झोपले",
+      "पाहिले"
+    ],
+    "answer": "झोपले"
+  },
+  {
+    "id": 251,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'book'?",
+    "options": [
+      "पेन",
+      "पुस्तके",
+      "मुली",
+      "मुले"
+    ],
+    "answer": "पुस्तके"
+  },
+  {
+    "id": 252,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'pen'?",
+    "options": [
+      "मुली",
+      "मुले",
+      "फुले",
+      "पेन"
+    ],
+    "answer": "पेन"
+  },
+  {
+    "id": 253,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'boy'?",
+    "options": [
+      "फुले",
+      "मुले",
+      "पाने",
+      "मुली"
+    ],
+    "answer": "मुले"
+  },
+  {
+    "id": 254,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'girl'?",
+    "options": [
+      "पाने",
+      "फुले",
+      "मुली",
+      "तारे"
+    ],
+    "answer": "मुली"
+  },
+  {
+    "id": 255,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'flower'?",
+    "options": [
+      "तारे",
+      "फुले",
+      "पाने",
+      "झाडे"
+    ],
+    "answer": "फुले"
+  },
+  {
+    "id": 256,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'leaf'?",
+    "options": [
+      "तारे",
+      "पाने",
+      "नद्या",
+      "झाडे"
+    ],
+    "answer": "पाने"
+  },
+  {
+    "id": 257,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'star'?",
+    "options": [
+      "खुर्च्या",
+      "झाडे",
+      "नद्या",
+      "तारे"
+    ],
+    "answer": "तारे"
+  },
+  {
+    "id": 258,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'tree'?",
+    "options": [
+      "खुर्च्या",
+      "नद्या",
+      "झाडे",
+      "पुस्तके"
+    ],
+    "answer": "झाडे"
+  },
+  {
+    "id": 259,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'river'?",
+    "options": [
+      "नद्या",
+      "खुर्च्या",
+      "पेन",
+      "पुस्तके"
+    ],
+    "answer": "नद्या"
+  },
+  {
+    "id": 260,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Plurals",
+    "question": "What is the Marathi plural of 'chair'?",
+    "options": [
+      "पुस्तके",
+      "खुर्च्या",
+      "मुले",
+      "पेन"
+    ],
+    "answer": "खुर्च्या"
+  },
+  {
+    "id": 261,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'and'?",
+    "options": [
+      "किंवा",
+      "आणि",
+      "कारण",
+      "पण"
+    ],
+    "answer": "आणि"
+  },
+  {
+    "id": 262,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'but'?",
+    "options": [
+      "किंवा",
+      "जर",
+      "कारण",
+      "पण"
+    ],
+    "answer": "पण"
+  },
+  {
+    "id": 263,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'or'?",
+    "options": [
+      "जर",
+      "कारण",
+      "केव्हा",
+      "किंवा"
+    ],
+    "answer": "किंवा"
+  },
+  {
+    "id": 264,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'because'?",
+    "options": [
+      "जर",
+      "कारण",
+      "कुठे",
+      "केव्हा"
+    ],
+    "answer": "कारण"
+  },
+  {
+    "id": 265,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'if'?",
+    "options": [
+      "कसे",
+      "केव्हा",
+      "कुठे",
+      "जर"
+    ],
+    "answer": "जर"
+  },
+  {
+    "id": 266,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'when'?",
+    "options": [
+      "कुठे",
+      "केव्हा",
+      "कसे",
+      "का"
+    ],
+    "answer": "केव्हा"
+  },
+  {
+    "id": 267,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'where'?",
+    "options": [
+      "सोबत",
+      "कुठे",
+      "कसे",
+      "का"
+    ],
+    "answer": "कुठे"
+  },
+  {
+    "id": 268,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'how'?",
+    "options": [
+      "का",
+      "सोबत",
+      "कसे",
+      "आणि"
+    ],
+    "answer": "कसे"
+  },
+  {
+    "id": 269,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'why'?",
+    "options": [
+      "का",
+      "पण",
+      "सोबत",
+      "आणि"
+    ],
+    "answer": "का"
+  },
+  {
+    "id": 270,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Particles",
+    "question": "What is the Marathi particle for 'with'?",
+    "options": [
+      "किंवा",
+      "आणि",
+      "पण",
+      "सोबत"
+    ],
+    "answer": "सोबत"
+  },
+  {
+    "id": 271,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not going' in Marathi?",
+    "options": [
+      "खात नाही",
+      "येत नाही",
+      "वाचत नाही",
+      "जात नाही"
+    ],
+    "answer": "जात नाही"
+  },
+  {
+    "id": 272,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not coming' in Marathi?",
+    "options": [
+      "येत नाही",
+      "खात नाही",
+      "लिहित नाही",
+      "वाचत नाही"
+    ],
+    "answer": "येत नाही"
+  },
+  {
+    "id": 273,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not eating' in Marathi?",
+    "options": [
+      "वाचत नाही",
+      "खेळत नाही",
+      "खात नाही",
+      "लिहित नाही"
+    ],
+    "answer": "खात नाही"
+  },
+  {
+    "id": 274,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not reading' in Marathi?",
+    "options": [
+      "लिहित नाही",
+      "झोपत नाही",
+      "वाचत नाही",
+      "खेळत नाही"
+    ],
+    "answer": "वाचत नाही"
+  },
+  {
+    "id": 275,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not writing' in Marathi?",
+    "options": [
+      "लिहित नाही",
+      "झोपत नाही",
+      "खेळत नाही",
+      "पाहत नाही"
+    ],
+    "answer": "लिहित नाही"
+  },
+  {
+    "id": 276,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not playing' in Marathi?",
+    "options": [
+      "पाहत नाही",
+      "खेळत नाही",
+      "झोपत नाही",
+      "देत नाही"
+    ],
+    "answer": "खेळत नाही"
+  },
+  {
+    "id": 277,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not sleeping' in Marathi?",
+    "options": [
+      "घेत नाही",
+      "पाहत नाही",
+      "झोपत नाही",
+      "देत नाही"
+    ],
+    "answer": "झोपत नाही"
+  },
+  {
+    "id": 278,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not seeing' in Marathi?",
+    "options": [
+      "पाहत नाही",
+      "देत नाही",
+      "जात नाही",
+      "घेत नाही"
+    ],
+    "answer": "पाहत नाही"
+  },
+  {
+    "id": 279,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not giving' in Marathi?",
+    "options": [
+      "देत नाही",
+      "जात नाही",
+      "घेत नाही",
+      "येत नाही"
+    ],
+    "answer": "देत नाही"
+  },
+  {
+    "id": 280,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Grammar Basics",
+    "submodule": "Negation",
+    "question": "How do you say 'not taking' in Marathi?",
+    "options": [
+      "जात नाही",
+      "येत नाही",
+      "खात नाही",
+      "घेत नाही"
+    ],
+    "answer": "घेत नाही"
+  },
+  {
+    "id": 281,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'apple'",
+    "options": [
+      "सफरचंद",
+      "कुत्रा",
+      "मांजर",
+      "केळे"
+    ],
+    "answer": "सफरचंद"
+  },
+  {
+    "id": 282,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'banana'",
+    "options": [
+      "गाडी",
+      "कुत्रा",
+      "मांजर",
+      "केळे"
+    ],
+    "answer": "केळे"
+  },
+  {
+    "id": 283,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'cat'",
+    "options": [
+      "बस",
+      "गाडी",
+      "कुत्रा",
+      "मांजर"
+    ],
+    "answer": "मांजर"
+  },
+  {
+    "id": 284,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'dog'",
+    "options": [
+      "गाडी",
+      "ट्रेन",
+      "बस",
+      "कुत्रा"
+    ],
+    "answer": "कुत्रा"
+  },
+  {
+    "id": 285,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'car'",
+    "options": [
+      "घर",
+      "बस",
+      "ट्रेन",
+      "गाडी"
+    ],
+    "answer": "गाडी"
+  },
+  {
+    "id": 286,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'bus'",
+    "options": [
+      "ट्रेन",
+      "घर",
+      "शहर",
+      "बस"
+    ],
+    "answer": "बस"
+  },
+  {
+    "id": 287,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'train'",
+    "options": [
+      "गाव",
+      "घर",
+      "शहर",
+      "ट्रेन"
+    ],
+    "answer": "ट्रेन"
+  },
+  {
+    "id": 288,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'house'",
+    "options": [
+      "गाव",
+      "सफरचंद",
+      "घर",
+      "शहर"
+    ],
+    "answer": "घर"
+  },
+  {
+    "id": 289,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'city'",
+    "options": [
+      "गाव",
+      "शहर",
+      "केळे",
+      "सफरचंद"
+    ],
+    "answer": "शहर"
+  },
+  {
+    "id": 290,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Words",
+    "question": "Listen and choose the correct Marathi word for 'village'",
+    "options": [
+      "गाव",
+      "मांजर",
+      "सफरचंद",
+      "केळे"
+    ],
+    "answer": "गाव"
+  },
+  {
+    "id": 291,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Good morning'",
+    "options": [
+      "सुप्रभात",
+      "धन्यवाद",
+      "माफ करा",
+      "तुम्ही कसे आहात?"
+    ],
+    "answer": "सुप्रभात"
+  },
+  {
+    "id": 292,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'How are you?'",
+    "options": [
+      "धन्यवाद",
+      "कृपया आत या",
+      "माफ करा",
+      "तुम्ही कसे आहात?"
+    ],
+    "answer": "तुम्ही कसे आहात?"
+  },
+  {
+    "id": 293,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Thank you'",
+    "options": [
+      "बसा",
+      "धन्यवाद",
+      "कृपया आत या",
+      "माफ करा"
+    ],
+    "answer": "धन्यवाद"
+  },
+  {
+    "id": 294,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Sorry'",
+    "options": [
+      "कृपया आत या",
+      "उभे राहा",
+      "माफ करा",
+      "बसा"
+    ],
+    "answer": "माफ करा"
+  },
+  {
+    "id": 295,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Please come in'",
+    "options": [
+      "पुढे जा",
+      "बसा",
+      "उभे राहा",
+      "कृपया आत या"
+    ],
+    "answer": "कृपया आत या"
+  },
+  {
+    "id": 296,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Sit down'",
+    "options": [
+      "छान केले",
+      "पुढे जा",
+      "बसा",
+      "उभे राहा"
+    ],
+    "answer": "बसा"
+  },
+  {
+    "id": 297,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Stand up'",
+    "options": [
+      "छान केले",
+      "पुढे जा",
+      "अभिनंदन",
+      "उभे राहा"
+    ],
+    "answer": "उभे राहा"
+  },
+  {
+    "id": 298,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Go ahead'",
+    "options": [
+      "सुप्रभात",
+      "छान केले",
+      "अभिनंदन",
+      "पुढे जा"
+    ],
+    "answer": "पुढे जा"
+  },
+  {
+    "id": 299,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Well done'",
+    "options": [
+      "अभिनंदन",
+      "सुप्रभात",
+      "तुम्ही कसे आहात?",
+      "छान केले"
+    ],
+    "answer": "छान केले"
+  },
+  {
+    "id": 300,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Phrases",
+    "question": "Listen and choose the correct Marathi phrase for 'Congratulations'",
+    "options": [
+      "अभिनंदन",
+      "तुम्ही कसे आहात?",
+      "धन्यवाद",
+      "सुप्रभात"
+    ],
+    "answer": "अभिनंदन"
+  },
+  {
+    "id": 301,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'I am going to school'",
+    "options": [
+      "आम्ही क्रिकेट खेळत आहोत",
+      "ती भात खात आहे",
+      "मी शाळेत जात आहे",
+      "ते पुस्तके वाचत आहेत"
+    ],
+    "answer": "मी शाळेत जात आहे"
+  },
+  {
+    "id": 302,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'She is eating rice'",
+    "options": [
+      "ते पुस्तके वाचत आहेत",
+      "तो पत्र लिहित आहे",
+      "आम्ही क्रिकेट खेळत आहोत",
+      "ती भात खात आहे"
+    ],
+    "answer": "ती भात खात आहे"
+  },
+  {
+    "id": 303,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'We are playing cricket'",
+    "options": [
+      "ते पुस्तके वाचत आहेत",
+      "तू माझा मित्र आहेस",
+      "तो पत्र लिहित आहे",
+      "आम्ही क्रिकेट खेळत आहोत"
+    ],
+    "answer": "आम्ही क्रिकेट खेळत आहोत"
+  },
+  {
+    "id": 304,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'They are reading books'",
+    "options": [
+      "तू माझा मित्र आहेस",
+      "ते पुस्तके वाचत आहेत",
+      "आता पाऊस पडत आहे",
+      "तो पत्र लिहित आहे"
+    ],
+    "answer": "ते पुस्तके वाचत आहेत"
+  },
+  {
+    "id": 305,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'He is writing a letter'",
+    "options": [
+      "तू माझा मित्र आहेस",
+      "आता पाऊस पडत आहे",
+      "तो पत्र लिहित आहे",
+      "मला मराठी आवडते"
+    ],
+    "answer": "तो पत्र लिहित आहे"
+  },
+  {
+    "id": 306,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'You are my friend'",
+    "options": [
+      "आम्ही मुंबईत राहतो",
+      "आता पाऊस पडत आहे",
+      "मला मराठी आवडते",
+      "तू माझा मित्र आहेस"
+    ],
+    "answer": "तू माझा मित्र आहेस"
+  },
+  {
+    "id": 307,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'It is raining now'",
+    "options": [
+      "आम्ही मुंबईत राहतो",
+      "आता पाऊस पडत आहे",
+      "ती गाणे गात आहे",
+      "मला मराठी आवडते"
+    ],
+    "answer": "आता पाऊस पडत आहे"
+  },
+  {
+    "id": 308,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'I like Marathi'",
+    "options": [
+      "आम्ही मुंबईत राहतो",
+      "ती गाणे गात आहे",
+      "मला मराठी आवडते",
+      "मी शाळेत जात आहे"
+    ],
+    "answer": "मला मराठी आवडते"
+  },
+  {
+    "id": 309,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'We live in Mumbai'",
+    "options": [
+      "मी शाळेत जात आहे",
+      "आम्ही मुंबईत राहतो",
+      "ती गाणे गात आहे",
+      "ती भात खात आहे"
+    ],
+    "answer": "आम्ही मुंबईत राहतो"
+  },
+  {
+    "id": 310,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Sentences",
+    "question": "Listen and choose the correct Marathi sentence for 'She is singing a song'",
+    "options": [
+      "ती भात खात आहे",
+      "मी शाळेत जात आहे",
+      "आम्ही क्रिकेट खेळत आहोत",
+      "ती गाणे गात आहे"
+    ],
+    "answer": "ती गाणे गात आहे"
+  },
+  {
+    "id": 311,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'How are you? - I am fine.'",
+    "options": [
+      "तुम्ही कसे आहात? - मी बरे आहे",
+      "तुम्ही इंग्रजी बोलता का? - होय, थोडे",
+      "तुमचे नाव काय? - माझे नाव रवी",
+      "तुम्ही कुठे जात आहात? - बाजारात"
+    ],
+    "answer": "तुम्ही कसे आहात? - मी बरे आहे"
+  },
+  {
+    "id": 312,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'What is your name? - My name is Ravi.'",
+    "options": [
+      "तुम्ही इंग्रजी बोलता का? - होय, थोडे",
+      "तुम्ही कुठे जात आहात? - बाजारात",
+      "तुम्ही मला मदत करू शकता का? - नक्की",
+      "तुमचे नाव काय? - माझे नाव रवी"
+    ],
+    "answer": "तुमचे नाव काय? - माझे नाव रवी"
+  },
+  {
+    "id": 313,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'Where are you going? - To the market.'",
+    "options": [
+      "किती वेळ झाली? - पाच वाजले",
+      "तुम्ही कुठे जात आहात? - बाजारात",
+      "तुम्ही इंग्रजी बोलता का? - होय, थोडे",
+      "तुम्ही मला मदत करू शकता का? - नक्की"
+    ],
+    "answer": "तुम्ही कुठे जात आहात? - बाजारात"
+  },
+  {
+    "id": 314,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'Do you speak English? - Yes, a little.'",
+    "options": [
+      "किती वेळ झाली? - पाच वाजले",
+      "तुम्ही इंग्रजी बोलता का? - होय, थोडे",
+      "तुम्ही मला मदत करू शकता का? - नक्की",
+      "बस स्टॉप कुठे आहे? - तिकडे"
+    ],
+    "answer": "तुम्ही इंग्रजी बोलता का? - होय, थोडे"
+  },
+  {
+    "id": 315,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'Can you help me? - Sure.'",
+    "options": [
+      "बस स्टॉप कुठे आहे? - तिकडे",
+      "तुम्ही मला मदत करू शकता का? - नक्की",
+      "हे किती? - पन्नास रुपये",
+      "किती वेळ झाली? - पाच वाजले"
+    ],
+    "answer": "तुम्ही मला मदत करू शकता का? - नक्की"
+  },
+  {
+    "id": 316,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'What time is it? - It is 5 o'clock.'",
+    "options": [
+      "बस स्टॉप कुठे आहे? - तिकडे",
+      "हे किती? - पन्नास रुपये",
+      "कृपया आत या। - धन्यवाद",
+      "किती वेळ झाली? - पाच वाजले"
+    ],
+    "answer": "किती वेळ झाली? - पाच वाजले"
+  },
+  {
+    "id": 317,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'Where is the bus stop? - Over there.'",
+    "options": [
+      "कृपया आत या। - धन्यवाद",
+      "बस स्टॉप कुठे आहे? - तिकडे",
+      "निरोप। - पुन्हा भेटू",
+      "हे किती? - पन्नास रुपये"
+    ],
+    "answer": "बस स्टॉप कुठे आहे? - तिकडे"
+  },
+  {
+    "id": 318,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'How much is this? - 50 rupees.'",
+    "options": [
+      "हे किती? - पन्नास रुपये",
+      "तुम्ही कसे आहात? - मी बरे आहे",
+      "कृपया आत या। - धन्यवाद",
+      "निरोप। - पुन्हा भेटू"
+    ],
+    "answer": "हे किती? - पन्नास रुपये"
+  },
+  {
+    "id": 319,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'Please come in. - Thank you.'",
+    "options": [
+      "निरोप। - पुन्हा भेटू",
+      "तुमचे नाव काय? - माझे नाव रवी",
+      "कृपया आत या। - धन्यवाद",
+      "तुम्ही कसे आहात? - मी बरे आहे"
+    ],
+    "answer": "कृपया आत या। - धन्यवाद"
+  },
+  {
+    "id": 320,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Listening",
+    "submodule": "Dialogues",
+    "question": "Listen and choose the correct Marathi dialogue for 'Goodbye. - See you again.'",
+    "options": [
+      "तुमचे नाव काय? - माझे नाव रवी",
+      "तुम्ही कसे आहात? - मी बरे आहे",
+      "तुम्ही कुठे जात आहात? - बाजारात",
+      "निरोप। - पुन्हा भेटू"
+    ],
+    "answer": "निरोप। - पुन्हा भेटू"
+  },
+  {
+    "id": 321,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I want to buy this' in Marathi?",
+    "options": [
+      "हे किती?",
+      "सूट आहे का?",
+      "मला हे घ्यायचे आहे",
+      "काउंटर कुठे आहे?"
+    ],
+    "answer": "मला हे घ्यायचे आहे"
+  },
+  {
+    "id": 322,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'How much is this?' in Marathi?",
+    "options": [
+      "सूट आहे का?",
+      "हे किती?",
+      "काउंटर कुठे आहे?",
+      "तुम्ही कार्ड घेता का?"
+    ],
+    "answer": "हे किती?"
+  },
+  {
+    "id": 323,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is there a discount?' in Marathi?",
+    "options": [
+      "तुम्ही कार्ड घेता का?",
+      "काउंटर कुठे आहे?",
+      "सूट आहे का?",
+      "कृपया हे पॅक करा"
+    ],
+    "answer": "सूट आहे का?"
+  },
+  {
+    "id": 324,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Where is the counter?' in Marathi?",
+    "options": [
+      "मला पिशवी हवी",
+      "काउंटर कुठे आहे?",
+      "कृपया हे पॅक करा",
+      "तुम्ही कार्ड घेता का?"
+    ],
+    "answer": "काउंटर कुठे आहे?"
+  },
+  {
+    "id": 325,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Do you accept cards?' in Marathi?",
+    "options": [
+      "मला पिशवी हवी",
+      "कृपया हे पॅक करा",
+      "तुम्ही कार्ड घेता का?",
+      "हे उपलब्ध आहे का?"
+    ],
+    "answer": "तुम्ही कार्ड घेता का?"
+  },
+  {
+    "id": 326,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Please pack this' in Marathi?",
+    "options": [
+      "हे उपलब्ध आहे का?",
+      "कृपया हे पॅक करा",
+      "वेळ काय आहे?",
+      "मला पिशवी हवी"
+    ],
+    "answer": "कृपया हे पॅक करा"
+  },
+  {
+    "id": 327,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'I need a bag' in Marathi?",
+    "options": [
+      "मी हे वापरून पाहू शकतो का?",
+      "वेळ काय आहे?",
+      "हे उपलब्ध आहे का?",
+      "मला पिशवी हवी"
+    ],
+    "answer": "मला पिशवी हवी"
+  },
+  {
+    "id": 328,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Is it available?' in Marathi?",
+    "options": [
+      "मला हे घ्यायचे आहे",
+      "मी हे वापरून पाहू शकतो का?",
+      "हे उपलब्ध आहे का?",
+      "वेळ काय आहे?"
+    ],
+    "answer": "हे उपलब्ध आहे का?"
+  },
+  {
+    "id": 329,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'What are the timings?' in Marathi?",
+    "options": [
+      "वेळ काय आहे?",
+      "मला हे घ्यायचे आहे",
+      "मी हे वापरून पाहू शकतो का?",
+      "हे किती?"
+    ],
+    "answer": "वेळ काय आहे?"
+  },
+  {
+    "id": 330,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Shopping",
+    "question": "How do you say 'Can I try this?' in Marathi?",
+    "options": [
+      "सूट आहे का?",
+      "हे किती?",
+      "मला हे घ्यायचे आहे",
+      "मी हे वापरून पाहू शकतो का?"
+    ],
+    "answer": "मी हे वापरून पाहू शकतो का?"
+  },
+  {
+    "id": 331,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the railway station?' in Marathi?",
+    "options": [
+      "किती वेळ लागेल?",
+      "विमानतळावर कसे जायचे?",
+      "शहरात कोणती बस जाते?",
+      "रेल्वे स्टेशन कुठे आहे?"
+    ],
+    "answer": "रेल्वे स्टेशन कुठे आहे?"
+  },
+  {
+    "id": 332,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How do I go to the airport?' in Marathi?",
+    "options": [
+      "शहरात कोणती बस जाते?",
+      "इथून दूर आहे का?",
+      "विमानतळावर कसे जायचे?",
+      "किती वेळ लागेल?"
+    ],
+    "answer": "विमानतळावर कसे जायचे?"
+  },
+  {
+    "id": 333,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Which bus goes to the city?' in Marathi?",
+    "options": [
+      "किती वेळ लागेल?",
+      "टॅक्सी कुठे मिळेल?",
+      "शहरात कोणती बस जाते?",
+      "इथून दूर आहे का?"
+    ],
+    "answer": "शहरात कोणती बस जाते?"
+  },
+  {
+    "id": 334,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'How long will it take?' in Marathi?",
+    "options": [
+      "टॅक्सी कुठे मिळेल?",
+      "किती वेळ लागेल?",
+      "इथून दूर आहे का?",
+      "हॉटेल कुठे आहे?"
+    ],
+    "answer": "किती वेळ लागेल?"
+  },
+  {
+    "id": 335,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Is it far from here?' in Marathi?",
+    "options": [
+      "टॅक्सी कुठे मिळेल?",
+      "हॉटेल कुठे आहे?",
+      "इथून दूर आहे का?",
+      "नकाशावर दाखवू शकता का?"
+    ],
+    "answer": "इथून दूर आहे का?"
+  },
+  {
+    "id": 336,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where can I get a taxi?' in Marathi?",
+    "options": [
+      "नकाशावर दाखवू शकता का?",
+      "स्नानगृह कुठे आहे?",
+      "हॉटेल कुठे आहे?",
+      "टॅक्सी कुठे मिळेल?"
+    ],
+    "answer": "टॅक्सी कुठे मिळेल?"
+  },
+  {
+    "id": 337,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the hotel?' in Marathi?",
+    "options": [
+      "स्नानगृह कुठे आहे?",
+      "नकाशावर दाखवू शकता का?",
+      "मी हरवले आहे",
+      "हॉटेल कुठे आहे?"
+    ],
+    "answer": "हॉटेल कुठे आहे?"
+  },
+  {
+    "id": 338,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Can you show on the map?' in Marathi?",
+    "options": [
+      "मी हरवले आहे",
+      "स्नानगृह कुठे आहे?",
+      "नकाशावर दाखवू शकता का?",
+      "रेल्वे स्टेशन कुठे आहे?"
+    ],
+    "answer": "नकाशावर दाखवू शकता का?"
+  },
+  {
+    "id": 339,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'Where is the restroom?' in Marathi?",
+    "options": [
+      "विमानतळावर कसे जायचे?",
+      "रेल्वे स्टेशन कुठे आहे?",
+      "मी हरवले आहे",
+      "स्नानगृह कुठे आहे?"
+    ],
+    "answer": "स्नानगृह कुठे आहे?"
+  },
+  {
+    "id": 340,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Travel",
+    "question": "How do you say 'I am lost' in Marathi?",
+    "options": [
+      "विमानतळावर कसे जायचे?",
+      "रेल्वे स्टेशन कुठे आहे?",
+      "मी हरवले आहे",
+      "शहरात कोणती बस जाते?"
+    ],
+    "answer": "मी हरवले आहे"
+  },
+  {
+    "id": 341,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Call the police' in Marathi?",
+    "options": [
+      "रुग्णालय कुठे आहे?",
+      "पोलिसांना बोलवा",
+      "मला डॉक्टर हवेत",
+      "मी आजारी आहे"
+    ],
+    "answer": "पोलिसांना बोलवा"
+  },
+  {
+    "id": 342,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I need a doctor' in Marathi?",
+    "options": [
+      "रुग्णालय कुठे आहे?",
+      "मी आजारी आहे",
+      "मदत!",
+      "मला डॉक्टर हवेत"
+    ],
+    "answer": "मला डॉक्टर हवेत"
+  },
+  {
+    "id": 343,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Where is the hospital?' in Marathi?",
+    "options": [
+      "मदत!",
+      "रुग्णालय कुठे आहे?",
+      "मी आजारी आहे",
+      "माझे पाकीट हरवले"
+    ],
+    "answer": "रुग्णालय कुठे आहे?"
+  },
+  {
+    "id": 344,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am sick' in Marathi?",
+    "options": [
+      "माझे पाकीट हरवले",
+      "मदत!",
+      "आग लागली आहे",
+      "मी आजारी आहे"
+    ],
+    "answer": "मी आजारी आहे"
+  },
+  {
+    "id": 345,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Help!' in Marathi?",
+    "options": [
+      "माझे पाकीट हरवले",
+      "माझा अपघात झाला",
+      "मदत!",
+      "आग लागली आहे"
+    ],
+    "answer": "मदत!"
+  },
+  {
+    "id": 346,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I lost my wallet' in Marathi?",
+    "options": [
+      "मला दुखापत झाली",
+      "माझा अपघात झाला",
+      "माझे पाकीट हरवले",
+      "आग लागली आहे"
+    ],
+    "answer": "माझे पाकीट हरवले"
+  },
+  {
+    "id": 347,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'There is a fire' in Marathi?",
+    "options": [
+      "मला दुखापत झाली",
+      "कृपया मला मदत करा",
+      "माझा अपघात झाला",
+      "आग लागली आहे"
+    ],
+    "answer": "आग लागली आहे"
+  },
+  {
+    "id": 348,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I had an accident' in Marathi?",
+    "options": [
+      "माझा अपघात झाला",
+      "कृपया मला मदत करा",
+      "मला दुखापत झाली",
+      "पोलिसांना बोलवा"
+    ],
+    "answer": "माझा अपघात झाला"
+  },
+  {
+    "id": 349,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'I am hurt' in Marathi?",
+    "options": [
+      "मला डॉक्टर हवेत",
+      "कृपया मला मदत करा",
+      "पोलिसांना बोलवा",
+      "मला दुखापत झाली"
+    ],
+    "answer": "मला दुखापत झाली"
+  },
+  {
+    "id": 350,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Emergencies",
+    "question": "How do you say 'Please help me' in Marathi?",
+    "options": [
+      "कृपया मला मदत करा",
+      "पोलिसांना बोलवा",
+      "रुग्णालय कुठे आहे?",
+      "मला डॉक्टर हवेत"
+    ],
+    "answer": "कृपया मला मदत करा"
+  },
+  {
+    "id": 351,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'What are your plans?' in Marathi?",
+    "options": [
+      "उद्या भेटू",
+      "तुमची योजना काय आहे?",
+      "आज संध्याकाळी फ्री आहात का?",
+      "चित्रपट बघायला जाऊ"
+    ],
+    "answer": "तुमची योजना काय आहे?"
+  },
+  {
+    "id": 352,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's meet tomorrow' in Marathi?",
+    "options": [
+      "उद्या भेटू",
+      "एकत्र जेवण करू का?",
+      "चित्रपट बघायला जाऊ",
+      "आज संध्याकाळी फ्री आहात का?"
+    ],
+    "answer": "उद्या भेटू"
+  },
+  {
+    "id": 353,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Are you free this evening?' in Marathi?",
+    "options": [
+      "आज संध्याकाळी फ्री आहात का?",
+      "एकत्र जेवण करू का?",
+      "तुम्ही आमच्यासोबत येऊ शकता का?",
+      "चित्रपट बघायला जाऊ"
+    ],
+    "answer": "आज संध्याकाळी फ्री आहात का?"
+  },
+  {
+    "id": 354,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's go for a movie' in Marathi?",
+    "options": [
+      "चित्रपट बघायला जाऊ",
+      "एकत्र जेवण करू का?",
+      "आज मी व्यस्त आहे",
+      "तुम्ही आमच्यासोबत येऊ शकता का?"
+    ],
+    "answer": "चित्रपट बघायला जाऊ"
+  },
+  {
+    "id": 355,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Shall we have lunch together?' in Marathi?",
+    "options": [
+      "नंतर भेटू",
+      "तुम्ही आमच्यासोबत येऊ शकता का?",
+      "आज मी व्यस्त आहे",
+      "एकत्र जेवण करू का?"
+    ],
+    "answer": "एकत्र जेवण करू का?"
+  },
+  {
+    "id": 356,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Can you join us?' in Marathi?",
+    "options": [
+      "आज मी व्यस्त आहे",
+      "मी तुम्हाला फोन करेन",
+      "तुम्ही आमच्यासोबत येऊ शकता का?",
+      "नंतर भेटू"
+    ],
+    "answer": "तुम्ही आमच्यासोबत येऊ शकता का?"
+  },
+  {
+    "id": 357,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I am busy today' in Marathi?",
+    "options": [
+      "मी तुम्हाला फोन करेन",
+      "नंतर भेटू",
+      "आज मी व्यस्त आहे",
+      "उत्सव करू"
+    ],
+    "answer": "आज मी व्यस्त आहे"
+  },
+  {
+    "id": 358,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'See you later' in Marathi?",
+    "options": [
+      "मी तुम्हाला फोन करेन",
+      "उत्सव करू",
+      "तुमची योजना काय आहे?",
+      "नंतर भेटू"
+    ],
+    "answer": "नंतर भेटू"
+  },
+  {
+    "id": 359,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'I will call you' in Marathi?",
+    "options": [
+      "उद्या भेटू",
+      "मी तुम्हाला फोन करेन",
+      "उत्सव करू",
+      "तुमची योजना काय आहे?"
+    ],
+    "answer": "मी तुम्हाला फोन करेन"
+  },
+  {
+    "id": 360,
+    "level": 3,
+    "language": "Marathi",
+    "module": "Conversation Daily Life",
+    "submodule": "Plans",
+    "question": "How do you say 'Let's celebrate' in Marathi?",
+    "options": [
+      "उद्या भेटू",
+      "आज संध्याकाळी फ्री आहात का?",
+      "उत्सव करू",
+      "तुमची योजना काय आहे?"
+    ],
+    "answer": "उत्सव करू"
+  }
+]
